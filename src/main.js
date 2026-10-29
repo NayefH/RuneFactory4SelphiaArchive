@@ -3,6 +3,7 @@ import { createDetailController } from "./details.js";
 import "./attributes.css";
 import "./home.css";
 import { createHome } from "./home.js";
+import { publicUrl } from "./public-url.js";
 import { createCatalog, recipeUsesItem } from "./catalog.js";
 import { escapeHtml } from "./html.js";
 import { loadFavorites, saveFavorites } from "./favorites.js";
@@ -51,7 +52,7 @@ const de = (n) => itemByName(n)?.de || "";
 const thumbnail = (r) => {
   const rec = r.station ? itemByName(r.name) : r;
   return rec?.image
-    ? `<img src="${escapeHtml(rec.image)}" alt="${escapeHtml(r.name)} (RF4)" loading="lazy" decoding="async">`
+    ? `<img src="${escapeHtml(publicUrl(rec.image))}" alt="${escapeHtml(r.name)} (RF4)" loading="lazy" decoding="async">`
     : icon(r);
 };
 const icon = (r) =>
@@ -404,7 +405,7 @@ $("#detail").addEventListener("click", (e) => {
 });
 async function init() {
   try {
-    const response = await fetch("/data.json");
+    const response = await fetch(publicUrl("data.json"));
     if (!response.ok) throw Error();
     data = await response.json();
     catalog = createCatalog(data);

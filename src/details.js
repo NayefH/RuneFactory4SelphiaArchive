@@ -1,6 +1,7 @@
 import { escapeHtml } from "./html.js";
 import { recipeUsesItem } from "./catalog.js";
 import { attributePanel } from "./attributes.js";
+import { publicUrl } from "./public-url.js";
 import { acquisitionPanel } from "./recipe-acquisition.js";
 
 export function createDetailController({
@@ -149,7 +150,7 @@ export function createDetailController({
         <p>
           ${data.audit ? `${data.audit.detailPages} RF4-Einzelseiten ausgewertet · ${data.audit.itemsWithAttributes} Items mit Attributen · ${data.audit.monstersWithStats} Gegner mit Kampfwerten. ${data.audit.conflicts.length} Quellenabweichungen erfasst.` : "Import läuft."}
         </p>
-        <a href="/completeness.json" target="_blank"
+        <a href="${publicUrl("completeness.json")}" target="_blank"
           >Prüfbericht mit offenen Einträgen ↗</a
         >
         <h3>Wiki-Quellen</h3>
@@ -206,7 +207,10 @@ export function createDetailController({
           strukturiert, gekürzt und verknüpft. Inoffizielles Fanprojekt. Rune
           Factory gehört den jeweiligen Rechteinhabern.
         </p>
-        <a class="download" href="/data.json" download="rf4-archiv.json"
+        <a
+          class="download"
+          href="${publicUrl("data.json")}"
+          download="rf4-archiv.json"
           >↓ Strukturierten Datensatz herunterladen</a
         >`,
     );

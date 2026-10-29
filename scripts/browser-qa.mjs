@@ -1,6 +1,7 @@
 import { execFileSync } from "node:child_process";
 import { writeFileSync, mkdirSync } from "node:fs";
 import assert from "node:assert/strict";
+const previewUrl = process.env.RF4_QA_URL || "http://127.0.0.1:5175/";
 const targets = JSON.parse(
   execFileSync(
     "curl.exe",
@@ -63,7 +64,7 @@ try {
     deviceScaleFactor: 1,
     mobile: false,
   });
-  await send("Page.navigate", { url: "http://127.0.0.1:5175/" });
+  await send("Page.navigate", { url: previewUrl });
   await wait(
     "document.querySelector('#home h1') && !document.querySelector('#home').hidden",
   );
@@ -158,7 +159,7 @@ try {
   );
   await check(
     "station filter",
-    "(async()=>{const data=await(await fetch('/data.json')).json();return document.querySelector('#result-count').textContent.includes(String(data.recipes.filter(r=>r.station==='Chemie-Set').length))})()",
+    "(async()=>{const data=await(await fetch(new URL('data.json',location.href))).json();return document.querySelector('#result-count').textContent.includes(String(data.recipes.filter(r=>r.station==='Chemie-Set').length))})()",
   );
   await evaluate(
     "document.querySelector('[data-tab=monster]').click();document.querySelector('#search').value='Ambrosia';document.querySelector('#search').dispatchEvent(new Event('input'));document.querySelector('.entry').click()",
