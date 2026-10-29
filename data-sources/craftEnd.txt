@@ -1,0 +1,330 @@
+Crafting (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Crafting_%28RF4%29)
+citeturn7view0 [wordlim: 200] Crawled: 1.6 years ago; Content type: text/html; Source: open({"ref_id":"turn2view0","lineno":730}); Redirected to URL: https://therunefactory.fandom.com/wiki/Crafting_(RF4); Total lines: 925
+L595: 【628†Image】 【227†Silent Ring】  29  【210†Silver】  【228†Lamp Squid】
+L596: 【629†Image】 【229†Paralysis Ring】  28  【210†Silver】  【230†Scorpion Tail】
+L597: 【630†Image】 【231†Poison Ring】  27  【210†Silver】  【232†Poison Powder】
+L598: 【631†Image】 【233†Magic Ring】  51  【214†Platinum】  【216†Crystals】
+L602: 【635†Image】 【240†Amethyst Ring】  15  【210†Silver】  【241†Amethyst】
+L603: 【636†Image】 【242†Emerald Ring】  15  【210†Silver】  【243†Emerald】
+L604: 【637†Image】 【244†Sapphire Ring】  15  【210†Silver】  【245†Sapphire】
+L605: 【638†Image】 【246†Ruby Ring】  15  【210†Silver】  【247†Ruby】
+L606: 【639†Image】 【248†Cursed Ring】  15  【210†Silver】  Shells and Bones
+L607: 【640†Image】 【249†Diamond Ring】  60  【218†Orichalcum】  【250†Diamond】
+L608: 【641†Image】 【251†Aquamarine Brooch】  55  【214†Platinum】  【239†Aquamarine】
+L609: 【642†Image】 【252†Amethyst Brooch】  55  【214†Platinum】  【241†Amethyst】
+L610: 【643†Image】 【253†Emerald Brooch】  55  【214†Platinum】  【243†Emerald】
+L611: 【644†Image】 【254†Sapphire Brooch】  55  【214†Platinum】  【245†Sapphire】
+L612: 【645†Image】 【255†Ruby Brooch】  55  【214†Platinum】  【247†Ruby】
+L613: 【646†Image】 【256†Diamond Brooch】  77  【218†Orichalcum】  【257†Light Ore】  【258†Rune Crystal】  【250†Diamond】
+L614: 【647†Image】 【259†Dolphin Brooch】  88  【260†White Stone】  【218†Orichalcum】
+L615: 【648†Image】 【261†Fire Ring】  95  【218†Orichalcum】  【262†Fire Crystal】
+L616: 【649†Image】 【263†Wind Ring】  93  【218†Orichalcum】  【264†Wind Crystal】
+L617: 【650†Image】 【265†Water Ring】  96  【218†Orichalcum】  【266†Water Crystal】
+L618: 【651†Image】 【267†Earth Ring】  94  【218†Orichalcum】  【268†Earth Crystal】
+L619: 【652†Image】 【269†Happy Ring】  30  【210†Silver】  【270†4-Leaf Clover】
+L620: 【653†Image】 【271†Silver Pendant】  20  【210†Silver】
+L621: 【654†Image】 【272†Star Pendant】  40  【271†Silver Pendant】  【212†Gold】  【273†Love Crystal】
+L622: 【655†Image】 【274†Sun Pendant】  45  【271†Silver Pendant】  【212†Gold】  【262†Fire Crystal】
+L623: 【656†Image】 【275†Field Pendant】  35  【271†Silver Pendant】  【212†Gold】  【264†Wind Crystal】
+L624: 【657†Image】 【276†Dew Pendant】  28  【271†Silver Pendant】  【212†Gold】  【266†Water Crystal】
+L625: 【658†Image】 【277†Earth Pendant】  19  【271†Silver Pendant】  【212†Gold】  【268†Earth Crystal】
+L626: 【659†Image】 【278†Heart Pendant】  40  【271†Silver Pendant】  【273†Love Crystal】
+L627: 【660†Image】 【279†Strange Pendant】  85  【241†Amethyst】  【247†Ruby】  【203†Minerals】
+L628: 【661†Image】 【280†Anette's Necklace】  80  【281†Rune Sphere Shard】  【282†Ancient Orc Cloth】  【283†Strings】
+L629: 【662†Image】 【284†Work Gloves】  4  【208†Cloths and Skins】
+L630: 【663†Image】 【285†Gloves】  18  【286†Giant's Gloves】
+L631: 【664†Image】 【287†Power Gloves】  42  【286†Giant's Gloves】  【288†Blue Giant's Gloves】
+L632: 【665†Image】 【289†Earrings】  8  【290†Iron】  【291†Powders and Spores】
+L633: 【666†Image】 【292†Witch Earrings】  30  【212†Gold】  【243†Emerald】  【293†Mysterious Powder】
+L634: 【667†Image】 【294†Magic Earrings】  45  【250†Diamond】  【247†Ruby】  【203†Minerals】
+L635: 【668†Image】 【295†Charm】  3  【208†Cloths and Skins】 【283†Strings】
+L636: 【669†Image】 【296†Holy Amulet】  55  【214†Platinum】  【250†Diamond】
+L637: 【670†Image】 【297†Rosary】  68  【210†Silver】  【235†Puppetry Strings】
+L638: 【671†Image】 【298†Talisman】  71  【299†Rafflesia Petal】  【300†Ambrosia's Thorns】  【283†Strings】
+L639: 【672†Image】 【301†Magic Charm】  66  【302†Round Stone】  【219†Turnip's Miracle】  【291†Powders and Spores】 【216†Crystals】
+L640: 【673†Image】 【303†Leather Belt】  13  【208†Cloths and Skins】 【304†Shards】
+L641: 【674†Image】 【305†Lucky Strike】  78  【225†Critical Ring】  【306†Tablet of Truth】  【307†Dangerous Scissors】  【203†Minerals】
+L642: 【675†Image】 【308†Champ Belt】  58  【309†Warrior's Proof】  【310†Proof of Rank】  【208†Cloths and Skins】
+L643: 【676†Image】 【311†Hand-Knit Scarf】  43  【200†Yarn】  【200†Yarn】  【200†Yarn】  【200†Yarn】
+L644: 【677†Image】 【312†Fluffy Scarf】  96  【313†Wooly Furball】  【314†Fur (S)】  【315†Fur (M)】  【316†Fur (L)】  【200†Yarn】
+L645: 【678†Image】 【317†Hero's Proof】  73  【318†Chest Hair】  【319†Small Crystal】  【258†Rune Crystal】
+L646: 【679†Image】 【320†Proof of Wisdom】  74  【321†Moving Branch】  【319†Small Crystal】  【258†Rune Crystal】
+L647: 【680†Image】 【322†Art of Attack】  91  【221†Dragonic Stone】  【323†Throne of the Empire】  【324†Wind Dragon Tooth】
+L648: 【681†Image】 【325†Art of Defense】  90  【221†Dragonic Stone】  【326†Grimoire Scale】  【327†Broken Ice Wall】
+L649: 【682†Image】 【328†Art of Magic】  92  【221†Dragonic Stone】  【329†Chimera Tail】  【330†Melody Bottle】
+L650: 【683†Image】 【331†Badge】  6  【304†Shards】
+L651: 【684†Image】 【332†Courage Badge】  99  【331†Badge】  【281†Rune Sphere Shard】  【258†Rune Crystal】
+L652: ### Shields[]
+L653: 
+L654: A listing of shield abilities, prices, and descriptions can be found on 【333†Shield (RF4)】.
+L655: Shields
+L656: Item Level Required Materials
+L657: 【685†Image】 【334†Small Shield】  2  【203†Minerals】
+L658: 【686†Image】 【335†Umbrella】  6  【208†Cloths and Skins】 【283†Strings】 【336†Sticks and Stems】
+L659: 【687†Image】 【337†Iron Shield】  8  【290†Iron】  【290†Iron】
+L660: 【688†Image】 【338†Monkey Plush】  12  【339†Yellow Down】  【208†Cloths and Skins】 【208†Cloths and Skins】
+L661: 【689†Image】 【340†Round Shield】  15  【207†Bronze】
+L662: 【690†Image】 【341†Turtle Shield】  20  【224†Turtle Shell】  【207†Bronze】  【342†Liquids】
+L663: 【691†Image】 【343†Chaos Shield】  25  【210†Silver】  【344†Pretty Carapace】
+L664: 【692†Image】 【345†Bone Shield】  32  【212†Gold】  Shells and Bones
+L665: 【693†Image】 【346†Magic Shield】  37  【212†Gold】  【210†Silver】  【293†Mysterious Powder】  【216†Crystals】
+L666: 【694†Image】 【347†Heavy Shield】  41  【250†Diamond】  【348†Shoulder Piece】
+L667: 【695†Image】 【349†Platinum Shield】  43  【214†Platinum】  【214†Platinum】  【223†Blk. Tortoise Shell】
+L668: 【696†Image】 【350†Kite Shield】  50  【310†Proof of Rank】  【309†Warrior's Proof】  【214†Platinum】  【351†Dragon Bones】
+L669: 【697†Image】 【352†Knight Shield】  54  【218†Orichalcum】  【326†Grimoire Scale】
+L670: 【698†Image】 【353†Element Shield】  58  【354†Yellow Feather】  【355†Green Core】  【356†Red Core】  【357†Yellow Core】  【358†Blue Core】
+L671: 【699†Image】 【359†Magical Shield】  65  【360†Crimson Scale】  【361†Left Rock Shard】  【362†Right Rock Shard】  【258†Rune Crystal】
+L672: 【700†Image】 【363†Prism Shield】  78  【364†Blue Scale】  【365†Glitter Scale】  【360†Crimson Scale】  【257†Light Ore】  【319†Small Crystal】
+L673: 【701†Image】 【366†Rune Shield】  94  【221†Dragonic Stone】  【367†Dragon Fin】  【368†Earthwyrm Scale】  【258†Rune Crystal】  【319†Small Crystal】
+L674: ### Headgear[]
+L675: 
+L676: A listing of headgear abilities, prices, and descriptions can be found on 【369†Headgear (RF4)】.
+L677: Headgear
+L678: Item Level Required Materials
+L679: 【702†Image】 【370†Headband】  2  【208†Cloths and Skins】
+L680: 【703†Image】 【371†Blue Ribbon】  4  【372†Blue Grass】  【208†Cloths and Skins】 【283†Strings】
+L681: 【704†Image】 【373†Green Ribbon】  5  【374†Green Grass】  【208†Cloths and Skins】 【283†Strings】
+L682: 【705†Image】 【375†Purple Ribbon】  6  【376†Purple Grass】  【208†Cloths and Skins】 【283†Strings】
+L683: 【706†Image】 【377†Spectacles】  7  【239†Aquamarine】  【239†Aquamarine】
+L684: 【707†Image】 【378†Straw Hat】  8  【283†Strings】 【283†Strings】
+L685: 【708†Image】 【379†Fancy Hat】  9  【208†Cloths and Skins】 【283†Strings】
+L686: 【709†Image】 【380†Brand Glasses】  11  【381†Dark Crystal】  【239†Aquamarine】  【239†Aquamarine】
+L687: 【710†Image】 【382†Cute Knitting】  13  【208†Cloths and Skins】 【208†Cloths and Skins】
+L688: 【711†Image】 【383†Intelligent Glasses】  15  【384†Magic Crystal】  【239†Aquamarine】  【239†Aquamarine】
+L689: 【712†Image】 【385†Fireproof Hood】  16  【386†Ghost Hood】  【208†Cloths and Skins】
+L690: 【713†Image】 【387†Silk Hat】  17  【388†Black Grass】  【208†Cloths and Skins】
+L691: 【714†Image】 【389†Black Ribbon】  18  【388†Black Grass】  【208†Cloths and Skins】 【283†Strings】
+L692: 【715†Image】 【390†Lolita Headdress】  19  【388†Black Grass】  【208†Cloths and Skins】 【208†Cloths and Skins】 【283†Strings】
+L693: 【716†Image】 【391†Headdress】  20  【208†Cloths and Skins】 【208†Cloths and Skins】 【208†Cloths and Skins】 【283†Strings】
+L694: 【717†Image】 【392†Yellow Ribbon】  22  【393†Yellow Grass】  【208†Cloths and Skins】 【283†Strings】
+L695: 【718†Image】 【394†Cat Ears】  24  【201†Furs】
+L696: 【719†Image】 【395†Silver Hairpin】  26  【210†Silver】
+L697: 【720†Image】 【396†Red Ribbon】  30  【397†Red Grass】  【208†Cloths and Skins】 【283†Strings】
+L698: 【721†Image】 【398†Orange Ribbon】  35  【399†Orange Grass】  【208†Cloths and Skins】 【283†Strings】
+L699: 【722†Image】 【400†White Ribbon】  38  【401†White Grass】  【208†Cloths and Skins】 【283†Strings】
+L700: 【723†Image】 【402†Four Seasons】  44  【403†Spring Headdress】  【404†Summer Headdress】  【405†Autumn Headdress】  【406†Winter Headdress】
+L701: 【724†Image】 【407†Feathered Hat】  51  【408†Quality Worn Cloth】  Feathers 【283†Strings】
+L702: 【725†Image】 【409†Gold Hairpin】  60  【219†Turnip's Miracle】  【212†Gold】
+L703: 【726†Image】 【410†Indigo Ribbon】  77  【364†Blue Scale】  【411†Indigo Grass】  【208†Cloths and Skins】 【283†Strings】
+L704: 【727†Image】 【412†Crown】  95  【221†Dragonic Stone】  【319†Small Crystal】  【413†Black Scale】  【260†White Stone】  【258†Rune Crystal】
+L705: 【728†Image】 【414†Turnip Headgear】  30  【415†Turnip】
+L706: 【729†Image】 【416†Pumpkin Headgear】  20  【417†Pumpkin】
+L707: ### Shoes[]
+L708: 
+L709: A listing of shoe abilities, prices, and descriptions can be found on 【418†Shoes (RF4)】.
+L710: Shoes
+L711: Item Level Required Materials
+L712: 【730†Image】 【419†Leather Boots】  6  【201†Furs】
+L713: 【731†Image】 【420†Free Farming Shoes】  8  【283†Strings】 【201†Furs】
+L714: 【732†Image】 【421†Piyo Sandals】  11  【422†Insect Carapace】  【208†Cloths and Skins】
+L715: 【733†Image】 【423†Secret Shoes】  14  【424†Glue】  【203†Minerals】
+L716: 【734†Image】 【425†Silver Boots】  18  【210†Silver】  【304†Shards】
+L717: 【735†Image】 【426†Heavy Boots】  20  【210†Silver】  【290†Iron】  【344†Pretty Carapace】
+L718: 【736†Image】 【427†Sneaking Boots】  23  【428†Invisible Stone】  【208†Cloths and Skins】 【283†Strings】
+L719: 【737†Image】 【429†Fast Step Boots】  26  【430†Root】  【245†Sapphire】  【201†Furs】
+L720: 【738†Image】 【431†Gold Boots】  28  【212†Gold】  【212†Gold】  【304†Shards】
+L721: 【739†Image】 【432†Bone Boots】  33  【433†Strong Vine】  【434†Big Crystal】  Shells and Bones
+L722: 【740†Image】 【435†Snow Boots】  37  【348†Shoulder Piece】  【436†Lightning Mane】  【300†Ambrosia's Thorns】
+L723: 【741†Image】 【437†Strider Boots】  40  【438†Pretty Thread】  【214†Platinum】  【212†Gold】  【208†Cloths and Skins】
+L724: 【742†Image】 【439†Step-In Boots】  48  【309†Warrior's Proof】  【440†Shiny Screw】  【208†Cloths and Skins】 【283†Strings】
+L725: 【743†Image】 【441†Feather Boots】  54  【218†Orichalcum】  【442†Big Bird's Comb】  【434†Big Crystal】  Feathers 【283†Strings】
+L726: 【744†Image】 【443†Ghost Boots】  65  【408†Quality Worn Cloth】  【444†Dragon Scale】  【360†Crimson Scale】  【445†Crystal Skull】  【283†Strings】
+L727: 【745†Image】 【446†Iron Geta】  70  【307†Dangerous Scissors】  【447†MTGU Plate】  【447†MTGU Plate】  【290†Iron】  【290†Iron】
+L728: 【746†Image】 【448†Knight Boots】  86  【221†Dragonic Stone】  【413†Black Scale】  【449†Ammonite】  【283†Strings】
+L729: 【747†Image】 【450†Fairy Boots】  95  【368†Earthwyrm Scale】  【319†Small Crystal】  【330†Melody Bottle】  【283†Strings】 Feathers
+L730: 【748†Image】 【451†Wet Boots】  20  【452†Scales】 【452†Scales】
+L731: 【749†Image】 【453†Water Shoes】  75  【438†Pretty Thread】  【336†Sticks and Stems】 【208†Cloths and Skins】 【201†Furs】
+L732: 【750†Image】 【454†Ice Skates】  79  【327†Broken Ice Wall】  【208†Cloths and Skins】 【283†Strings】
+L733: 【751†Image】 【455†Rocket Wing】  99  【367†Dragon Fin】  【368†Earthwyrm Scale】  【456†Firewyrm Scale】  【324†Wind Dragon Tooth】  Feathers
+L734: ### Armor[]
+L735: 
+L736: A listing of armor abilities, prices, and descriptions can be found on 【457†Armor (RF4)】.
+L737: Armor
+L738: Item Level Required Materials
+L739: 【752†Image】 【458†Shirt】  2  【208†Cloths and Skins】
+L740: 【753†Image】 【459†Vest】  8  【208†Cloths and Skins】 【201†Furs】
+L741: 【754†Image】 【460†Cotton Cloth】  12  【461†Old Bandage】  【461†Old Bandage】  【462†Spider's Thread】
+L742: 【755†Image】 【463†Mail】  16  【207†Bronze】  【342†Liquids】
+L743: 【756†Image】 【464†Chain Mail】  20  【210†Silver】  【283†Strings】
+L744: 【757†Image】 【465†Scale Vest】  25  【210†Silver】  【344†Pretty Carapace】  【430†Root】
+L745: 【758†Image】 【466†Sparkling Shirt】  28  【212†Gold】  【201†Furs】 【208†Cloths and Skins】
+L746: 【759†Image】 【467†Wind Cloak】  32  【468†Black Bird Feather】  【264†Wind Crystal】  【243†Emerald】  【208†Cloths and Skins】 【283†Strings】
+L747: 【760†Image】 【469†Protector】  38  【348†Shoulder Piece】  【250†Diamond】
+L748: 【761†Image】 【470†Platinum Mail】  44  【214†Platinum】  【214†Platinum】  【223†Blk. Tortoise Shell】  【208†Cloths and Skins】
+L749: 【762†Image】 【471†Lamellar Vest】  50  【218†Orichalcum】  【452†Scales】 【283†Strings】
+L750: 【763†Image】 【472†Mercenary's Cloak】  53  【408†Quality Worn Cloth】  【442†Big Bird's Comb】  【235†Puppetry Strings】
+L751: 【764†Image】 【473†Wooly Shirt】  56  【474†Electro Crystal】  【313†Wooly Furball】  【313†Wooly Furball】  【283†Strings】
+L752: 【765†Image】 【475†Elvish Cloak】  59  【219†Turnip's Miracle】  【300†Ambrosia's Thorns】  【445†Crystal Skull】  【291†Powders and Spores】
+L753: 【766†Image】 【476†Dragon Cloak】  64  【444†Dragon Scale】  【360†Crimson Scale】  【326†Grimoire Scale】  【477†Earth Dragon Ash】  【283†Strings】
+L754: 【767†Image】 【478†Power Protector】  69  【218†Orichalcum】  【218†Orichalcum】  【218†Orichalcum】  【447†MTGU Plate】  【307†Dangerous Scissors】
+L755: 【768†Image】 【479†Rune Vest】  76  【480†Golem Spirit Stone】  【258†Rune Crystal】  【258†Rune Crystal】  【208†Cloths and Skins】 【283†Strings】
+L756: 【769†Image】 【481†Royal Garter】  90  【221†Dragonic Stone】  【282†Ancient Orc Cloth】  【482†Love Scale】  【319†Small Crystal】  【260†White Stone】
+L757: 【770†Image】 【483†Four Dragons' Vest】  99  【367†Dragon Fin】  【368†Earthwyrm Scale】  【456†Firewyrm Scale】  【324†Wind Dragon Tooth】  【258†Rune Crystal】
+L758: ## Level/【484†Rarity】 Bonus[]
+L759: 
+L760: When crafting an item you can used up to 6 items, and use an additional 9 to upgrade it, the total level (1-10) of all 15 items are added together and a bonus Defence and Magic Defence is added to the Armor/accessory.
+L761: 
+L762: 【771†Image】
+L763: Level Bonus
+L764: Total level of all Materials used in crafting and Upgrading
+L765:  (6 materials used in crafting + 9 used to upgrade)
+L766: Total level  DEF Bonus  M.DEF Bonus  Barrett Quote
+L767: 30 +6  +5  "...good quality"
+L768: 60 +15  +12  "A lot of good materials..."
+L769: 90 +36  +28  "...great quality"
+L770: 120 +180  +170  "...almost perfect"
+L771: 150
+L772: (all 15 materials at level 10)  +350  +350  "...all perfect!"
+L773: 【484†Rarity】 is a hidden value assigned to all items from 1 to 15 regardless of level, the max being 225 for all 15 items having a rarity of 15.
+L774: 
+L775: > For example if you made a 【485†Small Shield】 with 6 【221†dragonic stone】(rarity 15) and upgraded it with 9 【258†rune crystals】 (rarity 14) the rarity would total 216, so the shield would be granted the top bonus of +800 DEF.
+L776: 
+L777: *Note: Some armors/shields gives MDEF rarity bonus instead of DEF.
+L778: Rarity Bonus
+L779: Total Rarity Value of all Materials used in crafting and Upgrading
+L780:  (6 materials used in crafting + 9 used to upgrade)
+L781: Total Rarity Value  DEF Bonus  MDEF Bonus  Barrett Quote
+L782: 25 +3  "...with some unusual materials"
+L783: 50 +10  "...with unusual materials"
+L784: 70 +20  "...with some rather unusual materials"
+L785: 100 +50  "...with rare materials"
+L786: 125 +90  "...with pretty rare materials"
+L787: 150 +150  "...with really rare materials"
+L788: 175 +400  "...with extremely rare materials"
+L789: 200 +800  +780  "...with nothing but the rarest of materials"
+L790: ## References[]
+L791: 
+L792: 【486†v】 · 【487†e】【17†Rune Factory 4】
+L793: 
+L794:  【60†Characters】
+L795: 
+L796: Protagonist
+L797: 
+L798: 【488†Frey】 • 【489†Lest】
+L799: 
+L800: Bachelorettes
+L801: 
+L802: 【490†Amber】 (【491†D】) • 【492†Clorica】 (【493†D】) • 【494†Dolce】 (【495†D】) • 【496†Forte】 (【497†D】) • 【138†Margaret】 (【498†D】) • 【499†Xiao Pai】 (【500†D】)
+L803: 
+L804: Bachelors
+L805: 
+L806: 【501†Arthur】 (【502†D】) • 【139†Doug】 (【503†D】) • 【504†Dylas】 (【505†D】) • 【506†Kiel】 (【507†D】) • 【508†Leon】 (【509†D】) • 【510†Vishnal】 (【511†D】)
+L807: 
+L808: Villagers
+L809: 【186†Bado】 (【512†D】) • 【513†Blossom】 (【514†D】) • 【515†Illuminata】 (【516†D】) • 【517†Jones】 (【518†D】) • 【519†Lin Fa】 (【520†D】) • 【521†Nancy】 (【522†D】) • 【523†Pico】 (D) • 【187†Porcoline】 (【524†D】) • 【525†Ventuswill】 (【526†D】) • 【527†Volkanon】 (【528†D】)
+L810: 
+L811: Guests
+L812: 
+L813: 【529†Barrett】 (【530†D】) • 【531†Raven】 (【532†D】) • 【533†Ethelberd】
+L814: 
+L815: Other
+L816: 
+L817: 【534†Eliza】 • 【535†Luna】 • 【536†Noel】
+L818: 
+L819:  Locations
+L820: 
+L821: 【537†Selphia】
+L822: 【538†Bell Hotel】 • 【539†Porcoline's Kitchen】 • 【540†Forte's House】 • 【541†Blacksmith "Meanderer"】 • 【542†Tiny Bandage Clinic】 • 【543†Selphia Castle】 • 【544†Sincerity General Store】 • 【545†Margaret's House】 • 【546†Carnation's】
+L823: 
+L824: Arc 1
+L825: 
+L826: 【547†Selphia Plain】 • 【548†Yokmir Forest】 • 【185†Water Ruins】 • 【549†Obsidian Mansion】 • 【550†Yokmir Cave】 • 【551†Delirium Lava Ruins】
+L827: 
+L828: Arc 2
+L829: 
+L830: 【552†Idra Cave】 • 【553†Maya Road】 • 【554†Sechs Territory】 • 【555†Floating Empire】
+L831: 
+L832: Arc 3
+L833: 【556†Leon Karnak】 • 【557†Rune Prana】
+L834: 
+L835: Other
+L836: 
+L837: 【558†Cluck-Cluck Nest】 • 【559†Revival Cave】 • 【560†Demon's Den】 • 【561†World of Fields】 • 【188†Sharance Maze】
+L838: 
+L839: Game Content
+L840: 
+L841: Mechanics
+L842: 
+L843: 【562†Skills】 • 【563†Prince Points】 • 【564†Status Ailments】 • 【565†Rune Abilities】 • 【81†Monsters】 • 【566†Fishing】 • 【567†Mining】 • 【568†Farming Mechanics】
+L844: 
+L845: Crafting
+L846: 
+L847: 【74†Cooking and Recipes】 • 【569†Pharmacy】 • 【184†Forging】 • Accessory Crafting • 【570†Upgrading Items】 • 【484†Rarity】
+L848: 
+L849: Equipment
+L850: 【571†Tools】 • 【572†Weapons】 • 【369†Headgear】 • 【457†Armor】 • 【418†Shoes】 • 【333†Shield】 • 【199†Accessories】
+L851: 
+L852: Items
+L853: 
+L854: 【573†Shipping List】 • 【190†Consumable】 • 【574†Dungeon Seed】 • 【173†Crops】 • 【189†Other Items】
+L855: 
+L856: Social
+L857: 
+L858: 【575†Requests】 • 【53†Calendar】 • 【576†Festivals】 • 【88†Relationships】 • 【577†Town Events】
+L859: 
+L860: Other
+L861: 
+L862: 【578†Furniture】 • 【579†Outfits】 • 【580†Trophies】 • 【581†Opening Song: Kaze no Traveler】 • 【582†Glitches】
+L863: 
+L864: Categories
+L865: 
+L866:   * 【583†Categories】:
+L867:   * 【180†Rune Factory 4】
+L868: Community content is available under 【584†CC-BY-SA†www.fandom.com】 unless otherwise noted.
+L869: 
+L870: More Fandoms
+L871: 
+L872:   * 【585†Fantasy†www.fandom.com】
+L873: 
+L874: Advertisement
+L875: ##  【0† †www.fandom.com】
+L876: 
+L877: ### Explore properties
+L878: 
+L879:   * 【0† Fandom †www.fandom.com】
+L880:   * 【586† Muthead †www.muthead.com】
+L881:   * 【587† Fanatical †www.fanatical.com】
+L882: 
+L883: ### Follow Us
+L884: 
+L885:   * 【588† †www.facebook.com】
+L886:   * 【589† †twitter.com】
+L887:   * 【590† †www.youtube.com】
+L888:   * 【591† †www.instagram.com】
+L889:   * 【592† †www.linkedin.com】
+L890: ### Overview
+L891: 
+L892:   * 【593† What is Fandom? †www.fandom.com】
+L893:   * 【594† About †www.fandom.com】
+L894:   * 【595† Careers †www.fandom.com】
+L895:   * 【596† Press †www.fandom.com】
+L896:   * 【597† Contact †www.fandom.com】
+L897:   * 【598† Terms of Use †www.fandom.com】
+L898:   * 【599† Privacy Policy †www.fandom.com】
+L899:   * 【600† Digital Services Act †www.fandom.com】
+L900:   * 【601† Global Sitemap †community.fandom.com】
+L901:   * 【602† Local Sitemap 】
+L902:   *
+L903: ### Community
+L904: 
+L905:   * 【603† Community Central †community.fandom.com】
+L906:   * 【604† Support †fandom.zendesk.com】
+L907:   * 【605† Help †community.fandom.com】
+L908: 
+L909: ### Advertise
+L910: 
+L911:   * 【606† Media Kit †about.fandom.com】
+L912:   * 【607† Contact †about.fandom.com】
+L913: ### Fandom Apps
+L914: 
+L915: Take your favorite fandoms with you and never miss a beat.  【772†Image: Fandom App logo†therunefactory.fandom.com】
+L916: 
+L917:   * 【608† †apps.apple.com】
+L918:   * 【609† †play.google.com】
+L919: 
+L920: Rune Factory Wiki is a FANDOM Games Community.
+L921: 
+L922: View Mobile Site
+L923: 
+L924: 【610† Follow on IG †bit.ly】 【611† TikTok †bit.ly】 【612† Join Fan Lab †bit.ly】
+

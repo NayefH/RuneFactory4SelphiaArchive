@@ -1,0 +1,192 @@
+Forging (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Forging_%28RF4%29)
+citeturn9view0 [wordlim: 200] Crawled: 7 months ago; Content type: text/html; Source: open({"ref_id":"turn2view3","lineno":720}); Redirected to URL: https://therunefactory.fandom.com/wiki/Forging_(RF4); Total lines: 1207
+L645: 【778†Image: RF4SmashBlade】 【259†Smash Blade】 64 [Ability] ATK +1880
+L646: Diz +12 Knock 15% Stun 15% 【252†Orichalcum】 【260†Pirate's Armor】 【261†4-Leaf Clover】 【262†Chimera's Claw】 【207†Claws and Fangs】
+L647: 【779†Image: RF4Icifier】 【263†Icifier】 68 [Ability] [Atr] Water ATK +2270 M.ATK +700
+L648: Diz +6 Water 【252†Orichalcum】 【264†Icy Nose】 【265†Water Crystal】 【213†Aquamarine】 【207†Claws and Fangs】
+L649: 【780†Image: RF4SoulEater】 【266†Soul Eater】 70 [Ability] ATK +3720 M.ATK +1500
+L650: Diz +6 Drain 5% 【252†Orichalcum】 【267†Dangerous Scissors】 【268†Love Crystal】 【269†Legendary Scale】 【270†Earth Dragon Ash】
+L651: 【781†Image: RF4Raventine】 【271†Raventine】 74 [Ability] [Atr] Fire ATK +4300 M.ATK +1800
+L652: Diz +6 Fire 【252†Orichalcum】 【252†Orichalcum】 【272†Golem Spirit Stone】 【220†Fire Crystal】 【273†Fire Dragon Ash】
+L653: 【782†Image: RF4StarSaber】 【274†Star Saber】 77 [Ability] [Atr] Wind ATK +5150 M.ATK +1800
+L654: Diz +6 Wind 【252†Orichalcum】 【272†Golem Spirit Stone】 【238†Wind Crystal】 【254†Emerald】 【275†Electro Crystal】
+L655: 【783†Image: RF4PlatinumSwordPlus】 【276†Platinum Sword+】 79 [Ability] ATK +6050
+L656: Diz +6 【235†Platinum Sword】 【277†Dragonic Stone】
+L657: 【784†Image: RF4DragonSlayer】 【278†Dragon Slayer】 82 [Ability] ATK +7000
+L658: Diz +7 【277†Dragonic Stone】 【277†Dragonic Stone】 【279†Black Scale】 【280†Blue Scale】 【281†Glitter Scale】
+L659: 【785†Image: RF4RuneBlade】 【282†Rune Blade】 85 [Ability] [Atr] Light ATK +8700 M.ATK +5000
+L660: Diz +6 Light 【277†Dragonic Stone】 【283†Earthwyrm Scale】 【284†Rune Crystal】 【207†Claws and Fangs】 【223†Sticks and Stems】
+L661: 【786†Image: RF4Gladius】 【285†Gladius】 90 [Ability] ATK +9800 M.ATK +1000
+L662: Diz +6 Crit +10% 【277†Dragonic Stone】 【286†Firewyrm Scale】 【287†Small Crystal】 【288†Throne of the Empire】 【207†Claws and Fangs】
+L663: 【787†Image: RF4RuneLegend】 【289†Rune Legend】 99 [Ability] ATK +9999 M.ATK +9999
+L664: Diz +6 【290†Rune Sphere Shard】 【277†Dragonic Stone】 【284†Rune Crystal】 【291†Green Core】 【292†Wind Dragon Tooth】
+L665: ### Long Swords[]
+L666: 
+L667: A listing of long sword abilities, prices, and descriptions can be found in the 【293†Long Sword】 section of the 【170†Equipment (RF4)】 page.
+L668: Long Sword
+L669: Item Level Abilities Element Required Materials
+L670: 【788†Image: Claymore】 【294†Claymore】 2 [Ability] ATK +12 Diz +12 【205†Minerals】
+L671: 【789†Image: Zweihaender】 【295†Zweihaender】 6 [Ability] ATK +42
+L672: Diz +12 【205†Minerals】 【207†Claws and Fangs】
+L673: 【790†Image: Zweihaender 】 【296†Zweihaender+】 11 [Ability] ATK +61
+L674: Diz +24 Stun +15% 【295†Zweihaender】 【210†Bronze】
+L675: 【791†Image: GreatSword】 【297†Great Sword】 16 [Ability] ATK +120
+L676: Diz +12 【210†Bronze】 【298†Liquids】
+L677: 【792†Image: SeaCutter】 【299†Sea Cutter】 21 [Ability] [Atr] Water ATK +184 M.ATK +3
+L678: Diz +12 Water  【212†Silver】 【213†Aquamarine】
+L679: 【793†Image: CycloneBlade】 【300†Cyclone Blade】 25 [Ability] [Atr] Wind ATK +248 M.ATK +5
+L680: Diz +12 Wind  【219†Gold】 【254†Emerald】
+L681: 【794†Image: PoisonBlade】 【301†Poison Blade】 27 [Ability] ATK +292
+L682: Diz +12 Psn Atk 25% 【219†Gold】 【212†Silver】 【193†Poison Powder】
+L683: 【795†Image: Katzbalger】 【302†Katzbalger】 29 [Ability] ATK +333
+L684: Diz +12 【219†Gold】 【212†Silver】 【228†Rigid Horn】
+L685: 【796†Image: EarthShade】 【303†Earth Shade】 30 [Ability] [Atr] Earth ATK +378 M.ATK +5
+L686: Diz +12 Earth  【219†Gold】 【212†Silver】 【304†Black Bird Feather】 【227†Earth Crystal】
+L687: 【797†Image: BigKnife】 【305†Big Knife】 32 [Ability] ATK +402
+L688: Diz +12 【230†Diamond】 【207†Claws and Fangs】 【223†Sticks and Stems】
+L689: 【798†Image: Katana】 【306†Katana】 35 [Ability] ATK +424
+L690: Diz +12 Faint Atk 5% 【230†Diamond】 【240†Magic】 【207†Claws and Fangs】
+L691: 【799†Image: FlameSaber】 【307†Flame Saber】 39 [Ability] [Atr] Fire ATK +425 M.ATK +20
+L692: Diz +12 Fire  【230†Diamond】 【308†Gold Wolf Fang】 【220†Fire Crystal】
+L693: 【800†Image: BioSmasher】 【309†Bio Smasher】 40 [Ability] ATK +470
+L694: Diz +12 Psn Atk 60% 【236†Platinum】 【194†Paralysis Poison】 【193†Poison Powder】 【310†Pom-Pom Grass】
+L695: 【801†Image: SnowCrown】 【311†Snow Crown】 42 [Ability] [Atr] Water ATK +548 M.ATK +25
+L696: Diz +12 Water  【236†Platinum】 【219†Gold】 【265†Water Crystal】 【213†Aquamarine】
+L697: 【802†Image: DancingDicer】 【312†Dancing Dicer】 43 [Ability] ATK +600
+L698: Diz +12 Faint Atk 15% 【236†Platinum】 【313†Dragon Fang】 【314†Dragon Bones】
+L699: 【803†Image: Flamberge】 【315†Flamberge】 45 [Ability] ATK +678
+L700: Diz +12 【236†Platinum】 【236†Platinum】 【316†Magic Claw】 【317†Thunderbird Feather】 【318†Big Bird's Comb】
+L701: 【804†Image: Flamberge+】 【319†Flamberge+】 46 [Ability] ATK +750
+L702: Diz +12 【315†Flamberge】 【248†Malm Claw】
+L703: 【805†Image: Volcanon】 【320†Volcanon】 48 [Ability] [Atr] Fire ATK +868 M.ATK +30
+L704: Diz +12 Fire  【249†Devil Horn】 【220†Fire Crystal】 【246†Ruby】 【262†Chimera's Claw】
+L705: 【806†Image: Psycho】 【321†Psycho】 50 [Ability] [Atr] Dark ATK +980 M.ATK +30
+L706: Diz +12 Par Atk 30% Ftg Atk 30% Sick Atk 30% Dark  【249†Devil Horn】 【248†Malm Claw】 【322†Dark Crystal】 【323†Rafflesia Petal】
+L707: 【807†Image: ShineBlade】 【324†Shine Blade】 52 [Ability] [Atr] Light ATK +1200 M.Atk +100
+L708: Diz +12 Light  【252†Orichalcum】 【236†Platinum】 【325†Light Crystal】 【217†Sapphire】
+L709: 【808†Image: GrandSmasher】 【326†Grand Smasher】 55 [Ability] [Atr] Earth ATK +1560 M.ATK +300
+L710: Diz +12 Earth  【256†Yellow Feather】 【227†Earth Crystal】 【250†Ambrosia's Thorns】 【270†Earth Dragon Ash】
+L711: 【809†Image: Belzebuth】 【327†Belzebuth】 58 [Ability] [Atr] Dark ATK +2040 M.ATK +500
+L712: Diz +12 Crit +10% Drain 20% Dark  【328†Ammonite】 【329†Devil Blood】 【322†Dark Crystal】
+L713: 【810†Image: Orochi】 【330†Orochi】 63 [Ability] ATK +2710
+L714: Diz +12 【331†Queen's Jaw】 【332†Grimoire Scale】 【333†Scales】 【333†Scales】 【334†Strings】
+L715: 【811†Image: Punisher】 【335†Punisher】 68 [Ability] ATK +4444
+L716: Diz +24 Stun 30% 【267†Dangerous Scissors】 【336†Tablet of Truth】 【205†Minerals】
+L717: 【812†Image: SteelSlicer】 【337†Steel Slicer】 73 [Ability] ATK +4890
+L718: Diz +12 Crit +10% 【252†Orichalcum】 【252†Orichalcum】 【272†Golem Spirit Stone】 【338†MTGU Plate】
+L719: 【813†Image: MoonShadow v2】 【339†Moon Shadow】 76 [Ability] ATK +5380 M.ATK +1500
+L720: Diz +12 Faint Atk 25% 【281†Glitter Scale】 【325†Light Crystal】 【227†Earth Crystal】 【340†Red Lion Fur】 【341†Blue Lion Fur】
+L721: 【814†Image: Blue-EyedBlade】 【342†Blue-Eyed Blade】 79 [Ability] ATK +7000 M.ATK +1850
+L722: Diz +12 Crit +20% 【277†Dragonic Stone】 【252†Orichalcum】 【343†Blue Core】 【207†Claws and Fangs】
+L723: 【815†Image: Balmung】 【344†Balmung】 84 [Ability] ATK +8080
+L724: Diz +12 【277†Dragonic Stone】 【336†Tablet of Truth】 【345†Golem Tablet】 【207†Claws and Fangs】
+L725: 【816†Image: Braveheart】 【346†Braveheart】 89 [Ability] [Atr] Light ATK +9600 M.ATK +2750
+L726: Diz +12 Light  【277†Dragonic Stone】 【283†Earthwyrm Scale】 【347†Love Scale】 【325†Light Crystal】 【217†Sapphire】
+L727: 【817†Image: ForceElement】 【348†Force Element】 91 [Ability] [Atr] Light ATK +10000 M.ATK +5000 M.DEF +100
+L728: Diz +12 Light  【286†Firewyrm Scale】 【291†Green Core】 【349†Red Core】 【350†Yellow Core】 【343†Blue Core】
+L729: 【818†Image: HeavenAsunder】 【351†Heaven Asunder】 92 [Ability] [Atr] Wind ATK +12000 M.ATK +9000
+L730: Diz +12 Crit +10% Faint Atk 50% Wind  【290†Rune Sphere Shard】 【277†Dragonic Stone】 【352†Water Dragon Ash】 【273†Fire Dragon Ash】 【270†Earth Dragon Ash】
+L731: 【819†Image: Caliburn】 【353†Caliburn】 99 [Ability] [Atr] Earth ATK +13600 M.ATK +5800
+L732: Diz +23 Earth  【290†Rune Sphere Shard】 【292†Wind Dragon Tooth】 【354†Dragon Fin】 【283†Earthwyrm Scale】 【286†Firewyrm Scale】
+L733: 【820†Image: Dekash】 【355†Dekash】 42 [Ability] [Atr] Water ATK +256 M.ATK +50
+L734: Diz +30 Water  【356†Tuna】
+L735: 【821†Image: Daicone】 【357†Daicone】 28 [Ability] [Atr] Earth ATK +78 M.ATK +20
+L736: Diz +12 Knock +30% Stun +10% Earth  【358†Radish】
+L737: ### Spears[]
+L738: 
+L739: A listing of spear abilities, prices, and descriptions can be found in the 【359†Spear】 section of the 【170†Equipment (RF4)】 page.
+L740: Spears
+L741: Item Level Abilities Element Required Materials
+L742: 【822†Image: RF4Spear】 【360†Spear】  3  [Ability] ATK +14 DEF +1
+L743: Diz +8  【205†Minerals】
+L744: 【823†Image: RF4WoodStaff】 【361†Wood Staff】  6  [Ability] [Atr] Earth ATK +38 DEF +2
+L745: Diz +8  【223†Sticks and Stems】
+L746: 【824†Image: RF4Lance】 【362†Lance】  9  [Ability] ATK +43 DEF +4
+L747: Diz +8  【205†Minerals】 【223†Sticks and Stems】
+L748: 【825†Image: RF4LancePlus】 【363†Lance+】  12  [Ability] ATK +52 DEF +5
+L749: Diz +8  【362†Lance】  【210†Bronze】
+L750: 【826†Image: RF4SafetyLance】 【364†Safety Lance】  13  [Ability] ATK +67 DEF +9 M.DEF +25
+L751: Diz +8  【365†Ghost Hood】  【223†Sticks and Stems】
+L752: 【827†Image: RF4Pitchfork】 【366†Pitchfork】  14  [Ability] ATK +96 DEF +10
+L753: Diz +8  【367†Wolf Fang】  【368†Fodder】  【223†Sticks and Stems】
+L754: 【828†Image: RF4NeedleSpear】 【369†Needle Spear】  15  [Ability] ATK +108 DEF +6
+L755: Diz +8  【210†Bronze】  【367†Wolf Fang】  【223†Sticks and Stems】
+L756: 【829†Image: RF4Trident】 【370†Trident】  18  [Ability] ATK +162 DEF +7
+L757: Diz +8  【212†Silver】  【223†Sticks and Stems】
+L758: 【830†Image: RF4WaterSpear】 【371†Water Spear】  21  [Ability] [Atr] Water ATK +170 DEF +8 M.ATK +3
+L759: Diz +8  Water  【212†Silver】  【213†Aquamarine】  【223†Sticks and Stems】
+L760: 【831†Image: RF4Halberd】 【372†Halberd】  25  [Ability] ATK +246 DEF +8
+L761: Diz +8  【219†Gold】  【223†Sticks and Stems】
+L762: 【832†Image: RF4Corsesca】 【373†Corsesca】  27  [Ability] ATK +306 DEF +10
+L763: Diz +8  【219†Gold】  【228†Rigid Horn】  【223†Sticks and Stems】
+L764: 【833†Image: RF4CorsescaPlus】 【374†Corsesca+】  29  [Ability] ATK +333 DEF +18
+L765: Diz +8  【373†Corsesca】  【304†Black Bird Feather】
+L766: 【834†Image: RF4PoisonSpear】 【375†Poison Spear】  30  [Ability] ATK +380 DEF +18
+L767: Diz +8 Psn Atk 25%  【230†Diamond】  【193†Poison Powder】  【223†Sticks and Stems】
+L768: 【835†Image: RF4Fivestaff】 【376†Fivestaff】  34  ATK +380, DEF +18, Diz +8, Psn Atk 25%  【230†Diamond】  【223†Sticks and Stems】 【333†Scales】 【333†Scales】
+L769: 【836†Image: RF4HeavyLance】 【377†Heavy Lance】  37  ATK +496, DEF +30, Diz +8  【236†Platinum】  【219†Gold】  【223†Sticks and Stems】
+L770: 【837†Image: RF4FeatherLance】 【378†Feather Lance】  38  [Atr] Wind, ATK+ 532, DEF +35, M.ATK +30, Diz +8  Wind  【236†Platinum】  【212†Silver】  【379†Thick Stick】  【238†Wind Crystal】  【380†Feathers】
+L771: 【838†Image: RF4Iceberg】 【381†Iceberg】  41  [Atr] Water ATK +570, Def +45, M.ATK +30, Diz +8  Water  【236†Platinum】  【236†Platinum】  【379†Thick Stick】  【265†Water Crystal】  【213†Aquamarine】
+L772: 【839†Image: RF4BloodLance】 【382†Blood Lance】  43  [Atr] Dark, ATK +615, Def +50, M.ATK +10, Diz +8  Dark  【236†Platinum】  【258†Cursed Doll】  【379†Thick Stick】  【316†Magic Claw】  【329†Devil Blood】
+L773: 【840†Image: RF4MagicalLance】 【383†Magical Lance】  47  ATK +715, M.ATK +185, DEF +65, Diz +8  【249†Devil Horn】  【258†Cursed Doll】  【384†Puppetry Strings】  【385†Round Stone】  【215†Crystals】
+L774: 【841†Image: RF4FlareLance】 【386†Flare Lance】  49  [Atr] Fire, ATK +820, DEF +75, M.ATK +50, Diz +8  Fire  【236†Platinum】  【249†Devil Horn】  【387†Proof of Rank】  【220†Fire Crystal】  【314†Dragon Bones】
+L775: 【842†Image: RF4Brionac】 【388†Brionac】  51  [Atr] Light ATK +1100, DEF +80, Diz +8  Light  【252†Orichalcum】  【325†Light Crystal】  【217†Sapphire】  【253†Lightning Mane】  【223†Sticks and Stems】
+L776: 【843†Image: RF4PoisonQueen】 【389†Poison Queen】  55  ATK +1420, DEF +100, M.ATK +400, Diz +6, Psn Atk 20%  【252†Orichalcum】  【252†Orichalcum】  【390†Poison King】  【241†Holy Spore】  【193†Poison Powder】
+L777: 【844†Image: RF4MonkStaff】 【391†Monk Staff】  57  [Atr] Earth, ATK +1950, DEF +120, M.ATK +150, Diz +8  Earth  【252†Orichalcum】  【392†Turnip's Miracle】  【393†Glitta Augite】  【223†Sticks and Stems】
+L778: 【845†Image: RF4Metus】 【394†Metus】  60
+L779: [Atr] Dark, ATK +2420, DEF +150, M.ATK +700, Diz +8, Drain 25%
+L780: Dark  【252†Orichalcum】  【331†Queen's Jaw】  【258†Cursed Doll】  【269†Legendary Scale】  【223†Sticks and Stems】
+L781: 【846†Image: RF4SilentGrave】 【395†Silent Grave】  65  ATK +3880, DEF +180, Diz +8, Seal Atk 25%  Dark  【252†Orichalcum】  【267†Dangerous Scissors】  【396†Crystal Skull】  【397†Shards】 【223†Sticks and Stems】
+L782: 【847†Image: RF4Overbreak】 【398†Overbreak】  69  ATK +4420, DEF +200, M.ATK +950, Diz +8  【280†Blue Scale】  【399†Left Rock Shard】  【400†Right Rock Shard】  【332†Grimoire Scale】  【223†Sticks and Stems】
+L783: 【848†Image: RF4Bjor】 【401†Bjor】  74  [Atr] Dark, ATK +5000, DEF +250, M.ATK +950, Diz +8, Psn Atk 15%, Par Atk, 15%, Sick Atk 15%  Dark  【402†Melody Bottle】  【241†Holy Spore】  【252†Orichalcum】  【287†Small Crystal】  【223†Sticks and Stems】
+L784: 【849†Image: RF4Belvarose】 【403†Belvarose】  76  ATK +6150, DEF +270, M.ATK +1800, Diz +8  【277†Dragonic Stone】  【250†Ambrosia's Thorns】  【336†Tablet of Truth】  【338†MTGU Plate】  【223†Sticks and Stems】
+L785: 【850†Image: RF4GaeBolg】 【404†Gae Bolg】  81  ATK +7480, DEF +300, M.ATK +2000, Diz +8  【277†Dragonic Stone】  【252†Orichalcum】  【332†Grimoire Scale】  【279†Black Scale】  【405†Moving Branch】
+L786: 【851†Image: RF4DragonsFang】 【406†Dragon's Fang】  86  ATK +9200, DEF +400, M.ATk +2500, M.DEF +120, Diz +8, Crit +10%  【283†Earthwyrm Scale】  【407†Big Crystal】  【284†Rune Crystal】  【223†Sticks and Stems】
+L787: 【852†Image: RF4Gungnir】 【408†Gungnir】  91  [Atr] Wind, ATK +10000, DEF +450, M.ATK +3000, M.DEF +150, Diz +8  Wind  【354†Dragon Fin】  【291†Green Core】  【270†Earth Dragon Ash】  【273†Fire Dragon Ash】  【223†Sticks and Stems】
+L788: 【853†Image: RF4Legion】 【409†Legion】  99  ATK +12850, DEF +500, M.ATK +9000, M.DEF +180, Diz +8  【290†Rune Sphere Shard】  【286†Firewyrm Scale】  【354†Dragon Fin】  【197†Light Ore】  【223†Sticks and Stems】
+L789: 【854†Image: RF4PineClub】 【410†Pine Club】  40  [Atr] Earth, ATK +320, DEF +12, M.ATK +15, Diz +16  Earth  【411†Pineapple】  【223†Sticks and Stems】
+L790: === Axes ===
+L791: 
+L792: A listing of axe abilities, prices, and descriptions can be found in the 【412†Axe】 section of the 【170†Equipment (RF4)】 page.
+L793: Axes
+L794: Item Level Abilites Element Required Materials
+L795: 【855†Image: RF4BattleAxe】 【413†Battle Axe】  6  ATK +38, Diz +2, Crit +5%  【205†Minerals】 【207†Claws and Fangs】
+L796: 【856†Image: RF4Axe】 【414†Axe】  9  ATK +42, Diz +2, Crit +15%  【415†Cheap Axe】  【205†Minerals】
+L797: 【857†Image: RF4BattleScythe】 【416†Battle Scythe】  13  ATK +70, Diz +2, Crit +15%  【210†Bronze】  【207†Claws and Fangs】
+L798: 【858†Image: RF4PoleAxe】 【417†Pole Axe】  16  ATK +116, Diz +2, Crit +7%  【367†Wolf Fang】  【210†Bronze】  【223†Sticks and Stems】
+L799: 【859†Image: RF4PoleAxePlus】 【418†Pole Axe+】  20  ATK +163, Diz +2, Crit +10%  【417†Pole Axe】  【212†Silver】
+L800: 【860†Image: RF4GreatAxe】 【419†Great Axe】  23  ATK +232, Diz +2, Crit +10%  【219†Gold】  【207†Claws and Fangs】
+L801: 【861†Image: RF4Tomahawk】 【420†Tomahawk】  28  [Ability] [Atr] Wind ATK +292 M.ATK +8
+L802: Diz +2 Crit +10%  Wind  【212†Silver】  【254†Emerald】  【421†Silk Cloth】  【207†Claws and Fangs】
+L803: 【862†Image: RF4BasiliskFang】 【422†Basilisk Fang】  30  ATK +360, Diz +2, Crit +15%, Par Atk 30%  【219†Gold】  【194†Paralysis Poison】  【207†Claws and Fangs】  【207†Claws and Fangs】
+L804: 【863†Image: RF4RockAxe】 【423†Rock Axe】  32  [Atr] Earth, ATK +412, M.ATK +20, Diz +2, Crit +10%  Earth  【219†Gold】  【212†Silver】  【424†Giant's Gloves】  【227†Earth Crystal】
+L805: 【864†Image: RF4DemonAxe】 【425†Demon Axe】  35  [Atr] Dark, ATK +488 M.ATK +30, Diz +2, Crit +12%  Dark  【230†Diamond】  【234†Scorpion Pincer】  【329†Devil Blood】
+L806: 【865†Image: RF4FrostAxe】 【426†Frost Axe】  42  [Atr] Water, ATK +736, M.ATK +50, Diz +2, Crit +10%  Water  【236†Platinum】  【313†Dragon Fang】  【407†Big Crystal】  【265†Water Crystal】  【213†Aquamarine】
+L807: 【866†Image: RF4CrescentAxe】 【427†Crescent Axe】  46  ATK +900, Diz +2, Crit +10%  【236†Platinum】  【262†Chimera's Claw】  【249†Devil Horn】
+L808: 【867†Image: RF4CrescentAxePlus】 【428†Crescent Axe+】  47  ATK +1000, Diz +2, Crit +15%  【427†Crescent Axe】  【245†Warrior's Proof】  【387†Proof of Rank】
+L809: 【868†Image: RF4HeatAxe】 【429†Heat Axe】  53  [Atr] Fire ATK +1420, M.ATK +150, Diz+2, Crit +10%  Fire  【252†Orichalcum】  【220†Fire Crystal】  【246†Ruby】  【273†Fire Dragon Ash】
+L810: 【869†Image: RF4DoubleEdge】 【430†Double Edge】  65  ATK +2980, Diz +2, Crit +10%  【431†Big Giant's Nail】  【331†Queen's Jaw】  【340†Red Lion Fur】  【341†Blue Lion Fur】
+L811: 【870†Image: RF4Alldale】 【432†Alldale】  69  ATK +4600, Diz +2, Crit +8%  【252†Orichalcum】  【252†Orichalcum】  【267†Dangerous Scissors】  【433†White Stone】  【350†Yellow Core】
+L812: 【871†Image: RF4DevilFinger】 【434†Devil Finger】  73  ARK +6000, M.ATK +2000, Diz +15, Crit +5%, Stun 10%, Drain 10%  【347†Love Scale】  【269†Legendary Scale】  【352†Water Dragon Ash】  【273†Fire Dragon Ash】  【270†Earth Dragon Ash】
+L813: 【872†Image: RF4Executioner】 【435†Executioner】  81  [Atr] Dark, ATK +8800, M.ATK +1500, Diz +2, Crit +10%  Dark  【277†Dragonic Stone】  【272†Golem Spirit Stone】  【197†Light Ore】  【436†Chimera Tail】  【322†Dark Crystal】
+L814: 【873†Image: RF4SaintAxe】 【437†Saint Axe】  98  [Atr] Light ATK +13500, M.ATK +8500, Diz +2, Crit +10%  Light  【290†Rune Sphere Shard】  【325†Light Crystal】  【438†White Crystal】  【287†Small Crystal】  【407†Big Crystal】
+L815: 【874†Image: RF4Lollipop】 【439†Lollipop】  28  ATK +128, M.ATK +30, VIT +50, Diz +40, Crit +15%  【440†Butter】  【441†Apple】
+L816: ### Hammers[]
+L817: 
+L818: A listing of hammer abilities, prices, and descriptions can be found in the 【442†Hammer】 section of the 【170†Equipment (RF4)】 page.
+L819: Hammers
+L820: Item Level Abilities Element Required Materials
+L821: 【875†Image: RF4BattleHammer】 【443†Battle Hammer】  3  ATK +29, Diz +35, Stun +10%  【205†Minerals】
+L822: 【876†Image: RF4Hammer】 【444†Hammer】  7  ATK +40, Diz +34, Crit +8%, Stun +10%  【445†Cheap Hammer】  【205†Minerals】
+L823: 【877†Image: RF4ToyHammer】 【446†Toy Hammer】  8  [Atr] Light, ATK +10, M.ATK +25, Diz +120, Stun +10%  Light  【223†Sticks and Stems】 【447†Cloths and Skins】
+L824: 【878†Image: RF4Bat】 【448†Bat】  9  ATK +54, Diz +35, Knock +50%, Stun +15%  【210†Bronze】
+L825: 【879†Image: RF4WarHammer】 【449†War Hammer】  11  ATK +61, Diz +35, Stun +10%  【210†Bronze】 【397†Shards】
+L826: 【880†Image: RF4WarHammerPlus】 【450†War Hammer+】  15  ATK +98, Diz +35, Stun +10%  【449†War Hammer】 【298†Liquids】
+L827: 【881†Image: RF4IronBat】 【451†Iron Bat】  18  ATK +140, Diz +35, Knock +50%, Stun +20%  【448†Bat】 【212†Silver】
+L828: 【882†Image: RF4GreatHammer】 【452†Great Hammer】  22  ATK +198, Diz +35, Stun +10%  【212†Silver】 【397†Shards】
+L829: 【883†Image: RF4IceHammer】 【453†Ice Hammer】  26  [Ability] [Atr] Water ATK +267 M.ATK +10
+L830: Diz +35 Stun +10%  Water  【219†Gold】 【213†Aquamarine】 【397†Shards】
+L831: 【884†Image: RF4BoneHammer】 【454†Bone Hammer】  31  [Atr] Dark, ATK +400, M.ATK +20, Diz +35, Stun +10%  Dark  【219†Gold】  【424†Giant's Gloves】  【455†Shells and Bones】 【455†Shells and Bones】
+L832: 【885†Image: RF4StrongStone】 【456†Strong Stone】  33  ATK +430, Diz+35, Stun +10%  【230†Diamond】  【457†Stones】 【333†Scales】 【334†Strings】
+L833: 【886†Image: RF4FlameHammer】 【458†Flame Hammer】  36  [Atr] Fire, ATK +472, M.ATK +35, Diz +35, Stun +10%  Fire  【230†Diamond】  【220†Fire Crystal】  【246†Ruby】  【397†Shards】
+

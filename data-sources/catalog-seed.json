@@ -1,0 +1,8000 @@
+{
+  "materialGroups": {
+    "Minerals": "Erze",
+    "Cloths and Skins": "Stoffe und Häute",
+    "Furs": "Felle",
+    "Strings": "Fäden",
+    "Claws and Fangs": "Klauen und Zähne",
+    "Powders and Spores": "Pulver und Sporen",
+    "Sticks and Stems": "Stöcke und Stängel",
+    "Crystals": "Kristalle",
+    "Jewels": "Edelsteine",
+    "Liquids": "Flüssigkeiten",
+    "Feathers": "Federn",
+    "Scales": "Schuppen",
+    "Shells and Bones": "Panzer und Knochen",
+    "Shards": "Scherben"
+  },
+  "records": [
+    {
+      "name": "10-Fold Steel",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "4-Leaf Clover",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing 4-Leaf Clover Seeds"
+    },
+    {
+      "name": "Accessory Bread",
+      "type": "item",
+      "category": "Recipe Bread"
+    },
+    {
+      "name": "Accessory Bread+",
+      "type": "item",
+      "category": "Recipe Bread"
+    },
+    {
+      "name": "Acutorimass",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Aerial Blade",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Algernon",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Alldale",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Ambrosia's Thorns",
+      "type": "item",
+      "category": "Strings",
+      "location": "Ambrosia in Yokmir Forest"
+    },
+    {
+      "name": "Amethyst",
+      "type": "item",
+      "category": "Jewels",
+      "location": "Yokmir Forest"
+    },
+    {
+      "name": "Amethyst Brooch",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Amethyst Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Amethyst Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Ammonite",
+      "type": "item",
+      "category": "Shells and Bones",
+      "location": "Octopirate 2 in Rune Prana 2"
+    },
+    {
+      "name": "Ancient Orc Cloth",
+      "type": "item",
+      "category": "Cloths and Skins",
+      "location": "Death Orc in Rune Prana 7"
+    },
+    {
+      "name": "Anette's Necklace",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Animal Puppets",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Antidote Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Opening Treasure Chests in the Summer Area Gathering from the Summer Area, Cave of Resurrection Search Spots"
+    },
+    {
+      "name": "Antidote Potion",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Apple",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Apfel",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Growing Apple Tree Seed Defeat Reno, Dead Tree Search Spots"
+    },
+    {
+      "name": "Apple Jam",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Apple Juice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Apple Pie",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Apple Tree Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Aqua Sword",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Aquamarine",
+      "type": "item",
+      "category": "Jewels",
+      "location": "Water Ruins, Maya Road"
+    },
+    {
+      "name": "Aquamarine Brooch",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Aquamarine Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Aquamarine Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Arrowhead",
+      "type": "item",
+      "category": "Shards",
+      "location": "Orc in Yokmir Forest"
+    },
+    {
+      "name": "Art of Attack",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Art of Defense",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Art of Magic",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Autumn Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Autumn Grass Seeds"
+    },
+    {
+      "name": "Autumn Grass Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Autumn Headdress",
+      "type": "item",
+      "category": "Headgear"
+    },
+    {
+      "name": "Avenger Rock",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Axe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Axel Disaster",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Ayngondaia Lawn",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from the Cave of Resurrection"
+    },
+    {
+      "name": "Back Scratcher",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Badge",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Baked Apple",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Baked Onigiri",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Balmung",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Bamboo Rice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Bamboo Sprout",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Gathering in the field"
+    },
+    {
+      "name": "Basilisk Fang",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Basket",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Bat",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Battle Axe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Battle Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Battle Scythe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Bazal Katar",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Bear Claws",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Beginner's Pole",
+      "type": "item",
+      "category": "Angeln"
+    },
+    {
+      "name": "Belvarose",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Belzebuth",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Big Autumn Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Autumn Grass Seeds until large"
+    },
+    {
+      "name": "Big Bird's Comb",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Big Blue Crystal",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Blue Crystal Seeds until large"
+    },
+    {
+      "name": "Big Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Leon Karnak"
+    },
+    {
+      "name": "Big Fire",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Big Fireflower",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Fireflower Seeds until large"
+    },
+    {
+      "name": "Big Giant's Nail",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Master Troll in Rune Prana 4"
+    },
+    {
+      "name": "Big Green Crystal",
+      "type": "item",
+      "category": "Plant",
+      "location": "Grow Green Crystal Seeds until large"
+    },
+    {
+      "name": "Big Knife",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Big Red Crystal",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Red Crystal Seeds until large"
+    },
+    {
+      "name": "Big White Crystal",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing White Crystal Seeds until large"
+    },
+    {
+      "name": "Bio Smasher",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Bird's Feather",
+      "type": "item",
+      "category": "Feathers",
+      "location": "Weagle in Water Ruins, Mamadoodle in Cluck-Cluck Nest (Really any bird-type)"
+    },
+    {
+      "name": "Bjor",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Black Bird Feather",
+      "type": "item",
+      "category": "Feathers",
+      "location": "Blackbird on Maya Road"
+    },
+    {
+      "name": "Black Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from the Observatory, Maya Mountain Trail, Cave of Resurrection Search Spots"
+    },
+    {
+      "name": "Black Ribbon",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Black Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "Black Dragon in Rune Prana 7"
+    },
+    {
+      "name": "Blade Shard",
+      "type": "item",
+      "category": "Shards",
+      "location": "Goblin in Water Ruins"
+    },
+    {
+      "name": "Blessed Hoe",
+      "type": "item",
+      "category": "Hacken"
+    },
+    {
+      "name": "Blitz",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Blk. Tortoise Shell",
+      "type": "item",
+      "category": "Shells and Bones",
+      "location": "Fortoise in Floating Empire"
+    },
+    {
+      "name": "Blood Lance",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Blowfish",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Blowfish Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Blue Core",
+      "type": "item",
+      "category": "Jewels",
+      "location": "Blues in Sechs Territory (Before the cave), Field Dungeon"
+    },
+    {
+      "name": "Blue Crystal",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Blue Crystal Seeds"
+    },
+    {
+      "name": "Blue Crystal Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Blue Giant's Glove",
+      "type": "item",
+      "category": "Cloths and Skins",
+      "location": "Titan in Rune Prana 7"
+    },
+    {
+      "name": "Blue Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from the Summer Area, Yokmir Forest, Yokmir Cave, Maya Mountains, Cave of Resurrection Search Spots"
+    },
+    {
+      "name": "Blue Lion Fur",
+      "type": "item",
+      "category": "Furs",
+      "location": "Kinoto in Rune Prana 4"
+    },
+    {
+      "name": "Blue Ribbon",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Blue Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "3280"
+    },
+    {
+      "name": "Blue-Eyed Blade",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Boiled Egg",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Boiled Gyoza",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Boiled Pumpkin",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Boiled Spinach",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Bok Choy",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Bok Choy Seeds"
+    },
+    {
+      "name": "Bok Choy Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Bone Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Bone Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Bone Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Bonus Concerto",
+      "type": "item",
+      "category": "Special"
+    },
+    {
+      "name": "Boot",
+      "type": "item",
+      "category": "Trash"
+    },
+    {
+      "name": "Boss Bok Choy",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Bok Choy Seeds until large"
+    },
+    {
+      "name": "Branch",
+      "type": "item",
+      "category": "Sticks and Stems",
+      "location": "Found in fields and can be turned into lumber."
+    },
+    {
+      "name": "Brand Glasses",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Brass Knuckles",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Braveheart",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Bread",
+      "type": "item",
+      "category": "Kochen",
+      "de": "Brot",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt"
+    },
+    {
+      "name": "Brionac",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Broadsword",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Broken Box",
+      "type": "item",
+      "category": "Shards",
+      "location": "Dropped by Gobble Box"
+    },
+    {
+      "name": "Broken Hilt",
+      "type": "item",
+      "category": "Shards",
+      "location": "Dropped by Monster Box and Gobble Box"
+    },
+    {
+      "name": "Broken Ice Wall",
+      "type": "item",
+      "category": "Shards",
+      "location": "Death Wall in Rune Prana 6"
+    },
+    {
+      "name": "Broken Wall",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Bronze",
+      "type": "item",
+      "category": "Minerals",
+      "de": "Bronze",
+      "translationStatus": "Spielbericht · offiziell unbestätigt",
+      "translationSource": "https://n-switch-on.de/2020/tests/rune-factory-4-special-fantasy-farming-deluxe/",
+      "location": "Around Obsidian Mansion"
+    },
+    {
+      "name": "Bronze Bracelet",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Brush",
+      "type": "item",
+      "category": "Tools"
+    },
+    {
+      "name": "Bubble Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Bull's Horn",
+      "type": "item",
+      "category": "Sticks and Stems",
+      "location": "Buffaloo in Delirium Lava Ruins"
+    },
+    {
+      "name": "Burning Sword",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Butter",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Butter Roll",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Cabbage",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Cabbage Seeds"
+    },
+    {
+      "name": "Cabbage Cakes",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Cabbage Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Caestus",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Cake",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Caliburn",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Can",
+      "type": "item",
+      "category": "Trash"
+    },
+    {
+      "name": "Carrot",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Karotte",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Growing Carrot Seeds Search Spot"
+    },
+    {
+      "name": "Carrot Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Cat Ears",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Cat Punch",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Chain Mail",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Champ Belt",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Chaos Blade",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Chaos Edge",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Chaos Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Char",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Char Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Charm",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Charm Blue",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Charm Blue Seeds"
+    },
+    {
+      "name": "Charm Blue Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Cheap Axe",
+      "type": "item",
+      "category": "Äxte (Werkzeug)"
+    },
+    {
+      "name": "Cheap Bracelet",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Cheap Cloth",
+      "type": "item",
+      "category": "Cloths and Skins",
+      "location": "Orc"
+    },
+    {
+      "name": "Cheap Hammer",
+      "type": "item",
+      "category": "Hämmer (Werkzeug)"
+    },
+    {
+      "name": "Cheap Hoe",
+      "type": "item",
+      "category": "Hacken"
+    },
+    {
+      "name": "Cheap Pole",
+      "type": "item",
+      "category": "Angeln"
+    },
+    {
+      "name": "Cheap Propeller",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Hover Soldier in Floating Empire"
+    },
+    {
+      "name": "Cheap Propellor",
+      "type": "item",
+      "category": "Claws and Fangs"
+    },
+    {
+      "name": "Cheap Sickle",
+      "type": "item",
+      "category": "Sicheln"
+    },
+    {
+      "name": "Cheap Waterpot",
+      "type": "item",
+      "category": "Gießkannen"
+    },
+    {
+      "name": "Cheese",
+      "type": "item",
+      "category": "Kochen",
+      "de": "Käse",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt"
+    },
+    {
+      "name": "Cheese Bread",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Cheese Fondue",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Cheesecake",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Cherry Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Cherry Grass Seeds"
+    },
+    {
+      "name": "Cherry Grass Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Cherry Salmon",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Cherry Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Chest Hair",
+      "type": "item",
+      "category": "Furs",
+      "location": "Greater Demon in Field Dungeons, Greater Demon 2 in Rune Prana 7"
+    },
+    {
+      "name": "Chimera Tail",
+      "type": "item",
+      "category": "Strings"
+    },
+    {
+      "name": "Chimera's Claw",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Chimera in Water Ruins"
+    },
+    {
+      "name": "ChimeraTail",
+      "type": "item",
+      "category": "Strings"
+    },
+    {
+      "name": "Chinese Manju",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Choco Cookie",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Chocolate",
+      "type": "item",
+      "category": "Ready-made"
+    },
+    {
+      "name": "Chocolate Cake",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Chocolate Sponge",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Chopping Axe",
+      "type": "item",
+      "category": "Äxte (Werkzeug)"
+    },
+    {
+      "name": "Chub",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Claymore",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Clippers",
+      "type": "item",
+      "category": "Tools"
+    },
+    {
+      "name": "Clover Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Cold Medicine",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Colossal Pink",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Pink Turnip Seeds until large"
+    },
+    {
+      "name": "Conqueror Melon",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Pink Melon Seeds until large"
+    },
+    {
+      "name": "Cookie",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Cooking Bread",
+      "type": "item",
+      "category": "Recipe Bread"
+    },
+    {
+      "name": "Cooking Bread+",
+      "type": "item",
+      "category": "Recipe Bread"
+    },
+    {
+      "name": "Corn",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Corn Seeds"
+    },
+    {
+      "name": "Corn Cereal",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Corn on the Cob",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Corn Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Corsesca",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Corsesca+",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Cotton Cloth",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Courage Badge",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Crescent Axe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Crescent Axe+",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Crimson Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "Red Dragon in Rune Prana 4 and Rune Prana 7"
+    },
+    {
+      "name": "Crimson Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Critical Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Croquettes",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Crown",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Crucian Carp",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Crystal Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Crystal Skull",
+      "type": "item",
+      "category": "Jewels",
+      "location": "Sarcophagus in Leon Karnak"
+    },
+    {
+      "name": "Cucumber",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Gurke",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Growing Cucumber Seeds"
+    },
+    {
+      "name": "Cucumber Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Cure",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Cure All",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Curry Bread",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Curry Manju",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Curry Powder",
+      "type": "item",
+      "category": "Ingredients"
+    },
+    {
+      "name": "Curry Rice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Curry Udon",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Cursed Doll",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Cursed Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Cute Knitting",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Cutlass",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Cyclone",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Cyclone Blade",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Cyclone Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Daicone",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Dancing Dicer",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Dangerous Scissors",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Heaven's Scissors in Rune Prana 5"
+    },
+    {
+      "name": "Dark Ball",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Dark Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Dropped by Gates"
+    },
+    {
+      "name": "Dark Invitation",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Dark Snake",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Darkness",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Dash Slash",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Deep Blizzard",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Defender",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Dekash",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Delta Laser",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Delta Strike",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Demon Axe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Desert Wind",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Devil Blood",
+      "type": "item",
+      "category": "Liquids",
+      "location": "Daemon in Idra Cave"
+    },
+    {
+      "name": "Devil Finger",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Devil Horn",
+      "type": "item",
+      "category": "Sticks and Stems",
+      "location": "Arch Demon in Leon Karnak"
+    },
+    {
+      "name": "Dew Pendant",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Diamond",
+      "type": "item",
+      "category": "Jewels",
+      "location": "Sechs Territory, Rune Prana"
+    },
+    {
+      "name": "Diamond Brooch",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Diamond Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Diamond Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Disastrous Dish",
+      "type": "item",
+      "category": "Failed Dishes"
+    },
+    {
+      "name": "Dolphin Brooch",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Donut",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Doom Pumpkin",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Pumpkin Seeds until large"
+    },
+    {
+      "name": "Doria",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Double Edge",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Double Kick",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Double Scratch",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Double Sonic",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Double Steel",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Dragon Bones",
+      "type": "item",
+      "category": "Shells and Bones",
+      "location": "24000"
+    },
+    {
+      "name": "Dragon Claws",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Dragon Cloak",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Dragon Fang",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Little Dragon in Floating Empire (Can also be aquired from any Dragon-type)"
+    },
+    {
+      "name": "Dragon Fin",
+      "type": "item",
+      "category": "Feathers",
+      "location": "Aquaticus in Sharance Maze, Chance while fishing"
+    },
+    {
+      "name": "Dragon Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "Green Dragon in Rune Prana 1 and Rune Prana 7"
+    },
+    {
+      "name": "Dragon Slayer",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Dragon's Fang",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Dragonic Stone",
+      "type": "item",
+      "category": "Minerals",
+      "location": "Rune Prana 7"
+    },
+    {
+      "name": "Dragoon Claw",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Dried Sardines",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Dry Curry",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Dumplings",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Dungeon Seed",
+      "type": "item",
+      "category": "Material / Zutat"
+    },
+    {
+      "name": "Durendal",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Earnest Edge",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Earrings",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Earth Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Dropped by Gates, Mined with Amethyst or Iron"
+    },
+    {
+      "name": "Earth Dragon Ash",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Terraclone in Idra Cave"
+    },
+    {
+      "name": "Earth Pendant",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Earth Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Earth Shade",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Earth Spike",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Earth Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Earthwyrm Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "Terrable in Sharance Maze"
+    },
+    {
+      "name": "Efreet",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Egg (L)",
+      "type": "item",
+      "category": "Dairy"
+    },
+    {
+      "name": "Egg (M)",
+      "type": "item",
+      "category": "Dairy"
+    },
+    {
+      "name": "Egg (S)",
+      "type": "item",
+      "category": "Dairy"
+    },
+    {
+      "name": "Egg Bowl",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Eggplant",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Aubergine",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Growing Eggplant Seeds"
+    },
+    {
+      "name": "Eggplant Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Electro Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Bane Dragon in Rune Prana"
+    },
+    {
+      "name": "Element Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Elli Leaves",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from Floating Imperial Castle, Leon Karnak, Rune Prana"
+    },
+    {
+      "name": "Elvish Cloak",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Elvish Harp",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Emerald",
+      "type": "item",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 7"
+    },
+    {
+      "name": "Emerald Brooch",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Emerald Edge",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Emerald Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Emerald Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Emery Flower",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Emery Flower Seeds"
+    },
+    {
+      "name": "Emery Flower Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Emperor Eggplant",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Eggplant Seeds until large"
+    },
+    {
+      "name": "Engagement Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Escape",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Executioner",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Explosion",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Failed Dish",
+      "type": "item",
+      "category": "Failed Dishes"
+    },
+    {
+      "name": "Fairy Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Fairy Dust",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Fairy in Selphia Plain"
+    },
+    {
+      "name": "Fairy Elixir",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Dark Fairy in Floating Empire"
+    },
+    {
+      "name": "Fall Flounder",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Fall Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Famous Pole",
+      "type": "item",
+      "category": "Angeln"
+    },
+    {
+      "name": "Fancy Hat",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Farming Bread",
+      "type": "item",
+      "category": "Recipe Bread"
+    },
+    {
+      "name": "Farming Bread+",
+      "type": "item",
+      "category": "Recipe Bread"
+    },
+    {
+      "name": "Fast Step Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Fatal Crush",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Feather Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Feather Lance",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Feathered Hat",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Fenrir",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Field Pendant",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Fire Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Dropped by Gates, Mined with Ruby"
+    },
+    {
+      "name": "Fire Dragon Ash",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Fiergaenger on Maya Road"
+    },
+    {
+      "name": "Fire Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Fireball",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Fireflower",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Fireflower Seeds"
+    },
+    {
+      "name": "Fireflower Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Fireproof Hood",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Firewyrm Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "Fiersome in Sharance Maze"
+    },
+    {
+      "name": "Fish Fossil",
+      "type": "item",
+      "category": "Shells and Bones",
+      "location": "Sky Fish in Water Ruins, Sealy in Sechs Territory"
+    },
+    {
+      "name": "Fist of Wind",
+      "type": "item",
+      "category": "Fists"
+    },
+    {
+      "name": "Fists of Dark",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Fists of Fire",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Fists of Light",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Fists of the Earth",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Fists of Water",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Fists of Wind",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Fivestaff",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Flamberge",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Flamberge+",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Flame Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Flame Saber",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Flan",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Flare Lance",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Flare Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Flash Strike",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Flounder",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Flounder Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Flour",
+      "type": "item",
+      "category": "Ingredients"
+    },
+    {
+      "name": "Fluffy Scarf",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Fodder",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Fodder Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Force Divide",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Force Element",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Formuade",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Formula A",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Formula B",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Formula C",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Four Dragons' Vest",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Four Seasons",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Free Farming Shoes",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "French Fries",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "French Toast",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Fried Eggs",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Fried Rice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Fried Udon",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Fried Veggies",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Friendly Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Frost Axe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Frost Edge",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Fruit Juice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Fruit Sandwich",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Fruit Smoothie",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Fur",
+      "type": "item",
+      "category": "Furs",
+      "location": "Chipsqueek in Selphia Plain (Most Wolf- and Panther-Types)"
+    },
+    {
+      "name": "Fur (L)",
+      "type": "item",
+      "category": "Furs",
+      "location": "Farmed from Wooly (7+ Hearts)"
+    },
+    {
+      "name": "Fur (M)",
+      "type": "item",
+      "category": "Furs",
+      "location": "Shmooly in Sercerezo Hill, Farmed from Wooly (5-7 Hearts)"
+    },
+    {
+      "name": "Fur (S)",
+      "type": "item",
+      "category": "Furs",
+      "location": "Wooly, both dropped and farmed"
+    },
+    {
+      "name": "Gae Bolg",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Gaia Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Gaia Sword",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Ghost Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Ghost Hood",
+      "type": "item",
+      "category": "Cloths and Skins",
+      "location": "Ghost in Obsidian Mansion"
+    },
+    {
+      "name": "Giant Hot-Hot Fruit",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Hot-Hot Seeds until large"
+    },
+    {
+      "name": "Giant's Glove",
+      "type": "item",
+      "category": "Cloths and Skins"
+    },
+    {
+      "name": "Giant's Nail",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Troll in Delirium Lava Ruins"
+    },
+    {
+      "name": "Giantizer",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Gibelio",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Giga Swing",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Gigant Corn",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Corn Seeds until large"
+    },
+    {
+      "name": "Gigant Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Gigant Hammer+",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Girella",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Girella Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Gladius",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Glazed Yam",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Gldn. Doom Pumpkin",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Gold Pumpkin Seeds until large"
+    },
+    {
+      "name": "Glistening Blade",
+      "type": "item",
+      "category": "Shards",
+      "location": "Ghost in Floating Empire"
+    },
+    {
+      "name": "Glitta Augita",
+      "type": "item",
+      "category": "Other"
+    },
+    {
+      "name": "Glitta Augite",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Glitter Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Glitter Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "3280"
+    },
+    {
+      "name": "Glitter Snapper",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Gloves",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Glue",
+      "type": "item",
+      "category": "Liquids",
+      "location": "High Orc in Yokmir Cave (Pretty much any Orc-Type)"
+    },
+    {
+      "name": "Gold",
+      "type": "item",
+      "category": "Minerals",
+      "de": "Gold",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Maya Road, Idra Cave"
+    },
+    {
+      "name": "Gold Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Gold Bracelet",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Gold Cabbage Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Gold Hairpin",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Gold Juice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Gold Melon Seeds",
+      "type": "item",
+      "category": "Seeds"
+    },
+    {
+      "name": "Gold Potato Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Gold Prince Potato",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Gold Potato Seeds until large"
+    },
+    {
+      "name": "Gold Pumpkin Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Gold Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Gold Turnip Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Gold Wolf Fang",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Hunter Wolf in Sechs Territory"
+    },
+    {
+      "name": "Golden Cabbage",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Gold Cabbage Seeds"
+    },
+    {
+      "name": "Golden Hammer",
+      "type": "item",
+      "category": "Hämmer (Werkzeug)"
+    },
+    {
+      "name": "Golden King Cabbage",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Gold Cabbage Seeds until large"
+    },
+    {
+      "name": "Golden Potato",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Gold Potato Seeds"
+    },
+    {
+      "name": "Golden Pumpkin",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Gold Pumpkin Seeds"
+    },
+    {
+      "name": "Golden Turnip",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Gold Turnip Seeds"
+    },
+    {
+      "name": "Golden Turnip Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Golden Tyrant Turnip",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Gold Turnip Seeds until large"
+    },
+    {
+      "name": "Golem Punch",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Golem Spirit Stone",
+      "type": "item",
+      "category": "Stones",
+      "location": "Guardian in Rune Prana 6"
+    },
+    {
+      "name": "Golem Stone",
+      "type": "item",
+      "category": "Stones",
+      "location": "Sechs Golem in Floating Empire"
+    },
+    {
+      "name": "Golem Tablet",
+      "type": "item",
+      "category": "Stones",
+      "location": "Sechs Golem in Floating Empire"
+    },
+    {
+      "name": "Gorgeous Lx",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Gorgeous Sword",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Grand Impact",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Grand Smasher",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Grantale",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Grape Jam",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grape Juice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grape Liqueur",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grape Tree Seed",
+      "type": "item",
+      "category": "Seeds"
+    },
+    {
+      "name": "Grape Tree Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Grapes",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Grape Tree Seed Search Spots"
+    },
+    {
+      "name": "Gratin",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Graviton Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Great 4-Leaf Clover",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing 4-Leaf Clover Seeds until large"
+    },
+    {
+      "name": "Great Axe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Great Charm Blue",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Charm Blue Seeds until large"
+    },
+    {
+      "name": "Great Emery Flower",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Emery Flower Seeds until large"
+    },
+    {
+      "name": "Great Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Great Hammer Shard",
+      "type": "item",
+      "category": "Shards",
+      "location": "Baal in Rune Prana 5"
+    },
+    {
+      "name": "Great Sword",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Green Core",
+      "type": "item",
+      "category": "Jewels",
+      "location": "Greens on Maya Road (Near Pond), Field Dungeon"
+    },
+    {
+      "name": "Green Crystal",
+      "type": "item",
+      "category": "Plant",
+      "location": "Grow Green Crystal Seeds"
+    },
+    {
+      "name": "Green Crystal Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Green Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from the Summer Area, Yokmir Forest, Maya Mountain Road, Cave of Resurrection Search Spots"
+    },
+    {
+      "name": "Green Pepper",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Green Pepper Seeds Defeating Pick Rippers"
+    },
+    {
+      "name": "Green Pepper Rex",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Green Pepper Seeds until large Defeating Pick Rippers"
+    },
+    {
+      "name": "Green Pepper Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Green Ribbon",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Greenifier",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Greenifier+",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Greeting Spell",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Grilled Blowfish",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled C. Carp",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled F. Flounder",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled F.Flounder",
+      "type": "item",
+      "category": "Frying Pan"
+    },
+    {
+      "name": "Grilled Flounder",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled G. Snapper",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Gibelio",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Girella",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled L. Snapper",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Lamp Squid",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Lobster",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Mackerel",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Miso",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Needlefish",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled S. Flounder",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled S.Flounder",
+      "type": "item",
+      "category": "Frying Pan"
+    },
+    {
+      "name": "Grilled Shrimp",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Skipjack",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Snapper",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Squid",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Sunsquid",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Turbot",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grilled Yellowtail",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Grimoire Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "Grimoire 2 in Leon Karnak"
+    },
+    {
+      "name": "Gungnir",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Gunpowder",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Any Goblin Archer"
+    },
+    {
+      "name": "Gust",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Gyoza",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Gáe Bolg",
+      "type": "item",
+      "category": "Spear"
+    },
+    {
+      "name": "Halberd",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Hammer Piece",
+      "type": "item",
+      "category": "Shards",
+      "location": "Hammer Troll on Maya Road"
+    },
+    {
+      "name": "Hand of God",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Hand-Knit Scarf",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Happy Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Headband",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Headdress",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Healing Potion",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Heart Drink",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Heart Fire",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Heart Pendant",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Heat Axe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Heaven Asunder",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Heavy Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Heavy Lance",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Heavy Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Heavy Spice",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Hell Branch",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Hell Curse",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Hero's Proof",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Holy Amulet",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Holy Spore",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": ""
+    },
+    {
+      "name": "Honey",
+      "type": "item",
+      "category": "Dairy"
+    },
+    {
+      "name": "Hot Chocolate",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Hot Juice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Hot Milk",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Hot-Hot Fruit",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Hot-Hot Seeds"
+    },
+    {
+      "name": "Hot-Hot Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Hurricane",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Ice Cream",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Ice Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Ice Skates",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Ice Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Iceberg",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Icifier",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Icy Nose",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Indigo Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from Yokmir Cave, Maya Mountain Road Search Spots"
+    },
+    {
+      "name": "Indigo Ribbon",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Insect Carapace",
+      "type": "item",
+      "category": "Cloths and Skins",
+      "location": "Beetle"
+    },
+    {
+      "name": "Insect Horn",
+      "type": "item",
+      "category": "Sticks and Stems",
+      "location": "Beetle in Yokmir Forest"
+    },
+    {
+      "name": "Insect Jaw",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Ant in Yokmir Forest and Cave"
+    },
+    {
+      "name": "Intelligencer",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Intelligent Glasses",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Invinciroid",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Invisiblade",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Invisible Stone",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Iron",
+      "type": "item",
+      "category": "Minerals",
+      "de": "Eisen",
+      "translationStatus": "Spielbericht · offiziell unbestätigt",
+      "translationSource": "https://n-switch-on.de/2020/tests/rune-factory-4-special-fantasy-farming-deluxe/",
+      "location": "Mining on any ore"
+    },
+    {
+      "name": "Iron Bat",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Iron Edge",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Iron Geta",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Iron Hammer",
+      "type": "item",
+      "category": "Hämmer (Werkzeug)"
+    },
+    {
+      "name": "Iron Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Iron Sickle",
+      "type": "item",
+      "category": "Sicheln"
+    },
+    {
+      "name": "Iron Waltz",
+      "type": "item",
+      "category": "Special"
+    },
+    {
+      "name": "Ironleaf",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Ironleaf Seeds"
+    },
+    {
+      "name": "Ironleaf Fists",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Ironleaf Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Ivory Tusk",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Elefun in Sercerezo Hill (Chance on any Elephant-Type)"
+    },
+    {
+      "name": "Jam Roll",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Joy Waterpot",
+      "type": "item",
+      "category": "Gießkannen"
+    },
+    {
+      "name": "Kaiser Cucumber",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Cucumber Seeds until large"
+    },
+    {
+      "name": "Kaiser Lamp Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Lamp Grass Seeds until large"
+    },
+    {
+      "name": "Katana",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Katzbalger",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Ketchup",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "King Cabbage",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Cabbage Seeds until large"
+    },
+    {
+      "name": "King Cherry Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Cherry Grass Seeds until large"
+    },
+    {
+      "name": "King Pineapple",
+      "type": "item",
+      "category": "Material / Zutat",
+      "location": "Growing Pineapple Seeds until large"
+    },
+    {
+      "name": "King Pink Cat",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Pink Cat Seeds until large"
+    },
+    {
+      "name": "King Pom-Pom Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Pom-Pom Grass Seeds until large"
+    },
+    {
+      "name": "Kite Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Knight Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Knight Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Kongo",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Kote",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Lamellar Vest",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Lamp Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Lamp Grass Seeds"
+    },
+    {
+      "name": "Lamp Grass Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Lamp Squid",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Lamp Squid Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Lance",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Lance+",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Large Noel Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Noel Grass Seeds until large"
+    },
+    {
+      "name": "Leather Belt",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Leather Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Leather Gloves",
+      "type": "item",
+      "category": "Handschuhe"
+    },
+    {
+      "name": "Leek",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Leek Seeds"
+    },
+    {
+      "name": "Leek Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Left Rock Shard",
+      "type": "item",
+      "category": "Shards",
+      "location": "Sano in Leon Karnak"
+    },
+    {
+      "name": "Legendary Leek",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Leek Seeds until large"
+    },
+    {
+      "name": "Legendary Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "Aquaticus in Sharance Maze, Found while fishing (Reported in Maya Road, Sercerezo Lake, Very Rare catch)"
+    },
+    {
+      "name": "Legendary Sickle",
+      "type": "item",
+      "category": "Sicheln"
+    },
+    {
+      "name": "Legion",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Leveliser",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Light Barrier",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Light Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Dropped by Gates"
+    },
+    {
+      "name": "Light Ore",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Lightening Mane",
+      "type": "item",
+      "category": "Furs"
+    },
+    {
+      "name": "Lightning Mane",
+      "type": "item",
+      "category": "Furs",
+      "location": "Thunderbolt in Water Ruins"
+    },
+    {
+      "name": "Lightning Wand",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Lion Waterpot",
+      "type": "item",
+      "category": "Gießkannen"
+    },
+    {
+      "name": "Lobster",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Lobster Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Lolita Headdress",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Lollipop",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Lordly Yam",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Yam Seeds until large"
+    },
+    {
+      "name": "Love Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Dropped by Gates"
+    },
+    {
+      "name": "Love Potion",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Love Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "3280"
+    },
+    {
+      "name": "Love-Love Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Lover Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Luck Blade",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Lucky Strike",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Lumber",
+      "type": "item",
+      "category": "Sticks and Stems",
+      "location": "Axe"
+    },
+    {
+      "name": "Lumber Axe",
+      "type": "item",
+      "category": "Äxte (Werkzeug)"
+    },
+    {
+      "name": "Mackerel",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Mage's Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Mage's Staff+",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Magic",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Little Wizard in Sechs Territory"
+    },
+    {
+      "name": "Magic Broom",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Magic Charm",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Magic Claw",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Blood Panther in Floating Empire"
+    },
+    {
+      "name": "Magic Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Little Mages in Idra Cave"
+    },
+    {
+      "name": "Magic Earrings",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Magic Plant Shield",
+      "type": "item",
+      "category": "Shield"
+    },
+    {
+      "name": "Magic Powder",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Little Mage in Idra Cave"
+    },
+    {
+      "name": "Magic Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Magic Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Magic Shot",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Magical Lance",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Magical Potion",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Magical Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Magnifying Glass",
+      "type": "item",
+      "category": "Tools"
+    },
+    {
+      "name": "Mail",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Malm Claw",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Malm Tiger in Leon Karnak"
+    },
+    {
+      "name": "Marmalade",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Master Cure",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Masu Trout",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Material Stone",
+      "type": "item",
+      "category": "Stones",
+      "location": "Hammer"
+    },
+    {
+      "name": "Mayonnaise",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Mealy Apple",
+      "type": "item",
+      "category": "Material / Zutat",
+      "location": "Defeating Typhoon"
+    },
+    {
+      "name": "Meat Dumpling",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Medicinal Herb",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from the Summer Area, Yokmir Forest, Cave of Resurrection Search Spots"
+    },
+    {
+      "name": "Medicine Bread",
+      "type": "item",
+      "category": "Recipe Bread"
+    },
+    {
+      "name": "Medicine Bread+",
+      "type": "item",
+      "category": "Recipe Bread"
+    },
+    {
+      "name": "Mediparalyze",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Medipoison",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Mediseal",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Melody Bottle",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Siren in Rune Prana 5 (Her drops can be fished up)"
+    },
+    {
+      "name": "Mercenary's Cloak",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Metus",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Milk (L)",
+      "type": "item",
+      "category": "Dairy"
+    },
+    {
+      "name": "Milk (M)",
+      "type": "item",
+      "category": "Dairy"
+    },
+    {
+      "name": "Milk (S)",
+      "type": "item",
+      "category": "Dairy"
+    },
+    {
+      "name": "Milk Porridge",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Millionstrike",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Mind Thrust",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Minimizer",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Miracle Axe",
+      "type": "item",
+      "category": "Äxte (Werkzeug)"
+    },
+    {
+      "name": "Miso Eggplant",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Mixed Herbs",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Mixed Juice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Mixed Smoothie",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Mjolnir",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Monarch Mushroom",
+      "type": "item",
+      "category": "Material / Zutat",
+      "location": "Defeat Tricky Mush, Death Fungus"
+    },
+    {
+      "name": "Monk Staff",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Monkey Plush",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Moon Shadow",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Moondrop Flower",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Moondrop Flower Seeds Search Spots"
+    },
+    {
+      "name": "Moondrop Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Mountain Axe",
+      "type": "item",
+      "category": "Äxte (Werkzeug)"
+    },
+    {
+      "name": "Moving Branch",
+      "type": "item",
+      "category": "Sticks and Stems",
+      "location": "Dead Tree 2 in Rune Prana 7"
+    },
+    {
+      "name": "MTGU Plate",
+      "type": "item",
+      "category": "Shards",
+      "location": "Armored Tank + in Floating Empire"
+    },
+    {
+      "name": "Mushroom",
+      "type": "item",
+      "category": "Vegetable"
+    },
+    {
+      "name": "Mushroom (1)",
+      "type": "item",
+      "category": "Mushrooms",
+      "location": "Gathering from the Summer Area, Autumn/Winter Area, Yokmir Forest Search Spots"
+    },
+    {
+      "name": "Mushroom (2)",
+      "type": "item",
+      "category": "Mushrooms",
+      "location": "Gathering from the Summer Area, Autumn/Winter Area, Yokmir Forest Search Spots"
+    },
+    {
+      "name": "Mushroom (3)",
+      "type": "item",
+      "category": "Mushrooms",
+      "location": "Gathering from the Summer Area, Autumn/Winter Area, Yokmir Forest Search Spots"
+    },
+    {
+      "name": "Mushroom (4)",
+      "type": "item",
+      "category": "Mushrooms",
+      "location": "Gathering from the Summer Area, Autumn/Winter Area, Yokmir Forest Search Spots"
+    },
+    {
+      "name": "Mushroom (5)",
+      "type": "item",
+      "category": "Mushrooms",
+      "location": "Gathering from the Summer Area, Autumn/Winter Area, Yokmir Forest Search Spots"
+    },
+    {
+      "name": "Mushroom (6)",
+      "type": "item",
+      "category": "Mushrooms",
+      "location": "Gathering from the Summer Area, Autumn/Winter Area, Yokmir Forest Search Spots"
+    },
+    {
+      "name": "Mysterious Powder",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "??? in Maya Road"
+    },
+    {
+      "name": "Mystery Potion",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Naive Blade",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Needle Spear",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Needlefish",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Needlefish Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Neko Damashi",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "No Rot ß",
+      "type": "item",
+      "category": "Nutrients"
+    },
+    {
+      "name": "No Rot α",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "No Rot β",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Noble Radish",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Radish Seeds until large"
+    },
+    {
+      "name": "Noel Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Noel Grass Seeds"
+    },
+    {
+      "name": "Noel Grass Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Object X",
+      "type": "item",
+      "category": "Medicine"
+    },
+    {
+      "name": "Oil",
+      "type": "item",
+      "category": "Ingredients"
+    },
+    {
+      "name": "Old Bandage",
+      "type": "item",
+      "category": "Strings",
+      "location": "Goblin in Water Ruins"
+    },
+    {
+      "name": "Omelet",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Omelet Rice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Onigiri",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Onion",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Onion Seeds Defeating Onion Ghost"
+    },
+    {
+      "name": "Onion Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Orange",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Orange",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Growing Orange Tree Seed Defeat Yukki Search Spots"
+    },
+    {
+      "name": "Orange Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from the Spring Area, Hydra Cave, Maya Mountain Trail, Cave of Resurrection"
+    },
+    {
+      "name": "Orange Juice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Orange Ribbon",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Orange Tree Seed",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Orcus Sword",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Orichalcum",
+      "type": "item",
+      "category": "Minerals",
+      "de": "Orichalkum",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Leon Karnak, Rune Prana"
+    },
+    {
+      "name": "Orochi",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Overbreak",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Palm Claw",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Palm Cat on Autumn Road"
+    },
+    {
+      "name": "Pancakes",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Panther Claw",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Shadow Panther in Obsidian Mansion"
+    },
+    {
+      "name": "Para-Gone",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Parallel Laser",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Paralysis Poison",
+      "type": "item",
+      "category": "Liquids",
+      "location": "Hornet Queen on Maya Road"
+    },
+    {
+      "name": "Paralysis Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Penetrate Sonic",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Penguin Down",
+      "type": "item",
+      "category": "Furs",
+      "location": "Emperor Penguin in Sechs Territory"
+    },
+    {
+      "name": "Pickle Mix",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Pickled Turnip",
+      "type": "item",
+      "category": "Kochen",
+      "de": "Saure Rübe",
+      "translationStatus": "Spielbericht · offiziell unbestätigt",
+      "translationSource": "https://n-switch-on.de/2020/tests/rune-factory-4-special-fantasy-farming-deluxe/"
+    },
+    {
+      "name": "Pickles",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Pike",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Pike Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Pine Club",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Pineapple",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Pineapple Seeds"
+    },
+    {
+      "name": "Pineapple Juice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Pineapple Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Pink Cat",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Pink Cat Seeds Search Spots"
+    },
+    {
+      "name": "Pink Cat Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Pink Melon",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Pink Melon Seeds"
+    },
+    {
+      "name": "Pink Melon Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Pink Turnip",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Rosa Rübe",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Growing Pink Turnip Seeds"
+    },
+    {
+      "name": "Pink Turnip Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Pirate's Armor",
+      "type": "item",
+      "category": "Shards",
+      "location": "High Orc Viking in Rune Prana 3"
+    },
+    {
+      "name": "Pitchfork",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Piyo Sandals",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Pizza",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Plant Stem",
+      "type": "item",
+      "category": "Sticks and Stems",
+      "location": "Leaf Ball in Yokmir Cave"
+    },
+    {
+      "name": "Plant Sword",
+      "type": "item",
+      "category": "Short Sword"
+    },
+    {
+      "name": "Platinum",
+      "type": "item",
+      "category": "Minerals",
+      "de": "Platin",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Floating Empire (Found in boxes), Rune Prana"
+    },
+    {
+      "name": "Platinum Bracelet",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Platinum Edge",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Platinum Hammer",
+      "type": "item",
+      "category": "Hämmer (Werkzeug)"
+    },
+    {
+      "name": "Platinum Mail",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Platinum Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Platinum Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Platinum Sword",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Platinum Sword+",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Poison Blade",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Poison King",
+      "type": "item",
+      "category": "Liquids",
+      "location": "Hornet King in Rune Prana 2"
+    },
+    {
+      "name": "Poison Powder",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Tricky Muck on Autumn Road"
+    },
+    {
+      "name": "Poison Queen",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Poison Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Poison Spear",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Pole Axe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Pole Axe+",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Pom-Pom Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Pom-Pom Grass Seeds"
+    },
+    {
+      "name": "Pom-Pom Grass Sds.",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Pond Smelt",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Popcorn",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Potato",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Kartoffel",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Growing Potato Seeds"
+    },
+    {
+      "name": "Potato Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Pound Cake",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Power Gloves",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Power Protector",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Power Wave",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Prelude to Love",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Pretty Carapace",
+      "type": "item",
+      "category": "Cloths and Skins",
+      "location": "Killer Ant in Yokmir Cave"
+    },
+    {
+      "name": "Pretty Thread",
+      "type": "item",
+      "category": "Strings",
+      "location": "Hell Spider in Floating Empire"
+    },
+    {
+      "name": "Priest Saber",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Princely Potato",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Potato Seeds until large"
+    },
+    {
+      "name": "Prism",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Prism Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Proof of Rank",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Proof of Wisdom",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Protector",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Psycho",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Pumpkin",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Pumpkin Seeds"
+    },
+    {
+      "name": "Pumpkin Flan",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Pumpkin Headgear",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Punisher",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Puppetry Strings",
+      "type": "item",
+      "category": "Strings",
+      "location": "Marionetta in Obsidian Mansion"
+    },
+    {
+      "name": "Purple Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from the Summer Area, Yokmir Cave, Maya Mountain Road Search Spots"
+    },
+    {
+      "name": "Purple Ribbon",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Quality Cloth",
+      "type": "item",
+      "category": "Cloths and Skins",
+      "location": "Goblin Pirate in Delirium Lava Ruins"
+    },
+    {
+      "name": "Quality Fur",
+      "type": "item",
+      "category": "Furs",
+      "location": "Silver Wolf in Yokmir Cave (Chance on any Wolf-Type)"
+    },
+    {
+      "name": "Quality Propeller",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Hover Warrior in Floating Empire"
+    },
+    {
+      "name": "Quality Propellor",
+      "type": "item",
+      "category": "Claws and Fangs"
+    },
+    {
+      "name": "Quality Puffy Fur",
+      "type": "item",
+      "category": "Furs",
+      "location": "Furpy in Autumn Road"
+    },
+    {
+      "name": "Quality Sickle",
+      "type": "item",
+      "category": "Sicheln"
+    },
+    {
+      "name": "Quality Worn Cloth",
+      "type": "item",
+      "category": "Cloths and Skins",
+      "location": "Onionger in Rune Prana 1"
+    },
+    {
+      "name": "Queen's Jaw",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Ant Queen in Rune Prana 4"
+    },
+    {
+      "name": "Raccoon Leaf",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Radish",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Radish Seeds"
+    },
+    {
+      "name": "Radish Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Rafflesia Petal",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Rail Strike",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Rainbow Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Rainbow Trout",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Rainbow Waterpot",
+      "type": "item",
+      "category": "Gießkannen"
+    },
+    {
+      "name": "Raisin Bread",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Rampage",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Rapid Move",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Rare Can",
+      "type": "item",
+      "category": "Trash"
+    },
+    {
+      "name": "Raventine",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Reaper Slash",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Recovery Potion",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Red Core",
+      "type": "item",
+      "category": "Jewels",
+      "location": "Reds on Autumn Road (Near the Revival Cave), Field Dungeon"
+    },
+    {
+      "name": "Red Crystal",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Red Crystal Seeds"
+    },
+    {
+      "name": "Red Crystal Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Red Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from Maya Mountains, Delirium Lava Cave, Cave of Resurrection Search Spots"
+    },
+    {
+      "name": "Red Lion Fur",
+      "type": "item",
+      "category": "Furs",
+      "location": "Hinoe in Rune Prana 4"
+    },
+    {
+      "name": "Red Lion's Fur",
+      "type": "item",
+      "category": "Furs"
+    },
+    {
+      "name": "Red Ribbon",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Relax Tea",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Relax Tea Leaves",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Rice",
+      "type": "item",
+      "category": "Ready-made"
+    },
+    {
+      "name": "Rice Flour",
+      "type": "item",
+      "category": "Ingredients"
+    },
+    {
+      "name": "Rice Porridge",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Right Rock Shard",
+      "type": "item",
+      "category": "Shards",
+      "location": "Uno in Leon Karnak"
+    },
+    {
+      "name": "Rigid Horn",
+      "type": "item",
+      "category": "Sticks and Stems",
+      "location": "Heracles on Maya Road"
+    },
+    {
+      "name": "Risotto",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Rock",
+      "type": "item",
+      "category": "Stones",
+      "location": "Found in fields, and can be turned into material stone."
+    },
+    {
+      "name": "Rock Axe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Rocket Wing",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Rockfish",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Rockfish Stew",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Root",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Flower Blossom in Sercerezo Hill,Rafflesia in Delirium Lava Ruins, Chance drop from any Plant-Type"
+    },
+    {
+      "name": "Rosary",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Round Break",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Round Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Round Stone",
+      "type": "item",
+      "category": "Stones",
+      "location": "Fished in waterfall area of Yokmir Forest."
+    },
+    {
+      "name": "Roundoff",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Royal Carrot",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Carrot Seeds until large"
+    },
+    {
+      "name": "Royal Curry",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Royal Garter",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "category": "Jewels",
+      "location": "Delirium Lava Ruins, Maya Road"
+    },
+    {
+      "name": "Ruby Brooch",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Ruby Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Ruby Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Rune Blade",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Rune Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Mined from rune crystals"
+    },
+    {
+      "name": "Rune Edge",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Rune Legend",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Rune Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Rune Sphere Shard",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Rune Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Rune Vest",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Rush Attack",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Rush Punch",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Rusty Screw",
+      "type": "item",
+      "category": "Shards",
+      "location": "Boxes and Sechs Tank in Floating Empire"
+    },
+    {
+      "name": "Sacred Pole",
+      "type": "item",
+      "category": "Angeln"
+    },
+    {
+      "name": "Safety Lance",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Saint Axe",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Sakura",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Salad",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salamander",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Salmon",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Salmon Onigiri",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salmon Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salted C. Salmon",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salted Char",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salted Chub",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salted Masu Trout",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salted Pike",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salted Pond Smelt",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salted R. Trout",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salted Salmon",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Salted Taimen",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Sand Flounder",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Sandwich",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Sapphire",
+      "type": "item",
+      "category": "Jewels",
+      "location": "Sercerezo Hill"
+    },
+    {
+      "name": "Sapphire Brooch",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Sapphire Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Sapphire Rod",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Sardine",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Sardine Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Scale Vest",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Schnabel",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Scorpion Pincer",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Death Stalker in Sechs Territory"
+    },
+    {
+      "name": "Scorpion Tail",
+      "type": "item",
+      "category": "Strings",
+      "location": "Scorpion in Delirium Lava Ruins"
+    },
+    {
+      "name": "Scrap Metal",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Scrap Metal+",
+      "type": "item",
+      "category": "Minerals",
+      "location": "Forge with Scrap Metal"
+    },
+    {
+      "name": "Screw Rock",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Sea Cutter",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Seafood Doria",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Seafood Gratin",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Seafood Pizza",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Seasoned Hoe",
+      "type": "item",
+      "category": "Hacken"
+    },
+    {
+      "name": "Secret Shoes",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Shade Stone",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Shield Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Shield Seed",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Shine",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Shine Blade",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Shining Seed",
+      "type": "item",
+      "category": "Seeds"
+    },
+    {
+      "name": "Shiny Hoe",
+      "type": "item",
+      "category": "Hacken"
+    },
+    {
+      "name": "Shiny Screw",
+      "type": "item",
+      "category": "Shards",
+      "location": "Sechs Tank in Floating Empire"
+    },
+    {
+      "name": "Shirt",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Shooting Star Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Short Dagger",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Shoulder Piece",
+      "type": "item",
+      "category": "Shards",
+      "location": "Orc Viking in Sechs Territory"
+    },
+    {
+      "name": "Shrimp",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Shrimp Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Silent Grave",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Silent Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Silk Cloth",
+      "type": "item",
+      "category": "Cloths and Skins",
+      "location": "Hobgoblin in Idra Cave"
+    },
+    {
+      "name": "Silk Hat",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Silver",
+      "type": "item",
+      "category": "Minerals",
+      "de": "Silber",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Autumn Road, Delirium Lava Ruins, Maya Road"
+    },
+    {
+      "name": "Silver Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Silver Bracelet",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Silver Hairpin",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Silver Hammer",
+      "type": "item",
+      "category": "Hämmer (Werkzeug)"
+    },
+    {
+      "name": "Silver Pendant",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Silver Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Silver Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Skilled Pole",
+      "type": "item",
+      "category": "Angeln"
+    },
+    {
+      "name": "Skipjack",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Skipjack Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Skull",
+      "type": "item",
+      "category": "Shells and Bones",
+      "location": "Ghost in Obsidian Mansion (Chance drop on any Ghost-Type)"
+    },
+    {
+      "name": "Sky Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Small Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Dropped by Gates, Ice Wizards in Rune Prana 5"
+    },
+    {
+      "name": "Small Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Smash Blade",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Snakesword",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Snapper",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Snapper Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Sneaking Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Snow Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Snow Crown",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Sonic Dagger",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Sonic Wind",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Sorcerer's Wand",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Soul Eater",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Sour Drop",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Sovereign Spinach",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Spinach Seeds until large"
+    },
+    {
+      "name": "Sparkling Shirt",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Spear",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Spectacles",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Spider's Thread",
+      "type": "item",
+      "category": "Strings",
+      "location": "Spider in Obsidian Mansion"
+    },
+    {
+      "name": "Spiked Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Spinach",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Spinat",
+      "translationStatus": "Spielbericht · offiziell unbestätigt",
+      "translationSource": "https://n-switch-on.de/2020/tests/rune-factory-4-special-fantasy-farming-deluxe/",
+      "location": "Growing Spinach Seeds"
+    },
+    {
+      "name": "Spinach Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Splash Star",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Spoon",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Spore",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Big Muck in Selphia Plain"
+    },
+    {
+      "name": "Spring Headdress",
+      "type": "item",
+      "category": "Headgear"
+    },
+    {
+      "name": "Squid",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Squid Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Star Pendant",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Star Saber",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Star Sabre",
+      "type": "item",
+      "category": "Short Sword"
+    },
+    {
+      "name": "Stardust Upper",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Stay-up Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Steamed Bread",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Steamed Gyoza",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Steel Edge",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Steel Heart",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Steel Katana",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Steel Slicer",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Steel Sword",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Steel Sword+",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Step-In Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Stew",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Stick",
+      "type": "item",
+      "category": "Sticks and Stems",
+      "location": "Orcs in Yokmir Forest"
+    },
+    {
+      "name": "Storm",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Storm Wand",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Straight Punch",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Strange Pendant",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Straw Hat",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Strawberry",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Erdbeere",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Growing Strawberry Seeds"
+    },
+    {
+      "name": "Strawberry Jam",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Strawberry Milk",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Strawberry Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Strider Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Striking March",
+      "type": "item",
+      "category": "Special"
+    },
+    {
+      "name": "Strong Stone",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Strong Vine",
+      "type": "item",
+      "category": "Strings",
+      "location": "Flower Blossom in Sercerezo Hill"
+    },
+    {
+      "name": "Sturdy Hoe",
+      "type": "item",
+      "category": "Hacken"
+    },
+    {
+      "name": "Sultan Strawberry",
+      "type": "item",
+      "category": "Material / Zutat",
+      "location": "Growing Strawberry Seeds until large"
+    },
+    {
+      "name": "Summer Headdress",
+      "type": "item",
+      "category": "Headgear"
+    },
+    {
+      "name": "Sun Pendant",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Sunspot",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Sunsquid",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Sunsquid Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Super Ironleaf",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Ironleaf Seeds until large"
+    },
+    {
+      "name": "Super Sickle",
+      "type": "item",
+      "category": "Sicheln"
+    },
+    {
+      "name": "Sweet Potato",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Sweet Potato Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Sweet Powder",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Sword Seed",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Syringe",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Tablet of Truth",
+      "type": "item",
+      "category": "Stones",
+      "location": "G Golem in Rune Prana"
+    },
+    {
+      "name": "Taimen",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Taimen Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Talisman",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Tempura",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Tempura Bowl",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Tempura Udon",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "The Protein",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Thick Stick",
+      "type": "item",
+      "category": "Sticks and Stems",
+      "location": "Gigantes in Floating Empire"
+    },
+    {
+      "name": "Thief Knife",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Throbby Snapper",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Throne of the Empire",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Throwing Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Thunderbird Feather",
+      "type": "item",
+      "category": "Feathers",
+      "location": "Thunderbird in Floating Empire"
+    },
+    {
+      "name": "Tin Waterpot",
+      "type": "item",
+      "category": "Gießkannen"
+    },
+    {
+      "name": "Tiny Golem Stone",
+      "type": "item",
+      "category": "Stones",
+      "location": "Little Golem in Idra Cave"
+    },
+    {
+      "name": "Titan Tomato",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Tomato Seeds until large Defeating Tomato Geist"
+    },
+    {
+      "name": "Toast",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Tomahawk",
+      "type": "item",
+      "category": "Äxte"
+    },
+    {
+      "name": "Tomato",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Tomate",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Growing Tomato Seeds Defeating Tomato Geist"
+    },
+    {
+      "name": "Tomato Juice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Tomato Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Tornado Swing",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Toy Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Toyherb",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Toyherb Seeds Complete the request \"Make Some Medicine!\" Defeat Ambrosia Search Spots"
+    },
+    {
+      "name": "Toyherb Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Trident",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Trout Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Tuna",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Tuna Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Tuna Teriyaki",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Turbot",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Turbot Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Turnip",
+      "type": "item",
+      "category": "Vegetable",
+      "de": "Rübe",
+      "translationStatus": "Spielbericht · offiziell unbestätigt",
+      "translationSource": "https://n-switch-on.de/2020/tests/rune-factory-4-special-fantasy-farming-deluxe/",
+      "location": "Growing Turnip Seeds Defeating Turnip Ghost Search Spot"
+    },
+    {
+      "name": "Turnip Headgear",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Turnip Heaven",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Turnip Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Turnip's Miracle",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Turnip Ghosts in Rune Prana 3"
+    },
+    {
+      "name": "Turtle Shell",
+      "type": "item",
+      "category": "Shells and Bones",
+      "location": "Tortas in Water Ruins"
+    },
+    {
+      "name": "Turtle Shield",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Twin Attack",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Twin Blade",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Twin Justice",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Twin Leeks",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Twinkle Seed",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Tyrant Turnip",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Turnip Seeds until large"
+    },
+    {
+      "name": "Udon",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Ultimate Curry",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Ultra Moondrop Flower",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Moondrop Flower Seeds until large"
+    },
+    {
+      "name": "Ultra Onion",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Onion Seeds until large"
+    },
+    {
+      "name": "Ultra Toyherb",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing Toyherb seeds until large"
+    },
+    {
+      "name": "Umbrella",
+      "type": "item",
+      "category": "Schilde"
+    },
+    {
+      "name": "Unbroken Ivory Tusk",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Mammoth in Sechs Territory"
+    },
+    {
+      "name": "Union Stew",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Upper Cut",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Vegetable Juice",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Veggie Smoothie",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Veggieblade",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Venti's Charm",
+      "type": "item",
+      "category": "Accessories"
+    },
+    {
+      "name": "Vest",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Vine",
+      "type": "item",
+      "category": "Strings",
+      "location": "Flower Lily on Autumn Road"
+    },
+    {
+      "name": "Vital Gummi",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "Volcanon",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "War Hammer",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "War Hammer+",
+      "type": "item",
+      "category": "Hämmer"
+    },
+    {
+      "name": "Warrior's Proof",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Water Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Dropped by Gates, Mined with Aquamarine"
+    },
+    {
+      "name": "Water Dragon Ash",
+      "type": "item",
+      "category": "Powders and Spores",
+      "location": "Aquameleon in Sechs Territory"
+    },
+    {
+      "name": "Water Laser",
+      "type": "item",
+      "category": "Magic"
+    },
+    {
+      "name": "Water Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Water Shoes",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Water Spear",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Weapon Bread",
+      "type": "item",
+      "category": "Recipe Bread"
+    },
+    {
+      "name": "Weapon Bread+",
+      "type": "item",
+      "category": "Recipe Bread"
+    },
+    {
+      "name": "Weeds",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from the field Search Spots"
+    },
+    {
+      "name": "Wet Boots",
+      "type": "item",
+      "category": "Schuhe"
+    },
+    {
+      "name": "Wet Scale",
+      "type": "item",
+      "category": "Scales",
+      "location": "Sealy in Sechs Territory, Fished up in Selphia"
+    },
+    {
+      "name": "Wettable Powder",
+      "type": "item",
+      "category": "Alchemie"
+    },
+    {
+      "name": "White Crystal",
+      "type": "item",
+      "category": "Plant",
+      "location": "Growing White Crystal Seeds"
+    },
+    {
+      "name": "White Crystal Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "White Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from the field Search Spots"
+    },
+    {
+      "name": "White Ribbon",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "White Stone",
+      "type": "item",
+      "category": "Collectible"
+    },
+    {
+      "name": "Wind Cloak",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Wind Crystal",
+      "type": "item",
+      "category": "Crystals",
+      "location": "Dropped by Gates, Mined with Emerald"
+    },
+    {
+      "name": "Wind Dragon Tooth",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": ""
+    },
+    {
+      "name": "Wind Edge",
+      "type": "item",
+      "category": "Doppelklingen"
+    },
+    {
+      "name": "Wind Ring",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Wind Slash",
+      "type": "item",
+      "category": "Rune Ability"
+    },
+    {
+      "name": "Wind Sword",
+      "type": "item",
+      "category": "Kurzschwerter"
+    },
+    {
+      "name": "Wine",
+      "type": "item",
+      "category": "Ready-made"
+    },
+    {
+      "name": "Winter Headdress",
+      "type": "item",
+      "category": "Headgear"
+    },
+    {
+      "name": "Witch Earrings",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Withered Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Not taking care of crops Completing the request, \"Use Fertilizer Bin!\" Gathering from Ho-Ho Cave Search Spots"
+    },
+    {
+      "name": "Wizard's Staff",
+      "type": "item",
+      "category": "Stäbe"
+    },
+    {
+      "name": "Wolf Fang",
+      "type": "item",
+      "category": "Claws and Fangs",
+      "location": "Silver Wolf in Yokmir Cave"
+    },
+    {
+      "name": "Wood Staff",
+      "type": "item",
+      "category": "Speere"
+    },
+    {
+      "name": "Wooly Furball",
+      "type": "item",
+      "category": "Furs",
+      "location": "Shmooly in Sercerezo Hill"
+    },
+    {
+      "name": "Wooly Shirt",
+      "type": "item",
+      "category": "Rüstungen"
+    },
+    {
+      "name": "Work Gloves",
+      "type": "item",
+      "category": "Accessoires"
+    },
+    {
+      "name": "Yam",
+      "type": "item",
+      "category": "Vegetable",
+      "location": "Growing Yam Seeds"
+    },
+    {
+      "name": "Yam of the Ages",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Yam Seeds",
+      "type": "item",
+      "category": "Seed"
+    },
+    {
+      "name": "Yarn",
+      "type": "item",
+      "category": "Accessoires",
+      "location": "Crafting Table"
+    },
+    {
+      "name": "Yellow Core",
+      "type": "item",
+      "category": "Jewels",
+      "location": "Yellows on Sercerezo Hill (Furthest West spot), Field Dungeon"
+    },
+    {
+      "name": "Yellow Down",
+      "type": "item",
+      "category": "Furs",
+      "location": "Duck near Obsidian Mansion"
+    },
+    {
+      "name": "Yellow Feather",
+      "type": "item",
+      "category": "Feathers",
+      "location": "Big Ducks in Rune Prana 2"
+    },
+    {
+      "name": "Yellow Grass",
+      "type": "item",
+      "category": "Plant",
+      "location": "Gathering from the Fall / Winter Area, Maya Mountain Trail, Cave of Resurrection Search Spots"
+    },
+    {
+      "name": "Yellow Ribbon",
+      "type": "item",
+      "category": "Kopfbedeckungen"
+    },
+    {
+      "name": "Yellowtail",
+      "type": "item",
+      "category": "Fish"
+    },
+    {
+      "name": "Yellowtail Sashimi",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Yogurt",
+      "type": "item",
+      "category": "Kochen"
+    },
+    {
+      "name": "Zweihaender",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "Zweihaender+",
+      "type": "item",
+      "category": "Langschwerter"
+    },
+    {
+      "name": "???",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Maya Road",
+      "drops": [
+        "Mysterious Powder"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Airror",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Maya Road",
+      "drops": [
+        "Magic Crystal",
+        "Wind Crystal"
+      ],
+      "favorite": "Wind Crystal",
+      "produce": "ー"
+    },
+    {
+      "name": "Ambrosia",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Forest, Sharance Maze",
+      "drops": [
+        "Ambrosia's Thorns",
+        "Toyherb"
+      ],
+      "favorite": "Ultra Toyherb, Ultra Moondrop, King Pink Cat, Great Charm Blue",
+      "produce": "ー"
+    },
+    {
+      "name": "Ancient Bone",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Revival Cave - Autumn Road",
+      "drops": [
+        "Dragon Bones",
+        "Fish Fossil",
+        "Skull"
+      ],
+      "favorite": "Not Tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Ant",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Summer Area, Fall and Winter Area, Yokmir Forest, Yokmir Cave, Revival Cave",
+      "drops": [
+        "Insect Carapace",
+        "Insect Jaw",
+        "Lumber",
+        "Pretty Carapace"
+      ],
+      "favorite": "N/A",
+      "produce": "Insect Carapace"
+    },
+    {
+      "name": "Ant Queen",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 4",
+      "drops": [
+        "Pretty Carapace",
+        "Insect Carapace"
+      ],
+      "favorite": "Queen's Jaw",
+      "produce": "Honey Queen's Jaw"
+    },
+    {
+      "name": "Aquameleon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Water Dragon Ash"
+      ],
+      "favorite": "Union Stew",
+      "produce": "ー"
+    },
+    {
+      "name": "Aquaticus",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sharance Maze",
+      "drops": [
+        "Dragon Fin",
+        "Legendary Scale",
+        "Intelligencer",
+        "Recipe Bread+"
+      ],
+      "favorite": "Union Stew",
+      "produce": "ー"
+    },
+    {
+      "name": "Arch-Daemon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Leon Karnak",
+      "drops": [
+        "Devil Blood",
+        "Devil Horn"
+      ],
+      "favorite": "Devil Blood, Devil Horn",
+      "produce": "ー"
+    },
+    {
+      "name": "Armed Ghost",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana 1",
+      "drops": [
+        "N/A"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Armored Tank +",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "MTGU Plate",
+        "Gold",
+        "Platinum"
+      ],
+      "favorite": "Not Tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Baal",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 5",
+      "drops": [
+        "Great Hammer Shard",
+        "Devil Blood"
+      ],
+      "favorite": "Not Tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Bane Dragon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 1",
+      "drops": [
+        "Electro Crystal"
+      ],
+      "favorite": "Rockfish Stew",
+      "produce": "ー"
+    },
+    {
+      "name": "Beetle",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Forest, Selphia Plain",
+      "drops": [
+        "Insect Horn",
+        "Insect Carapace",
+        "Pretty Carapace"
+      ],
+      "favorite": "N/A",
+      "produce": "Insect Horn"
+    },
+    {
+      "name": "Big Duck",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 2",
+      "drops": [
+        "Yellow Down",
+        "Yellow Feather"
+      ],
+      "favorite": "Not Tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Big Muck",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Selphia Plain",
+      "drops": [
+        "Spore",
+        "Mushroom"
+      ],
+      "favorite": "Spore, Poison Powder",
+      "produce": "Spore"
+    },
+    {
+      "name": "Black Dragon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 7",
+      "drops": [
+        "Black Scale",
+        "Dragon Fang"
+      ],
+      "favorite": "Dragon Fang",
+      "produce": "ー"
+    },
+    {
+      "name": "Blackbird",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Maya Road, Rune Prana",
+      "drops": [
+        "Branch",
+        "Stick"
+      ],
+      "favorite": "Black Bird Feather",
+      "produce": "Bird's Feather Black Bird Feather"
+    },
+    {
+      "name": "Blood Panther",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Devil Blood",
+        "Magic Claw",
+        "Fur"
+      ],
+      "favorite": "Fur",
+      "produce": "ー"
+    },
+    {
+      "name": "Blue",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Water Crystal",
+        "Blue Core"
+      ],
+      "favorite": "Cake, Chocolate Cake",
+      "produce": "ー"
+    },
+    {
+      "name": "Blue Dragon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 6",
+      "drops": [
+        "Dragon Fang",
+        "Blue Scale"
+      ],
+      "favorite": "Dragon Fang",
+      "produce": "ー"
+    },
+    {
+      "name": "Buffaloo",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Bull's Horn"
+      ],
+      "favorite": "Bull's Horn",
+      "produce": "Bull's Horn"
+    },
+    {
+      "name": "Buffamoo",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Selphia Plain",
+      "drops": [
+        "Milk (S)",
+        "Milk (M)"
+      ],
+      "favorite": "Milk (S), Milk (M), Milk (L)",
+      "produce": "Unbekannt"
+    },
+    {
+      "name": "Captain Goblin",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Leon Karnak",
+      "drops": [
+        "Skull",
+        "Wine",
+        "Warrior's Proof",
+        "Silk Cloth"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Chimera",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Water Ruins, Rune Prana Floor 7",
+      "drops": [
+        "Chimera's Claw",
+        "Devil Blood",
+        "Chimera Tail"
+      ],
+      "favorite": "Royal Curry, Ultimate Curry",
+      "produce": "ー"
+    },
+    {
+      "name": "Chipsqueek",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Selphia Plain",
+      "drops": [
+        "Fur",
+        "Branch",
+        "Quality Fur"
+      ],
+      "favorite": "Fur",
+      "produce": "Fur"
+    },
+    {
+      "name": "Cloudy",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "WIP",
+      "drops": [
+        "WIP"
+      ],
+      "favorite": "WIP",
+      "produce": "WIP"
+    },
+    {
+      "name": "Cluckadoodle",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Selphia Plain, Cluck-Cluck Nest",
+      "drops": [
+        "Egg (S)",
+        "Egg (M)",
+        "Bird's Feather"
+      ],
+      "favorite": "Egg (S), Egg (M), Egg (L)",
+      "produce": "Unbekannt"
+    },
+    {
+      "name": "Crystal Mammoth",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 3",
+      "drops": [
+        "Icy Nose",
+        "Diamond"
+      ],
+      "favorite": "King Pineapple",
+      "produce": "ー"
+    },
+    {
+      "name": "Daemon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Idra Cave",
+      "drops": [
+        "Devil Blood"
+      ],
+      "favorite": "Devil Blood",
+      "produce": "ー"
+    },
+    {
+      "name": "Dark Fairy",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire, Field Dungeons",
+      "drops": [
+        "Prelude to Love"
+      ],
+      "favorite": "Fairy Elixir, Fairy Dust",
+      "produce": "Fairy Dust Fairy Elixir"
+    },
+    {
+      "name": "Dark Slime",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Emerald",
+        "Sapphire",
+        "Dark Crystal"
+      ],
+      "favorite": "Sapphire",
+      "produce": "ー"
+    },
+    {
+      "name": "Dead Tree",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Forest, Rune Prana Floor 7",
+      "drops": [
+        "Apple",
+        "Apple Tree Seeds",
+        "Moving Branch",
+        "Small Crystal"
+      ],
+      "favorite": "Greenifier+",
+      "produce": "ー"
+    },
+    {
+      "name": "Death Fungus",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Selphia Plain Mush Road (Friday Only)",
+      "drops": [
+        "Poison Powder",
+        "Holy Spore",
+        "Spore"
+      ],
+      "favorite": "Not Tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Death Orc",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 7",
+      "drops": [
+        "Ancient Orc Cloth"
+      ],
+      "favorite": "Not Tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Death Stalker",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Scorpion Tail",
+        "Pretty Carapace",
+        "Scorpion Pincer"
+      ],
+      "favorite": "Scorpion Tail",
+      "produce": "Scorpion Tail"
+    },
+    {
+      "name": "Death Wall",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 6",
+      "drops": [
+        "Broken Ice Wall"
+      ],
+      "favorite": "Ice Cream",
+      "produce": "ー"
+    },
+    {
+      "name": "Duck",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Selphia Plain",
+      "drops": [
+        "Yellow Down",
+        "Bird's Feather"
+      ],
+      "favorite": "Bird's Feather, Fur",
+      "produce": "ー"
+    },
+    {
+      "name": "Elefun",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Spring Area, Idra Cave",
+      "drops": [
+        "Ivory Tusk",
+        "Waterpot"
+      ],
+      "favorite": "Cheap Waterpot",
+      "produce": "ー"
+    },
+    {
+      "name": "Elemental Emperor",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 6",
+      "drops": [
+        "Magic"
+      ],
+      "favorite": "Magic",
+      "produce": "ー"
+    },
+    {
+      "name": "Emerald",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 7",
+      "drops": [
+        "Wind Crystal",
+        "Green Core"
+      ],
+      "favorite": "Big Green Crystal",
+      "produce": "ー"
+    },
+    {
+      "name": "Emperor Penguin",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Penguin Down"
+      ],
+      "favorite": "Bird's Feather, Fur",
+      "produce": "ー"
+    },
+    {
+      "name": "Ethelwill",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "WIP",
+      "drops": [
+        "WIP"
+      ],
+      "favorite": "WIP",
+      "produce": "WIP"
+    },
+    {
+      "name": "Fairy",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Selphia Plain",
+      "drops": [
+        "Fairy Dust",
+        "Love Potion",
+        "Prelude to Love"
+      ],
+      "favorite": "Fairy Dust",
+      "produce": "Fairy Dust"
+    },
+    {
+      "name": "Faust",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Glistening Blade",
+        "Ghost Hood"
+      ],
+      "favorite": "Ghost Hood",
+      "produce": "ー"
+    },
+    {
+      "name": "Fiergaenger",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Maya Road",
+      "drops": [
+        "Fire Dragon Ash"
+      ],
+      "favorite": "Gold Juice",
+      "produce": "ー"
+    },
+    {
+      "name": "Fiersome",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sharance Maze",
+      "drops": [
+        "Firewyrm Scale",
+        "Dragon Fang",
+        "Recipe Bread+"
+      ],
+      "favorite": "Gold Juice",
+      "produce": "ー"
+    },
+    {
+      "name": "Flare Mage",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana",
+      "drops": [
+        "Medicine Bread",
+        "Magic",
+        "Magic Crystal",
+        "Small Crystal"
+      ],
+      "favorite": "Magic",
+      "produce": "ー"
+    },
+    {
+      "name": "Flower Blossom",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sercerezo Hill",
+      "drops": [
+        "Plant Stem"
+      ],
+      "favorite": "Root, Strong Vine",
+      "produce": "Plant Stem, Root Root"
+    },
+    {
+      "name": "Flower Crystal",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Plant Stem",
+        "Root"
+      ],
+      "favorite": "Strong Vine",
+      "produce": "Plant Stem Strong Vine"
+    },
+    {
+      "name": "Flower Lily",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Autumn Road",
+      "drops": [
+        "Plant Stem",
+        "Root",
+        "Strong Vine"
+      ],
+      "favorite": "Plant Stem, Root",
+      "produce": "Vine"
+    },
+    {
+      "name": "Flower Lion",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Plant Stem",
+        "Vine"
+      ],
+      "favorite": "Plant Stem, Root",
+      "produce": "Plant Stem"
+    },
+    {
+      "name": "Fortoise",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Silver",
+        "Gold",
+        "Blk. Tortoise Shell"
+      ],
+      "favorite": "Blk. Tortoise Shell",
+      "produce": "ー"
+    },
+    {
+      "name": "Furpy",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Autumn Road",
+      "drops": [
+        "Quality Puffy Fur",
+        "Branch"
+      ],
+      "favorite": "Fur",
+      "produce": "Quality Puffy Fur"
+    },
+    {
+      "name": "G Golem",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 7",
+      "drops": [
+        "Tablet of Truth",
+        "Diamond"
+      ],
+      "favorite": "Orichalcum",
+      "produce": "ー"
+    },
+    {
+      "name": "Gaias",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Idra Cave",
+      "drops": [
+        "Magic Crystal",
+        "Earth Crystal"
+      ],
+      "favorite": "Magic Crystal, Earth Crystal",
+      "produce": "ー"
+    },
+    {
+      "name": "Gangster Goblin",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Old Bandage",
+        "Oil",
+        "Quality Cloth"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Gasham",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "WIP",
+      "drops": [
+        "WIP"
+      ],
+      "favorite": "WIP",
+      "produce": "WIP"
+    },
+    {
+      "name": "Ghost",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Obsidian Mansion",
+      "drops": [
+        "Ghost Hood",
+        "Stick"
+      ],
+      "favorite": "Ghost Hood",
+      "produce": "ー"
+    },
+    {
+      "name": "Ghost Ray",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Obsidian Mansion",
+      "drops": [
+        "Stick",
+        "Thick Stick",
+        "Ghost Hood"
+      ],
+      "favorite": "Ghost Hood",
+      "produce": "ー"
+    },
+    {
+      "name": "Gigantes",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Hammer Piece",
+        "Thick Stick"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Gobble Box",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Anywhere (Random Spawn)",
+      "drops": [
+        "Broken Hilt",
+        "Broken Box",
+        "Failed Dish"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Goblin",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Water Ruins",
+      "drops": [
+        "Old Bandage",
+        "Blade Shard"
+      ],
+      "favorite": "Old Bandage",
+      "produce": "ー"
+    },
+    {
+      "name": "Goblin Archer",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Water Ruins",
+      "drops": [
+        "Arrowhead",
+        "Old Bandage",
+        "Recovery Potion"
+      ],
+      "favorite": "Old Bandage",
+      "produce": "ー"
+    },
+    {
+      "name": "Goblin Don",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Leon Karnak",
+      "drops": [
+        "Proof of Rank",
+        "Skull",
+        "Wine"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Goblin Pirate",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Old Bandage",
+        "Oil",
+        "Quality Cloth"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Goblin Sniper",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Idra Cave",
+      "drops": [
+        "Gunpowder",
+        "Healing Potion"
+      ],
+      "favorite": "Gunpowder",
+      "produce": "ー"
+    },
+    {
+      "name": "Golem",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Golem Stone",
+        "Silver"
+      ],
+      "favorite": "Gold",
+      "produce": "ー"
+    },
+    {
+      "name": "Greater Demon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Field Dungeon, Rune Prana Floor 7",
+      "drops": [
+        "Chest Hair"
+      ],
+      "favorite": "Big Fireflower, Big Autumn Grass",
+      "produce": "Unbekannt"
+    },
+    {
+      "name": "Green",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Maya Road, World of Fields",
+      "drops": [
+        "Green Core",
+        "Wind Crystal"
+      ],
+      "favorite": "Cake, Chocolate Cake",
+      "produce": "ー"
+    },
+    {
+      "name": "Green Dragon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 1",
+      "drops": [
+        "Dragon Fang",
+        "Dragon Scale"
+      ],
+      "favorite": "Dragon Fang",
+      "produce": "ー"
+    },
+    {
+      "name": "Grimoire",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Field Dungeon, Leon Karnak",
+      "drops": [
+        "Grimoire Scale",
+        "Dragon Fang"
+      ],
+      "favorite": "Giant Gold Vegetables",
+      "produce": "ー"
+    },
+    {
+      "name": "Guardian",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "WIP",
+      "drops": [
+        "WIP"
+      ],
+      "favorite": "WIP",
+      "produce": "WIP"
+    },
+    {
+      "name": "Hammer Troll",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Maya Road",
+      "drops": [
+        "Giant's Gloves",
+        "Giant's Nail",
+        "Hammer Piece"
+      ],
+      "favorite": "Giant's Gloves, Giant's Nail, Hammer Piece",
+      "produce": "ー"
+    },
+    {
+      "name": "Handonetta",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "WIP",
+      "drops": [
+        "WIP"
+      ],
+      "favorite": "WIP",
+      "produce": "WIP"
+    },
+    {
+      "name": "Heaven's Scissors",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Level 5",
+      "drops": [
+        "Dangerous Scissors",
+        "Pretty Carapace",
+        "Scorpion Tail"
+      ],
+      "favorite": "Honey",
+      "produce": "Dangerous Scissors"
+    },
+    {
+      "name": "Hell Spider",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Pretty Thread",
+        "Spider's Thread"
+      ],
+      "favorite": "Pretty Thread, Spider's Thread",
+      "produce": "Pretty Thread"
+    },
+    {
+      "name": "Heracles",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Maya Road",
+      "drops": [
+        "Pretty Carapace"
+      ],
+      "favorite": "Rigid Horn",
+      "produce": "Rigid Horn, Insect Carapace Rigid Horn"
+    },
+    {
+      "name": "High Ogre Viking",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 3",
+      "drops": [
+        "Glue",
+        "Pirate's Armor",
+        "Wine"
+      ],
+      "favorite": "Pirate's Armor",
+      "produce": "ー"
+    },
+    {
+      "name": "High Orc",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Cave",
+      "drops": [
+        "Glue",
+        "Stick",
+        "Cheap Cloth",
+        "Cheap Bracelet"
+      ],
+      "favorite": "Glue",
+      "produce": "ー"
+    },
+    {
+      "name": "High Orc Viking",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 3",
+      "drops": [
+        "WIP"
+      ],
+      "favorite": "WIP",
+      "produce": "WIP"
+    },
+    {
+      "name": "Hinoe",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 4",
+      "drops": [
+        "Red Lion Fur",
+        "Quality Fur",
+        "Fur"
+      ],
+      "favorite": "Salted Char",
+      "produce": "ー"
+    },
+    {
+      "name": "Hobgoblin",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Idra Cave",
+      "drops": [
+        "Glue",
+        "Silk Cloth"
+      ],
+      "favorite": "Glue",
+      "produce": "ー"
+    },
+    {
+      "name": "Hornet",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Cave",
+      "drops": [
+        "Insect Skin",
+        "Pretty Carapace"
+      ],
+      "favorite": "Honey, Insect Jaw",
+      "produce": "Honey Honey"
+    },
+    {
+      "name": "Hornet Queen",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Maya Road",
+      "drops": [
+        "Pretty Carapace",
+        "Paralysis Poison",
+        "Honey",
+        "Insect Jaw"
+      ],
+      "favorite": "Honey",
+      "produce": "Honey"
+    },
+    {
+      "name": "Hover Soldier",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Cheap Propeller",
+        "Iron"
+      ],
+      "favorite": "WIP",
+      "produce": "ー"
+    },
+    {
+      "name": "Hover Warrior",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Cheap Propeller",
+        "Iron",
+        "Quality Propeller"
+      ],
+      "favorite": "WIP",
+      "produce": "ー"
+    },
+    {
+      "name": "Hunter Wolf",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Gold Wolf Fang",
+        "Quality Fur"
+      ],
+      "favorite": "Wolf Fang",
+      "produce": "Gold Wolf Fang"
+    },
+    {
+      "name": "Ice Wizard",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 5",
+      "drops": [
+        "Medicine Bread",
+        "Small Crystal"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Ignis",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Fire Crystal",
+        "Magic Crystal"
+      ],
+      "favorite": "Fire Crystal",
+      "produce": "ー"
+    },
+    {
+      "name": "Killer Ant",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Cave",
+      "drops": [
+        "Lumber"
+      ],
+      "favorite": "Pretty Carapace, Insect Jaw, Insect Carapace",
+      "produce": "Pretty Carapace Pretty Carapace"
+    },
+    {
+      "name": "King Bee",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 2",
+      "drops": [
+        "Honey",
+        "Insect Skin",
+        "Poison King"
+      ],
+      "favorite": "Honey",
+      "produce": "Honey"
+    },
+    {
+      "name": "King Wooly",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Cave, Autumn Road",
+      "drops": [
+        "Fur (S)",
+        "Wooly Furball"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Kinoto",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 4",
+      "drops": [
+        "Blue Lion Fur",
+        "Quality Fur",
+        "Fur"
+      ],
+      "favorite": "Salted Char",
+      "produce": "ー"
+    },
+    {
+      "name": "Leaf Ball",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Cave",
+      "drops": [
+        "Plant Stem"
+      ],
+      "favorite": "Plant Stem",
+      "produce": "Plant Stem"
+    },
+    {
+      "name": "Leoplicant",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 4",
+      "drops": [
+        "Fur",
+        "Quality Fur",
+        "Palm Claw",
+        "Malm Claw"
+      ],
+      "favorite": "Fur",
+      "produce": "ー"
+    },
+    {
+      "name": "Little Dragon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Dragon Fang"
+      ],
+      "favorite": "Dragon Fang",
+      "produce": "ー"
+    },
+    {
+      "name": "Little Emperor",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Leon Karnak",
+      "drops": [
+        "Magic Crystal"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Little Golem",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Idra Cave",
+      "drops": [
+        "Silver",
+        "Ruby",
+        "Tiny Golem Stone"
+      ],
+      "favorite": "Gold",
+      "produce": "ー"
+    },
+    {
+      "name": "Little Mage",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Forest of Beginnings, Idra Cave",
+      "drops": [
+        "Magic Powder",
+        "Devil Horn",
+        "Magic Crystal",
+        "Medicine Bread"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Little Wizard",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Magic",
+        "Magic Crystal",
+        "Accessory Bread",
+        "Small Crystal"
+      ],
+      "favorite": "Magic, Magic Crystal, Accessory Bread, Small Crystal",
+      "produce": "ー"
+    },
+    {
+      "name": "Little Wooly",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "WIP",
+      "drops": [
+        "WIP"
+      ],
+      "favorite": "WIP",
+      "produce": "WIP"
+    },
+    {
+      "name": "Magnuto",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Demon's Den",
+      "drops": [
+        "Raccoon Leaf",
+        "Udon",
+        "Curry Udon",
+        "Tempura Udon"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Malm Tiger",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Leon Karnak",
+      "drops": [
+        "Fur",
+        "Quality Fur",
+        "Malm Claw"
+      ],
+      "favorite": "Fur",
+      "produce": "ー"
+    },
+    {
+      "name": "Mamadoodle",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Cluck-Cluck Nest",
+      "drops": [
+        "Egg (S)",
+        "Egg (M)",
+        "Big Bird's Comb",
+        "Bird's Feather"
+      ],
+      "favorite": "Egg (S), Egg (M), Egg (L)",
+      "produce": "Egg (S), Egg (M), Egg (L)"
+    },
+    {
+      "name": "Mammoo",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Ivory Tusk",
+        "Unbroken Ivory Tusk",
+        "Tin Waterpot"
+      ],
+      "favorite": "Cheap Waterpot",
+      "produce": "ー"
+    },
+    {
+      "name": "Marin",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 7",
+      "drops": [
+        "Water Crystal",
+        "Blue Core"
+      ],
+      "favorite": "Big Blue Crystal",
+      "produce": "ー"
+    },
+    {
+      "name": "Marionetta",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Obsidian Mansion",
+      "drops": [
+        "Cursed Doll",
+        "Puppetry Strings",
+        "Fur (S)",
+        "Fur (M)"
+      ],
+      "favorite": "Cheesecake, Apple Pie",
+      "produce": "ー"
+    },
+    {
+      "name": "Master Giant",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Giant's Gloves"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Master Troll",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 4",
+      "drops": [
+        "Formuade",
+        "Giant's Gloves",
+        "Big Giant's Nail"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Mineral Squeek",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Leon Karnak",
+      "drops": [
+        "Double Steel",
+        "10x Steel"
+      ],
+      "favorite": "WIP",
+      "produce": "WIP"
+    },
+    {
+      "name": "Mino",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Autumn Road",
+      "drops": [
+        "Grapes",
+        "Grape Juice"
+      ],
+      "favorite": "Grapes",
+      "produce": "ー"
+    },
+    {
+      "name": "Minotaur",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Idra Cave",
+      "drops": [
+        "Devil Horn",
+        "Hammer Piece",
+        "The Protein"
+      ],
+      "favorite": "Hammer Piece",
+      "produce": "ー"
+    },
+    {
+      "name": "Minotaur King",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Leon Karnak",
+      "drops": [
+        "Hammer Piece",
+        "The Protein"
+      ],
+      "favorite": "Hammer Piece",
+      "produce": "ー"
+    },
+    {
+      "name": "Monster Box",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Anywhere (Random Spawn)",
+      "drops": [
+        "Broken Hilt",
+        "Failed Dish"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Nappie",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Leon Karnak",
+      "drops": [
+        "Pineapple",
+        "Pineapple Seeds",
+        "King Pineapple"
+      ],
+      "favorite": "Pineapple",
+      "produce": "ー"
+    },
+    {
+      "name": "Necro",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Idra Cave",
+      "drops": [
+        "Ghost Hood",
+        "Skull"
+      ],
+      "favorite": "Ghost Hood",
+      "produce": "ー"
+    },
+    {
+      "name": "Octopirate",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Field Dungeon, Rune Prana Floor 2",
+      "drops": [
+        "Ammonite",
+        "Fish Fossil",
+        "Vital Gummi"
+      ],
+      "favorite": "Grilled Snapper",
+      "produce": "ー"
+    },
+    {
+      "name": "Ogre Viking",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Glue",
+        "Shoulder Piece",
+        "Wine"
+      ],
+      "favorite": "Glue, Shoulder Piece, Wine",
+      "produce": "ー"
+    },
+    {
+      "name": "Olive",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana",
+      "drops": [
+        "Yellow Core",
+        "Earth Crystal",
+        "Small Crystal",
+        "Rune Crystal"
+      ],
+      "favorite": "Big White Crystal",
+      "produce": "ー"
+    },
+    {
+      "name": "Onion Ghost",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Spring Area",
+      "drops": [
+        "Onion",
+        "Onion Seeds",
+        "Ghost Hood"
+      ],
+      "favorite": "Onion, Onion Seeds, Ghost Hood",
+      "produce": "ー"
+    },
+    {
+      "name": "Onionger",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana",
+      "drops": [
+        "Onion Seeds",
+        "Quality Worn Cloth",
+        "Ghost",
+        "Onion"
+      ],
+      "favorite": "Onion Seeds",
+      "produce": "ー"
+    },
+    {
+      "name": "Orc",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Summer Area, Yokmir Forest",
+      "drops": [
+        "Stick",
+        "Cheap Cloth",
+        "Cheap Bracelet"
+      ],
+      "favorite": "Cheap Cloth",
+      "produce": "ー"
+    },
+    {
+      "name": "Orc Archer",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Summer Area, Yokmir Forest",
+      "drops": [
+        "Stick",
+        "Arrowhead",
+        "Recovery Potion"
+      ],
+      "favorite": "Arrowhead",
+      "produce": "ー"
+    },
+    {
+      "name": "Orc Hunter",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Cave",
+      "drops": [
+        "Stick",
+        "Arrowhead",
+        "Gunpowder"
+      ],
+      "favorite": "Gunpowder",
+      "produce": "ー"
+    },
+    {
+      "name": "Orc Viking",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Shoulder Piece",
+        "Glue",
+        "Wine"
+      ],
+      "favorite": "Shoulder Piece, Glue, Wine",
+      "produce": "ー"
+    },
+    {
+      "name": "Palm Cat",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Autumn Road",
+      "drops": [
+        "Palm Claw",
+        "Fur"
+      ],
+      "favorite": "Fur",
+      "produce": "ー"
+    },
+    {
+      "name": "Pepper Ghost",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Green Pepper",
+        "Green Pepper Seeds",
+        "Green Pepper Rex"
+      ],
+      "favorite": "Green Pepper",
+      "produce": "ー"
+    },
+    {
+      "name": "Pink Dragon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 6",
+      "drops": [
+        "Dragon Fang",
+        "Love Scale"
+      ],
+      "favorite": "Dragon Fang",
+      "produce": "ー"
+    },
+    {
+      "name": "Planchoa",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Maya Road",
+      "drops": [
+        "Plant Stem"
+      ],
+      "favorite": "Root, Strong Vine",
+      "produce": "Plant Stem, Root, Strong Vine Root"
+    },
+    {
+      "name": "Pomme Pomme",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Selphia Plain",
+      "drops": [
+        "Apple",
+        "Baked Apple",
+        "Apple Tree Seeds"
+      ],
+      "favorite": "Apple, Baked Apple",
+      "produce": "ー"
+    },
+    {
+      "name": "Raccoon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "See Magnuto",
+      "drops": [
+        "See Magnuto"
+      ],
+      "favorite": "See Magnuto",
+      "produce": "See Magnuto"
+    },
+    {
+      "name": "Rafflesia",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Rafflesia Petal",
+        "Root"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Ragnarok",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 7",
+      "drops": [
+        "Rune Sphere Shard",
+        "Throne of the Empire",
+        "Small Crystal",
+        "Rune Crystal"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Red",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Autumn Road",
+      "drops": [
+        "Fire Crystal",
+        "Red Core"
+      ],
+      "favorite": "Cake, Chocolate Cake",
+      "produce": "ー"
+    },
+    {
+      "name": "Red Dragon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 4",
+      "drops": [
+        "Dragon Fang",
+        "Crimson Scale"
+      ],
+      "favorite": "Dragon Fang",
+      "produce": "ー"
+    },
+    {
+      "name": "Rider Orc",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Cave",
+      "drops": [
+        "Glue",
+        "Cheap Bracelet",
+        "Cheap Cloth",
+        "Blade Shard"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Rouge",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 7",
+      "drops": [
+        "Fire Crystal",
+        "Red Core"
+      ],
+      "favorite": "Big Red Crystal",
+      "produce": "ー"
+    },
+    {
+      "name": "Ruffled Flower",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Plant Stem",
+        "Root"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Ruffled Horsetail",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Plant Stem",
+        "Root"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Ruffled Vine",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Plant Stem",
+        "Root"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Sano",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Forest of Beginnings",
+      "drops": [
+        "Left Rock Shard",
+        "Material Stone",
+        "Rock"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Sarcophagus",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Leon Karnak",
+      "drops": [
+        "Crystal Skull",
+        "Magic Crystal",
+        "Lumber"
+      ],
+      "favorite": "Mixed Juice, Gold Juice",
+      "produce": "ー"
+    },
+    {
+      "name": "Scorpion",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Scorpion Tail",
+        "Insect Carapace"
+      ],
+      "favorite": "Scorpion Tail",
+      "produce": "Scorpion Tail"
+    },
+    {
+      "name": "Sealy",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Fish Fossil",
+        "Wet Scale",
+        "Can",
+        "Rare Can"
+      ],
+      "favorite": "Fish Fossil",
+      "produce": "ー"
+    },
+    {
+      "name": "Sechs Cat",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "N/A"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Sechs Dragon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "N/A"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Sechs Golem",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Golem Stone",
+        "Golem Tablet"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Sechs Sorcerer",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "N/A"
+      ],
+      "favorite": "N/A",
+      "produce": "ー"
+    },
+    {
+      "name": "Sechs Tank",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Rusty Screw",
+        "Shiny Screw"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Shadow Panther",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Obsidian Mansion",
+      "drops": [
+        "Panther Claw",
+        "Quality Fur"
+      ],
+      "favorite": "Fur",
+      "produce": "ー"
+    },
+    {
+      "name": "Shmooly",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Spring Area",
+      "drops": [
+        "Fur (S)",
+        "Fur (M)",
+        "Fur (L)",
+        "Clippers"
+      ],
+      "favorite": "Clippers",
+      "produce": "Fur (S), Fur (M), Fur (L)"
+    },
+    {
+      "name": "Silver Wolf",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Yokmir Cave, Sechs Territory",
+      "drops": [
+        "Wolf Fang",
+        "Quality Fur"
+      ],
+      "favorite": "Wolf Fang",
+      "produce": "Wolf Fang"
+    },
+    {
+      "name": "Siren",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 5",
+      "drops": [
+        "Melody Bottle",
+        "Intelligencer",
+        "Mealy Apple"
+      ],
+      "favorite": "Great 4-Leaf Clover",
+      "produce": "ー"
+    },
+    {
+      "name": "Sky Fish",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "WIP",
+      "drops": [
+        "WIP"
+      ],
+      "favorite": "WIP",
+      "produce": "WIP"
+    },
+    {
+      "name": "Slime",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Obsidian Mansion",
+      "drops": [
+        "Amethyst",
+        "Aquamarine",
+        "Copper"
+      ],
+      "favorite": "Ruby",
+      "produce": "ー"
+    },
+    {
+      "name": "Snowy",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Orange",
+        "Orange Juice"
+      ],
+      "favorite": "Orange, Orange Juice",
+      "produce": "ー"
+    },
+    {
+      "name": "Soldier",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "WIP",
+      "drops": [],
+      "favorite": "WIP",
+      "produce": "WIP"
+    },
+    {
+      "name": "Spider",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Obsidian Mansion",
+      "drops": [
+        "Spider's Thread"
+      ],
+      "favorite": "Spider's Thread",
+      "produce": "Spider's Thread"
+    },
+    {
+      "name": "Spirit",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Obsidian Mansion",
+      "drops": [
+        "Magic Crystal",
+        "Dark Crystal"
+      ],
+      "favorite": "Dark Crystal",
+      "produce": "ー"
+    },
+    {
+      "name": "Terrable",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sharance Maze",
+      "drops": [
+        "Earthwyrm Scale",
+        "Dragon Fang",
+        "Vital Gummi",
+        "Recipe Bread+"
+      ],
+      "favorite": "Turnip Heaven",
+      "produce": "ー"
+    },
+    {
+      "name": "Terraclone",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Idra Cave",
+      "drops": [
+        "Earth Dragon Ash"
+      ],
+      "favorite": "Turnip Heaven",
+      "produce": "ー"
+    },
+    {
+      "name": "Thunderbird",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Floating Empire",
+      "drops": [
+        "Branch"
+      ],
+      "favorite": "Thunderbird Feather",
+      "produce": "Thunderbird Feather Thunderbird Feather"
+    },
+    {
+      "name": "Thunderbolt",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Water Ruins",
+      "drops": [
+        "Lightning Mane",
+        "Fur"
+      ],
+      "favorite": "Royal Carrot",
+      "produce": "ー"
+    },
+    {
+      "name": "Titan",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Blue Giant's Glove",
+        "Giant's Nail"
+      ],
+      "favorite": "Hammer Piece",
+      "produce": "ー"
+    },
+    {
+      "name": "Tomato Ghost",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Tomato",
+        "Tomato Seeds",
+        "Ghost Hood",
+        "Titan Tomato"
+      ],
+      "favorite": "Tomato",
+      "produce": "ー"
+    },
+    {
+      "name": "Tortas",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Water Ruins",
+      "drops": [
+        "Turtle Shell",
+        "Iron",
+        "Bronze"
+      ],
+      "favorite": "Turtle Shell, Egg",
+      "produce": "ー"
+    },
+    {
+      "name": "Tricky Muck",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Autumn Road",
+      "drops": [
+        "Spore"
+      ],
+      "favorite": "Poison Powder",
+      "produce": "Spore, Poison Powder Poison Powder"
+    },
+    {
+      "name": "Troll",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Delirium Lava Ruins",
+      "drops": [
+        "Giant's Nail"
+      ],
+      "favorite": "Hammer Piece",
+      "produce": "ー"
+    },
+    {
+      "name": "Tundra",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sechs Territory",
+      "drops": [
+        "Water Crystal",
+        "Magic Crystal"
+      ],
+      "favorite": "Water Crystal",
+      "produce": "ー"
+    },
+    {
+      "name": "Turnip Ghost",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana",
+      "drops": [
+        "Turnip",
+        "Turnip Seeds",
+        "Gold Turnip Seeds",
+        "Turnip's Miracle"
+      ],
+      "favorite": "Turnip, Turnip Seeds",
+      "produce": "ー"
+    },
+    {
+      "name": "Typhoon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sercerezo Hill (During typhoons only)",
+      "drops": [
+        "Devil Blood",
+        "Devil Horn",
+        "Mealy Apple"
+      ],
+      "favorite": "Mealy Apple",
+      "produce": "ー"
+    },
+    {
+      "name": "Uno",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Leon Karnak",
+      "drops": [
+        "Right Rock Shard",
+        "Material Stone",
+        "Rock"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Ventuswill",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sharance Maze",
+      "drops": [
+        "Wind Dragon Tooth",
+        "Dragon Fang",
+        "Dragon Scale",
+        "Recipe Bread+"
+      ],
+      "favorite": "Not tameable",
+      "produce": "ー"
+    },
+    {
+      "name": "Weagle",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Water Ruins",
+      "drops": [
+        "Branch",
+        "Stick"
+      ],
+      "favorite": "Bird's Feather, Shining Seed",
+      "produce": "Bird's Feather Bird's Feather"
+    },
+    {
+      "name": "Wooly",
+      "type": "monster",
+      "category": "Gegner",
+      "de": "Wolli",
+      "translationStatus": "Suchhilfe · offiziell unbestätigt",
+      "location": "Selphia Plain, Summer Area",
+      "drops": [
+        "Fur (S)",
+        "Clippers"
+      ],
+      "favorite": "Clippers",
+      "produce": "Fur (S), Fur (M), Fur (L)"
+    },
+    {
+      "name": "Yellow",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Sercerezo Hill",
+      "drops": [
+        "Earth Crystal",
+        "Yellow Core"
+      ],
+      "favorite": "Cake, Chocolate Cake",
+      "produce": "ー"
+    },
+    {
+      "name": "Yellow Dragon",
+      "type": "monster",
+      "category": "Gegner",
+      "location": "Rune Prana Floor 6",
+      "drops": [
+        "Dragon Fang",
+        "Glitter Scale"
+      ],
+      "favorite": "Dragon Fang",
+      "produce": "ー"
+    }
+  ],
+  "game": "Rune Factory 4",
+  "retrieved": "2026-10-29"
+}

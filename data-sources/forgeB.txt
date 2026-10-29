@@ -1,0 +1,270 @@
+Forging (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Forging_%28RF4%29)
+citeturn10view0 [wordlim: 200] Crawled: 7 months ago; Content type: text/html; Source: open({"ref_id":"turn2view3","lineno":940}); Redirected to URL: https://therunefactory.fandom.com/wiki/Forging_(RF4); Total lines: 1207
+L896: 【937†Image: RF4DragonClaws】 【519†Dragon Claws】  42  ATK +592, DEF +40, Diz +3  【236†Platinum】  【313†Dragon Fang】  【333†Scales】 【447†Cloths and Skins】
+L897: 【938†Image: RF4FistsOfDark】 【520†Fists of Dark】  46  [Atr] Dark, ATK +748, DEF +45, M.ATK +30, M.DEF +15, INT +15, Diz +3  Dark  【248†Malm Claw】  【322†Dark Crystal】  【258†Cursed Doll】
+L898: 【939†Image: RF4FistsOfWind】 【521†Fists of Wind】  50  [Atr] Wind, ATK +906, DEF +50, M.ATK +30, M.DEF +20, INT +15, Diz +3  Wind  【248†Malm Claw】  【238†Wind Crystal】  【262†Chimera's Claw】
+L899: 【940†Image: RF4FistsOfLight】 【522†Fists of Light】  53  [Atr] Light ATK +1110, DEF +100, M.ATK +100, M.DEF +40, INT +15, Diz +3  Light  【252†Orichalcum】  【325†Light Crystal】  【325†Light Crystal】  【407†Big Crystal】
+L900: 【941†Image: RF4CatPunch】 【523†Cat Punch】  57  ATK +1411, DEF +125, M.ATK +200, M.DEF +45, Diz +3, Crit +5%  【252†Orichalcum】  【524†Quality Worn Cloth】  【256†Yellow Feather】  【318†Big Bird's Comb】  【262†Chimera's Claw】
+L901: 【942†Image: RF4AnimalPuppets】 【525†Animal Puppets】  60  ATK +1960, DEF +150, M.ATK +500, M.DEF +50, Diz +3  【392†Turnip's Miracle】  【284†Rune Crystal】  【384†Puppetry Strings】  【526†Furs】 【526†Furs】
+L902: 【943†Image: RF4IronleafFists】 【527†Ironleaf Fists】  64  ATK +2550, DEF +180, M.ATK +800, M.DEF +60, Diz +1, Crit +3%  【252†Orichalcum】  【498†Crimson Scale】  【338†MTGU Plate】  【528†Ironleaf】  【528†Ironleaf】
+L903: 【944†Image: RF4Caestus】 【529†Caestus】  69  ATK +4000, DEF +220, M.ATK +1000, M.DEF +80, Diz +3  【252†Orichalcum】  【267†Dangerous Scissors】  【340†Red Lion Fur】  【341†Blue Lion Fur】
+L904: 【945†Image: RF4GolemPunch】 【530†Golem Punch】  75  ATK +4980, DEF +300, M.DEF +90, Diz +3  【252†Orichalcum】  【272†Golem Spirit Stone】  【345†Golem Tablet】  【338†MTGU Plate】  【531†Shiny Screw】
+L905: 【946†Image: RF4HandofGod】 【532†Hand of God】  82  ATK +7500, DEF +360, M.ATK +2000, M.DEF +100, Diz +3  【277†Dragonic Stone】  【436†Chimera Tail】  【250†Ambrosia's Thorns】  【287†Small Crystal】  【447†Cloths and Skins】
+L906: 【947†Image: RF4BazalKatar】 【533†Bazal Katar】  90  ATK +9800, DEF +580, M.DEF +300, Diz +3  【277†Dragonic Stone】  【283†Earthwyrm Scale】  【286†Firewyrm Scale】  【396†Crystal Skull】  【447†Cloths and Skins】
+L907: 【948†Image: RF4Fenrir】 【534†Fenrir】  99  ATK +12350, DEF +720, M.ATK +10000, M.DEF +500, Diz +3  【290†Rune Sphere Shard】  【284†Rune Crystal】  【340†Red Lion Fur】  【341†Blue Lion Fur】  【535†Broken Ice Wall】
+L908: ### Staves[]
+L909: 
+L910: A listing of staff abilities, prices, and descriptions can be found in the 【536†Staves】 section of the 【170†Equipment (RF4)】 page.
+L911: Staves
+L912: Item Level Abilities Element Required Materials
+L913: 【949†Image: RF4Rod】 【537†Rod】  2  [Atr] Fire, M.ATK +8, Diz +15  Fire  【223†Sticks and Stems】
+L914: 【950†Image: RF4AmethystRod】 【538†Amethyst Rod】  6  [Atr] Earth, M.ATK +10, Diz +15  Earth  【257†Amethyst】  【223†Sticks and Stems】
+L915: 【951†Image: RF4AquamarineRod】 【539†Aquamarine Rod】  8  [Atr] Water, M.ATK +11, Diz +15  Water  【213†Aquamarine】  【223†Sticks and Stems】
+L916: 【952†Image: RF4FriendlyRod】 【540†Friendly Rod】  13  [Atr] Love, M.ATK +18, Diz +15  Love 【268†Love Crystal】  【223†Sticks and Stems】
+L917: 【953†Image: RF4LoveLoveRod】 【541†Love-Love Rod】  15  [Atr] Love, M.ATK +35, Diz +15  Love 【540†Friendly Rod】  【268†Love Crystal】  【268†Love Crystal】  【268†Love Crystal】
+L918: 【954†Image: RF4Staff】 【542†Staff】  16  [Ability] [Atr] Earth M.ATK +26
+L919: Diz +15  Earth  【543†Magic Crystal】  【223†Sticks and Stems】
+L920: 【955†Image: RF4EmeraldRod】 【544†Emerald Rod】  18  [Atr] Wind, M.ATK +42, Diz +15  Wind  【254†Emerald】  【223†Sticks and Stems】
+L921: 【956†Image: RF4SilverStaff】 【545†Silver Staff】  21  [Atr] Dark, M.ATK +47, Diz +15  Dark  【212†Silver】  【223†Sticks and Stems】
+L922: 【957†Image: RF4FlareStaff】 【546†Flare Staff】  22  [Atr] Fire, M.ATK +50, Diz +15  Fire  【220†Fire Crystal】  【223†Sticks and Stems】
+L923: 【958†Image: RF4RubyRod】 【547†Ruby Rod】  23  [Atr] Fire, M.ATK +56, Diz +15  Fire  【246†Ruby】  【223†Sticks and Stems】
+L924: 【959†Image: RF4SapphireRod】 【548†Sapphire Rod】  26  [Atr] Light, M.ATK +60, Diz +15  Light  【217†Sapphire】  【223†Sticks and Stems】
+L925: 【960†Image: RF4EarthStaff】 【549†Earth Staff】  28  [Atr] Earth, M.ATK +65, Diz +15  Earth  【227†Earth Crystal】  【223†Sticks and Stems】
+L926: 【961†Image: RF4LightningWand】 【550†Lightning Wand】  30  [Atr] Wind, M.ATK +72, Diz +15  Wind  【238†Wind Crystal】  【223†Sticks and Stems】
+L927: 【962†Image: RF4IceStaff】 【551†Ice Staff】  31  [Atr] Water, M.ATK +80, Diz +15  Water  【265†Water Crystal】  【223†Sticks and Stems】
+L928: 【963†Image: RF4DiamondRod】 【552†Diamond Rod】  33  [Atr] Dark, M.ATK +94, Diz +15  Dark  【230†Diamond】  【223†Sticks and Stems】
+L929: 【964†Image: RF4WizardsStaff】 【553†Wizard's Staff】  35  [Atr] Light, M.ATK +105, Diz +15  Light  【240†Magic】  【223†Sticks and Stems】
+L930: 【965†Image: RF4MagesStaff】 【554†Mage's Staff】  40  [Atr] Earth, M.ATK +162, Diz +15  Earth  【236†Platinum】  【223†Sticks and Stems】
+L931: 【966†Image: RF4ShootingStarStaff】 【555†Shooting Star Staff】  43  [Atr] Light, M.ATK +254, Diz +15  Light  【556†Fairy Elixir】  【557†Golem Stone】  【223†Sticks and Stems】
+L932: 【967†Image: RF4HellBranch】 【558†Hell Branch】  49  [Atr] Dark, M.ATK +300, Diz +15  Dark  【559†Skull】  【245†Warrior's Proof】  【387†Proof of Rank】  【249†Devil Horn】
+L933: 【968†Image: RF4CrimsonStaff】 【560†Crimson Staff】  50  [Atr] Fire, M.ATK +380, Diz +15  Fire  【349†Red Core】  【273†Fire Dragon Ash】  【249†Devil Horn】
+L934: 【969†Image: RF4BubbleStaff】 【561†Bubble Staff】  53  [Atr] Water, M.ATK +500, Diz +15  Water  【343†Blue Core】  【352†Water Dragon Ash】  【252†Orichalcum】  【223†Sticks and Stems】
+L935: 【970†Image: RF4GaiaRod】 【562†Gaia Rod】  56  [Atr] Earth M.ATK +980, Diz +15  Earth  【350†Yellow Core】  【270†Earth Dragon Ash】  【256†Yellow Feather】  【223†Sticks and Stems】
+L936: 【971†Image: RF4CycloneRod】 【563†Cyclone Rod】  60  [Atr] Wind, M.ATK +1460, Diz +15  Wind  【291†Green Core】  【332†Grimoire Scale】  【392†Turnip's Miracle】  【223†Sticks and Stems】
+L937: 【972†Image: RF4StormWand】 【564†Storm Wand】  65  [Atr] Wind, M.ATK +1920, Diz +15  Wind  【565†Mealy Apple】  【275†Electro Crystal】  【252†Orichalcum】  【223†Sticks and Stems】
+L938: 【973†Image: RF4RuneStaff】 【566†Rune Staff】  70  [Atr] Light, M.ATK+ 3140, Diz +15  Light  【284†Rune Crystal】  【284†Rune Crystal】  【498†Crimson Scale】  【223†Sticks and Stems】
+L939: 【974†Image: RF4MagesStaffPlus】 【567†Mage's Staff+】  76  [Atr] Love, M.ATK +4400, VIT +60, Diz +15  Love  【277†Dragonic Stone】  【252†Orichalcum】  【347†Love Scale】  【268†Love Crystal】  【223†Sticks and Stems】
+L940: 【975†Image: RF4MagicBroom】 【568†Magic Broom】  82  [Atr] Wind, M.ATK +5500, Diz +15  Wind  【569†Ancient Orc Cloth】  【405†Moving Branch】  【284†Rune Crystal】  【407†Big Crystal】  【334†Strings】
+L941: 【976†Image: RF4MagicShot】 【570†Magic Shot】  85  [Atr] Love, ATK +7980, M.ATK +7350, M.DEF +50, Diz +30, Crit +50%, Knock +50%, Stun +150%  Love  【283†Earthwyrm Scale】  【402†Melody Bottle】  【284†Rune Crystal】  【287†Small Crystal】  【223†Sticks and Stems】
+L942: 【977†Image: RF4HellCurse】 【571†Hell Curse】  87  [Atr] Dark, M.ATK +8800, Diz +15  Air  【405†Moving Branch】  【354†Dragon Fin】  【258†Cursed Doll】  【396†Crystal Skull】  【287†Small Crystal】
+L943: 【978†Image: RF4Algernon】 【572†Algernon】  91  [Atr] Earth, M.ATK +10800, Diz +15  Earth  【405†Moving Branch】  【250†Ambrosia's Thorns】  【292†Wind Dragon Tooth】  【573†Charm Blue】  【574†Lamp Grass】
+L944: 【979†Image: RF4SorcerersWand】 【575†Sorcerer's Wand】  99  [Atr] Light M.ATK +12960, Diz +15  Light  【290†Rune Sphere Shard】  【354†Dragon Fin】  【284†Rune Crystal】  【287†Small Crystal】  【405†Moving Branch】
+L945: 【980†Image: RF4Basket】 【576†Basket】  4  [Atr] Love, M.ATK +5, VIT +20, Crit +25%
+L946: Charge Ability: Heals a friendly target for a considerable amount.  Love  【334†Strings】 【334†Strings】 【447†Cloths and Skins】
+L947: 【981†Image: RF4GoldenTurnipStaff】 【577†Golden Turnip Staff】  80  [Atr] Love, M.ATK +120 Diz +15  Love  【578†Golden Turnip】  【223†Sticks and Stems】
+L948: 【982†Image: RF4SweetPotatoStaff】 【579†Sweet Potato Staff】  10  [Atr] Love, M.ATK +10, Diz +15  Love  【580†Sweet Potato】  【223†Sticks and Stems】
+L949: 【983†Image: RF4ElvishHarp】 【581†Elvish Harp】  24  [Atr] Love, M.ATK +32, Diz +30  Love  【334†Strings】 【223†Sticks and Stems】
+L950: 【984†Image: RF4Syringe】 【582†Syringe】  29  [Ability] [Atr] Water ATK +40 M.ATK +1
+L951: Diz +30 Crit +30% Knock +50% Stun +150%
+L952: 
+L953: Water  【212†Silver】  【526†Furs】 【223†Sticks and Stems】
+L954: ## Tools[]
+L955: ### Hoe[]
+L956: 
+L957: A listing of hoe abilities, prices, and descriptions can be found in the 【583†Hoe】 section of the 【170†Equipment (RF4)】 page.
+L958: Hoe
+L959: Item Level Element Required Materials
+L960: 【985†Image: RF4CheapHoe】 【584†Cheap Hoe】  5  Earth  【205†Minerals】 -------- -------- -------- --------
+L961: 【986†Image: RF4SturdyHoe】 【585†Sturdy Hoe】  15  Earth  【210†Bronze】
+L962: 【987†Image: RF4SeasonedHoe】 【586†Seasoned Hoe】  30  Earth  【212†Silver】
+L963: 【988†Image: RF4ShinyHoe】 【587†Shiny Hoe】  45  Earth  【219†Gold】
+L964: 【989†Image: BlessedHoe】 【199†Blessed Hoe】  80  Earth  【236†Platinum】
+L965: ### Waterpot[]
+L966: 
+L967: A listing of waterpot abilities, prices, and descriptions can be found in the 【588†Waterpot】 section of the 【170†Equipment (RF4)】 page.
+L968: Waterpot
+L969: Item Level Element Required Materials
+L970: 【990†Image: Cheap Waterpot】 【589†Cheap Waterpot】  5  Water  【205†Minerals】 【447†Cloths and Skins】 -------- -------- --------
+L971: 【991†Image: RF4TinWaterpot】 【590†Tin Waterpot】  15  Water  【210†Bronze】  【447†Cloths and Skins】
+L972: 【992†Image: RF4LionWaterpot】 【591†Lion Waterpot】  30  Water  【212†Silver】  【447†Cloths and Skins】
+L973: 【993†Image: RF4RainbowWaterpot】 【592†Rainbow Waterpot】  45  Water  【219†Gold】  【447†Cloths and Skins】
+L974: 【994†Image: RF4JoyWaterpot】 【593†Joy Waterpot】  80  Water  【236†Platinum】  【447†Cloths and Skins】
+L975: ### Sickle[]
+L976: 
+L977: A listing of sickle abilities, prices, and descriptions can be found in the 【594†Sickle】 section of the 【170†Equipment (RF4)】 page.
+L978: Sickle
+L979: Item Level Element Required Materials
+L980: 【995†Image: RF4CheapSickle】 【595†Cheap Sickle】  5  【205†Minerals】 【397†Shards】 -------- -------- --------
+L981: 【996†Image: RF4IronSickle】 【596†Iron Sickle】  15  【210†Bronze】  【397†Shards】
+L982: 【997†Image: RF4QualitySickle】 【597†Quality Sickle】  30  【212†Silver】  【397†Shards】
+L983: 【998†Image: RF4SuperSickle】 【598†Super Sickle】  45  Wind  【219†Gold】  【397†Shards】
+L984: 【999†Image: RF4LegendarySickle】 【599†Legendary Sickle】  80  Wind  【236†Platinum】  【397†Shards】
+L985: ### Axe[]
+L986: 
+L987: A listing of short sword abilities, prices, and descriptions can be found in the 【600†Axe】 section of the 【170†Equipment (RF4)】 page.
+L988: Axe
+L989: Item Level Element Required Materials
+L990: 【1000†Image: RF4CheapAxe】 【415†Cheap Axe】  5  【457†Stones】 【223†Sticks and Stems】 -------- -------- --------
+L991: 【1001†Image: RF4ChoppingAxe】 【601†Chopping Axe】  15  【210†Bronze】  【457†Stones】 【223†Sticks and Stems】
+L992: 【1002†Image: RF4LumberAxe】 【602†Lumber Axe】  30  【212†Silver】  【457†Stones】 【223†Sticks and Stems】
+L993: 【1003†Image: RF4MountainAxe】 【603†Mountain Axe】  45  【219†Gold】  【457†Stones】 【223†Sticks and Stems】
+L994: 【1004†Image: RF4MiracleAxe】 【604†Miracle Axe】  80  【236†Platinum】  【457†Stones】 【223†Sticks and Stems】
+L995: ### Hammer[]
+L996: 
+L997: A listing of hammer abilities, prices, and descriptions can be found in the 【605†Hammer】 section of the 【170†Equipment (RF4)】 page.
+L998: Hammer
+L999: Item Level Element Required Materials
+L1000: 【1005†Image: RF4CheapHammer】 【445†Cheap Hammer】  5  【205†Minerals】 【223†Sticks and Stems】 -------- -------- --------
+L1001: 【1006†Image: RF4IronHammer】 【606†Iron Hammer】  15  【210†Bronze】  【223†Sticks and Stems】
+L1002: 【1007†Image: RF4SilverHammer】 【607†Silver Hammer】  30  【212†Silver】  【223†Sticks and Stems】
+L1003: 【1008†Image: RF4GoldenHammer】 【608†Golden Hammer】  45  【219†Gold】  【223†Sticks and Stems】
+L1004: 【1009†Image: RF4PlatinumHammer】 【200†Platinum Hammer】  80  【236†Platinum】  【223†Sticks and Stems】
+L1005: ### Fishing Pole[]
+L1006: 
+L1007: A listing of fishing pole abilities, prices, and descriptions can be found in the 【609†Fishing Pole】 section of the 【170†Equipment (RF4)】 page.
+L1008: Fishing Pole
+L1009: Item Level Element Required Materials
+L1010: 【1010†Image: RF4Cheap Pole】 【610†Cheap Pole】  5  【223†Sticks and Stems】 【334†Strings】 -------- -------- --------
+L1011: 【1011†Image: RF4Beginner's Pole】 【611†Beginner's Pole】  15  【210†Bronze】  【223†Sticks and Stems】 【334†Strings】
+L1012: 【1012†Image: RF4Skilled Pole】 【612†Skilled Pole】  30  【212†Silver】  【223†Sticks and Stems】 【334†Strings】
+L1013: 【1013†Image: RF4Famous Pole】 【613†Famous Pole】  45  【219†Gold】  【223†Sticks and Stems】 【334†Strings】
+L1014: 【1014†Image: RF4Sacred Pole】 【198†Sacred Pole】  80  【236†Platinum】  【223†Sticks and Stems】 【334†Strings】
+L1015: ## Level/【614†Rarity】 Bonus[]
+L1016: 
+L1017: 【1015†Image: Level Bonus】
+L1018: 
+L1019: When crafting an item you can use up to 6 items. After this, you can use an additional 9 to upgrade it. The levels (1-10) of all 15 items are added together for a total level, and a bonus to Attack and Magic Attack is added to the weapon based on this total level.
+L1020: 
+L1021: Level Bonus
+L1022: Total level of all Materials used in crafting and Upgrading
+L1023:  (6 materials used in crafting + 9 used to upgrade)  ATK Bonus
+L1024:   M.ATK Bonus
+L1025:   Barrett Quote
+L1026: 30 +10  +5  "...good quality"
+L1027: 60 +25  +10  "A lot of good materials..."
+L1028: 90 +70  +40  "...great quality"
+L1029: 120 +200  +180  "...almost perfect"
+L1030: 150(all 15 materials at level 10)  +700  +650  "...all perfect!"
+L1031: 
+L1032: 【614†Rarity】 is a hidden value assigned to all items from 1 to 15 regardless of level, the max being 225 for all 15 items having a rarity of 15.
+L1033: - For example if you made a 【204†Broadsword】 with 6 【277†dragonic stone】(rarity 15) and upgraded it with 9 【284†rune crystals】 (rarity 14) the rarity would total 216, so the weapon would be granted the top bonus of +2000 ATK.
+L1034: 
+L1035: Rarity Bonus
+L1036: Total Rarity Value of all Materials used in crafting and Upgrading
+L1037:  (6 materials used in crafting + 9 used to upgrade)  ATK Bonus
+L1038:   M.ATK Bonus(Staffs Only)
+L1039:   Barrett Quote
+L1040: 25 +10  +5  "...with some unusual materials"
+L1041: 50 +40  +15  "...with unusual materials"
+L1042: 70 +80  +35  "...with some rather unusual materials"
+L1043: 100 +150  +100  "...with rare materials"
+L1044: 125 +300  +160  "...with pretty rare materials"
+L1045: 150 +500  +400  "...with really rare materials"
+L1046: 175 +1000  +950  "...with extremely rare materials"
+L1047: 200 +2000  +1800  "...with nothing but the rarest of materials"
+L1048: # 【190†Upgrading】[]
+L1049: 
+L1050: Rune Factory 4: See other's Blogs and secrets
+L1051: 
+L1052: Once you've acquired a forge and/or a crafting table, you can begin upgrading your weapons via forge and armor via crafting table. The forge can upgrade weapons and farm tools, and the crafting table can upgrade all types of armor.
+L1053: When using the forge or crafting table, you will have the option to upgrade. Choosing said option will bring up a crafting menu with three slots. The top slot is where one places items used to upgrade, the middle slot is where to place the item you wish to upgrade, and the bottom slot shows you the outcome of combining the two items in the middle and top slots.
+L1054: 
+L1055: 【1016†Image: RF4 Blacksmih Room】 【1017†Image: RF4 Blacksmih Room†therunefactory.fandom.com】
+L1056: Each item that is usable to upgrade armor and weapons will have a classification in it's description labeled "[Upgrade Info]" which will tell you the difficulty level to use this item to upgrade with and the effect that using this item will give to the weapon or armor once upgraded. The difficulty level corresponds to your crafting/forging level and the RP needed to use higher difficulty items lowers as your forging/crafting levels increase.
+L1057: Every time you upgrade an item it will go up one level, even if no additional stats are added. Every item has a maximum upgrade-able level of 10, so make sure to make your upgrades count, as you cannot upgrade beyond this point. As well, the more you try to upgrade the same item to the piece, the lower the effect will be, up to the point of having no effect at all.
+L1058: A helpful tip: by adding upgrade items to the initial recipe of an item (Note: you must make the item from a recipe for this to work!), you can craft much more powerful versions of the weapon/armor with a blue colored name that have the upgrade effect applied to them at level one, thus allowing you to make significantly more powerful items as you will still be allowed to continue to upgrade these items to level 10.
+L1059: On top of this, if you use a recipe that is low difficulty, it is possible to add very high difficulty upgrades to the items for much, much lower RP costs than if you were to do so during normal upgrading, to the point where you can use upgrade materials you wouldn't normally be able to use. This is directly tied to the difficulty of the recipe itself: adding upgrade items during crafting requires more RP, stacking on top of the base amount of RP necessary.
+L1060: Although crafting additional pieces to a base item does not affect the diminishing returns, only the first three items will augment to the weapon or armor.
+L1061: Additionally, using the same items to upgrade a single piece of equipment will cause succeeding items to halve after each use. 【615†10-fold Steel】, however will be rendered completely useless after its first use.
+L1062: ## Gallery[]
+L1063: 
+L1064: 【1018†Image: RF4 Blacksmih Room.png (826 KB)†therunefactory.fandom.com】【1019†Image: RF4 Blacksmih Room.png (826 KB)】
+L1065: 
+L1066:   * Forging
+L1067:   * 【167†Crafting】
+L1068:   * 【616†Pharmacy】
+L1069:   * 【190†Upgrading Items】
+L1070: ## References[]
+L1071: 
+L1072: 【617†v】 · 【618†e】【14†Rune Factory 4】
+L1073: 
+L1074:  【56†Characters】
+L1075: 
+L1076: Protagonist
+L1077: 
+L1078: 【619†Frey】 • 【620†Lest】
+L1079: 
+L1080: Bachelorettes
+L1081: 
+L1082: 【621†Amber】 (【622†D】) • 【623†Clorica】 (【624†D】) • 【625†Dolce】 (【626†D】) • 【627†Forte】 (【628†D】) • 【629†Margaret】 (【630†D】) • 【631†Xiao Pai】 (【632†D】)
+L1083: 
+L1084: Bachelors
+L1085: 
+L1086: 【633†Arthur】 (【634†D】) • 【635†Doug】 (【636†D】) • 【637†Dylas】 (【638†D】) • 【639†Kiel】 (【640†D】) • 【641†Leon】 (【642†D】) • 【643†Vishnal】 (【644†D】)
+L1087: 
+L1088: Villagers
+L1089: 【186†Bado】 (【645†D】) • 【646†Blossom】 (【647†D】) • 【648†Illuminata】 (【649†D】) • 【650†Jones】 (【651†D】) • 【652†Lin Fa】 (【653†D】) • 【654†Nancy】 (【655†D】) • 【656†Pico】 (D) • 【188†Porcoline】 (【657†D】) • 【658†Ventuswill】 (【659†D】) • 【660†Volkanon】 (【661†D】)
+L1090: 
+L1091: Guests
+L1092: 
+L1093: 【662†Barrett】 (【663†D】) • 【664†Raven】 (【665†D】) • 【666†Ethelberd】
+L1094: 
+L1095: Other
+L1096: 
+L1097: 【667†Eliza】 • 【668†Luna】 • 【669†Noel】
+L1098: 
+L1099:  Locations
+L1100: 
+L1101: 【670†Selphia】
+L1102: 【671†Bell Hotel】 • 【672†Porcoline's Kitchen】 • 【673†Forte's House】 • 【674†Blacksmith "Meanderer"】 • 【675†Tiny Bandage Clinic】 • 【676†Selphia Castle】 • 【677†Sincerity General Store】 • 【678†Margaret's House】 • 【679†Carnation's】
+L1103: 
+L1104: Arc 1
+L1105: 
+L1106: 【680†Selphia Plain】 • 【681†Yokmir Forest】 • 【187†Water Ruins】 • 【682†Obsidian Mansion】 • 【683†Yokmir Cave】 • 【684†Delirium Lava Ruins】
+L1107: 
+L1108: Arc 2
+L1109: 
+L1110: 【685†Idra Cave】 • 【686†Maya Road】 • 【687†Sechs Territory】 • 【688†Floating Empire】
+L1111: 
+L1112: Arc 3
+L1113: 【689†Leon Karnak】 • 【690†Rune Prana】
+L1114: 
+L1115: Other
+L1116: 
+L1117: 【691†Cluck-Cluck Nest】 • 【692†Revival Cave】 • 【693†Demon's Den】 • 【694†World of Fields】 • 【695†Sharance Maze】
+L1118: 
+L1119: Game Content
+L1120: 
+L1121: Mechanics
+L1122: 
+L1123: 【696†Skills】 • 【697†Prince Points】 • 【698†Status Ailments】 • 【699†Rune Abilities】 • 【77†Monsters】 • 【700†Fishing】 • 【701†Mining】 • 【702†Farming Mechanics】
+L1124: 
+L1125: Crafting
+L1126: 
+L1127: 【70†Cooking and Recipes】 • 【616†Pharmacy】 • Forging • 【167†Accessory Crafting】 • 【190†Upgrading Items】 • 【614†Rarity】
+L1128: 
+L1129: Equipment
+L1130: 【703†Tools】 • 【704†Weapons】 • 【705†Headgear】 • 【706†Armor】 • 【707†Shoes】 • 【708†Shield】 • 【709†Accessories】
+L1131: 
+L1132: Items
+L1133: 
+L1134: 【710†Shipping List】 • 【202†Consumable】 • 【711†Dungeon Seed】 • 【168†Crops】 • 【201†Other Items】
+L1135: 
+L1136: Social
+L1137: 
+L1138: 【712†Requests】 • 【49†Calendar】 • 【713†Festivals】 • 【84†Relationships】 • 【714†Town Events】
+L1139: 
+L1140: Other
+L1141: 
+L1142: 【715†Furniture】 • 【716†Outfits】 • 【717†Trophies】 • 【718†Opening Song: Kaze no Traveler】 • 【719†Glitches】
+L1143: 
+L1144: Categories
+L1145: 
+L1146:   * 【720†Categories】:
+L1147:   * 【173†Rune Factory 4】
+L1148: Community content is available under 【721†CC-BY-SA†www.fandom.com】 unless otherwise noted.
+L1149: 
+L1150: More Fandoms
+L1151: 
+L1152:   * 【722†Fantasy†www.fandom.com】
+L1153: 
+L1154:  Advertisement
+L1155: ##  【0† †www.fandom.com】
+L1156: 
+L1157: ### Explore properties
+L1158: 
+L1159:   * 【0† Fandom †www.fandom.com】
+L1160:   * 【723† Fanatical †www.fanatical.com】
+L1161:   * 【724† GameSpot †www.gamespot.com】
+L1162:   * 【725† Metacritic †www.metacritic.com】
+

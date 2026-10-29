@@ -1,0 +1,381 @@
+Shipping List (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Shipping_List_%28RF4%29)
+citeturn31view0 [wordlim: 200] Crawled: last year; Content type: text/html; Source: open({"ref_id":"https://therunefactory.fandom.com/wiki/Shipping_List_(RF4)","lineno":650}); Redirected to URL: https://therunefactory.fandom.com/wiki/Shipping_List_(RF4); Total lines: 1988
+L390:       * 【75† Rune Factory 】
+L391:       * 【76† Rune Factory 2 】
+L392:       * 【77† Frontier 】
+L393:       * 【78† Rune Factory 3 】
+L394:       * 【79† Tides of Destiny 】
+L395:       * 【80† Rune Factory 4 】
+L396:       * 【81† Rune Factory 5 】
+L397: 
+L398:     * Relationships
+L399: 
+L400:       * 【82† Rune Factory 】
+L401:       * 【83† Rune Factory 2 】
+L402:       * 【84† Frontier 】
+L413:       * 【90† Accessories (RF5) 】
+L414:       * 【91† Items (RF5) 】
+L415:       * 【92† Outfits (RF5) 】
+L416:       * 【93† Rune Abilities (RF5) 】
+L417:       * 【94† Tools (RF5) 】
+L418:       * 【95† Weapons (RF5) 】
+L419: 
+L420:     * Other Topics
+L421: 
+L422:       * 【96† Beyond the Blue Yonder 】
+L423:       * 【53† Calendar (RF5) 】
+L424:       * 【97† Directives 】
+L425:       * 【98† Festivals (RF5) 】
+L426:       * 【88† Relationships (RF5) 】
+L427:       * 【99† Requests (RF5) 】
+L428:       * 【100† Runes 】
+L429:       * 【101† SEED 】
+L430: 
+L431:         * 【102† SEED Crests 】
+L432:       * 【103† Skills (RF5) 】
+L433: 
+L434:     * 【60† Characters 】
+L435: 
+L436:       * Protagonists
+L437: 
+L438:         * 【104† Ares 】
+L439:         * 【105† Alice 】
+L440: 
+L441:       * 【106† Bachelorettes 】
+L442: 
+L443:         * 【107† Beatrice 】
+L444:         * 【108† Fuuka 】
+L445:         * 【109† Lucy 】
+L446:         * 【110† Ludmila 】
+L447:         * 【111† Priscilla 】
+L448:         * 【112† Scarlett 】
+L449: 
+L450:       * 【113† Bachelors 】
+L451: 
+L452:         * 【114† Cecil 】
+L453:         * 【115† Lucas 】
+L454:         * 【116† Martin 】
+L455:         * 【117† Murakumo 】
+L456:         * 【118† Reinhard 】
+L457:         * 【119† Ryker 】
+L458:       * 【120† Other 】
+L459: 
+L460:         * 【121† Darroch 】
+L461:         * 【122† Elsje 】
+L462:         * 【123† Gideon 】
+L463:         * 【124† Heinz 】
+L464:         * 【125† Hina 】
+L465:         * 【126† Julian 】
+L466:         * 【127† Livia 】
+L467:         * 【128† Misasagi 】
+L468:         * 【129† Oswald 】
+L469:         * 【130† Palmo 】
+L470:         * 【131† Radea 】
+L471:         * 【132† Randolph 】
+L472:         * 【133† Simone 】
+L473:         * 【134† Eliza 】
+L474:         * 【135† Terry 】
+L475:         * 【136† Yuki 】
+L476:         * 【137† Margaret 】
+L477:         * 【138† Doug 】
+L478:       * 【120† Children 】
+L479: 
+L480:         * 【139† Elias 】
+L481:         * 【140† Ivan 】
+L482:         * 【141† Conan 】
+L483:         * 【142† Erica 】
+L484:         * 【143† Iris 】
+L485:         * 【144† Collette 】
+L486: 
+L487:     * Activities
+L488: 
+L489:       * 【74† Cooking (RF5) 】
+L490:       * 【145† Farming (RF5) 】
+L491:       * 【146† Fishing (RF5) 】
+L492:       * 【147† Forging (RF5) 】
+L493: 
+L494:     * 【148† Locations 】
+L495: 
+L496:       * 【149† Rigbarth 】
+L497:       * 【150† Phoros Woodlands 】
+L498:       * 【151† Kelve Volcanic Region 】
+L499:       * 【152† Lake Yumina 】
+L500:       * Dungeons
+L501:         * 【153† Whispering Woods 】
+L502:         * 【154† Belpha Ruins 】
+L503:         * 【155† Kelve Lava Caves 】
+L504:         * 【156† Meline Crystal Caverns 】
+L505:         * 【157† Atohl's End 】
+L506:         * 【158† Gadeus Grasslands 】
+L507:         * 【159† Bandit King's Old Base 】
+L508:         * 【160† Forest of No Return 】
+L509:         * 【161† Eternal Darkness 】
+L510:         * 【162† Basara's Hideout 】
+L511:         * 【163† Thunder Wilderness 】
+L512:         * 【164† Cloudheim 】
+L513:         * 【165† Seed Sky Castle 】
+L514:         * 【166† Fimbul Border 】
+L515:         * 【167† Odia 】
+L516:         * 【168† Rigbarth Labyrinth 】
+L517:       * 【169† Farm Dragon 】
+L518: 
+L519:     * 【81† Monsters (RF5) 】
+L520: 
+L521:       * 【170† Category 】
+L522: 
+L523:   * 【16† Rune Factory 4 】
+L524: 
+L525:     * 【52† Calendar (RF4) 】
+L526:     * 【59† Characters (RF4) 】
+L527:     * 【73† Cooking (RF4) 】
+L528:     * 【171† Crafting (RF4) 】
+L529:     * 【172† Crops (RF4) 】
+L530:     * 【173† Category:Dialogue (RF4) 】
+L531:     * 【174† Equipment (RF4) 】
+L532: 
+L533:   【176† †auth.fandom.com】
+L534: 
+L535: in: 【177†Rune Factory 4】
+L536: #  Shipping List (RF4)
+L537: 
+L538:  【176† Sign in to edit †auth.fandom.com】
+L539: 
+L540:   * 【178† History 】
+L541:   * 【179† Purge 】
+L542:   * 【180† Talk (0) 】
+L543: 
+L544: The shipping list can be viewed in-game by interacting with the shipping box and checking the sale records.
+L545: 
+L546: Items that are listed below are the prices for only Lvl 1 items, though if you ship an item that has a high-level or an item that has been upgraded, there will be an increase of gold gained once sold, depending on what level the item is.
+L547: ## Contents
+L548:   * 【181†1 Crops】
+L549:     * 【182†1.1 Vegetable】
+L550:     * 【183†1.2 Plant】
+L551:     * 【184†1.3 Seed】
+L552:   * 【185†2 Medicine】
+L553:   * 【186†3 Weapons】
+L554:     * 【187†3.1 Fists】
+L555:     * 【188†3.2 Short Sword】
+L556:     * 【189†3.3 Long Sword】
+L557:     * 【190†3.4 Spear】
+L558:     * 【191†3.5 Hammer】
+L559:     * 【192†3.6 Axe】
+L560:     * 【193†3.7 Staff】
+L561:     * 【194†3.8 Dual Blade】
+L562:     * 【195†3.9 Tools】
+L563:   * 【196†4 Armor】
+L564:     * 【197†4.1 Shield】
+L565:     * 【198†4.2 Headgear】
+L566:     * 【199†4.3 Shoes】
+L567:     * 【200†4.4 Armor】
+L568:   * 【201†5 Crafts】
+L569:     * 【202†5.1 Accessory】
+L570:   * 【203†6 Food】
+L571:   * 【204†7 Fish】
+L572:   * 【205†8 Other】
+L573:     * 【206†8.1 Collectible】
+L574:       * 【207†8.1.1 Collectible: Furs】
+L575:       * 【208†8.1.2 Collectible: Minerals】
+L576:       * 【209†8.1.3 Collectible: Jewels】
+L577:       * 【210†8.1.4 Collectible: Cloths and Skins】
+L578:       * 【211†8.1.5 Collectible: Shards】
+L579:       * 【212†8.1.6 Collectible: Liquids】
+L580:       * 【213†8.1.7 Collectible: Strings】
+L581:       * 【214†8.1.8 Collectible: Powders and Spores】
+L582:       * 【215†8.1.9 Collectible: Crystals】
+L583:       * 【216†8.1.10 Collectible: Claws and Fangs】
+L584:       * 【217†8.1.11 Collectible: Sticks and Stems】
+L585:       * 【218†8.1.12 Collectible: Feathers】
+L586:       * 【219†8.1.13 Collectible: Shells and Bones】
+L587:       * 【220†8.1.14 Collectible: Scales】
+L588:       * 【221†8.1.15 Collectible: Stones】
+L589:     * 【222†8.2 Trash】
+L590:     * 【223†8.3 Magic】
+L591:     * 【224†8.4 Rune Ability】
+L592:     * 【225†8.5 Special】
+L593:   * 【226†9 Other】
+L594:     * 【227†9.1 Recipe Bread】
+L595:   * 【228†10 References】
+L596: ## Crops[]
+L597: #### Vegetable[]
+L598: Vegetable
+L599: Name  Sell  Buy  Description
+L600: 【452†Image†therunefactory.fandom.com】 【229†Cabbage】  680G  2800G  A well-balanced vegetable that can be eaten raw, fried or boiled. Helps with digestion after a big meal.
+L601: 【453†Image†therunefactory.fandom.com】 【230†King Cabbage】  3400G  N/A
+L602: 【454†Image†therunefactory.fandom.com】 Pink Turnip  200G  700G
+L603: 【455†Image】 Colossal Pink  1000G  N/A
+L604: 【456†Image】 Pink Melon  850G  5000G
+L605: 【457†Image】 Conqueror Melon  4250G  N/A
+L606: 【458†Image】 Onion  800G  6700G
+L607: 【459†Image】 Ultra Onion  4000G  N/A
+L608: 【460†Image】 Pumpkin  110G  420G  A nutritious seasonal vegetable. Can be worn during the autumn festival by scooping out the inside.
+L609: 【461†Image】 Doom Pumpkin  550G  N/A  A nutritious seasonal vegetable. Can be worn during the autumn festival by scooping out the inside. A gourd of doom.
+L610: 【462†Image】 Cucumber  68G  250G
+L611: 【463†Image】 Kaiser Cucumber  350G  N/A
+L612: 【464†Image】 Corn  1000G  3000G
+L613: 【465†Image】 Gigant Corn  7500G  N/A
+L614: 【466†Image】 Tomato  540G  1800G
+L615: 【467†Image】 Titan Tomato  3000G  N/A
+L616: 【468†Image】 Eggplant  190G  950G
+L617: 【469†Image】 Emperor Eggplant  1000G  N/A
+L618: 【470†Image】 Yam  140G  450G
+L619: 【471†Image】 Lordly Yam  800G  N/A
+L620: 【472†Image】 Potato  90G  600G
+L621: 【473†Image】 Princely Potato  500G  N/A
+L622: 【474†Image】 Carrot  380G  2600G
+L623: 【475†Image】 Royal Carrot  2000G  N/A
+L624: 【476†Image】 Green Pepper  150G  700G
+L625: 【477†Image】 Green Pepper Rex  800G  N/A
+L626: 【478†Image】 Spinach  65G  300G
+L627: 【479†Image】 Sovereign Spinach  350G  N/A
+L628: 【480†Image】 Turnip  30G  200G
+L629: 【481†Image】 Tyrant Turnip  200G  N/A
+L630: 【482†Image】 Radish  360G  1580G
+L631: 【483†Image】 Noble Radish  2000G  N/A
+L632: 【484†Image】 Leek  1600G  4800G
+L633: 【485†Image】 Legendary Leek  8000G  N/A
+L634: 【486†Image】 Bok Choy  420G  1900G
+L635: 【487†Image】 Boss Bok Choy  2250G  N/A
+L636: 【488†Image】 Hot-Hot Fruit  900G  7000G
+L637: 【489†Image】 Giant Hot-Hot Fruit  4500G  N/A
+L638: 【490†Image】 Bamboo Sprout  40G  200G
+L639: 【491†Image】 Golden Cabbage  11500G  50000G
+L640: 【492†Image】 Golden King Cabbage  52000G  N/A
+L641: 【493†Image】 Golden Pumpkin  4000G  20000G
+L642: 【494†Image】 Gldn. Doom Pumpkin  18000G  N/A
+L643: 【495†Image】 Golden Potato  6000G  30000G
+L644: 【496†Image】 Gold Prince Potato  27000G  N/A
+L645: 【497†Image】 Golden Turnip  20000G  100000G
+L646: 【498†Image】 Golden Tyrant Turnip  90000G  N/A
+L647: Mushroom
+L648: 【499†Image】 Mushroom  10G  2000G
+L649: 【500†Image】 Mushroom
+L650: 【501†Image】 Mushroom
+L651: 【502†Image】 Mushroom
+L652: 【503†Image】 Mushroom
+L653: 【504†Image】 Monarch Mushroom  10000G  -
+L654: Fruit
+L655: 【505†Image】 【231†Strawberry】  135G  800G
+L656: 【506†Image】 【232†Sultan Strawberry】  700G  -
+L657: 【507†Image】 【233†Pineapple】  1600G  8500G
+L658: 【508†Image】 【234†King Pineapple】  8000G  -
+L659: 【509†Image】 【235†Grapes】  120G  650G
+L660: 【510†Image】 【236†Apple】  150G  850G
+L661: 【511†Image】 【237†Orange】  80G  500G
+L662: 【512†Image】 【238†Mealy Apple】  3000G  -
+L663: ### Plant[]
+L664: Plant
+L665: Name Buy Sell Description
+L666: 【513†Image】 Toyherb  250G  65G  An herb that promotes good health. Hard to grow, but cures fatigue.
+L667: 【514†Image】 Ultra Toyherb  N/A  350G  An herb that promotes good health. Hard to grow, but cures fatigue.
+L668: 【515†Image】 Moondrop Flower  400G  115G  A unique and beautiful yellow flower that grows in the moonlight.
+L669: 【516†Image】 Ultra Moondrop Flower  N/A  650G  A unique and beautiful yellow flower that grows in the moonlight.
+L670: 【517†Image】 Pink Cat  450G  110G  Flower with vibrant pink blossoms. Named 'cat' for its cuteness.
+L671: 【518†Image】 King Pink Cat  N/A  600G  Flower with vibrant pink blossoms. Named 'cat' for its cuteness.
+L672: 【519†Image】 Charm Blue  800G  220G  A deep blue flower. Practically swallows you into its beautiful blossoms.
+L673: 【520†Image】 Great Charm Blue  N/A  1200G  A deep blue flower. Practically swallows you into its beautiful blossoms.
+L674: 【521†Image】 Medicinal Herb  80G  8G  A wild herb with a bitter taste. Helps regain energy.
+L675: 【522†Image】 Antidote Grass  150G  6G  A grass that purifies poison in the body. Very bitter, but effective.
+L676: 【523†Image】 Black Grass  120G  5G  Grass with a dull, mysterious glow like muffled black light. Hard to see at night, so it's often stepped on.
+L677: 【524†Image】 Orange Grass  120G  5G  Grass as orange as the sun. Its bright color gives you energy just by looking at it.
+L678: 【525†Image】 Red Grass  120G  5G  Grass of passion. Its red color helps it grow faster than other grasses.
+L679: 【526†Image】 Yellow Grass  120G  5G  Grass which brings you luck. People carry it in hopes that it will make them rich.
+L680: 【527†Image】 Blue Grass  120G  5G  A nifty blue grass that's cold to the touch. Used in medicine due to its soothing effect.
+L681: 【528†Image】 Green Grass  120G  5G  Plain green grass. Trying hard to change so people will stop calling it boring.
+L682: 【529†Image】 Purple Grass  120G  5G  A sophisticated purple grass. Has trouble getting along with the other grasses due to its massive ego.
+L683: 【530†Image】 Indigo Grass  120G  5G  Soothing grass that supposedly resolves arguments just by being there.
+L684: 【531†Image】 White Grass  120G  5G  Beautiful grass of purest white. Hard to find in winter since it blends in with the snow. Fragile, but noble.
+L685: 【532†Image】 Weeds  30G  1G  Grows anywhere, anytime. It doesn't obey any rules. It does its down thing. And that's why it's cool.
+L686: 【533†Image】 Withered Grass  100G  1G  You'd get sick if you ate this grass, but it can be used to improve the quality of soil.
+L687: 【534†Image】 Cherry Grass  700G  230G  A plant that works hard to be prettier than all the other flowers. Other flowers sometimes sneer, but they're just jealous. Can be found in spring.
+L688: 【535†Image】 King Cherry Grass  N/A  1200G  A plant that works hard to be prettier than all the other flowers. Other flowers sometimes sneer, but they're just jealous. Can be found in spring.
+L689: 【536†Image】 Lamp Grass  2000G  650G  A grass with luminous powder all throughout its blossomed stem. Has a strong calming effect.
+L690: 【537†Image】 Kaiser Lamp Grass  N/A  6500G  A grass with luminous powder all throughout its blossomed stem. Has a strong calming effect.
+L691: 【538†Image】 Blue Crystal  40000G  15000G  A flower made of rune crystals that mixed together in the ground. Appears blue during spring.
+L692: 【539†Image】 Big Blue Crystal  N/A  67500G  A flower made of rune crystals that mixed together in the ground. Appears blue during spring.
+L693: 【540†Image】 Emery Flower  500000G  55000G  A unique golden flower that's extremely tough and resilient. Don't step on it or it'll really hurt!
+L694: 【541†Image】 Great Emery Flower  N/A  250000G  A unique golden flower that's extremely tough and resilient. Don't step on it or it'll really hurt!
+L695: 【542†Image】 Ironleaf  4444G  1111G  A plant with many spikes. Its unique shape is the result of iron content collected from the ground.
+L696: 【543†Image】 Super Ironleaf  N/A  5555G  A plant with 1000 spikes. Its unique shape is the result of iron content collected from the ground.
+L697: 【544†Image】 4-Leaf Clover  4000G  980G  A plant which brings you good luck. Carry it around or make it a gift, and happiness will follow you!
+L698: 【545†Image】 Great 4-Leaf Clover  N/A  5000G  A plant which brings you good luck. Carry it around or make it a gift, and happiness will follow you!
+L699: 【546†Image】 Fireflower  10000G  2800G  A flower with a unique shape. Also called the 'Mountain Fireworks,' as you can almost hear the sounds of exploding powder when you pluck it.
+L700: 【547†Image】 Big Fireflower  N/A  14000G  A flower with a unique shape. Also called the 'Mountain Fireworks,' as you can almost hear the sounds of exploding powder when you pluck it.
+L701: 【548†Image】 Green Crystal  48000G  17000G  A flower made of rune crystals that mixed together in the ground. Appears green during summer.
+L702: 【549†Image】 Big Green Crystal  N/A  76500G  A flower made of rune crystals that mixed together in the ground. Appears green during summer.
+L703: 【550†Image】 Noel Grass  6660G  2000G  Weirdly tree-shaped plant. Can be fun to decorate in winter.
+L704: 【551†Image】 Large Noel Grass  N/A  10000G  Weirdly tree-shaped plant. Can be fun to decorate in winter.
+L705: 【552†Image】 Autumn Grass  6000G  1800G  A plant which grows colorful flowers. Named as it is due to its autumnal color scheme.
+L706: 【553†Image】 Big Autumn Grass  N/A  9000G  A plant which grows colorful flowers. Named as it is due to its autumnal color scheme.
+L707: 【554†Image】 Pom-Pom Grass  1500G  440G  Has white cotton-like flowers in its center. Looks cute like a dandelion, but is poisonous, so say no to the blow!
+L708: 【555†Image】 King Pom-Pom Grass  N/A  2300G  Has white cotton-like flowers in its center. Looks cute like a dandelion, but is poisonous, so say no to the blow!
+L709: 【556†Image】 Red Crystal  56000G  20000G  A flower made of rune crystals that mixed together in the ground. Appears red during autumn.
+L710: 【557†Image】 Big Red Crystal  N/A  90000G  A flower made of rune crystals that mixed together in the ground. Appears red during autumn.
+L711: 【558†Image】 White Crystal  80000G  22500G  A flower made of rune crystals that mixed together in the ground. Appears white during winter.
+L712: 【559†Image】 Big White Crystal  N/A  101500G  A flower made of rune crystals that mixed together in the ground. Appears white during winter.
+L713: 【560†Image】 Ayngondaia Lawn  N/A  33G  A rare plant. Imbued with incredible vitality, rumor has it that this bright bounty has rejuvenating qualities.
+L714: 【561†Image】 Elli Leaves  3500G  250G  An exotic plant with a dark, blue flower. Beautiful!
+L715: ### Seed[]
+L716: Seed
+L717: Name Buy Sell Description
+L718: 【562†Image】 Turnip Seeds  10G  2G  Grows well from summer to fall. Most common crop in the game, for some reason.
+L719: 【563†Image】 Potato Seeds  80G  8G  Grows well from spring to summer, but not in winter. Grows beautiful flowers.
+L720: 【564†Image】 Cucumber Seeds  320G  32G  Grows well from spring to summer, but not in winter. Hearty ones may grow again after harvesting
+L721: 【565†Image】 Strawberry Seeds  400G  40G  Grows well in spring and fall. Bears sweet fruits. Hearty ones may grow again after harvesting.
+L722: 【566†Image】 Cabbage Seeds  980G  98G  Grows well in spring and fall. Grows fast, and rarely withers.
+L723: 【567†Image】 Moondrop Seeds  250G  25G  Grows well in spring and fall, but not in winter. An easy flower to grow.
+L724: 【568†Image】 Toyherb Seeds  60G  6G  Grows well in spring but not in winter. A fast grower, but delicate and tough to harvest. Cures fatigue if fully grown.
+L725: 【569†Image】 Tomato Seeds  1880G  188G  Grows well from spring to summer, but not in winter. Grows nutritious tomatoes. May grow again after harvesting.
+L726: 【570†Image】 Corn Seeds  450G  45G  Grows well from spring to summer, but not in winter. Improves the soil til you till it without harvesting.
+L727: 【571†Image】 Onion Seeds  1480G  148G  Grows well in fall. Easy to harvest and easy on the soil
+L728: 【572†Image】 Pumpkin Seeds  200G  20G  Grows well from spring to summer, but not in winter. Easy on the soil. May grow again after harvesting.
+L729: 【573†Image】 Pineapple Seeds  2800G  280G  Grows well in summer, but not in other seasons. Takes time to grow. May grow again after harvesting, but tough on soil.
+L730: 【574†Image】 Pink Cat Seeds  180G  18G  Grows well in summer, but not in winter. Grows fast, is easy to harvest, but withers fast.
+L731: 【575†Image】 Eggplant Seeds  720G  72G  Grows well from spring to summer, but not in winter. Hearty ones may grow again after harvesting.
+L732: 【576†Image】 Carrot Seeds  400G  40G  Grows well in fall. A well-balanced crop that's easy on the soil.
+L733: 【577†Image】 Yam Seeds  250G  25G  Grows well from summer to fall, but not in winter. Easy on the soil.
+L734: 【578†Image】 Spinach Seeds  60G  6G  Grows well in fall. Grows fast, but withers quickly. Don't forget to water it every day!
+L735: 【579†Image】 Green Pepper Seeds  800G  80G  Grows well in summer, but not in winter. Highly nutritious. Hearty ones may grow again after harvesting.
+L736: 【580†Image】 Charm Blue Seeds  370G  37G  Grows well in fall, but not in winter. Easy to grow, with a good balance of growth rate and resilience.
+L737: 【581†Image】 Fodder Seeds  30G  3G  Grow feed for the monsters. Hearty ones may grow again after harvesting.
+L738: 【582†Image】 Cherry Grass Seeds  420G  42G  Grows well in spring, but not in winter. Grows a light pink flower.
+L739: 【583†Image】 Lamp Grass Seeds  740G  74G  Grows well in winter. Takes a long time to grow. Mainly used as an ingredient in medicines.
+L740: 【584†Image】 Blue Crystal Seeds  30000G  1000G  Grows well in spring, but not in other seasons. Takes a long time to grow. Its seed resembles blue crystal.
+L741: 【585†Image】 Emery Flower Seeds  50000G  2500G  Takes a very long time to grow. Rarely withers, and can be cultivated by almost anyone.
+L742: 【586†Image】 Ironleaf Seeds  600G  60G  Grows well in winter, but not in summer. Takes a long time to grow. Has a special power to gather iron from the soil.
+L743: 【587†Image】 Clover Seeds  960G  96G  Grows well in spring and fall, but not in summer. A lucky seed that brings good fortune, but withers very easily.
+L744: 【588†Image】 Fireflower Seeds  5000G  500G  Grows well in summer, but not in winter. Its seeds are as black as gunpowder.
+L745: 【589†Image】 Green Crystal Seeds  30000G  1000G  Grows well in Summer, but not in other seasons. Takes a long time to grow. Its seed resembles green crystal.
+L746: 【590†Image】 Noel Grass Seeds  2700G  270G  Grows well in winter, but not in summer. Takes a long time to grow but rarely withers. Used in certain festivals.
+L747: 【591†Image】 Autumn Grass Seeds  2500G  250G  Grows well in fall, but not in winter. Takes a long time to grow. Its seed is red and round.
+L748: 【592†Image】 Pom-Pom Grass Sds.  510G  51G  Grows well in fall, but not in winter. Takes a long time to grow. Its seed is white and soft.
+L749: 【593†Image】 Red Crystal Seeds  30000G  1000G  Grows well in fall, but not in other seasons. Takes a long time to grow. Its seed resembles a red crystal.
+L750: 【594†Image】 White Crystal Seeds  30000G  1000G  Grows well in winter, but not in other seasons. Takes a long time to grow. Its seed resembles a white crystal.
+L751: 【595†Image】 Pink Turnip Seeds  160G  16G  Grows well in spring, but not in winter. Grows a beautiful pink turnip. Easy to harvest. Popular with novice farmers.
+L752: 【596†Image】 Radish Seeds  120G  12G  Grows well in fall, but not in summer. Has a good balance of growth rate and resilience. Easy on the soil.
+L753: 【597†Image】 Leek Seeds  680G  68G  Grows well in spring and fall, but not in summer. Withers fairly easily, but is easy on the soil.
+L754: 【598†Image】 Bok Choy Seeds  1000G  100G  Grows well in fall, but not in summer. Weak to heat.
+L755: 【599†Image】 Gold Cabbage Seeds  5000G  500G  Grows well in winter, but not in summer. Grows into a gorgeous golden cabbage.
+L756: 【600†Image】 Gold Pumpkin Seeds  4500G  450G  Grows well in winter, but not in summer. Grows into a gorgeous golden pumpkin. May grow again after harvesting.
+L757: 【601†Image】 Gold Potato Seeds  4000G  400G  Grows well in winter, but not in summer. Grows into a gorgeous golden potato.
+L758: 【602†Image】 Gold Turnip Seeds  10000G  1000G  Grows well in winter, but not in summer. Grows into a gorgeous golden turnip.
+L759: 【603†Image】 Pink Melon Seeds  2120G  212G  Grows well from spring to summer, but not in winter. Cultivated by a cute girl. May grow again after harvesting.
+L760: 【604†Image】 Hot-Hot Seeds  1200G  120G  Grows well in winter, but not in summer. Takes some time to grow, but is easy to harvest and doesn't wither easily.
+L761: 【605†Image】 Apple Tree Seeds  7000G  700G  Doesn't grow well in winter. Once it grows into a tree, it will produce apples every day.
+L762: 【606†Image】 Orange Tree Seed  5000G  500G  Doesn't grow well in winter. Once it grows into a tree, it will produce orances every day.
+L763: 【607†Image】 Grape Tree Seeds  6000G  600G  Doesn't grow well in winter. Once it grows into a tree, it will produce grapes every day.
+L764: 【608†Image】 Twinkle Seed  3000G  300G  Doesn't grow well in winter. Produces a lot of lumber. May produce ore.
+L765: 【609†Image】
+L766: Dungeon Seed
+L767: 
+L768: 5000G  500G  Grows into a dungeon. Depending on the level of the seed, it may bloom into a particularly difficult one.
+L769: 【610†Image】 Sword Seed  1500G  150G  Grows into a sword. Neat, huh?
+L770: 【611†Image】 Shield Seed  1500G  150G  Grows into a shield. Cool, right?
+L771: ## Medicine[]
+L772: Medicine
+L773: Name  Sell  Buy  Description
+L774: 【612†Image】 【239†The Protein】  1500G  2000000G  A specially made medicine. Increases maximum strength. Get fit, brah.
+L775: 【613†Image】 【240†Intelligencer】  1500G  2000000G  A specially made medicine. Increases maximum intelligence.
+L776: 【614†Image】 【241†Vital Gummi】  1500G  2000000G  A specially made medicine. Increases maximum vitality.
+L777: 【615†Image】 【242†Heart Drink】  1300G  1500000G  A specially made medicine. Increases maximum HP.
+

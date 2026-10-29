@@ -1,0 +1,378 @@
+Cooking (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Cooking_%28RF4%29)
+citeturn20view0 [wordlim: 200] Crawled: 6 months ago; Content type: text/html; Source: open({"ref_id":"turn2view2","lineno":775}); Redirected to URL: https://therunefactory.fandom.com/wiki/Cooking_(RF4); Total lines: 1094
+L719: 【746†Image: RF4Sunsquid Sashimi】 【417†Sunsquid Sashimi】 [Effects] HP +5000 HP +100% RP +1000 STR +150 STR +10%  77 11800G  【334†Sunsquid】 - - - - -
+L720: 【747†Image: RF4Lamp Squid Sashimi】 【418†Lamp Squid Sashimi】 [Effects] Status Ailments: SEAL, HP +5000 HP +26% RP +1000 Seal Res 100%  53 2895G  【322†Lamp Squid】 - - - - -
+L721: 【748†Image: RF4Shrimp Sashimi】 【419†Shrimp Sashimi】 [Effects] HP +1000 RP +240 STR +20  14 125G  【254†Shrimp】 - - - - -
+L722: 【749†Image: RF4Lobster Sashimi】 【420†Lobster Sashimi】 [Effects] HP +5000 RP +800 STR +35  40 1230G  【318†Lobster】 - - - - -
+L723: 【750†Image: RF4Snapper Sashimi】 【421†Snapper Sashimi】 [Effects] HP +5800 RP +1000 STR +40  50 1980G  【320†Snapper】 - - - - -
+L724: 【751†Image: RF4Lover Sashimi】 【422†Lover Sashimi】 [Effects] HP +5000 HP +74% RP +1000 STR +99  63 5400G  【326†Throbby Snapper】 - - - - -
+L725: 【752†Image: RF4Glitter Sashimi】 【423†Glitter Sashimi】 92 24000G  【338†Glitter Snapper】 - - - - -
+L726: ## Mixer[]
+L727: Recipe  Effects  Level  Price  Ingredients
+L728: 【753†Image: Butter】 【256†Butter】 15 300G  【215†Milk (S)】 【199†(M)】 【216†(L)】  -  -  -  -  -
+L729: 【754†Image: Mayonnaise】 【235†Mayonnaise】 [Effects] HP +5 28 720G  【244†Oil】 【219†Egg (S)】 【201†(M)】 【220†(L)】 - - - -
+L730: 【755†Image: Ketchup】 【269†Ketchup】 38 1300G  【214†Sour Drop】 【236†Tomato】 - - - -
+L731: 【756†Image: IceCream】 【424†Ice Cream】 [Effects] HP +3000 RP +450 STR +17 VIT +10 INT +15 Fire Res 30% Water Res -30% 25 645G  【343†Sweet Powder】 【215†Milk (S)】 【199†(M)】 【216†(L)】 - - - -
+L732: 【757†Image: OrangeJuice】 【425†Orange Juice】 [Effects] HP +150 RP +150 INT +2  5 92G  【349†Orange】 - - - - -
+L733: 【758†Image: GrapeJuice】 【426†Grape Juice】 [Effects] HP +220 RP +200 INT +8  7 140G  【351†Grapes】 - - - - -
+L734: 【759†Image: AppleJuice】 【427†Apple Juice】 [Effects] HP +500 RP +230 INT +10  11 175G  【241†Apple】 - - - - -
+L735: 【760†Image: FruitJuice】 【428†Fruit Juice】 [Effects] HP +1620 RP +500 INT +25  18 630G  【241†Apple】 【351†Grapes】 【349†Orange】 - - -
+L736: 【761†Image: StrawberryMilk】 【429†Strawberry Milk】 [Effects] HP +4000 RP +680 INT +30  33 720G  【223†Strawberry】 【215†Milk (S)】 【199†(M)】 【216†(L)】 - - - -
+L737: 【762†Image: TomatoJuice】 【430†Tomato Juice】 [Effects] HP +4000 RP +920 INT +45  35 1000G  【763†Image: RF4Tomato】 【431†Tomato】 - - - - -
+L738: 【764†Image: FruitSmoothie】 【432†Fruit Smoothie】 [Effects] HP +4480 RP +1000 INT +65  37 1400G  【428†Fruit Juice】 【215†Milk (S)】 【199†(M)】 【216†(L)】 - - - -
+L739: 【765†Image: VegetableJuice】 【433†Vegetable Juice】 [Effects] HP +5000 HP +59% RP +1000 INT +80 INT +5%  59 2350G  【389†Pumpkin】 【225†Turnip】 【275†Carrot】 【434†Spinach】 - -
+L740: 【766†Image: PreludetoLove】 【435†Prelude to Love】 [Effects] HP +5000 HP +68% RP +1000 HP max -50% RP max -50% VIT -50% Fire Res 50% Water Res 50% Earth Res 50% Wind Res 50% Light Res 50% Dark Res 50% Love Res 100%  61 2600G  【360†Pink Melon】 【223†Strawberry】 - - - -
+L741: 【767†Image: VeggieSmoothie】 【436†Veggie Smoothie】 [Effects] HP +5000 HP +80% RP +1000 INT +100 INT +8%  65 5200G  【433†Vegetable Juice】 【215†Milk (S)】 【199†(M)】 【216†(L)】 - - - -
+L742: 【768†Image: HotJuice】 【437†Hot Juice】 [Effects] HP +5000 HP +100% RP +1000 RP +13% INT +100 INT +10% Fire Res 20%  76 3600G  【375†Heavy Spice】 【384†Hot-Hot Fruit】 - - - -
+L743: 【769†Image: PineappleJuice】 【438†Pineapple Juice】 81 4400G  【770†Image: RF4Pineapple】 【439†Pineapple】 - - - - -
+L744: 【771†Image: MixedJuice】 【440†Mixed Juice】 [Effects] HP +5000 HP +100 RP +1000 RP +34% INT +100 INT +20%  83 12000G  【241†Apple】 【351†Grapes】 【349†Orange】 【441†Pineapple】 【223†Strawberry】 【215†Milk (S)】 【199†(M)】 【216†(L)】
+L745: 【772†Image: MixedSmoothie】 【442†Mixed Smoothie】 91 25000G  【440†Mixed Juice】 【260†Honey】 - - - -
+L746: 【773†Image: GoldJuice】 【443†Gold Juice】 [Effects] HP +5000 HP +100% RP +1000 RP +100% INT +100 INT +25% Fire Res 10% Water Res 10% Earth Res 10% Wind Res 10%  99 800000G  【444†Golden Pumpkin】 【378†Emery Flower】 【445†Golden Potato】 【239†Golden Turnip】 【237†Golden Cabbage】 -
+L747: ## Oven[]
+L748: Recipe  Effects  Level  Price  Ingredients
+L749: 【774†Image: BakedOnigiri】 【446†Baked Onigiri】 [Effects] HP +500 RP +200 VIT +5 10 65G  【202†Onigiri】  -  -  -  -  -
+L750: 【775†Image: SweetPotato】 【447†Sweet Potato】 [Effects] HP +2020 RP +500 VIT +10  20 240G  【776†Image: RF4Yam】 【448†Yam】 - - - - -
+L751: 【777†Image: CornontheCob】 【449†Corn on the Cob】 [Effects] HP +5000 HP +20% RP +1000 VIT +180  52 1860G  【778†Image: RF4Corn】 【262†Corn】 - - - - -
+L752: 【779†Image: Bread】 【218†Bread】 [Effects] HP +400 RP +120 STR +4 VIT +4 INT +4  8 145G  【253†Flour】 - - - - -
+L753: 【780†Image: RaisinBread】 【450†Raisin Bread】 [Effects] HP +3000 RP +400 STR +15 VIT +8 INT +10  27 380G  【253†Flour】 【351†Grapes】 - - - -
+L754: 【781†Image: Toast】 【451†Toast】 [Effects] HP +2040 RP +800 VIT +15  21 170G  【218†Bread】 - - - - -
+L755: 【782†Image: JamRoll】 【452†Jam Roll】 [Effects] HP +3760 RP +1000 VIT +25  34 1940G  【253†Flour】 【453†Jam】 【219†Egg (S)】 【201†(M)】 【220†(L)】 【215†Milk (S)】 【199†(M)】 【216†(L)】 - -
+L756: 【783†Image: ButterRoll】 【454†Butter Roll】 [Effects] HP +5040 RP +1000 VIT +80  43 2200G  【253†Flour】 【256†Butter】 【219†Egg (S)】 【201†(M)】 【220†(L)】 【215†Milk (S)】 【199†(M)】 【216†(L)】 - -
+L757: 【784†Image: ApplePie】 【455†Apple Pie】 [Effects] HP +4240 RP +1000 VIT +30  36 1910G  【253†Flour】 【241†Apple】 【256†Butter】 【219†Egg (S)】 【201†(M)】 【220†(L)】 - -
+L758: 【785†Image: YamoftheAges】 【456†Yam of the Ages】 [Effects] HP +5600 RP +1000 VIT +140  47 2200G  【343†Sweet Powder】 【256†Butter】 【215†Milk (S)】 【199†(M)】 【216†(L)】 【345†Yam】 - -
+L759: 【786†Image: Pizza】 【457†Pizza】 [Effects] HP +5000 HP +65% RP +1000 VIT +15% Wind Res 20%  60 8000G  【253†Flour】 【213†Cheese】 【269†Ketchup】 【458†Eggplant】 【459†Green Pepper】 -
+L760: 【787†Image: SeafoodPizza】 【460†Seafood Pizza】 [Effects] HP +5000 HP +44% RP +1000 VIT +10% Water Res 5% Wind Res 10%  56 6450G  【253†Flour】 【213†Cheese】 【269†Ketchup】 【254†Shrimp】 【290†Squid】 -
+L761: 【788†Image: Doria】 【461†Doria】 84 6000G  【203†Rice】 【213†Cheese】 【215†Milk (S)】 【199†(M)】 【216†(L)】 【276†Onion】 - -
+L762: 【789†Image: SeafoodDoria】 【462†Seafood Doria】 [Effects] HP +4720 RP +1000 VIT +40 Water Res +5% Wind Res +5%  39 2450G  【203†Rice】 【254†Shrimp】 【213†Cheese】 【290†Squid】 【215†Milk (S)】 【199†(M)】 【216†(L)】 -
+L763: 【790†Image: Gratin】 【463†Gratin】 85 8200G  【253†Flour】 【213†Cheese】 【215†Milk (S)】 【199†(M)】 【216†(L)】 【276†Onion】 - -
+L764: 【791†Image: SeafoodGratin】 【464†Seafood Gratin】 [Effects] HP +4960 RP +1000 VIT +60 Water Res 5% Wind Res 5%  42 2700G  【253†Flour】 【254†Shrimp】 【213†Cheese】 【290†Squid】 【215†Milk (S)】 【199†(M)】 【216†(L)】 -
+L765: 【792†Image: Cookie】 【465†Cookie】 [Effects] HP +4560 RP +1000 VIT +35  38 1960G  【253†Flour】 【343†Sweet Powder】 【219†Egg (S)】 【201†(M)】 【220†(L)】 【256†Butter】 - -
+L766: 【793†Image: ChocoCookie】 【466†Choco Cookie】 [Effects] HP +5360 RP +1000 VIT +100  45 2700G  【253†Flour】 【256†Butter】 【343†Sweet Powder】 【356†Chocolate】 【219†Egg (S)】 【201†(M)】 【220†(L)】 -
+L767: 【794†Image: Cake】 【467†Cake】 Effects] Heal: PSN SEAL PAR FTG
+L768: HP +5000 HP +23% RP +1000 VIT +200 VIT +5%
+L769: 
+L770: 54 4200G  【253†Flour】 【256†Butter】 【343†Sweet Powder】 【223†Strawberry】 【215†Milk (S)】 【199†(M)】 【216†(L)】 【219†Egg (S)】 【201†(M)】 【220†(L)】
+L771: 【795†Image: ChocolateCake】 【468†Chocolate Cake】 [Effects] Heal: PSN SEAL PAR FTG
+L772: 
+L773: HP +5000 RP +1000 VIT +160
+L774: 48 3860G  【253†Flour】 【356†Chocolate】 【256†Butter】 【343†Sweet Powder】 【215†Milk (S)】 【199†(M)】 【216†(L)】 【219†Egg (S)】 【201†(M)】 【220†(L)】
+L775: 【796†Image: Cheesecake】 【469†Cheesecake】 [Effects] Heal: PSN SEAL PAR FTG
+L776: 
+L777: HP +5520 RP +1000 VIT +120
+L778: 
+L779: 46 2540G  【213†Cheese】 【219†Egg (S)】 【201†(M)】 【220†(L)】 【215†Milk (S)】 【199†(M)】 【216†(L)】 【343†Sweet Powder】 - -
+L780: ## Failed Dish[]
+L781: 
+L782: Item Name  Price  HP Rec  Other Effect
+L783: 【797†Image: RF4Failed Dish】 Failed Dish  2G  -20%  HP Max -10%, RP Max -10%, Str -10%, Vit -10%, Int -10%.
+L784: 【798†Image: RF4Disastrous Dish】 Disastrous Dish  50G  -80%/-100%  RP Max -25%, Str -25%, Vit -25%, Int -25%.
+L785: # Ingredient Effects[]
+L786: 
+L787: Each ingredient used for cooking in a recipe imparts an extra effect upon the finished product. These effects are specific per ingredient; no matter what item they are used to create, they will give the same effect.
+L788: 
+L789: When cooking, adding additional ingredients to a recipe will add additional effects. The level of the ingredients used does not matter for these effects, and all of the effects stack.
+L790: ## Table[]
+L791: 
+L792: Name  Cooking Effect
+L793: 
+L794: Apple
+L795: 
+L796: HP +10, RP +5, Seal Res +5%
+L797: Bamboo Sprout  RP +5
+L798: Bok Choy  HP +30, Seal Res +10%
+L799: Boss Bok Choy  HP +650, Seal Res +50%
+L800: Cabbage  HP +140, Int+2
+L801: Carrot  HP +80, Crit Res +8%
+L802: Colossal Pink  HP +220, Str +15
+L803: Conqueror Melon  HP +300, RP +150, Str +10, Int+10
+L804: Corn  HP +75, RP Max +10
+L805: Cucumber  HP +55, Vit +2
+L806: Doom Pumpkin  HP +210, Vit +20
+L807: Eggplant
+L808: 
+L809: HP +100, Crit +1%
+L810: Emperor Eggplant  HP +270, Crit +10%
+L811: Giant Hot-Hot Fruit  HP +300, RP +140, Fire Res +15%, Slp Res +50%
+L812: Golden Cabbage  HP +500, Int +3%
+L813: Golden Doom Pumpkin  HP +900, Vit +5%
+L814: Golden King Cabbage  HP +950, Int +5%
+L815: Golden Potato  HP +350, HP max +3%
+L816: Golden Pumpkin  HP +400, Vit +3%
+L817: Grape  HP +10, RP +5, Psn Res +5%
+L818: Green Pepper  HP +90, Vit +8
+L819: Green Pepper Rex  HP +250, Vit +30
+L820: Hot-Hot Fruit  Fire Res +5% Slp Res +10%
+L821: Kaiser Cucumber  HP +175, Vit +15
+L822: King Cabbage  HP +600, Int +15
+L823: King Pineapple  HP +400, RP +200, Faint Res +100%
+L824: Leek  HP +120, Sick Res +10%
+L825: Lordly Yam  HP +200, HP max +200
+L826: Onion  HP +150, Par Res +10%
+L827: Orange  HP +10, RP +5, Par Res +5%
+L828: Pineapple
+L829: HP +120, RP+40, Faint Res+25%
+L830: Pink Melon  HP +180, RP+60, Str+10, Int+10
+L831: Pink Turnip  HP +70, Str+2
+L832: Potato  HP max +15
+L833: Pumpkin  HP +65, Vit+4
+L834: Radish  HP +5, Crit Res +5%
+L835: Spinach  HP +87
+L836: Strawberry  HP +35, RP+20, Psn Res+5%, Seal Res+5%, Par Res+5%
+L837: Sultan Strawberry  HP +100, RP +25, Psn Res +30%, Seal Res +30%, Par Res +30%
+L838: Titan Tomato  HP +700, Psn Res +50%
+L839: Tomato  HP +180, Psn Res +10%
+L840: Turnip  HP +30, RP +5, Str +1
+L841: Ultra Onion  HP +650, Par Res +50%
+L842: Yam  HP +60, HP max +50
+L843: Name  Cooking Effect
+L844: 4-Leaf Clover  RP +50, Crit +5%
+L845: Charm Blue
+L846: RP +28, HP max +10, Slp Res +10%, Ftg Res +10%, Sick Res +10%, Status Ailment: Poison
+L847: Cherry Grass  RP +30, Int+1%
+L848: Fireflower  RP+70, HP Max+1%
+L849: Ironleaf  HP -100, Str+10
+L850: Moondrop  RP +20
+L851: Lamp Grass  RP +40, Str+1%
+L852: Pink Cat  RP +25, PsnRes+5%, ParaRes+5%, SealRes+5%,SickRes+5%, FtgRes+5%, SlpRes+5%
+L853: Pom-Pom Grass  RP +45, Psn Atk+15%
+L854: Red Crystal  RP +120, Int +10, Fire Res+5%
+L855: Toyherb  RP +15, Ftg Res +15%, Heal: Ftg
+L856: Name  Cooking Effect
+L857: Recovery Potion  HP +150
+L858: Healing Potion  HP +800
+L859: Mystery Potion  HP +3000
+L860: Magical Potion  HP +50%
+L861: Antidote Potion  HP +1500, PsnRes+50%, Heal Psn
+L862: Para-Gone  HP +500, ParaRes+50%, Heal Para
+L863: Roundoff  HP +300, SealRes+50%, Heal Seal
+L864: Cold Medicine  HP +1000, SickRes+50%, Heal Sick
+L865: Formuade  RP +75%
+L866: Invinciroid  HP +100%, RP +100%, Heal Psn, Para, Seal, Sick, Ftg
+L867: Love Potion  RP +50%, Heal Psn, Para, Seal, Sick, Ftg
+L868: Object X  RP -50%, Status Ailment- Psn, Para, Seal, Sick, Slp, Ftg
+L869: Name  Cooking Effect
+L870: Flour  RP +5, Str+1
+L871: Rice  HP +10, HP Max+10
+L872: Chocolate  RP +10, Int+2
+L873: Wine  RP +20, Crit +5%, Crit Def -1%
+L874: Curry Powder  RP +5, HP Max +1, Water Res +5%
+L875: Rice Flour  RP +5, HP Max +1
+L876: Mixed Herbs  HP +500, RP +100, Wind Res-10%
+L877: Heavy Spice  HP +500, RP +100, Fire Res-10%
+L878: Sweet Powder  HP +500, RP +100, Water Res-10%
+L879: Sour Drop  HP +500, RP +100, Earth Res-10%
+L880: Name  Cooking Effect
+L881: Milk (S)  RP +10, Int+1
+L882: Milk (M)  RP +50, Int+2
+L883: Milk (L)  RP +50, Int+2%
+L884: Egg (S)  RP +10 Str+1
+L885: Egg (M)  RP +20, Str+2
+L886: Egg (L)  RP +50, Str+2%
+L887: Cheese  RP +85, Vit+10
+L888: Yogurt  RP +85, Int+5
+L889: Mayonnaise  RP +30, Crit Res +10%, Knock Res +10%
+L890: Name  Cooking Effect
+L891: Failed Dish  RP Max-10%, Str-10%, Vit-10%, Int-10%
+L892: Disasterous Dish  RP Max-25%, Str-25%, Vit-25%, Int-25%, Light Res-25%
+L893: ## Other Item Types[]
+L894: 
+L895: Most items from the Collectible item types and Forged/Crafted products will completely change the base effects of the cooked product so that they do not do what they should normally do. The base effects of food that includes these types of items are at Level 1: HP-20%, RP Max-10%, Str -10%, Vit -10%, Int -10%. These new effects increase in magnitude as the item level increases.
+L896: ### Cooked Foods[]
+L897: 
+L898: Most cooked dishes do not provide any extra effect when included as an ingredient.
+L899: 
+L900: Name  Effect
+L901: Relax Tea Leaves  RP Max+50
+L902: Relax Tea  Heal Psn, Para, Seal, Ftg
+L903: Cheesecake  Heal Psn, Para, Seal, Ftg
+L904: Ice Cream  Negates fire damage upon ingestion
+L905: 
+L906: ### Fish[]
+L907: 
+L908: All fish provide a Str+1 effect bonus when included in a recipe. Rainbow Trout provides an additional Psn status effect, and Lamp Squid provides an additional Seal status effect
+L909: ### Recipe Breads[]
+L910: 
+L911: Recipe Breads provide an Int+1 bonus when included as an ingredient.
+L912: 
+L913: ### Nutrients[]
+L914: 
+L915: All Nutrients provide an HP-100 effect to foods when used as an ingredient.
+L916: 
+L917: ### Seeds[]
+L918: 
+L919: All seeds provide HP+5 when used as an ingredient.
+L920: ### Other Items[]
+L921: 
+L922: 【799†Image: RF4 Upgrade material notice - Electro Crystal】 【800†Image: RF4 Upgrade material notice - Electro Crystal†therunefactory.fandom.com】 Name
+L923: 
+L924: Cooking Effect
+L925: 
+L926: Turnip Miracle  Str +3, Int +3
+L927: Rafflesia Petal  HP Max+15
+L928: Mushroom 1  HP +100, RP +50
+L929: 
+L930: Heal: PSN, SEAL, PAR
+L931: 
+L932: Mushroom 2  HP +500, RP +100
+L933: 
+L934: Heal: FTG, SICK
+L935: 
+L936: Mushroom 3  HP +100, RP +50
+L937: 
+L938: Status Ailment: PSN
+L939: 
+L940: Mushroom 4  HP +100, RP +50
+L941: 
+L942: Status Ailment: PAR
+L943: Mushroom 5  Status Ailment: SLP
+L944: Mushroom 6  Status Ailment: SICK
+L945: Monarch Mushroom
+L946: 
+L947: HP +3000, RP +500,
+L948: 
+L949: Heals Psn, Para, Seal, Sick, Slp, Ftg
+L950: 
+L951: Devil Blood  RP Max +1
+L952: ## Gallery[]
+L953: 
+L954: 【801†Image: RF4 I want a Cooking Tool.png (775 KB)†therunefactory.fandom.com】【802†Image: RF4 I want a Cooking Tool.png (775 KB)】
+L955: ## References[]
+L956: 
+L957: 【470†v】 · 【471†e】【14†Rune Factory 4】
+L958: 
+L959:  【56†Characters】
+L960: 
+L961: Protagonist
+L962: 
+L963: 【472†Frey】 • 【473†Lest】
+L964: 
+L965: Bachelorettes
+L966: 
+L967: 【474†Amber】 (【475†D】) • 【476†Clorica】 (【477†D】) • 【478†Dolce】 (【479†D】) • 【480†Forte】 (【481†D】) • 【482†Margaret】 (【483†D】) • 【484†Xiao Pai】 (【485†D】)
+L968: 
+L969: Bachelors
+L970: 
+L971: 【486†Arthur】 (【487†D】) • 【488†Doug】 (【489†D】) • 【490†Dylas】 (【491†D】) • 【492†Kiel】 (【493†D】) • 【494†Leon】 (【495†D】) • 【496†Vishnal】 (【497†D】)
+L972: 
+L973: Villagers
+L974: 【498†Bado】 (【499†D】) • 【500†Blossom】 (【501†D】) • 【502†Illuminata】 (【503†D】) • 【504†Jones】 (【505†D】) • 【506†Lin Fa】 (【507†D】) • 【508†Nancy】 (【509†D】) • 【510†Pico】 (D) • 【181†Porcoline】 (【511†D】) • 【512†Ventuswill】 (【513†D】) • 【514†Volkanon】 (【515†D】)
+L975: 
+L976: Guests
+L977: 
+L978: 【516†Barrett】 (【517†D】) • 【518†Raven】 (【519†D】) • 【520†Ethelberd】
+L979: 
+L980: Other
+L981: 
+L982: 【521†Eliza】 • 【522†Luna】 • 【523†Noel】
+L983: 
+L984:  Locations
+L985: 
+L986: 【524†Selphia】
+L987: 【525†Bell Hotel】 • 【526†Porcoline's Kitchen】 • 【527†Forte's House】 • 【528†Blacksmith "Meanderer"】 • 【529†Tiny Bandage Clinic】 • 【530†Selphia Castle】 • 【531†Sincerity General Store】 • 【532†Margaret's House】 • 【533†Carnation's】
+L988: 
+L989: Arc 1
+L990: 
+L991: 【534†Selphia Plain】 • 【535†Yokmir Forest】 • 【536†Water Ruins】 • 【537†Obsidian Mansion】 • 【538†Yokmir Cave】 • 【539†Delirium Lava Ruins】
+L992: 
+L993: Arc 2
+L994: 
+L995: 【540†Idra Cave】 • 【541†Maya Road】 • 【542†Sechs Territory】 • 【543†Floating Empire】
+L996: 
+L997: Arc 3
+L998: 【544†Leon Karnak】 • 【545†Rune Prana】
+L999: 
+L1000: Other
+L1001: 
+L1002: 【546†Cluck-Cluck Nest】 • 【547†Revival Cave】 • 【548†Demon's Den】 • 【549†World of Fields】 • 【550†Sharance Maze】
+L1003: 
+L1004: Game Content
+L1005: 
+L1006: Mechanics
+L1007: 
+L1008: 【551†Skills】 • 【182†Prince Points】 • 【552†Status Ailments】 • 【553†Rune Abilities】 • 【77†Monsters】 • 【554†Fishing】 • 【555†Mining】 • 【556†Farming Mechanics】
+L1009: 
+L1010: Crafting
+L1011: 
+L1012: Cooking and Recipes • 【557†Pharmacy】 • 【558†Forging】 • 【167†Accessory Crafting】 • 【559†Upgrading Items】 • 【560†Rarity】
+L1013: 
+L1014: Equipment
+L1015: 【561†Tools】 • 【562†Weapons】 • 【563†Headgear】 • 【564†Armor】 • 【565†Shoes】 • 【566†Shield】 • 【567†Accessories】
+L1016: 
+L1017: Items
+L1018: 
+L1019: 【568†Shipping List】 • 【569†Consumable】 • 【570†Dungeon Seed】 • 【168†Crops】 • 【571†Other Items】
+L1020: 
+L1021: Social
+L1022: 
+L1023: 【572†Requests】 • 【49†Calendar】 • 【573†Festivals】 • 【84†Relationships】 • 【574†Town Events】
+L1024: 
+L1025: Other
+L1026: 
+L1027: 【575†Furniture】 • 【576†Outfits】 • 【577†Trophies】 • 【578†Opening Song: Kaze no Traveler】 • 【579†Glitches】
+L1028: 
+L1029: Categories
+L1030: 
+L1031:   * 【580†Categories】:
+L1032:   * 【176†Rune Factory 4】
+L1033:   * 【177†Cooking】
+L1034: Community content is available under 【581†CC-BY-SA†www.fandom.com】 unless otherwise noted.
+L1035: 
+L1036: More Fandoms
+L1037: 
+L1038:   * 【582†Fantasy†www.fandom.com】
+L1039: 
+L1040:  Advertisement
+L1041: ##  【0† †www.fandom.com】
+L1042: 
+L1043: ### Explore properties
+L1044: 
+L1045:   * 【0† Fandom †www.fandom.com】
+L1046:   * 【583† Fanatical †www.fanatical.com】
+L1047:   * 【584† GameSpot †www.gamespot.com】
+L1048:   * 【585† Metacritic †www.metacritic.com】
+L1049:   * 【586† TV Guide †www.tvguide.com】
+L1050:   * 【587† Honest Entertainment †www.youtube.com】
+L1051: 
+L1052: ### Follow Us
+L1053: 
+L1054:   * 【588† †www.facebook.com】
+L1055:   * 【589† †twitter.com】
+L1056:   * 【590† †www.youtube.com】
+L1057:   * 【591† †www.instagram.com】
+L1058:   * 【592† †www.linkedin.com】
+L1059: ### Overview
+L1060: 
+L1061:   * 【593† What is Fandom? †www.fandom.com】
+L1062:   * 【594† Essentials †www.fandom.com】
+L1063:   * 【595† About †www.fandom.com】
+L1064:   * 【596† Careers †www.fandom.com】
+L1065:   * 【597† Press †www.fandom.com】
+L1066:   * 【598† Contact †www.fandom.com】
+L1067:   * 【599† Terms of Use †www.fandom.com】
+L1068:   * 【600† Privacy Policy †www.fandom.com】
+L1069:   * 【601† Digital Services Act †www.fandom.com】
+L1070:   * 【602† Global Sitemap †community.fandom.com】
+L1071:   * 【603† Local Sitemap 】
+L1072:   *
+L1073: ### Community
+L1074: 
+L1075:   * 【604† Community Central †community.fandom.com】
+L1076:   * 【605† Support †fandom.zendesk.com】
+L1077:   * 【606† Help †community.fandom.com】
+L1078: 
+L1079: ### Advertise
+L1080: 
+L1081:   * 【607† Media Kit †about.fandom.com】
+L1082:   * 【608† Contact †about.fandom.com】
+L1083: 
+L1084: ### Fandom Apps
+L1085: 
+L1086: Take your favorite fandoms with you and never miss a beat.  【803†Image: Fandom App logo†therunefactory.fandom.com】
+L1087: 
+L1088:   * 【609† †apps.apple.com】
+L1089:   * 【610† †play.google.com】
+L1090: 
+L1091: Rune Factory Wiki is a Fandom Games Community.
+L1092: 
+L1093: View Mobile Site
+

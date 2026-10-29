@@ -1,0 +1,298 @@
+Crops (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Crops_%28RF4%29)
+citeturn17view0 [wordlim: 200] Crawled: 4 months ago; Content type: text/html; Source: open({"ref_id":"https://therunefactory.fandom.com/wiki/Crops_(RF4)","lineno":650}); Redirected to URL: https://therunefactory.fandom.com/wiki/Crops_(RF4); Total lines: 1068
+L581: ### Growing Crops[]
+L582: 
+L583: After planting a seed, you can check its progress with a magnifying glass. The second line will list the percentage growth of the crop. Hidden behind that growth % is the number of days the crop has grown. For example, an apple tree with '[Grw.] 63% means' it is 39.0 days into its 62 day growth time. Every morning at 6AM, the hidden days counter is increased by a specified amount. When that value reaches the required growth time of the crop, the crop will become harvestable.
+L584: The amount increased is a combination of 2 factors: the '[Grw.] #.#x' (where #.# is a decimal number between 0.1 and 5.0) value of the 2x2 plot of soil the crop is on and whether the season is good, bad or neutral for the crop. The soil growth value can be seen with a magnifying lens. It will be the second listed [Grw.] statistic, the one with an x instead of a % at the end. This value can be increased by Formulas. Formula A will increase the soil's growth value by 0.5.
+L585: Formula B by 1.0 and Formula C by 2.0. The level of the formula has no effect on the value increased. If the crop is favored for the season, this value is then multiplied by 1.5. If the crop is disfavored for the season, the value is multiplied by 2/3. This final result will be the value added to the hidden days value at 6 AM every morning. Note if the crop wasn't watered, no increase will happen.
+L586: For example, if the apple tree with 39.0 days grown is on a plot of soil with a growth value of 3.3 and the season is fall. The hidden days value will be increased to 42.3 the next day. This will show up as 68% growth in game. If the season is winter, the value will be increased by 2.2 (3.3 * 2/3) and the tree will display 65% the next day.
+L587: Thus, the fastest way to grow a crop is to cap the soil's growth value at 5.0 and grow it during its favored season. The crop will gain 7.5 days towards their growth time every morning.
+L588: 
+L589: Runey weather will further multiply the increment value by 4, so that the above would gain 30.0 days at 6AM.
+L590: ### Crop Level[]
+L591: 
+L592: New crops begin at level 1 and can be raised to level 10. Higher level crops sell at higher prices, make higher level food and medicine, and have stronger effects when fed to monsters. After completing the Request "Ship a level 2 【205†Turnip】!", stores will stock the highest level crop/seed that you have shipped. You can ship either the crop or the seed and the appropriate store will then carry both the crop and the seeds of that level.
+L593: Store crop and seed levels only rise if you ship crops that you yourself have raised.
+L594: ### Raising Crop Levels[]
+L595: 
+L596: To raise crop levels you'll want to obtain and plant higher level seeds. To do this, use a 【206†sickle】 on a fully grown (100% [Grw.]) crop. You should get a seed that is 1 level higher than the crop was. You can plant this seed or ship it; if you ship it before 8:00 AM, then you will be able to buy another of the same level on the same day.
+L597: Note that low-level crops often leave behind higher level seeds when harvested. If you plant half a a field of level 1 【205†turnips】, you will likely get many level 2 【207†turnip seeds】 after harvesting them. Additionally, as your soil quality improves (a natural process that occurs as you harvest crops), your regularly watered crops will sometimes grow to be be a higher level than the seed you planted. This will allow you to skip several levels at once, especially for long-growing crops.
+L598: Soil quality can be improved by using 【208†Greenifier】 and 【209†Greenifier+】 on it.
+L599: ### Giant Crops[]
+L600: 
+L601: The basic steps of growing giant produce are simple. First, plant 4 of the same crop onto a marked 2x2 plot of land. Then, sprinkle 【210†Giantizer】 on these crops. Water the crops every day until they are fully grown, and then after an extra day or two they will merge into a single gigantic crop.
+L602: Note: In Rune Factory 4, 【210†Giantizer】 affects the soil, not the crop. Specifically, it affects the stat [Sz.]+, which can be examined using the Magnifying Glass. Another stat, [Sz.], raises naturally as you grow certain crops. It is best to grow giant crops on land that has high [Sz.] and [Sz.]+ stats.
+L603: Crops planted out-of-season are harder to giantize than crops planted in-season. Plants have an easier time giantizing on high quality soil; you can give soil a quality boost (up to +2.00%) with 【208†Greenifier】. Maximum soil quality raises permanently as you harvest crops. It may also help to restore the HP of your soil and/or plant with 【211†Withered Grass】, 【212†Corn】, or 【213†Clover】.
+L604: ## Sincerity General Store[]
+L605: 
+L606:     Weekdays: 9:00 - 18:00
+L607:     Holidays: 9:00 - 13:30
+L608: 
+L609: The General Store stocks seeds for all crops except flowers. It also sells groceries and a rotating selection of wild crops. 【214†Blossom】 and 【135†Doug】 work here, with Doug working on Tuesdays and Thursdays. For information on how to find seeds and/or unlock them in the store, view the 【215†Requests (RF4) page】.
+L610: 
+L611: ### Fruits and Vegetables[]
+L612: #### Regular Crops[]
+L613: Image  Item Name  Good Seasons  Bad Seasons  Grow Time  Seed Buy  Harvested  Regrows  Profit per Day (level 1)  Crop Sell  Simple 【70†Recipe】
+L614: 【510†Image: Turnip†therunefactory.fandom.com】 【205†Turnip】 Summer / Fall None  3 10 G 2 No 13.3 G/d 30 G
+L615: x2=60 G  【511†Image: RF4Pickled Turnip†therunefactory.fandom.com】 【216†Pickled Turnip】 48 G
+L616: (x2=96 G)
+L617: 25.3 G/d
+L618: 【512†Image: Potato†therunefactory.fandom.com】 【217†Potato】 Spring / Summer Winter 7 80 G 3 No 27.1 G/d 90 G
+L619: x3=270 G
+L620: 【513†Image: Spinache】 【218†Spinach】 Fall None  2 60 G 2 No 35 G/d 65 G
+L621: x2=130 G  【514†Image: RF4Boiled Spinach】 【219†Boiled Spinach】 95 G
+L622: (x2=190 G)
+L623: 65 G/d
+L624: 【515†Image: Pumpkin】 【220†Pumpkin】 Spring / Summer Winter 7 200 G 3 Yes 18.6 G/d
+L625: 110 G/d (2nd Harvest 50% Grow time) 110 G
+L626: x3=330 G  【516†Image: RF4Boiled Pumpkin】 【221†Boiled Pumpkin】 180 G
+L627: (x3=540 G)
+L628: 48.5 G/d
+L629: 180 G/d (2nd Harvest)
+L630: 【517†Image: Daikonraddish】 【222†Radish】 Fall Summer 5 120 G 1 No 48 G/d 360 G  【518†Image: RF4Grilled Miso】 【223†Grilled Miso】 660 G
+L631: 108 G/d
+L632: 【519†Image: Strawberry】 【224†Strawberry】 Spring / Fall None  16 400 G 6 Yes 25.6 G/d
+L633: 101.25 G/d (2nd Harvest) 135 G
+L634: x6=810 G  【520†Image: RF4Strawberry Jam】 【225†Strawberry Jam】 215 G
+L635: (x6=1,290 G)
+L636: 55.6 G/d
+L637: 161.25 G/d (2nd Harvest)
+L638: 【521†Image: Yam】 【226†Yam】 Summer / Fall Winter 8 250 G 5 No 56.2 G/d 140 G
+L639: x5=700 G  【522†Image: RF4Sweet Potato】 【227†Sweet Potato】 240 G
+L640: (x5=1,200 G)
+L641: 237.5 G/d
+L642: 【523†Image: Pinkturnip】 【228†Pink Turnip】 Spring Winter 11 160 G 4 No 58.2 G/d 200 G
+L643: (x4=800 G)
+L644: 【524†Image: Cucumber】 【229†Cucumber】 Spring / Summer Winter 5 320 G 5 Yes 4 G/d
+L645: 170 G/d (2nd Harvest) 68 G
+L646: x5=340 G  【525†Image: RF4Pickles】 【230†Pickles】 105 G (525 G)
+L647: 41 G/d
+L648: 262.5 G/d (2nd Harvest)
+L649: 【526†Image: Carrot】 【231†Carrot】 Fall None  10 400 G 3 No 74 G/d 380 G
+L650: (x3=1,140 G)
+L651: 【527†Image: Corn】 【212†Corn】 Spring / Summer Winter 7 450 G 1 No 78.6 G/d 1,000 G  【528†Image: RF4Popcorn】 【232†Popcorn】 1,800 G
+L652: 192.8 G/d
+L653: 【529†Image: RF4Corn on the Cob】 【233†Corn on the Cob】 1,860 G
+L654: 201.4 G/d
+L655: 【530†Image: Leek】 【234†Leek】 Spring / Fall Summer 9 680 G 1 No 102.2 G/d 1,600 G
+L656: 【531†Image: RF4Hot-Hot Fruit】 【235†Hot-Hot Fruit】 Winter Summer 31 1,200 G 5 No 106 G/d 900 G
+L657: (x5=4,500 G)  【236†Formuade】 2,500 G
+L658: (x5=12,500 G)
+L659: 364.5 G/d
+L660: 【532†Image: RF4Green Pepper】 【237†Green Pepper】 Summer Winter 7 800 G 5 Yes -7.1 G/d
+L661: 250 G/d (2nd Harvest) 150 G
+L662: (x5=750 G)
+L663: 【533†Image: Cabbage】 【238†Cabbage】 Spring / Fall None  8 980 G 3 No 132.5 G/d 680 G
+L664: (x3=2,040 G)  【534†Image: RF4Fried Veggies】 【239†Fried Veggies】 1550 G
+L665: (x3=4,650 G)
+L666: 458.7 G/d
+L667: 【535†Image: Onion】 【240†Onion】 Fall None  18 1,480 G 5 No 140 G/d 800 G
+L668: (x5=4,000 G)
+L669: 【536†Image: Whitecabbage】 【241†Bok Choy】 Fall Summer 5 1,000 G 4 No 220 G/d 420 G
+L670: (x5=2,100 G)
+L671: 【537†Image: RF4Eggplant】 【242†Eggplant】 Spring / Summer Winter 7 720 G 4 Yes 5.7 G/d
+L672: 443 G/d (2nd Harvest) 190 G
+L673: (x7=1,330 G)  【538†Image: RF4Miso Eggplant】 【243†Miso Eggplant】 375 G
+L674: (x7=2,625 G)
+L675: 272.1 G/d
+L676: 875 G/d (2nd Harvest)
+L677: 【539†Image: PineappleRF3】 【244†Pineapple】 Summer Others  28 2,800 G 3 Yes 71.4 G/d
+L678: 342.8 G/d (2nd Harvest) 1,600 G
+L679: (x3=4,800 G)  【540†Image: RF4Pineapple Juice】 【245†Pineapple Juice】 4400 G
+L680: (x3=13,200 G)
+L681: 371.2 G/d
+L682: 942.8 G/d (2nd Harvest)
+L683: 【541†Image: Tomato】 【246†Tomato】 Spring / Summer Winter 7 1,880 G 3 Yes -37.1 G/d
+L684: 540 G/d (2nd Harvest) 540 G
+L685: (x3=1,620 G)  【542†Image: RF4Tomato Juice】 【247†Tomato Juice】 1000 G (x3=3,000 G)
+L686: 160 G/d
+L687: 1,000 G/d (2nd Harvest)
+L688: 【543†Image: Pink Melon】 【248†Pink Melon】
+L689: (Gold Melon) Spring / Summer Winter 7 2,120 G 2 Yes -60 G/d
+L690: 566 G/d (2nd Harvest) 850 G
+L691: (x2=1,700 G)
+L692: 【544†Image: Gold Potato】 【249†Golden Potato】 Winter Summer 50 4,000 G 3 No 280 G/d 6,000 G
+L693: (x3=18,000 G)
+L694: 【545†Image: Gold Cabbage】 【250†Golden Cabbage】 Winter Summer 90 5,000 G 3 No 327.7 G/d 11,000 G
+L695: (x3=33,000 G)
+L696: 【546†Image: Gold Turnip】 【251†Golden Turnip】 Winter Summer 90 10,000 G 3 No 555.5 G/d 20,000 G
+L697: (x3=60,000 G)
+L698: 【547†Image: Gold Pumpkin】 【252†Golden Pumpkin】 Winter Summer 70 4,500 G 3 Yes 107.1 G/d
+L699: 352.8 G/d (2nd Harvest) 4,000 G
+L700: (x3=12,000 G)
+L701: #### Giant Crops[]
+L702: Image  Item Name  Good Seasons  Bad Seasons  Grow Time  Harvested  Regrows  Selling Price
+L703: 【548†Image: RF4Tyrant Turnip】 【253†Tyrant Turnip】 Summer / Fall None  3+ 2 No 200G
+L704: 【549†Image: RF4Princely Potato】 【254†Princely Potato】 Spring / Summer Winter 7+ 3 No 500G
+L705: 【550†Image: RF4Sovereign Spinach】 【255†Sovereign Spinach】 Fall None  2+ 2 No 350G
+L706: 【551†Image: RF4Doom Pumpkin】 【256†Doom Pumpkin】 Spring / Summer Winter 7+ 3 Yes 550G
+L707: 【552†Image: RF4Noble Radish】 【257†Noble Radish】 Fall Summer 5+ 1 No 2,000G
+L708: 【553†Image: RF4Sultan Strawberry】 【258†Sultan Strawberry】 Spring / Fall None  6+ 6 Yes 700G
+L709: 【554†Image: RF4Lordly Yam】 【259†Lordly Yam】 Summer / Fall Winter 8+ 5 No 800G
+L710: 【555†Image: RF4Colossal Pink】 【260†Colossal Pink】 Spring Winter 11+ 4 No 1,000G
+L711: 【556†Image: RF4Kaiser Cucumber】 【261†Kaiser Cucumber】 Spring / Summer Winter 5+ 5 Yes 350G
+L712: 【557†Image: RF4Royal Carrot】 【262†Royal Carrot】 Fall None  10+ 3 No 2,000G
+L713: 【558†Image: RF4Gigant Corn】 【263†Gigant Corn】 Spring / Summer Winter 7+ 1 No 7,500G
+L714: 【559†Image: RF4Legendary Leek】 【264†Legendary Leek】 Spring / Fall Summer 9+ 1 No 8,000G
+L715: 【560†Image: RF4Giant Hot-Hot Fruit】 【265†Giant Hot-Hot Fruit】 Winter Summer 31+ 5 No 4,500G
+L716: 【561†Image: RF4Green Pepper Rex】 【266†Green Pepper Rex】 Summer Winter 7+ 5 Yes 800G
+L717: 【562†Image: RF4King Cabbage】 【267†King Cabbage】 Spring / Fall None  8+ 3 No 3,400G
+L718: 【563†Image: RF4Ultra Onion】 【268†Ultra Onion】 Fall None  18+ 5 No 4,000G
+L719: 【564†Image: RF4Boss Bok Choy】 【269†Boss Bok Choy】 Fall Summer 5+ 4 No 2,250G
+L720: 【565†Image: RF4Emperor Eggplant】 【270†Emperor Eggplant】 Spring / Summer Winter 7+ 4 Yes 1,000G
+L721: 【566†Image: RF4King Pineapple】 【271†King Pineapple】 Summer Others  28+ 3 Yes 8,000G
+L722: 【567†Image: RF4Titan Tomato】 【272†Titan Tomato】 Spring / Summer Winter 7+ 3 Yes 3,000G
+L723: 【568†Image: RF4Conqueror Melon】 【273†Conqueror Melon】 Spring / Summer Winter 7+ 2 Yes 4,250G
+L724: 【569†Image: RF4Gold Prince Potato】 【274†Gold Prince Potato】 Winter Summer 50+ 3 No 27,000G
+L725: 【570†Image: RF4Golden King Cabbage】 【275†Golden King Cabbage】 Winter Summer 90+ 3 No 52,000G
+L726: 【571†Image: RF4Golden Tyrant Turnip】 【276†Golden Tyrant Turnip】 Winter Summer 90+ 3 No 90,000G
+L727: 【572†Image: RF4Gldn. Doom Pumpkin】 【277†Golden Doom Pumpkin】 Winter Summer 70+ 3 Yes 18,000G
+L728: #### Seeds[]
+L729: Image  Item Name  Seed Buy  Seed Sell  Crop Sell
+L730: 【573†Image: RF4Turnip Seeds】 【207†Turnip Seed】 10 G 2 G 30 G
+L731: (x2 = 60 G)
+L732: 【574†Image: RF4Potato Seeds】 【278†Potato Seed】 80 G 8 G 90 G
+L733: (x3 = 270 G)
+L734: 【575†Image: RF4Spinach Seeds】 【279†Spinach Seed】 60 G 6 G 65 G
+L735: (x2 = 130 G)
+L736: 【576†Image: RF4Pumpkin Seeds】 【280†Pumpkin Seed】 200 G 20 G 110 G
+L737: (x3 = 330 G)
+L738: 【577†Image: RF4Radish Seeds】 【281†Radish Seed】 120 G 12 G 360 G
+L739: 【578†Image: RF4Strawberry Seeds】 【282†Strawberry Seed】 400 G 40 G 135 G
+L740: (x6 = 810 G)
+L741: 【579†Image: RF4Yam Seeds】 【283†Yam Seed】 250 G 25 G 140 G
+L742: (x5 = 700 G)
+L743: 【580†Image: RF4Pink Turnip Seeds】 【284†Pink Turnip Seed】 160 G 16 G 200 G
+L744: (x4 = 800 G)
+L745: 【581†Image: RF4Cucumber Seeds】 【285†Cucumber Seed】 320 G 32 G 68 G
+L746: (x5 = 340 G)
+L747: 【582†Image: RF4Carrot Seeds】 【286†Carrot Seed】 400 G 40 G 380 G
+L748: (x3 = 1,140 G)
+L749: 【583†Image: RF4Corn Seeds】 【287†Corn Seed】 450 G 45 G 1,000 G
+L750: 【584†Image: RF4Leek Seeds】 【288†Leek Seed】 680 G 68 G 1,600 G
+L751: 【585†Image: RF4Hot-Hot Seeds】 【289†Hot-Hot Seed】 1,200 G 120 G 900 G
+L752: (x5 = 4,500 G)
+L753: 【586†Image: RF4Green Pepper Seeds】 【290†Green Pepper Seed】 800 G 80 G 150 G
+L754: (x5 = 750 G)
+L755: 【587†Image: RF4Cabbage Seeds】 【291†Cabbage Seed】 980 G 98 G 680 G
+L756: (x3 = 2,040 G)
+L757: 【588†Image: RF4Onion Seeds】 【292†Onion Seed】 1,480 G 148 G 800 G
+L758: (x5 = 4,000 G)
+L759: 【589†Image: RF4Bok Choy Seeds】 【293†Bok Choy Seed】 1,000 G 100 G 420 G
+L760: (x4 = 1,680 G)
+L761: 【590†Image: RF4Eggplant Seeds】 【294†Eggplant Seed】 720 G 72 G 190 G
+L762: (x4 = 760 G)
+L763: 【591†Image: RF4Pineapple Seeds】 【295†Pineapple Seed】 2,800 G 280 G 1,600 G
+L764: (x3 = 4,800 G)
+L765: 【592†Image: RF4Tomato Seeds】 【296†Tomato Seed】 1,880 G 188 G 540 G
+L766: (x3 = 1,620 G)
+L767: 【593†Image: RF4Pink Melon Seeds】 【297†Pink Melon Seed】
+L768: (Golden Melon) 2,120 G 212 G 850 G
+L769: (x2 = 1,700 G)
+L770: 【594†Image: RF4Gold Potato Seeds】 【298†Gold Potato Seed】 4,000 G 400 G 6,000 G
+L771: (x3 = 18,000 G)
+L772: 【595†Image: RF4Gold Cabbage Seeds】 【299†Gold Cabbage Seed】 5,000 G G 11,500 G
+L773: (x3 = 34,500 G)
+L774: 【596†Image: RF4Gold Turnip Seeds】 【300†Gold Turnip Seed】 10,000 G 1,000 G 20,000 G
+L775: (x3 = 60,000 G)
+L776: 【597†Image: RF4Gold Pumpkin Seeds】 【301†Gold Pumpkin Seed】 4,500 G 450 G 4,000 G
+L777: (x3 = 12,000 G)
+L778: #### Other Crops[]
+L779: Image  Item Name  Good Seasons  Bad Seasons  Grow Time  Harvested  Regrows  Profit per Day (level 1)
+L780: 【598†Image: Grass】 【302†Fodder】None None 4 1 Yes 7.5 G/d
+L781: 【599†Image: RF4Grapes】 【303†Grapes】 Winter 50 / Yes
+L782: 【600†Image: RF4Orange】 【304†Orange】 Winter 22 / Yes
+L783: 【601†Image: RF4Apple】 【305†Apple】 Winter 62 / Yes
+L784: 【602†Image: 40x40】40x40 【306†Twinkle Tree】
+L785: (Shining Tree) Winter 38 / No If you keep restoring its HP by hoeing 【212†Corn】/【213†4-Leaf Clover】/【211†Withered Grass】 next to it, you can farm infinite 【307†Lumber】
+L786: 【603†Image: RF4Magic Plant Shield】 【308†Magic Plant Shield】 None 12 1 No -41.6 G/d
+L787: 【604†Image: RF4Plant Sword】 【309†Plant Sword】 None 12 1 No
+L788: 【605†Image: RF4Dungeon Seed】 【310†Dungeon Flower】
+L789: (Field Dungeon) None 18 / No If you keep restoring its HP by hoeing 【212†Corn】/【213†4-Leaf Clover】/【211†Withered Grass】 next to it, you can farm infinite 【311†Material Stone】
+L790: #### Seeds[]
+L791: Image  Item Name  Seed Buy  Seed Sell  Crop Sell
+L792: 【606†Image: Grass Seed】 【312†Fodder Seed】 30 G 3 G 60 G
+L793: 【607†Image: RF4Grape Tree Seed】 【313†Grape Tree Seed】 6000 G 600 G 120 G
+L794: 【608†Image: RF4Orange Tree Seed】 【314†Orange Tree Seed】 5,000 G 500 G 80 G
+L795: 【609†Image: RF4Apple Tree Seeds】 【315†Apple Tree Seed】 7,000 G 700 G 150 G
+L796: 【610†Image: RF4Shining Seed】 【306†Shining Seed】
+L797: (Twinkle Seed) 3,000 G 300 G 40 G
+L798: 【611†Image: RF4Shield Seed】 【316†Shield Seed】 1,500 G 150 G 1000 G
+L799: 【612†Image: RF4Sword Seed】 【317†Sword Seed】 1,500 G 150 G 1000 G
+L800: 【613†Image: RF4Dungeon Seed】 【310†Dungeon Seed】 5,000 G 500 G /
+L801: ### Giant Fruits and Vegetables[]
+L802: 
+L803: 【614†Image: S216 WXfYtc8wg46BsS7Lzz3T3B4Ry6xEkU66】
+L804: ### Other plants[]
+L805: 
+L806: ++The tree will not regrow if chopped down. However, once fully grown, 【303†Grapes】, 【304†Orange】, and 【305†Apple】 trees produce fruit daily.
+L807: +++The Twinkle Tree (grown from a 【306†Shining Seed】) produces no fruit, but can be chopped with an axe for 【307†Lumber】 and Glitter Augite. Similarly, Dungeon Flowers can be hit with a hammer for 【311†Material Stone】. You can do this as long as the Twinkle Tree/Dungeon Flower have HP. HP can be restored by hoeing 【211†Withered Grass】, 【212†Corn】, or 【213†Clover】 onto the plot of land where the Tree or Flower is planted.
+L808: Trees and Dungeons can be made giant. Giant trees do not produce giant fruit. Giant dungeons have extra floors.
+L809: ## Carnation's[]
+L810: 
+L811:     Weekdays: 9:00 - 18:00
+L812:     Holidays: 9:00 - 13:00
+L813: 
+L814: 【182†Carnation's】 stocks seeds for flowers. It also sells nutrients and a rotating selection of flowers and wild crops. Carnation's is run by 【318†Illuminata】; after she takes 【319†Amber】 in, they alternate workdays, with Amber taking Tuesdays and Thursdays.
+L815: 
+L816: For information on how to find seeds and/or unlock them in the store, view the 【320†Requests (RF4) page】.
+L817: ### Flowers[]
+L818: 
+L819: Image
+L820: Item Name
+L821:   Good Seasons
+L822:   Bad Seasons
+L823:   Grow Time
+L824:   Harvested
+L825:   Seed Buy
+L826:   Seed Sell
+L827:   Crop Sell
+L828:   Profit/d
+L829: 【615†Image: RF4Toyherb】 【321†Toyherb】 Spr Win 4 2 60G 6G 65G
+L830: (x2=130G) 17.5 G/d
+L831: 【616†Image: RF4Moondrop Flower】 【322†Moondrop】 Spr/Fall Win 7 4 250G 25G 115G
+L832: (x4=460G) 30 G/d
+L833: 【617†Image: RF4Pink Cat】 【323†Pink Cat】 Sum Win 6 3 180G 18G 110G
+L834: (x3=330G) 25 G/d
+L835: 【618†Image: RF4Charm Blue】 【324†Charm Blue】 Fall Win 8 3 370G 37G 220G
+L836: (x3=660G) 36.25 G/d
+L837: 【619†Image: RF4Cherry Grass】 【325†Cherry Grass】 Spr Win 10 4 420G 42G 230G
+L838: (x4=920G) 50 G/d
+L839: 【620†Image: RF4Lamp Grass】 【326†Lamp Grass】 Win None  16 3 740G 74G 650G
+L840: (x3=1,950G) 75.6 G/d
+L841: 【621†Image: RF4Blue Crystal】 【327†Blue Crystal】 Spr Sum/ Fall/ Win 55 3 30,000G 1,000G 15,000G
+L842: (x3=45,000G) 272.7 G/d
+L843: 【622†Image: RF4Ironleaf】 【328†Ironleaf】 Win Sum 21 2 600G 60G 1,111G
+L844: (x2=2,222G) 77.2 G/d
+L845: 【623†Image: RF44-Leaf Clover】 【213†4-Leaf Clover】 Spr/ Fall Sum 28 3 960G 96G 980G
+L846: (x3=2,940G) 70.7 G/d
+L847: 【624†Image: RF4Fireflower】 【329†Fireflower】 Sum Win 42 4 5,000G 500G 2,800G
+L848: (x4=11,200G) 147.6 G/d
+L849: 【625†Image: RF4Green Crystal】 【330†Green Crystal】 Sum Spr/ Fall/ Win 70 3 30,000G 1,000G 17,000G
+L850: (x3=51,000G) 300 G/d
+L851: 【626†Image: RF4Noel Grass】 【331†Noel Grass】 Win Sum 33 4 2,700G 270G 2,000G
+L852: (x4=8,000G) 160.6 G/d
+L853: 【627†Image: RF4Autumn Grass】 【332†Autumn Grass】 Fall Win 29 3 2,500G 250G 1,800G
+L854: (x3=5,400G) 100 G/d
+L855: 【628†Image: RF4Pom-Pom Grass】 【333†Pom-Pom Grass】 Fall Win 14 3 510G 51G 440G
+L856: (x3=1,320G) 57.8 G/d
+L857: 【629†Image: RF4Red Crystal】 【334†Red Crystal】 Fall Spr/ Sum/ Win 80 3 30,000G 1,000G 20,000G
+L858: (x3=60,000G) 375 G/d
+L859: 【630†Image: RF4White Crystal】 【335†White Crystal】 Win Spr/ Sum/ Fall 90 3 30,000G 1,000G 22,500G
+L860: (x3=67,500G) 416.6 G/d
+L861: 【631†Image: RF4Emery Flower】 【336†Emery Flower】 None None  120 2 50,000G 2,500G 55,000G
+L862: (x2=110,000G) 500 G/d
+L863: ### Giant Flowers[]
+L864: Image  Item Name  Good Seasons  Bad Seasons  Grow Time  Harvested  Crop Sell
+L865: 【632†Image: RF4Ultra Toyherb】 【337†Ultra Toyherb】 Spr Win 4+ 2 350G
+L866: 【633†Image: RF4Ultra Moondrop Flower】 【338†Ultra Moondrop Flower】 Spr/Fall Win 7+ 4 650G
+L867: 【634†Image: RF4King Pink Cat】 【339†King Pink Cat】 Sum Win 6+ 3 600G
+L868: 【635†Image: RF4Great Charm Blue】 【340†Great Charm Blue】 Fall Win 8+ 3 1,200G
+L869: 【636†Image: RF4King Cherry Grass】 【341†King Cherry Grass】 Spr Win 10+ 4 1,200G
+L870: 【637†Image: RF4Kaiser Lamp Grass】 【342†Kaiser Lamp Grass】 Win None  16+ 3 3250G
+L871: 【638†Image: RF4Big Blue Crystal】 【343†Big Blue Crystal】 Spr Sum/ Fall/ Win 55+ 3 67,500G
+L872: 【639†Image: RF4Super Ironleaf】 【344†Super Ironleaf】 Win Sum 21+ 2 5,555G
+L873: 【640†Image: RF4Great 4-Leaf Clover】 【345†Great 4-Leaf Clover】 Spr/ Fall Sum 28+ 3 5,000G
+L874: 【641†Image: RF4Big Fireflower】 【346†Big Fireflower】 Sum Win 42+ 4 14,000G
+L875: 【642†Image: RF4Big Green Crystal】 【347†Big Green Crystal】 Sum Spr/ Fall/ Win 70+ 3 76,500G
+

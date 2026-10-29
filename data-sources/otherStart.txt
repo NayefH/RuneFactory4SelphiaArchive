@@ -1,0 +1,379 @@
+Other Items (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Other_Items_%28RF4%29)
+citeturn28view0 [wordlim: 200] Crawled: 1.5 years ago; Content type: text/html; Source: open({"ref_id":"https://therunefactory.fandom.com/wiki/Other_Items_(RF4)","lineno":570}); Redirected to URL: https://therunefactory.fandom.com/wiki/Other_Items_(RF4); Total lines: 958
+L309:       * 【12† Rune Factory 】
+L310:       * 【13† Rune Factory 2 】
+L311:       * 【14† Frontier 】
+L326:       * 【24† Prologue Guide 】
+L327:       * 【25† Rune Factory Official Memoirs 】
+L328:       * 【26† Nintendo DREAM 】
+L329:       * 【27† Rune Factory 5: Official Perfect Guide 】
+L330:       * 【28† A Wooly's World 】
+L331: 
+L332:     * 【29† Inspirations of Rune Factory 】
+L333:     * 【30† Voice Actors 】
+L334:     * 【31† External Links 】
+L335: 
+L336:       * 【32† Website †runefactory.marv.jp】
+L337:       * 【33† Blog †news-runefactory.marv.jp】
+L338:       * 【34† X (Japanese) †x.com】
+L339:       * 【35† X (English) †x.com】
+L340:       * Japanese
+L341:         * 【36† Rune Factory †www.bokumono.com】
+L342:         * 【37† Rune Factory 2 †www.marv.jp】
+L343:         * 【38† Rune Factory Frontier †www.marv.jp】
+L344:         * 【39† Rune Factory 3 †www.marv.jp】
+L345:         * 【40† Rune Factory Oceans †www.marv.jp】
+L346:         * 【41† Rune Factory 4 †www.marv.jp】
+L347:         * 【42† Rune Factory 4S †www.marv.jp】
+L348:         * 【43† Rune Factory 5 †runefactory.marv.jp】
+L349: 
+L350:     * Wiki
+L351: 
+L352:       * 【44† Wiki Guidelines 】
+L353: 
+L354:         * 【45† Layout Guide 】
+L355:         * 【46† Style Manual 】
+L356:       * 【47† Admin 】
+L357: 
+L358:   * World of Rune Factory
+L359: 
+L360:     * Calendar
+L361: 
+L362:       * 【48† Rune Factory 】
+L363:       * 【49† Rune Factory 2 】
+L364:       * 【50† Frontier 】
+L365:       * 【51† Rune Factory 3 】
+L366:       * 【52† Tides of Destiny 】
+L367:       * 【53† Rune Factory 4 】
+L368:       * 【54† Rune Factory 5 】
+L369: 
+L370:     * Characters
+L371: 
+L372:       * 【55† Rune Factory 】
+L373:       * 【56† Rune Factory 2 】
+L374:       * 【57† Frontier 】
+L375:       * 【58† Rune Factory 3 】
+L376:       * 【59† Tides of Destiny 】
+L377:       * 【60† Rune Factory 4 】
+L378:       * 【61† Rune Factory 5 】
+L379:     * Child
+L380: 
+L381:       * 【62† Rune Factory 】
+L382:       * 【63† Rune Factory 2 】
+L383:       * 【64† Frontier 】
+L384:       * 【65† Rune Factory 3 】
+L385:       * 【66† Tides of Destiny 】
+L386:       * 【67† Rune Factory 4 】
+L387:       * 【68† Rune Factory 5 】
+L388: 
+L389:     * Cooking
+L390: 
+L391:       * 【69† Rune Factory 】
+L392:       * 【70† Rune Factory 2 】
+L393:       * 【71† Frontier 】
+L394:       * 【72† Rune Factory 3 】
+L395:       * 【73† Tides of Destiny 】
+L396:       * 【74† Rune Factory 4 】
+L397:       * 【75† Rune Factory 5 】
+L398: 
+L399:     * Monsters
+L400:       * 【76† Rune Factory 】
+L401:       * 【77† Rune Factory 2 】
+L402:       * 【78† Frontier 】
+L403:       * 【79† Rune Factory 3 】
+L404:       * 【80† Tides of Destiny 】
+L405:       * 【81† Rune Factory 4 】
+L406:       * 【82† Rune Factory 5 】
+L407: 
+L408:     * Relationships
+L409: 
+L410:       * 【83† Rune Factory 】
+L411:       * 【84† Rune Factory 2 】
+L412:       * 【85† Frontier 】
+L413:       * 【86† Rune Factory 3 】
+L414:       * 【87† Tides of Destiny 】
+L415:       * 【88† Rune Factory 4 】
+L416:       * 【89† Rune Factory 5 】
+L417: 
+L418:     * 【90† Species 】
+L419: 
+L420:   * 【18† Rune Factory 5 】
+L421: 
+L422:     * Items
+L423:       * 【91† Accessories (RF5) 】
+L424:       * 【92† Items (RF5) 】
+L425:       * 【93† Outfits (RF5) 】
+L426:       * 【94† Rune Abilities (RF5) 】
+L427:       * 【95† Tools (RF5) 】
+L428:       * 【96† Weapons (RF5) 】
+L429: 
+L430:     * Other Topics
+L431: 
+L432:       * 【97† Beyond the Blue Yonder 】
+L433:       * 【54† Calendar (RF5) 】
+L434:       * 【98† Directives 】
+L435:       * 【99† Festivals (RF5) 】
+L436:       * 【89† Relationships (RF5) 】
+L437:       * 【100† Requests (RF5) 】
+L438:       * 【101† Runes 】
+L439:       * 【102† SEED 】
+L440: 
+L441:         * 【103† SEED Crests 】
+L442:       * 【104† Skills (RF5) 】
+L443: 
+L444:     * 【61† Characters 】
+L445: 
+L446:       * Protagonists
+L447: 
+L448:         * 【105† Ares 】
+L449:         * 【106† Alice 】
+L450: 
+L451:       * 【107† Bachelorettes 】
+L452: 
+L453:         * 【108† Beatrice 】
+L454:         * 【109† Fuuka 】
+L455:         * 【110† Lucy 】
+L456:         * 【111† Ludmila 】
+L457:         * 【112† Priscilla 】
+L458:         * 【113† Scarlett 】
+L459: 
+L460:       * 【114† Bachelors 】
+L461: 
+L462:         * 【115† Cecil 】
+L463:         * 【116† Lucas 】
+L464:         * 【117† Martin 】
+L465:         * 【118† Murakumo 】
+L466:         * 【119† Reinhard 】
+L467:         * 【120† Ryker 】
+L468:       * 【121† Other 】
+L469: 
+L470:         * 【122† Darroch 】
+L471:         * 【123† Elsje 】
+L472:         * 【124† Gideon 】
+L473:         * 【125† Heinz 】
+L474:         * 【126† Hina 】
+L475:         * 【127† Julian 】
+L476:         * 【128† Livia 】
+L477:         * 【129† Misasagi 】
+L478:         * 【130† Oswald 】
+L479:         * 【131† Palmo 】
+L480:         * 【132† Radea 】
+L481:         * 【133† Randolph 】
+L482:         * 【134† Simone 】
+L483:         * 【135† Eliza 】
+L484:         * 【136† Terry 】
+L485:         * 【137† Yuki 】
+L486:         * 【138† Margaret 】
+L487:         * 【139† Doug 】
+L488:       * 【121† Children 】
+L489: 
+L490:         * 【140† Elias 】
+L491:         * 【141† Ivan 】
+L492:         * 【142† Conan 】
+L493:         * 【143† Erica 】
+L494:         * 【144† Iris 】
+L495:         * 【145† Collette 】
+L496: 
+L497:     * Activities
+L498: 
+L499:       * 【75† Cooking (RF5) 】
+L500:       * 【146† Farming (RF5) 】
+L501:       * 【147† Fishing (RF5) 】
+L502:       * 【148† Forging (RF5) 】
+L503: 
+L504:     * 【149† Locations 】
+L505: 
+L506:       * 【150† Rigbarth 】
+L507:       * 【151† Phoros Woodlands 】
+L508:       * 【152† Kelve Volcanic Region 】
+L509:       * 【153† Lake Yumina 】
+L510:       * Dungeons
+L511:         * 【154† Whispering Woods 】
+L512:         * 【155† Belpha Ruins 】
+L513:         * 【156† Kelve Lava Caves 】
+L514:         * 【157† Meline Crystal Caverns 】
+L515:         * 【158† Atohl's End 】
+L516:         * 【159† Gadeus Grasslands 】
+L517:         * 【160† Bandit King's Old Base 】
+L518:         * 【161† Forest of No Return 】
+L519:         * 【162† Eternal Darkness 】
+L520:         * 【163† Basara's Hideout 】
+L521:         * 【164† Thunder Wilderness 】
+L522:         * 【165† Cloudheim 】
+L523:         * 【166† Seed Sky Castle 】
+L524:         * 【167† Fimbul Border 】
+L525:         * 【168† Odia 】
+L526:         * 【169† Rigbarth Labyrinth 】
+L527:       * 【170† Farm Dragon 】
+L528: 
+L529:     * 【82† Monsters (RF5) 】
+L530: 
+L531:       * 【171† Category 】
+L532: 
+L533:   * 【17† Rune Factory 4 】
+L534: 
+L535:     * 【53† Calendar (RF4) 】
+L536:     * 【60† Characters (RF4) 】
+L537:     * 【74† Cooking (RF4) 】
+L538:     * 【172† Crafting (RF4) 】
+L539:     * 【173† Crops (RF4) 】
+L540:     * 【174† Category:Dialogue (RF4) 】
+L541:     * 【175† Equipment (RF4) 】
+L542: 
+L543:   【179† †auth.fandom.com】
+L544: 
+L545: in: 【180†Rune Factory 4】
+L546: #  Other Items (RF4)
+L547: 
+L548:  【179† Sign in to edit †auth.fandom.com】
+L549: 
+L550:   * 【181† History 】
+L551:   * 【182† Purge 】
+L552:   * 【183† Talk (0) 】
+L553: ## Contents
+L554: 
+L555:   * 【184†1 Monsters Drops and Mined Items】
+L556:     * 1.1 Minerals
+L557:     * 1.2 Jewels
+L558:     * 1.3 Crystals
+L559:     * 1.4 Sticks and Stems
+L560:     * 1.5 Liquids
+L561:     * 1.6 Feathers
+L562:     * 1.7 Shells and Bones
+L563:     * 1.8 Stones
+L564:     * 1.9 Strings
+L565:     * 1.10 Shards
+L566:     * 1.11 Furs
+L567:     * 1.12 Powders and Spores
+L568:     * 1.13 Cloths and Skins
+L569:     * 1.14 Claws and Fangs
+L570:     * 1.15 Scales
+L571:     * 1.16 Misc.
+L572:     * 1.17 Grasses
+L573:   * 【185†2 References】
+L574: ## Monsters Drops and Mined Items[]
+L575: 
+L576: Items used as materials that are necessary for forging, crafting, and pretty much everything else in the game!
+L577: ### Minerals[]
+L578: Minerals
+L579: Mineral Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L580: 【652†Image†therunefactory.fandom.com】 【186†Scrap Metal+】  10  2  DEF +2  2  -  【187†Forge】 with 【188†Scrap Metal】
+L581: 【653†Image†therunefactory.fandom.com】 【189†Iron】  2  1  DEF +1  20  200  Mining on any ore
+L582: 【654†Image†therunefactory.fandom.com】 【190†Bronze】  15  4  DEF +4  100  800  Around 【191†Obsidian Mansion】
+L583: 【655†Image】 【192†Silver】  32  7  DEF +7  320  3600  【193†Autumn Road】, 【194†Delirium Lava Ruins】, 【195†Maya Road】
+L584: 【656†Image】 【196†Gold】  40  9  DEF +10  480  7800  【195†Maya Road】, 【197†Idra Cave】
+L585: 【657†Image】 【198†Platinum】  50  12  DEF +25  1500  12000  【199†Floating Empire】 (Found in boxes), 【200†Rune Prana】
+L586: 【658†Image】 【201†Orichalcum】  80  13  DEF +95  3500  28000  【202†Leon Karnak】, 【200†Rune Prana】
+L587: 【659†Image】 【203†Dragonic Stone】  95  15  DEF +160, M.DEF +120  5000  -  【204†Rune Prana 7】
+L588: ### Jewels[]
+L589: Jewels
+L590: Jewel Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L591: 【660†Image】 【205†Amethyst】  4  0  M.DEF +1  50  500  【206†Yokmir Forest】
+L592: 【661†Image】 【207†Aquamarine】  11  2  M.DEF +3  165  1500  【208†Water Ruins】, 【195†Maya Road】
+L593: 【662†Image】 【209†Emerald】  26  5  M.DEF +5  380  4800  【210†Yokmir Cave】, 【195†Maya Road】
+L594: 【663†Image】 【211†Ruby】  36  7  M.DEF +8  528  7000  【194†Delirium Lava Ruins】, 【195†Maya Road】
+L595: 【664†Image】 【212†Sapphire】  42  8  M.DEF +12  520  9800  【213†Sercerezo Hill】
+L596: 【665†Image】 【214†Diamond】  50  11  M.DEF +24  640  14400  【215†Sechs Territory】, 【200†Rune Prana】
+L597: 【666†Image】 【216†Green Core】  81  13  M.DEF +77  3000  30000  【217†Greens】 on 【195†Maya Road】 (Near Pond), Field Dungeon
+L598: 【667†Image】 【218†Red Core】  81  13  M.DEF +77  3000  30000  【219†Reds】 on 【193†Autumn Road】 (Near the Revival Cave), Field Dungeon
+L599: 【668†Image】 【220†Yellow Core】  81  13  M.DEF +77  3000  30000  【221†Yellows】 on 【213†Sercerezo Hill】 (Furthest West spot), Field Dungeon
+L600: 【669†Image】 【222†Blue Core】  81  13  M.DEF +77  3000  30000  【223†Blues】 in 【215†Sechs Territory】 (Before the cave), Field Dungeon
+L601: 【670†Image】 【224†Crystal Skull】  95  15  M.ATK +60 M.DEF +195  4000  180000  【225†Sarcophagus】 in 【202†Leon Karnak】
+L602: ### Crystals[]
+L603: 
+L604:   * 【226†Gates】 are the swirly things that will continuously respawn 【81†monsters】 if they are not destroyed.
+L605: Crystals
+L606: Crystal Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L607: 【671†Image】 【227†Magic Crystal】  27  4  M.ATK +5, M.DEF +1  58  350  【228†Little Mages】 in 【197†Idra Cave】
+L608: 【672†Image】 【229†Dark Crystal】  25  3  STR +3, VIT +3  240  1440  Dropped by 【226†Gates】
+L609: 【673†Image】 【230†Fire Crystal】  25  7  ATK +5  220  1600  Dropped by 【226†Gates】, Mined with 【211†Ruby】
+L610: 【674†Image】 【231†Wind Crystal】  25  10  M.DEF +5  260  2150  Dropped by 【226†Gates】, Mined with 【209†Emerald】
+L611: 【675†Image】 【232†Earth Crystal】  25  8  DEF +5  250  2000  Dropped by 【226†Gates】, Mined with 【205†Amethyst】 or 【189†Iron】
+L612: 【676†Image】 【233†Water Crystal】  25  11  M.ATK +5  330  2400  Dropped by 【226†Gates】, Mined with 【207†Aquamarine】
+L613: 【677†Image】 【234†Love Crystal】  50  9  Drain Atk 3%  255  2080  Dropped by 【226†Gates】
+L614: 【678†Image】 【235†Light Crystal】  25  12  VIT +3, INT +3  1200  3000  Dropped by 【226†Gates】
+L615: 【679†Image】 【236†Small Crystal】  80  13  ATK +80  12000  120000  Dropped by 【226†Gates】, 【237†Ice Wizards】 in 【238†Rune Prana 5】
+L616: (Also minable in 【200†Rune Prana】 and becomes minable in iron-containing ore once your level is high enough)
+L617: 【680†Image】 【239†Big Crystal】  83  13  ATK +40, M.ATK +40  1760  16000  【202†Leon Karnak】
+L618: (Also seems to be minable from bronze-containing ore.)
+L619: 【681†Image】 【240†Rune Crystal】  89  14  M.ATK +100  9800  N/A  Mined from rune crystals
+L620: 【682†Image】 【241†Electro Crystal】  93  15  ATK +60, M.ATK +150, M.DEF -5, Par Atk 35%  3100  160000  【242†Bane Dragon】 in 【200†Rune Prana】
+L621: ### Sticks and Stems[]
+L622: Sticks and Stems
+L623: Item Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L624: 【683†Image】 【243†Branch】  N/A  0  ATK +1  20  100  Found in fields and can be turned into 【244†lumber】.
+L625: 【684†Image】 【244†Lumber】  N/A  0  ATK +1  40  500  Axe
+L626: 【685†Image】 【245†Stick】  2  0  ATK +2  9  50  【246†Orcs】 in 【206†Yokmir Forest】
+L627: 【686†Image】 【247†Insect Horn】  7  1  ATK +3  21  100  【248†Beetle】 in 【206†Yokmir Forest】
+L628: 【687†Image】 【249†Plant Stem】  28  3  ATK +3, M.ATK +3  65  390  【250†Leaf Ball】 in 【210†Yokmir Cave】
+L629: 【688†Image】 【251†Bull's Horn】  36  7  ATK +7, DEF +1  95  670  【252†Buffaloo】 in 【194†Delirium Lava Ruins】
+L630: 【689†Image】 【253†Rigid Horn】  52  10  ATK +15, Crit +1%  130  1040  【254†Heracles】 on 【195†Maya Road】
+L631: 【690†Image】 【255†Thick Stick】  65  12  ATK +34  198  1590  【256†Gigantes】 in 【199†Floating Empire】
+L632: 【691†Image】 【257†Devil Horn】  86  13  ATK +55, M.ATK +50  312  2810  【258†Arch Demon】 in 【202†Leon Karnak】
+L633: 【692†Image】 【259†Moving Branch】  95  9  ATK -10, M.ATK +200  4500  210000  【260†Dead Tree 2】 in 【204†Rune Prana 7】
+L634: ### Liquids[]
+L635: Liquids
+L636: Liquid Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L637: 【693†Image】 【261†Glue】  26  5  ATK +1, DEF +2, M.DEF +2  70  420  【262†High Orc】 in 【210†Yokmir Cave】 (Pretty much any 【246†Orc】-Type)
+L638: 【694†Image】 【263†Devil Blood】  39  9  M.ATK +9, Drain Res +15%  116  920  【264†Daemon】 in 【197†Idra Cave】
+L639: 【695†Image】 【265†Paralysis Poison】  30  10  Psn Atk 20%  131  1050  【266†Hornet Queen】 on 【195†Maya Road】
+L640: 【696†Image】 【267†Poison King】  86  14  ATK +5, M.ATK +88 Psn Atk 80%  308  2770  Hornet King in 【268†Rune Prana 2】
+L641: ### Feathers[]
+L642: Feathers
+L643: Feather Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L644: 【697†Image】 【269†Bird's Feather】  10  2  INT +2  31  155  【270†Weagle】 in 【208†Water Ruins】, 【271†Mamadoodle】 in 【272†Cluck-Cluck Nest】 (Really any bird-type)
+L645: 【698†Image】 【273†Black Bird Feather】  50  10  INT +14  148  1080  【274†Blackbird】 on 【195†Maya Road】
+L646: 【699†Image】 【275†Thunderbird Feather】  58  12  INT +28  210  1680  【276†Thunderbird】 in 【199†Floating Empire】
+L647: 【700†Image】 【277†Yellow Feather】  90  5  INT +130  100  800  【278†Big Ducks】 in 【268†Rune Prana 2】
+L648: 【701†Image】 【279†Dragon Fin】  96  15  VIT -10, INT +300  10000  300000  【280†Aquaticus】 in 【281†Sharance Maze】, Chance while 【282†fishing】
+L649: ### Shells and Bones[]
+L650: Shells and Bones
+L651: Items Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L652: 【702†Image】 【283†Turtle Shell】  15  2  DEF +4, M.DEF +1, Crit -3%  30  150  【284†Tortas】 in 【208†Water Ruins】
+L653: 【703†Image】 【285†Fish Fossil】  20  3  M.ATK +4, M.DEF +1  33  165  【286†Sky Fish】 in 【208†Water Ruins】, 【287†Sealy】 in 【215†Sechs Territory】
+L654: 【704†Image】 【288†Skull】  39  9  M.ATK +8, M.DEF +5, SIck Atk 4%  120  960  【289†Ghost】 in 【191†Obsidian Mansion】 (Chance drop on any Ghost-Type)
+L655: 【705†Image】 【290†Dragon Bones】  50  8  DEF +10, M.DEF +10,   VIT +10  2700  24000  【291†Ancient Bone】 in 【292†Revival Cave】
+L656: 【706†Image】 【293†Blk. Tortoise Shell】  62  12  DEF +26, M.DEF +7  200  1600  【294†Fortoise】 in 【199†Floating Empire】
+L657: 【707†Image】 【295†Ammonite】  92  15  DEF +135, M.DEF +82, STR -5  3200  168000  【296†Octopirate】 2 in 【268†Rune Prana 2】
+L658: ### Stones[]
+L659: Stones
+L660: Stone Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L661: 【708†Image】 【297†Rock】  N/A  0  Crit +1%  2  10  Found in fields, and can be turned into material stone.
+L662: 【709†Image】 【298†Material Stone】  N/A  0  Crit +1%  40  500  Hammer
+L663: 【710†Image】 【299†Round Stone】  25  4  ATK +5 Crit +5%  50  -  【282†Fished】 in waterfall area of 【206†Yokmir Forest】.
+L664: 【711†Image】 【300†Tiny Golem Stone】  38  9  DEF +8, Crit +2%  121  970  【301†Little Golem】 in 【197†Idra Cave】
+L665: 【712†Image】 【302†Golem Stone】  53  12  DEF +15, Crit +3%  208  1670G  【303†Sechs Golem】 in 【199†Floating Empire】
+L666: 【713†Image】 【304†Golem Tablet】  80  13  DEF +30, Crit +5%  2760  150000  【303†Sechs Golem】 in 【199†Floating Empire】
+L667: 【714†Image】 【305†Golem Spirit Stone】  85  14  DEF +105, Crit +6%  320  2880  【306†Guardian】 in 【307†Rune Prana 6】
+L668: 【715†Image】 【308†Tablet of Truth】  95  15  ATK +50, DEF +160, M.ATK +20, M.DEF -15, Crit +10%  3800  82000  【309†G Golem】 in 【200†Rune Prana】
+L669: Note: 【299†Round Stone】 is used as an ingredient for 【310†Magical Lance】 and 【311†Magic Charm】.
+L670: ### Strings[]
+L671: Strings
+L672: String Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L673: 【716†Image】 【312†Yarn】  4  1  DEF +1, M.ATK +1  80  300  【313†Crafting Table】
+L674: 【717†Image】 【314†Old Bandage】  11  2  M.ATK +2, M.DEF +1  28  140  【315†Goblin】 in 【208†Water Ruins】
+L675: 【718†Image】 【316†Ambrosia's Thorns】  30  2  ATK +7, M.ATK +7, Slp Atk 10%  400  7000  【317†Ambrosia】 in 【206†Yokmir Forest】
+L676: 【719†Image】 【318†Spider's Thread】  18  4  ATK +2, M.ATK +2, Par Atk 5%  48  290  【319†Spider】 in 【191†Obsidian Mansion】
+L677: 【720†Image】 【320†Puppetry Strings】  40  6  ATK +5, M.ATK +8, Seal Atk 15%, Par Atk 5%  964  32000  【321†Marionetta】 in 【191†Obsidian Mansion】
+L678: 【721†Image】 【322†Vine】  30  6  M.ATK +7, Seal Atk 4%  84  590  【323†Flower Lily】 on 【193†Autumn Road】
+L679: 【722†Image】 【324†Scorpion Tail】  30  7  ATK +5, Psn Atk 8%  102  650  【325†Scorpion】 in 【194†Delirium Lava Ruins】
+L680: 【723†Image】 【326†Strong Vine】  44  10  M.ATK +12, Seal Atk 10%  132G  1060G  【327†Flower Blossom】 in 【213†Sercerezo Hill】
+L681: 【724†Image】 【328†Pretty Thread】  52  12  M.ATK +16, Par Atk 25%  201  1610  【329†Hell Spider】 in 【199†Floating Empire】
+L682: 【725†Image】 【330†Chimera Tail】  95  15  ATK +200, M.ATK -10, Psn Atk 50%, Par Atk 50%  4500  215000  【331†Chimera】 2 in 【204†Rune Prana 7】
+L683: ### Shards[]
+L684: Shards
+L685: Shard Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L686: 【726†Image】 【332†Arrowhead】  3  0  STR +1  12  60  【246†Orc】 in 【206†Yokmir Forest】
+L687: 【727†Image】 【333†Blade Shard】  9  2  STR +2  29  145  【315†Goblin】 in 【208†Water Ruins】
+L688: 【728†Image】 【334†Broken Hilt】  21  5  DEF +2, Psn Res 5%, Seal Res 5%, Par Res 5%, Slp Res 5%, Ftg Res 5%, Sick Res 5%  90  540  Dropped by 【335†Monster Box】 and 【336†Gobble Box】
+L689: 【729†Image】 【337†Broken Box】  44  8  DEF +4, Psn Res 10%, Seal Res 10%, Par Res, 10% Slp, Res 10%, Ftg Res 10%, Sick Res 5%  220  800  Dropped by 【336†Gobble Box】
+L690: 【730†Image】 【338†Hammer Piece】  37  9  STR +6, Diz +1  118  940  【339†Hammer Troll】 on 【195†Maya Road】
+L691: 【731†Image】 【340†Shoulder Piece】  45  11  DEF +11, Knock +8%  149  1190  【341†Orc Viking】 in 【215†Sechs Territory】
+L692: 【732†Image】 【342†Rusty Screw】  57  11  M.ATK +25, M.DEF -2  198  1590  Boxes and 【343†Sechs Tank】 in 【199†Floating Empire】
+L693: 【733†Image】 【344†Shiny Screw】  80  11  DEF +30, M.ATK +40, M.DEF +10  2530  150000  【343†Sechs Tank】 in 【199†Floating Empire】
+L694: 【734†Image】 【345†Glistening Blade】  66  12  ATK +38  212  1700  【289†Ghost】 in 【199†Floating Empire】
+L695: 【735†Image】 【346†Great Hammer Shard】  60  12  STR +30, Diz +2  238  1740  【347†Baal】 in 【238†Rune Prana 5】
+L696: 【736†Image】 【348†Pirate's Armor】  84  14  DEF +83, Knock +15%  404  2800  【349†High Orc Viking】 in 【350†Rune Prana 3】
+L697: 【737†Image】 【351†Left Rock Shard】  88  14  DEF +120, M.DEF +35, Psn Res 6%, Seal Res 6%, Par Res 6%, Slp Res 6%, Ftg Res 6%, Sick Res 6%, Faint Res 1%, Drain Res 1%  2500  110000  【352†Sano】 in 【202†Leon Karnak】
+L698: 【738†Image】 【353†Right Rock Shard】  88  14  DEF +35, M.DEF +120, Diz Res 5%, Crt res 3%, Knock Res 15%  2500  110000  【354†Uno】 in 【202†Leon Karnak】
+

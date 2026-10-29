@@ -1,0 +1,218 @@
+Shipping List (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Shipping_List_%28RF4%29)
+citeturn38view0 [wordlim: 200] Crawled: last year; Content type: text/html; Source: open({"ref_id":"turn31view0","lineno":1430}); Redirected to URL: https://therunefactory.fandom.com/wiki/Shipping_List_(RF4); Total lines: 1988
+L1370: Pot  【1154†Image】 Udon  145G  450G  Think and firm noodles. Very smooth and easy to eat.
+L1371: Pot  【1155†Image】 Cheese Fondue  1025G  3100G  Cheese melted in a pot. Often scooped up with bread, like a dip.
+L1372: Pot  【1156†Image】 Marmalade  90G  280G  Jam made by boiling oranges. You can eat the orange skin too!
+L1373: Pot  【1157†Image】 Grape Jam  135G  420G  Jam made by boiling grapes. Generally eaten with bread.
+L1374: Pot  【1158†Image】 Apple Jam  170G  520G  Jam made by boiling apples. Generally eaten with bread.
+L1375: Pot  【1159†Image】 Strawberry Jam  215G  680G  Jam made by boiling strawberries. Generally eaten with bread.
+L1376: Pot  【1160†Image】 Boiled Gyoza  9000G  32000G  Meat and vegetables wrapped in thick dough and boiled. Very moist
+L1377: Pot  【1161†Image】 Glazed Yam  560G  1850G  Fried yam glazed with sweet sauce. Easy to eat, and a popular snack.
+L1378: Pot  【1162†Image】 Boiled Egg  330G  1000G  A standard egg recipe. The softness of the yolk will change over time.
+L1379: Pot  【1163†Image】 Boiled Spinach  95G  340G  Boiled and flavored spinach. You must be careful not to over-boil it.
+L1380: Pot  【1164†Image】 Boiled Pumpkin  180G  580G  Flavored and boiled pumpkin. Soft in texture. Boiling brings out the natural sweetness of the pumpkin.
+L1381: Pot  【1165†Image】 Grape Liqueur  1470G  4420G  Made from wine and grapes in a pot. It can also be drunk by children.
+L1382: Pot  【1166†Image】 Hot Chocolate  175G  530G  A sweet drink of melted chocolate. Be careful not to get cavities!
+L1383: Pot  【1167†Image】 Hot Milk  308G  930G  Easily made by heating milk. Its relaxing effect helps you sleep at night.
+L1384: Frying Pan  【1168†Image】 Grilled S.Flounder  275G  850G  Salted and grilled sand flounder. You can almost taste the sand.
+L1385: Frying Pan  【1169†Image】 Grilled Shrimp  398G  1200G  Whole shrimp, seasoned and grilled. People love its crispy texture.
+L1386: Frying Pan  【1170†Image】 Grilled Lobster  1720G  5200G  A whole lobster, seasoned and grilled. Stands out on the dinner table.
+L1387: Frying Pan  【1171†Image】 Grilled Blowfish  7800G  48000G  An uncommon dish. Most people wouldn't think to grill blowfish, y'know?
+L1388: Frying Pan  【1172†Image】 Grilled Shrimp  398G  1200G  Whole shrimp, seasoned and grilled. People love its crispy texture.
+L1389: Frying Pan  【1173†Image】 Grilled Lamp Squid  3780G  15200G  A little bitter when grilled, but nonetheless a popular dish among foodies. Perhaps they just like being sealed?
+L1390: Frying Pan  【1174†Image】 Grilled Sunsquid  15800G  80000G  Dried and grilled sunsquid. Savory, but easily burned.
+L1391: Frying Pan  【1175†Image】 Grilled Squid  250G  800G  Dried and grilled squid. Makes a great snack with seasoned with chili pepper and mayonnaise.
+L1392: Frying Pan  【1176†Image】 Grilled F.Flounder  4850G  20000G  Salted and grilled fall flounder. It's beautiful colors grab attention.
+L1393: Frying Pan  【1177†Image】 Grilled Turbot  648G  2000G  Salted and grilled turbot. The fresher it is, the better it tastes.
+L1394: Frying Pan  【1178†Image】 Grilled Flounder  420G  3250G  Salted and grilled flounder. The fresher it is, the better it tastes.
+L1395: Frying Pan  【1179†Image】 Salted Pike  190G  600G  Salted and grilled pike. The fresher it is, the better it tastes.
+L1396: Frying Pan  【1180†Image】 Grilled Needlefish  248G  750G  Salted and grilled needlefish. The fresher it is, the better it tastes.
+L1397: Frying Pan  【1181†Image】 Dried Sardines  400G  2300G  Skewered and dried sardines. Often grilled before eating.
+L1398: Frying Pan  【1182†Image】 Tuna Teriyaki  11000G  61000G  Tuna marinated in teriyaki sauce and fried. To make it shine, apply the sauce repeatedly while cooking.
+L1399: Frying Pan  【1183†Image】 Salted Pond Smelt  173G  600G  Salted and grilled pond smelt. The fresher it is, the better it tastes.
+L1400: Frying Pan  【1184†Image】 Grilled Yellowtail  8600G  35400G  Salted and grilled yellowtail. Sugar in the teriyaki sauce makes its surface shiny.
+L1401: Frying Pan  【1185†Image】 Grilled Mackerel  325G  1000G  Salted and grilled mackerel. The fresher it is, the better it tastes.
+L1402: Frying Pan  【1186†Image】 Grilled Skipjack  510G  4800G  Lightly grilled skipjack. Taste varies depending on its freshness.
+L1403: Frying Pan  【1187†Image】 Grilled L. Snapper  7100G  28800G  Salted and grilled lover snapper. Surprisingly sweet.
+L1404: Frying Pan  【1188†Image】 Grilled G. Snapper  30500G  154000G  Salted and grilled glitter snapper. The fresher it is, the better it tastes.
+L1405: Frying Pan  【1189†Image】 Grilled Girella  295G  900G  Salted and grilled girella. The fresher it is, the better it tastes.
+L1406: Frying Pan  【1190†Image】 Grilled Snapper  2680G  11200G  Salted and grilled snapper. The fresher it is, the better it tastes.
+L1407: Frying Pan  【1191†Image】 Grilled Gibelio  272G  1800G  Salted and grilled gibelio. The fresher it is, the better it tastes.
+L1408: Frying Pan  【1192†Image】 Grilled C. Carp  265G  810G  Salted and grilled crucian carp. The fresher it is, the better it tastes.
+L1409: Frying Pan  【1193†Image】 Salted Taimen  16000G  88000G  Salted and grilled taimen. The fresher it is, the better it tastes.
+L1410: Frying Pan  【1194†Image】 Salted Salmon  370G  1200G  Salted and grilled salmon. The fresher it is, the better it tastes.
+L1411: Frying Pan  【1195†Image】 Salted Chub  330G  2200G  Salted and grilled chub. The fresher it is, the better it tastes.
+L1412: Frying Pan  【1196†Image】 Salted C. Salmon  238G  730G  Salted and grilled cherry salmon. The fresher it is, the better it tastes.
+L1413: Frying Pan  【1197†Image】 Salted R. Trout  390G  2750G  Salted and grilled rainbow trout. The fresher it is, the better it tastes.
+L1414: Frying Pan  【1198†Image】 Salted Char  260G  1300G  Salted and grilled char. The fresher it is, the better it tastes.
+L1415: Frying Pan  【1199†Image】 Salted Masu Trout  220G  680G  Salted and grilled masu trout. The fresher it is, the better it tastes.
+L1416: Frying Pan  【1200†Image】 Dried Curry  8600G  49800G  Unlike normal curry, it's more a powder than a sauce. Can be eaten with rice or bread.
+L1417: Frying Pan  【1201†Image】 Risotto  2300G  7000G  Rice mixed with sauce to create perfect harmony.
+L1418: Frying Pan  【1202†Image】 Gyoza  9000G  32000G  Meat and vegetables wrapped in thin dough and fried. Can also be steamed or boiled.
+L1419: Frying Pan  【1203†Image】 Pancakes  3120G  9500G  Eaten for breakfast or as a snack. Possible toppings are limited only by your imagination.
+L1420: Frying Pan  【1204†Image】 Tempura  1820G  5600G  Food battered in flour and egg that is later deep fried. A somewhat generic name for a whole category of yumminess.
+L1421: Frying Pan  【1205†Image】 Fried Udon  12000G  50000G  Someone happened to try frying udon noodles. It turned out surprisingly well.
+L1422: Frying Pan  【1206†Image】 Donut  2450G  7500G  Flour and butter mixed and fried in a convenient ring shape.
+L1423: Frying Pan  【1207†Image】 French Toast  670G  3000G  Bread fried with milk and egg. Mmmm, such a delicate texture! Look a work of art...
+L1424: Frying Pan  【1208†Image】 Curry Bread  6000G  36000G  Bread with curry inside. Crispy on the outside, soft on the inside. Perfect harmony!
+L1425: Frying Pan  【1209†Image】 Baked Apple  175G  550G  An apple-based dessert item. Good mix of sweet and tart.
+L1426: Frying Pan  【1210†Image】 Omelet Rice  5200G  16000G  Fried rice flavored with ketchup and wrapped in a thin omelet.
+L1427: Frying Pan  【1211†Image】 Omelet  820G  2500G  Typical breakfast item eaten around the world. Why is this? Have you met a person who doesn't like omelets? No? Well there you go.
+L1428: Frying Pan  【1212†Image】 Fried Eggs  335G  1100G  Typeical home-cooked egg dish. How long they should be fried is up to you!
+L1429: Frying Pan  【1213†Image】 Miso Eggplant  375G  1800G  Roasted eggplant with miso. Mellow and rich in flavor.
+L1430: Frying Pan  【1214†Image】 Corn Cereal  2800G  9200G  Corn flattened and baked. A popular breakfast food.
+L1431: Frying Pan  【1215†Image】 Popcorn  1800G  6200G  Corn kernels popped in a pan. Generally eaten with salt.
+L1432: Frying Pan  【1216†Image】 Croquettes  1300G  4000G  Mashed potatoes packed together and fried in oil. Widely beloved as comfort food.
+L1433: Frying Pan  【1217†Image】 French Fries  614G  2000G  Peeled and sliced potatoes fried in oil until they're crisp. Hard to resist.
+L1434: Frying Pan  【1218†Image】 Cabbage Cakes  6000G  23600G  Water, flour and cabbage mixed and baked like a pancake. Recipes vary from region to region.
+L1435: Frying Pan  【1219†Image】 Fried Rice  1080G  3300G  Rice and egg fried in oil. The sweet, fluffy egg makes it extra tasty.
+L1436: Frying Pan  【1220†Image】 Fried Veggies  1500G  5000G  Various vegetables fried together. Much better than eating them raw. But anyone could have told you that- frying makes anything better!
+L1437: Knife  【1221†Image】 【280†Shrimp Sashimi】  125G  680G
+L1438: Knife  【1222†Image】 【281†Lobster Sashimi】  1230G  3800G
+L1439: Knife  【1223†Image】 【282†Blowfish Sashimi】  8800G  36000G
+L1440: Knife  【1224†Image】 【283†Lamp Squid Sashimi】  2895G  12000G
+L1441: Knife  【1225†Image】 【284†Sunsquid Sashimi】  11800G  64000G
+L1442: Knife  【1226†Image】 【285†Squid Sashimi】  29G  300G
+L1443: Knife  【1227†Image】 【286†Fall Sashimi】  3750G  15800G
+L1444: Knife  【1228†Image】 【287†Turbot Sashimi】  150G  1300G
+L1445: Knife  【1229†Image】 【288†Flounder Sashimi】  300G  2300G
+L1446: Knife  【1230†Image】 【289†Pike Sashimi】  13G  150G
+L1447: Knife  【1231†Image】 【290†Needlefish Sashimi】  34G  300G
+L1448: Knife  【1232†Image】 【291†Sardine Sashimi】  88G  500G
+L1449: Knife  【1233†Image】 【292†Tuna Sashimi】  9500G  48000G
+L1450: Knife  【1234†Image】 【293†Yellowtail Sashimi】  6700G  27000G
+L1451: Knife  【1235†Image】 【294†Skipjack Sashimi】  300G  34000G
+L1452: Knife  【1236†Image】 【295†Girella Sashimi】  52G  400G
+L1453: Knife  【1237†Image】 【296†Lover Sashimi】  5400G  21800G
+L1454: Knife  【1238†Image】 【297†Glitter Sashimi】  24000G  120000G
+L1455: Knife  【1239†Image】 【298†Snapper Sashimi】  1980G  8000G
+L1456: Knife  【1240†Image】 【299†Taimen Sashimi】  12200G  68000G
+L1457: Knife  【1241†Image】 【300†Cherry Sashimi】  21G  240G
+L1458: Knife  【1242†Image】 【301†Salmon Sashimi】  100G  570G
+L1459: Knife  【1243†Image】 【302†Rainbow Sashimi】  240G  1740G
+L1460: Knife  【1244†Image】 【303†Char Sashimi】  130G  720G
+L1461: Knife  【1245†Image】 【304†Trout Sashimi】  17G  210G
+L1462: 【305†Failed Dish】  【1246†Image】 【306†Disastrous Dish】  50G  10000G  How did such a blight upon foodkind come to be? You can try eating it, but I sure wouldn't recommend it...
+L1463: 【305†Failed Dish】  【1247†Image】 【305†Failed Dish】  2G  15G  A failed dish that got burned. Edible, but tastes pretty bad. Maybe you'll like it, though!
+L1464: Ingredient  【1248†Image】 【307†Mixed Herbs】  280G  750G  Seasoning made from various herbs. Has a savory scent.
+L1465: Ingredient  【1249†Image】 【308†Sour Drop】  90G  250G  Seasoning made from sour leaves. Mouth-puckering, but leaves you feeling refreshed.
+L1466: Ingredient  【1250†Image】 【309†Sweet Powder】  170G  450G  Seasoning made from sweet leaves. Reminds you of sweet honey.
+L1467: Ingredient  【1251†Image】 【310†Heavy Spice】  180G  480G  Seasoning made from hot leaves. One bite and your mouth will be on fire!
+L1468: ## Fish[]
+L1469: Fish
+L1470: Image Name Sell Buy Description
+L1471: 【1252†Image】 Masu Trout  15G  300G  One of the most common fish. Mostly found in rivers, but sometimes also found out at sea.
+L1472: 【1253†Image】 Squid  24G  400G  A mollusk that's active at night. Uses the fins on its body to swim like its flying in the water.
+L1473: 【1254†Image】 Taimen  6,500G  78,000G  The largest freshwater salmonid. Very rare and valued.
+L1474: 【1255†Image】 Sardine  70G  1,200G  A fairly easy fish to catch. Swims in shoals, and is often viewed as a beautiful, tasty delight.
+L1475: 【1256†Image】 Char  92G  1,800G  A fish people just love to catch. Prefers swimming in old water.
+L1476: 【1257†Image】 Chub  130G  2,600G  A fish with a dark line on its body. During spawning season, it developrs two more lines.
+L1477: 【1258†Image】 Glitter Snapper  8,800G  12,000G  A fish with a body of glittering silver. Very easy to spot, but hard to catch.
+L1478: 【1259†Image】 Skipjack  220G  4,500G  A fall fish that requires power and skill to catch.
+L1479: 【1260†Image】 Turbot  120G  2,500G  A fish with both eyes situated on the right side of its body. Changes color depending on its environment.
+L1480: 【1261†Image】 Gibelio  100G  2,000G  Displayers unique breeding characteristics due to females outnumbering the males. Found in quiet rivers.
+L1481: 【1262†Image】 Salmon  80G  1,350G  Spends most of its time in the ocean, but swims upstream to spawn in the river. Used in many recipes.
+L1482: 【1263†Image】 Mackerel  60G  1,000G  Spoils easily. Often grilled or boiled, and often for a long time in order to disguise that it has spoiled. Tsk tsk!
+L1483: 【1264†Image】 Needlefish  30G  500G  Swims near the water's surface with its tiny, thin body. Has an aqua-colored back and a white belly.
+L1484: 【1265†Image】 Pike  12G  240G  Named after its slim, long, and slender body. A popular fall fish that's full of nutrients.
+L1485: 【1266†Image】 Sunsquid  6,800G  74,000G  A squid from the tropics. Has a tanned body and swims in shallow water.
+L1486: 【1267†Image】 Shrimp  85G  1,500G  A type of crustacean with its body protected by a hard shell. Has 13 pairs of legs.
+L1487: 【1268†Image】 Snapper  1,280G  14,800G  A fish known to bring good luck. Has long been served in festivals and ceremonies.
+L1488: 【1269†Image】 Throbby Snapper  3,500G  38,000G  A rare type of snapper that's considered legendary among fishermen.
+L1489: 【1270†Image】 Rainbow Trout  150G  3,000G  A mid-sized fish that lives in rivers. Very poisonous. During spawning season, the males shine in rainbow colors.
+L1490: 【1271†Image】 Flounder  190G  4,000G  A fish with both eyes on the left side of its body. Has a larger mouth and sharper teeth than a Turbot.
+L1491: 【1272†Image】 Blowfish  4,200G  57,000G  Known as one of the most expensive fish. Filled with poison, requiring high skill to cook safely.
+L1492: 【1273†Image】 Yellowtail  3,800G  45,000G  A stock name given to numerous varieties of fish. All have large bodies and are renowned for bringing good luck.
+L1493: 【1274†Image】 Crucian Carp  35G  620G  Matures fast, and also lives long. Mostly eats plankton. Requires both skill and luck to catch.
+L1494: 【1275†Image】 Tuna  5,600G  61,000G  A large and tasty fish that's widely loved. Traded at high prices and generally found in deep waters.
+L1495: 【1276†Image】 Girella  45G  850G  A winter fish caught in the ocean. Easy to find, but renowned for its powerful pull.
+L1496: 【1277†Image】 Fall Flounder  2,000G  27,000G  A fish that looks like fallen leaves. When seen swimming, you'd like there's debris floating by.
+L1497: 【1278†Image】 Cherry Salmon  18G  350G  A small freshwater fish. Found in various places due to its popularity -- it's often "stocked".
+L1498: 【1279†Image】 Lamp Squid  1,800G  21,000G  A squid with a lamp-shaped body. The lamp holds poison with a sealing effect, so it must be cooked with caution.
+L1499: 【1280†Image】 Lobster  960G  9,600G  A giant shrimp with walking legs. Its two large front claws are used to threaten enemies.
+L1500: 【1281†Image】 Pond Smelt  10G  200G  Thin and small, but adaptive, with a large habitat. Most often found during ice fishing.
+L1501: 【1282†Image】 Sand Flounder  38G  700G  A unique fish that swims in the sand. Gets nutrition from small minerals, making its body firm and sandy.
+L1502: 【1283†Image】 Rockfish  1,040G  10,400G  A unique fish that swims in the sand. Has a hard head that can crush even rocks.
+L1503: ## Other[]
+L1504: ### Collectible[]
+L1505: Collectible
+L1506: Name Buy Sell Description
+L1507: 【1284†Image】 Scrap Metal  50G  3G  Has limited use, and thus sees limited shipments.
+L1508: 【1285†Image】 Fodder  240G  60G  Feed for monsters. nutritious and sweet. Generally well-liked.
+L1509: 【1286†Image】 Warrior's Proof  2780G  300G  A proof handed down among warrior tribes. Awarded by chiefs when a warrior attains manhood.
+L1510: 【1287†Image】 Raccoon Leaf  30000G  2000G  A magical leaf used by wily raccoons. Very handy tool that aids in transformation. Improves weapon's range.
+L1511: 【1288†Image】 Cursed Doll  30000G  666G  It's scary. Very scary. By the way, who's standing behind you?
+L1512: 【1289†Image】 Rafflesia Petal  50000G  1250G  A petal from a rafflesia. It makes a really fancy fan.
+L1513: 【1290†Image】 Invisible Stone  N/A  600G  A stone that is invisible. Difficult to find for obvious reasons. It's classified as a monster in a country to the east.
+L1514: 【1291†Image】 Shade Stone  N/A  250G  A rare stone that absorbs all surrounding light. Often used to blot out the world when darkness is preferred.
+L1515: 【1292†Image】 Double Steel  N/A  100G  Special steel that doubles the effect of the material used to previously reinforce an item.
+L1516: 【1293†Image】 10-Fold Steel  N/A  1000G  The rarest steel among Double Steels. Multiples the effect of the material used to previously reinforce an item.
+L1517: 【1294†Image】 Glitta Augite  N/A  680G  A strange stone produced by a tree. Emits strong light. If used for reinforcing a weapon, extends the range.
+L1518: 【1295†Image】 Light Ore  N/A  10000G  A highly rare ore that can be used to change a weapon's category.
+L1519: 【1296†Image】 Proof of Rank  2700G  300G  Proof that you are in a high position. If you lose it...well, it's over.
+L1520: 【1297†Image】 Big Bird's Comb  5200G  1200G  A big cock's comb. When you get mad, just try to "comb" down.
+L1521: 【1298†Image】 Icy Nose  170000G  3000G  A sculpture in the shape of a Crystal Mammoth's trunk. Mammoths love to carry it around.
+L1522: 【1299†Image】 White Stone  N/A  8000G  There's a legend that women who were asked to marry while being presented with this stone lived happily ever after.
+L1523: 【1300†Image】 Throne of the Empire  N/A  1G  A picture of the emperor. It goes for a high price in the Sechs Empire.
+L1524: 【1301†Image】 Rune Sphere Shard  N/A  15000G  A shard made from an enormous amount of crystallized runes. Although just a piece, it has a lot of power.
+L1525: #### Collectible: Furs[]
+L1526: Collectible: Furs
+L1527: Name Buy Sell Description
+L1528: 【1302†Image】 Fur (S)  30G  6G  Wooly's fur. Used as yarn.
+L1529: 【1303†Image】 Fur (M)  1400G  200G  Wooly's fur. Used as yarn.
+L1530: 【1304†Image】 Fur (L)  3800G  700G  Wooly's fur. Used as yarn.
+L1531: 【1305†Image】 Quality Fur  300G  51G  Warm, soft and shiny fur. Raises resistance to knockouts when used in upgrades.
+L1532: 【1306†Image】 Fur  120G  25G  Stiffly textured fur. Slightly matted.
+L1533: 【1307†Image】 Wooly Furball  960G  120G  Fur dropped by a Wooly. Inconceivably soft.
+L1534: 【1308†Image】 Lightning Mane  12000G  700G  A mane crackling with electricity. It'll shock you if you touch it.
+L1535: 【1309†Image】 Quality Puffy Fur  560G  80G  Really puffy fur. Like, the puffiest of puff. It's really puffy for sure!
+L1536: 【1310†Image】 Yellow Down  240G  40G  Soft, feathery duck down. Looks outstanding.
+L1537: 【1311†Image】 Penguin Down  1050G  150G  Down from an emperor penguin. "Emperor" is not their title, but their name.
+L1538: 【1312†Image】 Red Lion Fur  75000G  2800G  Beautiful red lion fur. The burning red color symbolizes strength.
+L1539: 【1313†Image】 Blue Lion Fur  75000G  2800G  Beautiful blue lion fur. The sparkling coat and dark blue hue symbolize wisdom.
+L1540: 【1314†Image】 Chest Hair  196000G  3600G  A Greater Demon's wild chest hair. So masculine!
+L1541: #### Collectible: Minerals[]
+L1542: Collectible: Minerals
+L1543: Name Buy Sell Description
+L1544: 【1315†Image】 Scrap Metal+  N/A  2G  A super-duper awesomely spectacular piece of scrap metal that's super-duper useless to most people.
+L1545: 【1316†Image】 Iron  200G  20G  A type of mineral used in the forging of items and accessories. Found everywhere.
+L1546: 【1317†Image】 Bronze  800G  100G  A type of mineral used in the forging of items and accessories. Pretty common.
+L1547: 【1318†Image】 Silver  3600G  320G  A type of mineral used in the forging of items and accessories. Valuable and highly sought after.
+L1548: 【1319†Image】 Gold  7800G  480G  A type of mineral used in the forging of items and accessories. Valuable and highly sought after.
+L1549: 【1320†Image】 Platinum  12000G  1500G  A type of mineral used in the forging of items and accessories. Extremely rare and hard to find
+L1550: 【1321†Image】 Orichalcum  28000G  3500G  A legendary ore used for making weapons or accessories.
+L1551: 【1322†Image】 Dragonic Stone  N/A  5000G  A mineral that was believed not to exist in reality.
+L1552: #### Collectible: Jewels[]
+L1553: Collectible: Jewels
+L1554: Name Buy Sell Description
+L1555: 【1323†Image】 Diamond  14400G  640G  A very hard gem known as the 'King of Gemstones.' Symbolizes purity.
+L1556: 【1324†Image】 Ruby  7000G  440G  A red-colored gem symbolizing passion. Those that cast star-shaped reflections are particularly valuable.
+L1557: 【1325†Image】 Emerald  4800G  380G  A beautiful green-colored gem symbolizing happiness. Those that are clear and smooth are the most valuable.
+L1558: 【1326†Image】 Sapphire  9800G  520G  A gem that comes in different colors such as pink, blue, yellow and green. Symbolizes love.
+L1559: 【1327†Image】 Amethyst  500G  50G  A gem long known for its mysterious energy. Symbolizes peace of mind.
+L1560: 【1328†Image】 Aquamarine  1500G  150G  A gem as blue as the deep sea. Symbolizes calmness.
+L1561: 【1329†Image】 Green Core  30000G  3000G  A green crystal with magic power. Makes you more kindly for some reason.
+L1562: 【1330†Image】 Red Core  30000G  3000G  A green crystal with magic power. Makes you energetic.
+L1563: 【1331†Image】 Yellow Core  30000G  3000G  A yellow crystal suffused with magic power. Makes you feel cheerful.
+L1564: 【1332†Image】 Blue Core  30000G  3000G  A blue crystal that has magic power. Makes you feel calm
+L1565: 【1333†Image】 Crystal Skull  180000G  4000G  A crystal in the shape of a skull. Those who love jewels and hate ghosts will be upset by this.
+L1566: #### Collectible: Cloths and Skins[]
+L1567: Collectible: Cloths and Skins
+L1568: Name Buy Sell Description
+L1569: 【1334†Image】 Cheap Cloth  55G  11G  A poor-quality swatch of cloth. Unstitches when you so much as breathe on it.
+L1570: 【1335†Image】 Quality Cloth  720G  96G  A cloth of fine quality. Its fabric is tough and not easily torn.
+L1571: 【1336†Image】 Silk Cloth  1000G  126G  A smooth, silky cloth. Go ahead and rub your face in it. Doesn't it feel nice?
+L1572: 【1337†Image】 Giant's Glove  1070G  135G  Gloves worn by giants. Tough material that doesn't tear easily.
+L1573: 【1338†Image】 Blue Giant's Glove  1650G  210G  A glove used by a Blue giant. Almost impossible to tear apart. Why you would even try, I have no idea.
+L1574: 【1339†Image】 Insect Carapace  50G  10G  The carapace of an insect. Light but tough.
+L1575: 【1340†Image】 Pretty Carapace  630G  90G  The carapace of an insect. Dappled and beautiful.
+L1576: 【1341†Image】 Ghost Hood  310G  52G  A hood that covers the head. Special material with spooky powers.
+L1577: 【1342†Image】 Quality Worn Cloth  900G  215G  Used to be high-quality cloth, but it's worn out from overuse.
+L1578: 【1343†Image】 Ancient Orc Cloth  2920G  324G  An orc's cloth that is described as legendary cloth sometimes. But a cloth is a cloth, and an orc is an orc.
+L1579: #### Collectible: Shards[]
+L1580: Collectible: Shards
+L1581: Name Buy Sell Description
+L1582: 【1344†Image】 Arrowhead  60G  12G  Rusty and useless as-is, but might shine if polished. Kind of like humanity...
+L1583: 【1345†Image】 Shoulder Piece  1190G  149G  Rough, wooden shoulder piece. Not terribly exciting.
+L1584: 【1346†Image】 Hammer Piece  940G  118G  A piece of broken hammer. Gotta be useful for something, right?
+

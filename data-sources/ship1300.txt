@@ -1,0 +1,202 @@
+Shipping List (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Shipping_List_%28RF4%29)
+citeturn34view0 [wordlim: 200] Crawled: last year; Content type: text/html; Source: open({"ref_id":"turn31view0","lineno":1300}); Redirected to URL: https://therunefactory.fandom.com/wiki/Shipping_List_(RF4); Total lines: 1988
+L1230: 【1017†Image】 Gloves  120000G  170G  Fine quality leather gloves. Their soft green color is attractive to girls.
+L1231: 【1018†Image】 Champ Belt  N/A  720G  An honorary belt given to champions. Greatly increases maximum HP.
+L1232: 【1019†Image】 Talisman  60000G  2100G  A type of protective charm. Reverses status effects such as poison, paralysis, fatigue and cold.
+L1233: 【1020†Image】 Lucky Strike  N/A  6200G  Brings you good luck. Grants a higher than average chance of landing critical hits.
+L1234: 【1021†Image】 Leather Belt  1600G  27G  An ordinary leather belt of the sort one can find almost anywhere. Raises defensive skills.
+L1235: 【1022†Image】 Charm  350G  45G  A charm from the Far East. Protects you from misfortune by blocking critical hits.
+L1236: 【1023†Image】 Holy Amulet  498000G  2600G  A charm that is said to protect one from danger.
+L1237: 【1024†Image】 Earth Pendant  75000G  1370G  A pendant inspired by earth. Its bounty boosts the effects of recovery items.
+L1238: 【1025†Image】 Dew Pendant  75000G  1400G  An outdoorsy pendant inspired by dew. Raises attack for farm tools.
+L1239: 【1026†Image】 Field Pendant  75000G  1350G  A pendant inspired by the wind. Its scent increases the ability of friendly monsters.
+L1240: 【1027†Image】 Sun Pendant  75000G  1300G  A sun-shaped pendant. Increases companions' abilities with its light.
+L1241: 【1028†Image】 Star Pendant  75000G  1380G  A star-shaped pendant that shines as a real heavenly body. Increases experience gain.
+L1242: 【1029†Image】 Heart Pendant  250000G  800G  A cute heart-shaped pendant. Warms your heart and increases skill experience gained.
+L1243: 【1030†Image】 Silver Pendant  5000G  380G  A silver pendant. Simple but elegant in design.
+L1244: 【1031†Image】 Ruby Brooch  498000G  2350G  A brooch shining with ruby-red light. When put under the sun, it glitters like a star.
+L1245: 【1032†Image】 Diamond Brooch  N/A  28000G  A golden brooch with scattered diamonds. enjoy its smooth lines and beautiful glimmer, Resists all status ailments.
+L1246: 【1033†Image】 Sapphire Brooch  498000G  2500G  A lovely pink-colored sapphire brooch with a shell motif.
+L1247: 【1034†Image】 Emerald Brooch  498000G  2300G  A beautiful emerald brooch with an airy sheen to it.
+L1248: 【1035†Image】 Amethyst Brooch  498000G  2000G  A brooch with a strangely soothing effect.
+L1249: 【1036†Image】 Aquamarine Brooch  498000G  2000G  A brooch in the color of the deepest sea.
+L1250: 【1037†Image】 Platinum Bracelet  1020000G  1800G  A platinum bracelet. Greatly raises magic defense.
+L1251: 【1038†Image】 Gold Bracelet  72800G  600G  A golden bracelet. Raises magic defense quite considerably.
+L1252: 【1039†Image】 Silver Bracelet  27200G  390G  A silver bracelet. Raises magic defense.
+L1253: 【1040†Image】 Bronze Bracelet  8500G  135G  A heavy, bronze bracelet. Raises magic defense for a little bit.
+L1254: 【1041†Image】 Cheap Bracelet  100G  24G  An old, rusty bracelet. Slightly raises magic defense.
+L1255: 【1042†Image】 Magic Ring  180000G  1900G  A ring imbued with magical power. Speeds up the time needed to charge.
+L1256: 【1043†Image】 Poison Ring  19800G  480G  A ring that not only resists poison, but inflicts it upon foes as well due to the medicines set into its trim.
+L1257: 【1044†Image】 Paralysis Ring  19800G  550G  A ring that not only resists paralysis, but inflicts it upon foes as well due to the medicines set into its trim.
+L1258: 【1045†Image】 Silent Ring  19800G  2600G  A ring that not only resists seals, but places them upon foes as well due to the medicines set in to its trim.
+L1259: 【1046†Image】 Critical Ring  65000G  750G  A ring that raises your chance of landing critical hits. Just by wearing it, you'll know right where to attack.
+L1260: 【1047†Image】 Platinum Ring  N/A  7200G  Beloved for its simple design. This platinum type is rare and hard to find.
+L1261: 【1048†Image】 Gold Ring  N/A  5200G  Beloved for its simple design. More expensive than silver.
+L1262: 【1049†Image】 Silver Ring  45000G  450G  Beloved for its simple design, but otherwise unremarkable.
+L1263: 【1050†Image】 Earth Ring  N/A  5000G  A ring imbued with the magical power of earth. It blocks earth damage, but makes you vulnerable to wind damage.
+L1264: 【1051†Image】 Water Ring  N/A  5000G  A ring imbued with the magical power of water. It blocks water damage, but makes you vulnerable to fire damage.
+L1265: 【1052†Image】 Wind Ring  N/A  5000G  A ring imbued with the magical power of wind. It blocks wind damage, but makes you vulnerable to earth damage.
+L1266: 【1053†Image】 Fire Ring  N/A  5000G  A ring imbued with the magical power of fire. It blocks fire damage, but makes you vulnerable to water damage.
+L1267: 【1054†Image】 Cursed Ring  19800G  420G  A cursed ring with spikes that hurt your fingers.
+L1268: 【1055†Image】 Happy Ring  N/A  1800G  A ring that brings you happiness. Increases your chance of finding items.
+L1269: 【1056†Image】 Ruby Ring  19800G  900G  A ring with a mysterious and alluring design.
+L1270: 【1057†Image】 Diamond Ring  N/A  5000G  A glittering ring. Protects against sleepiness, fatigue, illness and HP absorption.
+L1271: 【1058†Image】 Sapphire Ring  19800G  1000G  A ring with a beautiful shining inset sapphire.
+L1272: 【1059†Image】 Emerald Ring  19800G  850G  The bright-shining emerald beautifully adorns your finger.
+L1273: 【1060†Image】 Amethyst Ring  19800G  450G  The elegance of the amethyst brings a calmness to the atmosphere.
+L1274: 【1061†Image】 Aquamarine Ring  19800G  580G  A roughly cut stone makes this ring quite attractive.
+L1275: ## Food[]
+L1276: Food
+L1277: Category  title  sell  buy  Description
+L1278: Ingredient  【1062†Image】 【266†Rice Flour】  40G  100G  Powder used to make rice dumplings. Adds stickiness to the resulting dish.
+L1279: Ingredient  【1063†Image】 【267†Curry Powder】  70G  300G  Powder used to cook curry. Made by mixing various spices. Goes well with lots of stuff.
+L1280: Ingredient  【1064†Image】 【268†Oil】  250G  650G  Often used in fried recipes to add flavor and prevent sticking. Careful, it's highly flammable.
+L1281: Ingredient  【1065†Image】 【269†Flour】  125G  320G  Made by grinding wheat. A necessity in making dough, used in many recipes. Pretty amazing if you think about it.
+L1282: Dairy  【1066†Image】 【270†Honey】  680G  1800G
+L1283: Dairy  【1067†Image】 【271†Yogurt】  800G  3000G
+L1284: Dairy  【1068†Image】 【272†Cheese】  400G  2500G
+L1285: Dairy  【1069†Image】 【273†Mayonnaise】  720G  2200G
+L1286: Dairy  【1070†Image】 【274†Egg (L)】  480G  1800G
+L1287: Dairy  【1071†Image】 【275†Egg (M)】  380G  1500G
+L1288: Dairy  【1072†Image】 【276†Egg (S)】  280G  1200G
+L1289: Dairy  【1073†Image】 【277†Milk (L)】  500G  2800G
+L1290: Dairy  【1074†Image】 【278†Milk (M)】  380G  2000G
+L1291: Dairy  【1075†Image】 【279†Milk (S)】  260G  1600G
+L1292: Ready-made  【1076†Image】 Wine  800G  2000G  A type of alcohol made from grapes. Popular for its taste and mellowness.
+L1293: Ready-made  【1077†Image】 Chocolate  150G  400G  Smooth and sweet, it's an absolute standard. Found in endless varieties.
+L1294: Ready-made  【1078†Image】 Rice  30G  200G  A staple of the dining table. Plays well with other dishes, so it's used in a wide variety of recipes.
+L1295: No Tool  【1079†Image】 Turnip Heaven  150000G  542000G  Turnips from three corners of the globe, gathered together into a turnip paradise. Try to eat all three at once!
+L1296: No Tool  【1080†Image】 Pickle Mix  520G  2800G  Made with spring and winter turnips. The red and white colors symbolize good luck. Often served at festivals.
+L1297: No Tool  【1081†Image】 Salmon Onigiri  645G  2000G  Onigiri with salmon inside. One of the most popular rice ball recipes.
+L1298: Oven  【1082†Image】 Bread  145G  440G  A staple food for many. You can toast it, stuff it, stick things between it or eat it any other way you'd like.
+L1299: No Tool  【1083†Image】 Onigiri  57G  180G  Rice formed into a triangular shape. Often called a "rice ball." Easy to eat on the go, making a staple lunch item.
+L1300: No Tool  【1084†Image】 Relax Tea Leaves  100G  2800G  A medicinal herb made by mixing various plants. Make tea with it for greater effect.
+L1301: Mixer  【1085†Image】 Ice Cream  645G  2000G  A dessert made by freezing milk. Melts in your mouth. If you eat it too fast, you'll regret it.
+L1302: Oven  【1086†Image】 Raisin Bread  380G  1200G  Bread with raisins in it. Soft, sweet and sour, all at once.
+L1303: No Tool  【1087†Image】 Bamboo Rice  162G  490G  Rice mixed with bamboo shoots. A popular dish in spring, with a savory flavor.
+L1304: No Tool  【1088†Image】 Pickles  105G  450G  Lightly pickled cucumber. Has a crunchy texture.
+L1305: No Tool  【1089†Image】 Pickled Turnip  48G  400G  Turnip that's been pickled. Has a fresh taste and is sometimes eaten after meals.
+L1306: No Tool  【1090†Image】 Fruit Sandwich  540G  1920G  Fruit placed between two slices of bread. Beloved by children...or so parents hope!
+L1307: No Tool  【1091†Image】 Sandwich  964G  3900G  Vegetables and other ingredients placed between two slices of bread. Easy to eat with one hand.
+L1308: No Tool  【1092†Image】 Salad  6900G  21000G  Assorted fresh vegetables. Both healthy and nutritious!
+L1309: Steamed  【1093†Image】 Dumplings  45G  150G  Small rice cakes on skewers. Traditional dessert eaten during festivals.
+L1310: Steamed  【1094†Image】 Pumpkin Flan  1350G  5250G  A flan with the sweet and savory flavor of pumpkin.
+L1311: Steamed  【1095†Image】 Flan  832G  2500G  A jiggly dessert with a smooth texture. Shake it a little and watch it dance!
+L1312: Steamed  【1096†Image】 Chocolate Sponge  1800G  5600G  Chocolate cake that's as light and soft as a cloud.
+L1313: Steamed  【1097†Image】 Pound Cake  608G  1880G  Square-shaped sponge cake. Steaming it brings out the sweet deliciousness.
+L1314: Steamed  【1098†Image】 Curry Manju  4800G  36800G  A soft dumpling filled with spices.
+L1315: Steamed  【1099†Image】 Chinese Manju  272G  820G  Soft bun with various ingredients and steamed.
+L1316: Steamed  【1100†Image】 Steamed Gyoza  9000G  32000G  One of the common ways to cook potstickers. Juicy and savory.
+L1317: Steamed  【1101†Image】 Meat Dumpling  5200G  16000G  A type of dim sum. Has a lovely sweet flavor and soft texture.
+L1318: Steamed  【1102†Image】 Cheese Bread  2420G  7300G  Steamed cheese bread. Moist and chewy, with a subtle scent of feet.
+L1319: Steamed  【1103†Image】 Steamed Bread  1240G  3820G  Bread that's been steamed. Makes a good snack for kids.
+L1320: Mixer  【1104†Image】 Hot Juice  3600G  13000G  Made from hot-hot fruit. Always stays hot, so it's good to carry in cold weather.
+L1321: Mixer  【1105†Image】 Prelude to Love  2600G  11200G  Strawberries and pink melons mixed together to form the sweet & sour taste of love. Might have a bitter aftertaste.
+L1322: Mixer  【1106†Image】 Gold Juice
+L1323: Mixer  【1107†Image】 Butter  300G  1500G  Made by churning milk. Usually eaten alone, by the stick, in shame.
+L1324: Mixer  【1108†Image】 Ketchup  1300G  4000G  Condiment made from tomatoes. Its tangy taste goes well with egg and potato recipes.
+L1325: Mixer  【1109†Image】 Mixed Smoothie  25000G  75000G  Milk added to mixed fruits and vegetables. Cures fatigue.
+L1326: Mixer  【1110†Image】 Mixed Juice  12000G  36000G  Juice made from mixed fruits and vegetables. Just like the name says!
+L1327: Mixer  【1111†Image】 Veggie Smoothie  5200G  15800G  Vegetables mixed with milk, softening the bitterness.
+L1328: Mixer  【1112†Image】 Vegetable Juice  2350G  8000G  A healthy juice made from various vegetables. Bitter but strangely addictive.
+L1329: Mixer  【1113†Image】 Fruit Smoothie  1400G  4280G  Juice made from mixed fruits and milk. Easy to drink, with a mellow flavor.
+L1330: Mixer  【1114†Image】 Fruit Juice  630G  1980G  Fresh juice made from various fruits. Twice the flavor, twice the nutrition, twice the fun.
+L1331: Mixer  【1115†Image】 Strawberry Milk  720G  2980G  Strawberries mixed with milk. Sweet and popular. Can be made with as much or as little milk as you'd like.
+L1332: Mixer  【1116†Image】 Apple Juice  175G  530G  Juice made from fresh apples. Enjoy the natural taste, color and smell of nature's candy!
+L1333: Mixer  【1117†Image】 Orange Juice  92G  290G  Juice made from fresh oranges. A good mixture of sweet and sour.
+L1334: Mixer  【1118†Image】 Grape Juice  140G  440G  Juice made from fresh grapes. Rich, sweet and deep in flavor.
+L1335: Mixer  【1119†Image】 Tomato Juice  1000G  3200G  Juice made from fresh tomatoes. Thick and highly nutritious.
+L1336: Mixer  【1120†Image】 Pineapple Juice  4400G  14800G  Juice made from fresh pineapples. Great fragrance and color combined with sweet taste.
+L1337: Oven  【1121†Image】 Apple Pie  1910G  5820G  Apples baked in a pie crust. Popular as a dessert and snack alike.
+L1338: Oven  【1122†Image】 Cheesecake  2540G  7820G  Baked dessert made from cheese and egg.
+L1339: Oven  【1123†Image】 Chocolate Cake  3860G  12000G  Bittersweet cake covered with chocolate.
+L1340: Oven  【1124†Image】 Cake  4200G  15000G  A simple cake with cream and strawberries.
+L1341: Oven  【1125†Image】 Choco Cookie  2700G  8200G  Confection made from flour and dough. Chocolate color and bittersweet taste make it a very mature indulgence.
+L1342: Oven  【1126†Image】 Cookie  1960G  5980G  Confection made from flour and dough. Crisp and heartwarming. Makes a great gift!
+L1343: Oven  【1127†Image】 Yam of the Ages  2200G  7520G  Pureed yam mixed with butter and milk, shaped and baked. Sweet and savory.
+L1344: Oven  【1128†Image】 Seafood Gratin  2700G  8200G  Gratin with seafood. It's recommended to heat the milk before ingesting.
+L1345: Oven  【1129†Image】 Gratin  8200G  26200G  Sauce and cheese mixed and baked. Cooked in the same bowl you eat it from, so watch your fingers!
+L1346: Oven  【1130†Image】 Seafood Doria  2450G  7400G  Doria with various seafood in it. So filling that you won't need much rice before you feel full.
+L1347: Oven  【1131†Image】 Doria  6000G  18300G  Rice covered with homemade sauce, baked to perfection. Crispy on the outside, mellow on the inside.
+L1348: Oven  【1132†Image】 Seafood Pizza  6450G  19800G  Pizza with seafood toppings. Stimulates taste buds with its dazzling appearance and fishy aroma.
+L1349: Oven  【1133†Image】 Pizza  8000G  25800G  Toppings placed on round dough and baked in the oven. Possibly the greatest invention of all time.
+L1350: Oven  【1134†Image】 Butter Roll  2200G  6800G  Sweet bread with butter. Also known as "table rolls" or "dinner rolls." Small and easy to eat.
+L1351: Oven  【1135†Image】 Jam Roll  1940G  5000G  Bread baked with jam. Can be eaten as a snack.
+L1352: Oven  【1136†Image】 Toast  170G  610G  Browned bread. Neck-and-neck with rice in the struggle for worldwide breakfast dominance.
+L1353: Oven  【1137†Image】 Sweet Potato  240G  870G  A slow-roasted sweet potato. Often cooked over bonfires in the fall.
+L1354: Oven  【1138†Image】 Baked Onigiri  65G  220G  A "rice ball" baked on both sides. Has an addictively crunchy texture.
+L1355: Oven  【1139†Image】 Corn on the Cob  1860G  6200G  Fragrantly roasted corn. Very sweet.
+L1356: Pot  【1140†Image】 Rockfish Stew  1360G  5800G  Rockfish stewed until it melts. Eat it and you'll feel like a rockfish, too. In a good way. No, seriously.
+L1357: Pot  【1141†Image】 Union Stew  15000G  70000G  Various ingredients boiled in one large pot. People surround the pot and eat it together. Teamwork, ho!
+L1358: Pot  【1142†Image】 Grilled Miso  660G  2000G  Boiled and flavored with radish. Very mild and good for digestion.
+L1359: Pot  【1143†Image】 Relax Tea  10000G  30000G  Tea with a calming flavor and aroma. Cures all status effects besides colds.
+L1360: Pot  【1144†Image】 Royal Curry  500000G  Curry loved by nobles. Requires high cooking skills to make.
+L1361: Pot  【1145†Image】 Ultimate Curry  250000G  The fruit of intense efforts to create the greatest curry. Perfect in many ways.
+L1362: Pot  【1146†Image】 Curry Rice  2400G  8800G  A staple dish commonly served in households that enjoy curry.
+L1363: Pot  【1147†Image】 Stew  12000G  42800G  Boiled milk and vegetables. Popular for its thickness and sweetness.
+L1364: Pot  【1148†Image】 Egg Bowl  492G  1500G  A bowl of rice with flavored egg on top. You can adjust the flavor as you like.
+L1365: Pot  【1149†Image】 Tempura Bowl  3500G  11500G  A bowl of rice with tempura and sauce on top. A great combination you can't beat.
+L1366: Pot  【1150†Image】 Milk Porridge  464G  1400G  Milk mixed with rice porridge. Very mild and sweet.
+L1367: Pot  【1151†Image】 Rice Porridge  57G  190G  Made by boiling rice. It's good for you, so stop complaining and just eat it already.
+L1368: Pot  【1152†Image】 Tempura Udon  3500G  11000G  Udon with tempura on top. Some prefer crispy tempura, while others like it soft.
+L1369: Pot  【1153†Image】 Curry Udon  5000G  29000G  Udon with curry flavor. though it may seem strange, the two go very well together.
+L1370: Pot  【1154†Image】 Udon  145G  450G  Think and firm noodles. Very smooth and easy to eat.
+L1371: Pot  【1155†Image】 Cheese Fondue  1025G  3100G  Cheese melted in a pot. Often scooped up with bread, like a dip.
+L1372: Pot  【1156†Image】 Marmalade  90G  280G  Jam made by boiling oranges. You can eat the orange skin too!
+L1373: Pot  【1157†Image】 Grape Jam  135G  420G  Jam made by boiling grapes. Generally eaten with bread.
+L1374: Pot  【1158†Image】 Apple Jam  170G  520G  Jam made by boiling apples. Generally eaten with bread.
+L1375: Pot  【1159†Image】 Strawberry Jam  215G  680G  Jam made by boiling strawberries. Generally eaten with bread.
+L1376: Pot  【1160†Image】 Boiled Gyoza  9000G  32000G  Meat and vegetables wrapped in thick dough and boiled. Very moist
+L1377: Pot  【1161†Image】 Glazed Yam  560G  1850G  Fried yam glazed with sweet sauce. Easy to eat, and a popular snack.
+L1378: Pot  【1162†Image】 Boiled Egg  330G  1000G  A standard egg recipe. The softness of the yolk will change over time.
+L1379: Pot  【1163†Image】 Boiled Spinach  95G  340G  Boiled and flavored spinach. You must be careful not to over-boil it.
+L1380: Pot  【1164†Image】 Boiled Pumpkin  180G  580G  Flavored and boiled pumpkin. Soft in texture. Boiling brings out the natural sweetness of the pumpkin.
+L1381: Pot  【1165†Image】 Grape Liqueur  1470G  4420G  Made from wine and grapes in a pot. It can also be drunk by children.
+L1382: Pot  【1166†Image】 Hot Chocolate  175G  530G  A sweet drink of melted chocolate. Be careful not to get cavities!
+L1383: Pot  【1167†Image】 Hot Milk  308G  930G  Easily made by heating milk. Its relaxing effect helps you sleep at night.
+L1384: Frying Pan  【1168†Image】 Grilled S.Flounder  275G  850G  Salted and grilled sand flounder. You can almost taste the sand.
+L1385: Frying Pan  【1169†Image】 Grilled Shrimp  398G  1200G  Whole shrimp, seasoned and grilled. People love its crispy texture.
+L1386: Frying Pan  【1170†Image】 Grilled Lobster  1720G  5200G  A whole lobster, seasoned and grilled. Stands out on the dinner table.
+L1387: Frying Pan  【1171†Image】 Grilled Blowfish  7800G  48000G  An uncommon dish. Most people wouldn't think to grill blowfish, y'know?
+L1388: Frying Pan  【1172†Image】 Grilled Shrimp  398G  1200G  Whole shrimp, seasoned and grilled. People love its crispy texture.
+L1389: Frying Pan  【1173†Image】 Grilled Lamp Squid  3780G  15200G  A little bitter when grilled, but nonetheless a popular dish among foodies. Perhaps they just like being sealed?
+L1390: Frying Pan  【1174†Image】 Grilled Sunsquid  15800G  80000G  Dried and grilled sunsquid. Savory, but easily burned.
+L1391: Frying Pan  【1175†Image】 Grilled Squid  250G  800G  Dried and grilled squid. Makes a great snack with seasoned with chili pepper and mayonnaise.
+L1392: Frying Pan  【1176†Image】 Grilled F.Flounder  4850G  20000G  Salted and grilled fall flounder. It's beautiful colors grab attention.
+L1393: Frying Pan  【1177†Image】 Grilled Turbot  648G  2000G  Salted and grilled turbot. The fresher it is, the better it tastes.
+L1394: Frying Pan  【1178†Image】 Grilled Flounder  420G  3250G  Salted and grilled flounder. The fresher it is, the better it tastes.
+L1395: Frying Pan  【1179†Image】 Salted Pike  190G  600G  Salted and grilled pike. The fresher it is, the better it tastes.
+L1396: Frying Pan  【1180†Image】 Grilled Needlefish  248G  750G  Salted and grilled needlefish. The fresher it is, the better it tastes.
+L1397: Frying Pan  【1181†Image】 Dried Sardines  400G  2300G  Skewered and dried sardines. Often grilled before eating.
+L1398: Frying Pan  【1182†Image】 Tuna Teriyaki  11000G  61000G  Tuna marinated in teriyaki sauce and fried. To make it shine, apply the sauce repeatedly while cooking.
+L1399: Frying Pan  【1183†Image】 Salted Pond Smelt  173G  600G  Salted and grilled pond smelt. The fresher it is, the better it tastes.
+L1400: Frying Pan  【1184†Image】 Grilled Yellowtail  8600G  35400G  Salted and grilled yellowtail. Sugar in the teriyaki sauce makes its surface shiny.
+L1401: Frying Pan  【1185†Image】 Grilled Mackerel  325G  1000G  Salted and grilled mackerel. The fresher it is, the better it tastes.
+L1402: Frying Pan  【1186†Image】 Grilled Skipjack  510G  4800G  Lightly grilled skipjack. Taste varies depending on its freshness.
+L1403: Frying Pan  【1187†Image】 Grilled L. Snapper  7100G  28800G  Salted and grilled lover snapper. Surprisingly sweet.
+L1404: Frying Pan  【1188†Image】 Grilled G. Snapper  30500G  154000G  Salted and grilled glitter snapper. The fresher it is, the better it tastes.
+L1405: Frying Pan  【1189†Image】 Grilled Girella  295G  900G  Salted and grilled girella. The fresher it is, the better it tastes.
+L1406: Frying Pan  【1190†Image】 Grilled Snapper  2680G  11200G  Salted and grilled snapper. The fresher it is, the better it tastes.
+L1407: Frying Pan  【1191†Image】 Grilled Gibelio  272G  1800G  Salted and grilled gibelio. The fresher it is, the better it tastes.
+L1408: Frying Pan  【1192†Image】 Grilled C. Carp  265G  810G  Salted and grilled crucian carp. The fresher it is, the better it tastes.
+L1409: Frying Pan  【1193†Image】 Salted Taimen  16000G  88000G  Salted and grilled taimen. The fresher it is, the better it tastes.
+L1410: Frying Pan  【1194†Image】 Salted Salmon  370G  1200G  Salted and grilled salmon. The fresher it is, the better it tastes.
+L1411: Frying Pan  【1195†Image】 Salted Chub  330G  2200G  Salted and grilled chub. The fresher it is, the better it tastes.
+L1412: Frying Pan  【1196†Image】 Salted C. Salmon  238G  730G  Salted and grilled cherry salmon. The fresher it is, the better it tastes.
+L1413: Frying Pan  【1197†Image】 Salted R. Trout  390G  2750G  Salted and grilled rainbow trout. The fresher it is, the better it tastes.
+L1414: Frying Pan  【1198†Image】 Salted Char  260G  1300G  Salted and grilled char. The fresher it is, the better it tastes.
+L1415: Frying Pan  【1199†Image】 Salted Masu Trout  220G  680G  Salted and grilled masu trout. The fresher it is, the better it tastes.
+L1416: Frying Pan  【1200†Image】 Dried Curry  8600G  49800G  Unlike normal curry, it's more a powder than a sauce. Can be eaten with rice or bread.
+L1417: Frying Pan  【1201†Image】 Risotto  2300G  7000G  Rice mixed with sauce to create perfect harmony.
+L1418: Frying Pan  【1202†Image】 Gyoza  9000G  32000G  Meat and vegetables wrapped in thin dough and fried. Can also be steamed or boiled.
+L1419: Frying Pan  【1203†Image】 Pancakes  3120G  9500G  Eaten for breakfast or as a snack. Possible toppings are limited only by your imagination.
+L1420: Frying Pan  【1204†Image】 Tempura  1820G  5600G  Food battered in flour and egg that is later deep fried. A somewhat generic name for a whole category of yumminess.
+L1421: Frying Pan  【1205†Image】 Fried Udon  12000G  50000G  Someone happened to try frying udon noodles. It turned out surprisingly well.
+L1422: Frying Pan  【1206†Image】 Donut  2450G  7500G  Flour and butter mixed and fried in a convenient ring shape.
+L1423: Frying Pan  【1207†Image】 French Toast  670G  3000G  Bread fried with milk and egg. Mmmm, such a delicate texture! Look a work of art...
+L1424: Frying Pan  【1208†Image】 Curry Bread  6000G  36000G  Bread with curry inside. Crispy on the outside, soft on the inside. Perfect harmony!
+L1425: Frying Pan  【1209†Image】 Baked Apple  175G  550G  An apple-based dessert item. Good mix of sweet and tart.
+L1426: Frying Pan  【1210†Image】 Omelet Rice  5200G  16000G  Fried rice flavored with ketchup and wrapped in a thin omelet.
+L1427: Frying Pan  【1211†Image】 Omelet  820G  2500G  Typical breakfast item eaten around the world. Why is this? Have you met a person who doesn't like omelets? No? Well there you go.
+L1428: Frying Pan  【1212†Image】 Fried Eggs  335G  1100G  Typeical home-cooked egg dish. How long they should be fried is up to you!
+

@@ -1,0 +1,630 @@
+Blocked by robots.txt
+The following domains cannot be accessed (non-retryable error): therunefactory.fandom.com/wiki/pharmacy_%28rf4%29--------------------------------------------------------------------------------
+Pharmacy (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Pharmacy_%28RF4%29)
+citeturn29search0 [wordlim: 200] Crawled: 4 months ago; 
+
+in: Rune Factory 4
+
+# Pharmacy (RF4)
+
+Sign In to Save Save Edit
+
+  * History
+  * Purge
+  * Talk (0)
+
+iframe
+
+Once you've ordered the appropriate licenses for yourself, you can get a chemistry set from Jones or Nancy, which you can place wherever you so choose. The chemistry set is used to make medicines, nutrients, and ingredients. You can get the recipes for them by eating the medicine bread sold by Porcoline. You can also make items without a recipe if you so choose.
+
+ | Medicine Bread  | A magic bread that teaches you new recipes. You can learn one (simple) recipe appropriate to your skill.  | Obtained: Porcoline's Kitchen
+ | Medicine Bread+  | A nicely baked Medicine Bread. Teaches you a difficult recipe appropriate to your skill.  | Obtained: Sharance Labyrinth
+
+## Chemistry Set[]
+
+ | Recipe  | Level  | Ingredients
+--- | --- | --- | ---
+ | Recovery Potion  | 3  | Medicinal Herb  | Green Grass  |  |  |  | 
+ | Recovery Potion  | 15  | Blue Grass  |  |  |  |  | 
+ | Healing Potion  | 20  | Medicinal Herb  | Red Grass  |  |  |  | 
+ | Healing Potion  | 40  | Pom-Pom Grass  |  |  |  |  | 
+ | Mystery Potion  | 33  | Medicinal Herb  | White Grass  |  |  |  | 
+ | Mystery Potion  | 60  | Autumn Grass  |  |  |  |  | 
+ | Magical Potion  | 45  | Medicinal Herb  | Elli Leaves  |  |  |  | 
+ | Magical Potion  | 70  | Fireflower  |  |  |  |  | 
+ | Antidote Potion  | 25  | Antidote Grass  | Yellow Grass  |  |  |  | 
+ | Antidote Potion  | 38  | Cherry Grass  |  |  |  |  | 
+ | Para-Gone  | 18  | Indigo Grass  | Indigo Grass  |  |  |  | 
+ | Para-Gone  | 31  | Pink Cat  |  |  |  |  | 
+ | Roundoff  | 13  | Black Grass  | Black Grass  |  |  |  | 
+ | Roundoff  | 28  | Moondrop  |  |  |  |  | 
+ | Cold Medicine  | 22  | Orange Grass  | Toyherb  |  |  |  | 
+ | Cold Medicine  | 32  | Charm Blue  |  |  |  |  | 
+ | Heavy Spice  | 10  | Purple Grass  |  |  |  |  | 
+ | Sweet Powder  | 5  | Apple  |  |  |  |  | 
+ | Sour Drop  | 7  | Orange  |  |  |  |  | 
+ | Mixed Herbs  | 8  | Green Grass  | Toyherb  |  |  |  | 
+ | Wettable Powder  | 30  | Charm Blue  | Cherry Grass  |  |  |  | 
+ | Greenifier  | 34  | Withered Grass  | Indigo Grass  | Moondrop Flower  |  |  | 
+ | Greenifier+  | 64  | Withered Grass  | Orange Grass  | Corn  |  |  | 
+ | Formula A  | 29  | Withered Grass  | Blue Grass  | Black Grass  |  |  | 
+ | Formula B  | 41  | Yellow Grass  | Pink Cat  | 4-Leaf Clover  |  |  | 
+ | Formula C  | 72  | White Grass  | Fireflower  | Corn  |  |  | 
+ | No Rot α  | 26  | Withered Grass  | Toyherb  |  |  |  | 
+ | No Rot β  | 50  | Withered Grass  | Red Grass  | 4-Leaf Clover  |  |  | 
+ | Giantizer  | 57  | Lamp Grass  |  |  |  |  | 
+ | Minimizer  | 53  | Ironleaf  |  |  |  |  | 
+ | Formuade  | 46  | Heavy Spice  | Lamp Grass  | Ironleaf  | Powders and Spores  | Liquids  | 
+ | Formuade  | 65  | Hot-Hot Fruit  |  |  |  |  | 
+ | Invinciroid  | 76  | Noel Grass  | Emery Flower  | Autumn Grass  | Hot-Hot Fruit  | Formuade  | 
+ | Invinciroid  | 86  | Giant Hot-Hot Fruit  | Formuade  |  |  |  | 
+ | The Protein  | 80  | Red Crystal  | Red Crystal  | Spinach  | Powders and Spores  | Liquids  | 
+ | The Protein  | 90  | Big Red Crystal  |  |  |  |  | 
+ | Vital Gummi  | 83  | Blue Crystal  | Blue Crystal  | Bok Choy  | Powders and Spores  | Liquids  | 
+ | Vital Gummi  | 93  | Big Blue Crystal  |  |  |  |  | 
+ | Love Potion  | 87  | Emery Flower  | Pink Melon  | Strawberry  | Honey  | Hot-Hot Fruit  | Grape Liqueur
+ | Love Potion  | 97  | Great Emery Flower  |  |  |  |  | 
+ | Intelligencer  | 82  | White Crystal  | White Crystal  | Eggplant  | Powders and Spores  | Liquids  | 
+ | Intelligencer  | 92  | Big White Crystal  |  |  |  |  | 
+ | Heart Drink  | 85  | Green Crystal  | Green Crystal  | Ironleaf  | Powders and Spores  | Liquids  | 
+ | Heart Drink  | 95  | Big Green Crystal  |  |  |  |  | 
+ | Leveliser  | 96  | Emery Flower  | 4-Leaf Clover  | Noel Grass  | Autumn Grass  | Fireflower  | Hot-Hot Fruit
+ | Leveliser  | 99  | Great Emery Flower  | Great 4-Leaf Clover  |  |  |  | 
+
+--------------------------------------------------------------------------------
+Consumables (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Consumables_%28RF4%29)
+citeturn29search1 [wordlim: 200] Crawled: 4 months ago; 
+ | Apple Jam  | HP +30, RP +10  | 520  | 170  | Jam made by boiling apples. Generally eaten with bread.
+ | Strawberry Jam  | HP +30, RP +10  | 680  | 215  | Jam made by boiling strawberries. Generally eaten with bread.
+ | Hot Chocolate  | HP +150, RP +500, RP max +50  | 530  | 175  | A sweet drink of melted chocolate. Be careful not to get cavities!
+ | Hot Milk  | HP +880, RP +1000, RP max +80, RP max +5%  | 930  | 308  | Easily made by heating milk. Its relaxing effect helps you sleep at night.
+ | Grape Liqueur  | HP +3640, RP +2000, RP max +120, RP max +10%, Crit +15%, Crit Res -25%  | 4420  | 1470  | Made from wine and grapes in a pot. It can also be drunk by children.
+ | Relax Tea  | HP +5000, HP +100%, RP +1000, RP +4%, RP max +250, RP max +25%  | 30000  | 10000  | Tea with a calming flavor and aroma. Cures all status effects besides colds.
+ | Boiled Pumpkin  | HP +2500, RP +820, HP max +1000  | 580  | 180  | Flavored and boiled pumpkin. ## Medicine[]
+
+Medicine
+---
+ | Name  | Effects  | Buy  | Sell  | Description
+--- | --- | --- | --- | --- | ---
+ | Recovery Potion  | HP +150  | 80  | 15  | A light green-coloured medicinal drink. Recovers HP.
+ | Healing Potion  | HP +800  | 500  | 120  | A deep green-coloured medicinal drink. Recovers HP.
+ | Mystery Potion  | HP +3000  | 1500  | 200  | A blue-coloured medicinal drink. Recovers HP.
+ | Magical Potion  | HP +50%  | 5000  | 2000  | One of the greatest achievement of magic medical science. Was only possible through the greatest efforts.
+ | Antidote Potion  | Heal: PSN, HP +1500  | 1200  | 150  | Easier to take than herbs. Used for curing poison
+ | Para-Gone  | Heal: PAR, HP +500  | 900  | 80  | Medicine that cures paralysis.
+ | Roundoff  | Heal: SEAL, HP +300  | 800  | 60  | Medicine that dissolves seals.
+ | Cold Medicine  | Heal: SICK, HP +1000  | 1000  | 110  | Caught a cold? Nine out of ten doctors agree this medicine will cure it. HP +100%, RP +100%, HP Max +1000, HP Max +10%,
+STR +50, STR +10%, VIT +50, VIT +10%, INT +50, INT +10%  | 1120000  | 5000  | You can be invincible! ...Or not. But it cures all status effects, so that's pretty cool.
+ | The Protein  | STR +1  | 2000000  | 1500  | A specially made medicine. Increases maximum strength. Get fit, brah.
+ | Vital Gummi  | VIT +1  | 2000000  | 1500  | A specially made medicine. Increases maximum vitality.
+ | Love Potion  | Heal: PSN, SEAL, PAR, FTG, SICK
+RP +50%, Crt Res 50%, Knock Res 10%,
+Psn Res 25%, Seal Res 25%, Par Res 25%, Slp Res 25%,
+Ftg Res 25%, Sick Res 25%, Faint Res 25%  | 3000000  | 500  | A medicine loved by all. Give it to someone and they might like you. Heals all status effects.
+ | Intelligencer  | INT +1  | 2000000  | 1500  | A specially made medicine. Increases maximum intelligence.
+ | Heart Drink  | HP +1  | 1500000  | 1300  | A specially made medicine. Increases maximum HP.
+ | Leveliser  | LVL +1  | 5000000  | 3000  | A medicine made from a hodge-podge of things. Heats your body and increases your level.
+ | Object X  | Status Ailments: PSN, SEAL, PAR, SLP, FTG, SICK
+RP -50%  | 150  | 2  | A substance created from a failed Synthesis. How did it happen? Who knows, but it's not for eating. Seriously.
+
+--------------------------------------------------------------------------------
+Category:Medicine (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Category%3AMedicine_%28RF4%29)
+citeturn29search2 [wordlim: 200] Crawled: 5 months ago; 
+
+# Medicine (RF4)
+
+Category page
+
+Sign In to Save Save Edit
+
+  * History
+  * Purge
+  * Talk (0)
+
+iframe
+
+Medicine refers to the larger category in the games shipping list and contains the subcategory of nutrient.
+
+## List[]
+
+ | Name
+--- | ---
+ | The Protein
+ | Intelligencer
+ | Vital Gummi
+ | Heart Drink
+ | Antidote Potion
+ | Para-Gone
+ | Roundoff
+ | Cold Medicine
+ | Formuade
+ | Love Potion
+ | Invinciroid
+ | Leveliser
+ | Recovery Potion
+ | Healing Potion
+ | Mystery Potion
+ | Magical Potion
+ | Object X
+
+All items (18)
+
+  * #
+  * A
+  * B
+  * C
+  * D
+  * E
+  * F
+  * G
+  * H
+  * I
+  * J
+  * K
+  * L
+  * M
+  * N
+  * O
+  * P
+  * Q
+  * R
+  * S
+  * T
+  * U
+  * V
+  * W
+  * X
+  * Y
+  * Z
+  * Other
+
+A
+
+  * Antidote Potion
+
+C
+
+  * Cold Medicine
+
+F
+
+  * Formuade
+
+H
+
+  * Healing Potion
+  * Heart Drink
+
+I
+
+  * Intelligencer
+  * Invinciroid
+
+L
+
+  * Levelizer
+  * Love Potion
+
+M
+
+  * Magical Potion
+  * Mystery Potion
+
+N
+
+  * Category:Nutrient (RF4)
+
+O
+
+  * Object X
+
+P
+
+  * Para-Gone
+
+R
+
+  * Recovery Potion
+  * Roundoff
+
+T
+
+  * The Protein
+
+V
+
+  * Vital Gummi
+
+Community content is available under CC-BY-SA unless otherwise noted.--------------------------------------------------------------------------------
+Shipping List (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Shipping_List_%28RF4%29)
+citeturn29search3 [wordlim: 200] Crawled: 4 months ago; 
+## Medicine[]
+
+Medicine
+---
+ | Name  | Sell  | Buy  | Description
+--- | --- | --- | --- | ---
+ | The Protein  | 1500G  | 2000000G  | A specially made medicine. Increases maximum strength. Get fit, brah.
+ | Intelligencer  | 1500G  | 2000000G  | A specially made medicine. Increases maximum intelligence.
+ | Vital Gummi  | 1500G  | 2000000G  | A specially made medicine. Increases maximum vitality.
+ | Heart Drink  | 1300G  | 1500000G  | A specially made medicine. Increases maximum HP.
+ | Antidote Potion  | 150G  | 1200G  | Easier to take than herbs. Used for curing poison.
+ | Para-Gone  | 80G  | 900G  | Medicine that cures paralysis.
+ | Roundoff  | 60G  | 800G  | Medicine that dissolves seals.
+ | Cold Medicine  | 110G  | 1000G  | Caught a cold? Nine out of ten doctors agree this medicine will cure it. And the tenth one is a quack.
+ | Formuade  | 2500G  | 20000G  | RP+75% HP max -50% STR +70 VIT +70 INT +70 Crit +20% Psn Res 25% Seal Res 25% Par Res 25% Slp Res 25% Ftg Res 25% Sick Res 25%Faint Res 25%
+--------------------------------------------------------------------------------
+Cooking (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Cooking_%28RF4%29)
+citeturn29search4 [wordlim: 200] Crawled: 4 months ago; 
+ | Cheesecake  | [Oven]  | Heal: PSN SEAL PAR SLP FTG
+ | Ice Cream  | [Mixer]  | Negates Fire damage
+ | Tomato Juice  | [Mixer]  | Heal: FTG
+ | Failed Dish  | [Failed Dish]  | RP max -10% STR -10% VIT -10% INT -10%
+ | Disastrous Dish  | [Failed Dish]  | RP max -25% STR -25% VIT -25% INT -25% Light Res -25%
+
+### Medicine and Nutrients[]
+
+All Nutrients provide a HP -100 effect to dishes when used as an ingredient.
+
+ | Ingredient Name  | Ingredient Type  | Ingredient Effect
+--- | --- | --- | ---
+ | Recovery Potion  | [Medicine]  | HP +150
+ | Healing Potion  | [Medicine]  | HP +800
+ | Mystery Potion  | [Medicine]  | HP +3000
+ | Magical Potion  | [Medicine]  | HP +50%
+ | Antidote Potion  | [Medicine]  | Heal: PSN HP +1500 Psn Res +50%
+ | Para-Gone  | [Medicine]  | Heal: PAR HP +500 Par Res +50%
+ | Roundoff  | [Medicine]  | Heal: SEAL HP +300 Seal Res +50%
+ | Cold Medicine  | [Medicine]  | Heal: SICK HP +1000 Sick Res +50%
+ | Formuade  | [Medicine]  | RP +75%
+ | Invinciroid  | [Medicine]  | Heal: PSN SEAL PAR SLP FTG SICK HP +100% RP +100%
+ | Love Potion  | [Medicine]  | Heal: PSN SEAL PAR SLP FTG SICK RP +50%
+ | Object X  | [Medicine]  | Status Ailments: PSN SEAL PAR SLP FTG SICK RP -50%
+
+--------------------------------------------------------------------------------
+Chemistry (RF5) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Chemistry_%28RF5%29)
+citeturn29search5 [wordlim: 200] Crawled: 4 months ago; 
+
+# Chemistry (RF5)
+
+Sign In to Save Save Edit
+
+  * History
+  * Purge
+  * Talk (0)
+
+iframe
+
+Chemistry (also known as Pharmacy in Rune Factory series) in Rune Factory 5 is to make medicines, nutrients, ingredients or to give as gifts. To get started at Chemistry, accept the request "Buy Chemistry Set" at the Task Board just outside Rigbarth Outpost. The protagonist will need to pass a test from St. Eliza (the talking mailbox) at Rigbarth Outpost to obtain the Chemistry License. Once done, head to Studio Palmo to buy your Chemistry furniture. The chemistry table will cost you 1,000G, 30 stone, and 30 lumber.
+
+## Chemistry Recipes[]
+
+Image  | Name  | Level  | Effects  | Selling price  | Ingredients
+--- | --- | --- | --- | --- | ---
+ | Recovery Potion  | 3  | HP:+150  | 15G  | 
+Medicinal Herb  | 
+Green Grass  |  |  |  | 
+ | Sweet Powder  | 5  | Water Res: -30%  | 170G  | 
+Apple  |  |  |  |  | 
+ | Sour Drop  | 7  | Earth Res: -30%  | 90G  | 
+Orange  |  |  |  |  | 
+ | Healing Potion  | 7  | HP:+800  | 120G  | 
+Medicinal Herb  | 
+Red Grass  |  |  |  | 
+ | Mixed Herbs  | 8  | Wind Res: -30%  | 280G  | 
+Green Grass  | 
+Toyherb  |  |  |  | 
+ | Heavy Spice  | 10  | Fire Res: -30%  | 180G  | 
+Purple Grass  |  |  |  |  | 
+ | Roundoff  | 13  | Heal:SEAL, HP:+300  | 60G  | 
+Black Grass  | 
+Black Grass  |  |  |  | 
+ | Healing Potion  | 14  | HP:+800  | 120G  | 
+Pom-Pom Grass  |  |  |  |  | 
+ | Recovery Potion  | 15  | HP:+150  | 15G  | 
+Blue Grass  |  |  |  |  | 
+ | Para-Gone  | 18  | Heal:PAR, HP:+500  | 80G  | 
+Indigo Grass  | 
+Indigo Grass  |  |  |  | 
+ | Cold Medicine  | 22  | Heal:SICK, HP:+1000  | 110G  | 
+Orange Grass  | 
+Toyherb  |  |  |  | 
+ | Antidote Potion  | 25  | Heal:PSN, HP:+1500  | 150G  | 
+Antidote Grass  | 
+Yellow Grass  |  |  |  | 
+ | No Rot α  | 26  | Prevent plants from wilting  | 50G  | 
+Withered Grass  | 
+Toyherb  |  |  |  | 
+ | Roundoff  | 28  | Heal:SEAL, HP:+300  | 60G  | 
+Moondrop Flower  |  |  |  |  | 
+ | Formula A  | 29  | Somewhat effective to grow crops faster  | 30G  | 
+Withered Grass  | 
+Blue Grass  | 
+Black Grass  |  |  | 
+ | Wettable Powder  | 30  | Make plants stronger against typhoons and snowstorms  | 150G  | 
+Charm Blue  | 
+Cherry Grass  |  |  |  | 
+--------------------------------------------------------------------------------
+Category:Medicine (RF) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Category%3AMedicine_%28RF%29)
+citeturn29search6 [wordlim: 200] Crawled: 5 months ago; 
+
+# Medicine (RF)
+
+Category page
+
+Sign In to Save Save Edit
+
+  * History
+  * Purge
+  * Talk (0)
+
+iframe
+
+Medicine is a category of Item in Rune Factory: A Fantasy Harvest Moon.
+
+All items (25)
+
+  * #
+  * A
+  * B
+  * C
+  * D
+  * E
+  * F
+  * G
+  * H
+  * I
+  * J
+  * K
+  * L
+  * M
+  * N
+  * O
+  * P
+  * Q
+  * R
+  * S
+  * T
+  * U
+  * V
+  * W
+  * X
+  * Y
+  * Z
+  * Other
+
+A
+
+  * Aero Element
+  * Antidote Potion
+  * Aqua Element
+
+C
+
+  * Cold Medicine
+
+F
+
+  * Flare Element
+  * Formuade
+  * Formula A
+  * Formula B
+  * Formula C
+
+G
+
+  * Greenifier
+
+H
+
+  * Healing Potion
+  * Health It
+  * Heart Drink
+
+I
+
+  * Intelligencer
+  * Invinciroid
+
+M
+
+  * Mystery Potion
+
+N
+
+  * Neutralizer
+
+P
+
+  * Para-Gone
+  * Pharmacy (RF)
+
+R
+
+  * Recovery Potion
+  * Roundoff
+
+T
+
+  * Tech Bottle
+  * Terra Element
+  * The Protein
+
+V
+
+  * Vital Gummi
+
+Categories
+
+  * Categories:
+  * Items (RF)
+
+Community content is available under CC-BY-SA unless otherwise noted.--------------------------------------------------------------------------------
+Tiny Bandage Clinic | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Tiny_Bandage_Clinic)
+citeturn29search7 [wordlim: 200] Crawled: 4 months ago; 
+
+# Tiny Bandage Clinic
+
+Sign In to Save Save Edit
+
+  * History
+  * Purge
+  * Talk (0)
+
+iframe
+
+## Tiny Bandage Clinic
+
+## Information
+
+### Hours
+
+9:00~18:00
+
+### Residents
+
+Jones
+Nancy
+Dolce
+
+### Connected
+
+Selphia: Housing Area
+
+Tiny Bandage Clinic (病院(びょういん)『ちいさな包帯(ほうたい)』, Byouin "Chiisa na Houtai") is a location in Rune Factory 4.
+
+Jones and Nancy own the Tiny Bandage Clinic in Selphia, with Dolce helping once she has been moved in. If the main character faints, he/she will appear here. Upon waking up, you'll be expected to pay a clinic fee. The fee will increase each time you faint, and go up at a steeper rate depending on the difficulty level you are playing on. (There is a price cap for easy and normal mode, but prices in hard mode can go up as high as you can fill your wallet.) If your spouse is with you when you pass out, you'll get a couple's discount.
+
+The only time you will not pay a fee for fainting is when Nancy is working at the clinic.
+
+You can buy various medicines and, once you unlock it, the chemistry set here.
+
+## Inventory[]
+
+ | Item  | Gold
+--- | --- | ---
+ | Recovery Potion  | 80
+ | Healing Potion  | 500
+ | Mystery Potion  | 1500
+ | Magical Potion  | 5000
+ | Cold Medicine  | 1000
+ | Roundoff  | 800
+ | Para-Gone  | 900
+ | Antidote Potion  | 1200
+ | Green Grass  | 120
+ | Medicinal Herb  | 80
+ | Antidote Grass  | 150
+ | White Grass  | 120
+ | Orange Grass  | 120
+ | Yellow Grass  | 120
+ | Blue Grass  | 120
+ | Red Grass  | 120
+
+## Inner Locations[]
+
+## Dialogue[]
+
+## Gallery[]
+
+## References[]--------------------------------------------------------------------------------
+Pharmacy (RF3) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Pharmacy_%28RF3%29)
+citeturn29search8 [wordlim: 200] Crawled: 4 months ago; 
+## Recipes[]
+
+*Some of this data is from the Japanese version of the game and may be inaccurate. Please mark any mistakes found.
+
+Item Name  | Skill Level  | Sell Price  | Buy Price  | Item 1  | Item 2  | Item 3  | Item 4  | Item 5  | Item 6
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Recovery Potion  | 4  | 100G  | 500G  | Medicinal Herb  | Medicinal Herb  |  |  |  | 
+Antidote Potion  | 8  | 125G  | 600G  | Antidote Herb  | Antidote Herb  |  |  |  | 
+Sweet Powder  | 9  | 100G  | 300G  | Apple  | Apple  |  |  |  | 
+Formula A  | 11  | 300G  | 600G  | Green Grass  | Green Grass  | Red Grass  | Red Grass  |  | 
+Heavy Spice  | 12  | 10G  | 30G  | Red Grass  | Red Grass  |  |  |  | 
+Recovery Potion  | 14  | 100G  | 500G  | Toyherb  |  |  |  |  | 
+Para-Gone  | 14  | 150G  | 700G  | Yellow Grass  | Yellow Grass  |  |  |  | 
+Sour Drop  | 15  | 80G  | 240G  | Orange  | Yellow Grass  |  |  |  | 
+Roundoff  | 16  | 150G  | 700G  | Purple Grass  | Blue Grass  |  |  |  | 
+Neutralizer  | 17  | 20G  | 40G  | Charm Blue  | Antidote Herb  |  |  |  | 
+Healing Potion  | 20  | 400G  | 1,500G  | Medicinal Herb  | Medicinal Herb  | Medicinal Herb  |  |  | 
+Cold Medicine  | 21  | 500G  | 1,800G  | Leek  | Green Pepper  | Green Grass  | Orange Grass  |  | 
+Formula A  | 22  | 300G  | 600G  | Moondrop  |  |  |  |  | 
+Cold Medicine  | 27  | 500G  | 1,800G  | Fireflower  |  |  |  |  | 
+Formula B  | 28  | 500G  | 2,200G  | Blue Grass  | Blue Grass  | Red Grass  | Red Grass  |  | 
+Neutralizer  | 29  | 20G  | 40G  | Antidote Herb  | Antidote Herb  | Antidote Herb  |  |  | 
+Greenifier  | 30  | 880G  | 3,000G  | Strong Vine  | Strong Vine  | Fish Fossil  | Earth Crystal  |  | 
+Para-Gone  | 31  | 150G  | 700G  | Pink Cat  |  |  |  |  | 
+Mixed Herbs  | 35  | 2,830G  | 8,490G  | Moondrop  | Toy Herb  | Pink Cat  | Charm Blue  |  | 
+Formula B  | 36  | 500G  | 2,200G  | Charm Blue  |  |  |  |  | 
+Formula C  | 52  | 800G  | 9,800G  | Cherry Grass  |  |  |  |  | 
+Heart Drink  | 55  | 300G  | 50,000G  | Green Crystal  |  |  |  |  | 
+Protein Boost  | 57  | 500G  | 70,000G  | Red Crystal  |  |  |  |  | 
+Mental Supplement  | 59  | 500G  | 70,000G  | White Crystal  |  |  |  |  | 
+Mystery Potion  | 60  | 800G  | 3,000G  | Ironleaf  |  |  |  |  | 
+Invinciroid  | 61  | 45,620G  | 136,860G  | Formuade  | Autumn Grass  | Pumpkin  | Gold Pumpkin  |  | 
+Vital Gummi  | 62  | 500G  | 70,000G  | Blue Crystal  |  |  |  |  | 
+Formuade  | 66  | 250G  | 50,000G  | Autumn Grass  |  |  |  |  | 
+Love Potion  | 73  | 500G  | 50,000G  | Emery Flower  |  |  |  |  | 
+Roundoff  | 76  | 150G  | 700G  | Lamp Grass  |  |  |  |  | 
+Invinciroid  | 82  | 45,620G  | 136,860G  | Formuade  | Autumn Grass  |  |  |  | 
+Antidote Potion  | 82  | 125G  | 600G  | Pom-Pom Grass  |  |  |  |  | 
+--------------------------------------------------------------------------------
+Consumables (RF5) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Consumables_%28RF5%29)
+citeturn29search9 [wordlim: 200] Crawled: 4 months ago; 
+Para-Gone  | 18  | Indigo Grass x2  | 900  | 80
+Cold Medicine  | 22  | Orange Grass, Toyherb  | 1000  | 110
+Antidote Potion  | 25  | Antidote Grass, Yellow Grass  | 1200  | 150
+Roundoff  | 28  | Moondrop Flower  | 800  | 60
+Para-Gone  | 31  | Pink Cat  | 900  | 80
+Cold Medicine  | 32  | Charm Blue  | 1000  | 110
+Mystery Potion  | 33  | Medicinal Herb, White Grass  | 1500  | 200
+Antidote Potion  | 38  | Cherry Grass  | 1200  | 150
+Magical Potion  | 45  | Medicinal Herb, Elli Leaves  | 5000  | 2000
+Formuade  | 46  | Heavy Spice, Lamp Grass, Ironleaf, (Liquid), (Powders/Spores)  | 20000  | 2500
+Mystery Potion  | 60  | Autumn Grass  | 1500  | 200
+Formuade  | 65  | Hot-Hot Fruit  | 20000  | 2500
+--------------------------------------------------------------------------------
+Items (RF3) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Items_%28RF3%29)
+citeturn29search10 [wordlim: 200] Crawled: 4 months ago; 
+Heals all status effects and raises resistance. 50000G 500G
+Formuade
+---
+Picture Description Buy Sell
+Drinkable nutrients to help you work. Puts a strain on your body, so watch your HP when drinking! 50000G 250G
+Cold Medicine
+---
+Picture Description Buy Sell
+Catch a cold, and you'll need to act fast. Also makes you resistant to catching cold for a time. 1800G 500G
+Roundoff
+---
+Picture Description Buy Sell
+Medicine that cures the sealed status. Also makes you resistant to seal for a time. 700G 150G
+Para-Gone
+---
+Picture Description Buy Sell
+Medicine that cures paralysis of the body. Also makes you resistant to paralysis for a time. 700G 150G
+Antidote Potion
+---
+Picture Description Buy Sell
+Antidote medicine that is much easier to swallow than in its herb form. 600G 125G
+Heart Drink
+---
+Picture Description Buy Sell
+A health supplement created by a special process. Increases HP. 300G 50000G
+Vital Gummi
+---
+Picture Description Buy Sell
+A health supplement created by a special process. Increases vitality. 70000G 500G
+--------------------------------------------------------------------------------
+Alvarna Clinic | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Alvarna_Clinic)
+citeturn29search11 [wordlim: 200] Crawled: 4 months ago; 
+They require 100 G, an Empty Bottle, and 3 Medicinal Herbs. If the protagonist lacks any of these components, the doctor turns them away.
+"I wanted to see what you have in stock."
+---
+ | Antidote Potion  | 325G  | Antidote medicine that is much easier to swallow than its herb form.
+ | Para-Gone  | 750G  | Medicine that cures paralysis of the body. As a bonus, it also heals 30 HP.
+ | Roundoff  | 500G  | Medicine that cures the sealed status. As a plus, it also heals 30 HP.
+ | Cold Medicine  | 875G  | Catch a cold and you'll need to ask fast. Use the power of science to fight all illnesses!
+ | Neutral Agent  | 100G  | The best way to deal with poison in the fields! Totally neutralizes it! Fantastic!
+ | Formula A  | 2,000G  | Fertilizer. Speeds the growth of crops by 1 day. You'll see the difference one day after use.
+ | Medicinal Herb  | 30G  | A wild medicinal herb that can be used to recover HP, so long as you can stand the bitter taste.
+

@@ -1,0 +1,174 @@
+Cooking (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Cooking_%28RF4%29)
+citeturn11view0 [wordlim: 200] Crawled: 6 months ago; Content type: text/html; Source: open({"ref_id":"turn2view2","lineno":605}); Redirected to URL: https://therunefactory.fandom.com/wiki/Cooking_(RF4); Total lines: 1094
+L518:         * 【160† Cloudheim 】
+L519:         * 【161† Seed Sky Castle 】
+L520:         * 【162† Fimbul Border 】
+L521:         * 【163† Odia 】
+L522:         * 【164† Rigbarth Labyrinth 】
+L523: 
+L524:       * 【165† Farm Dragon 】
+L525: 
+L526:     * 【78† Monsters (RF5) 】
+L527: 
+L528:       * 【166† Category 】
+L529: 
+L530:   * 【14† Rune Factory 4 】
+L531: 
+L532:     * 【49† Calendar (RF4) 】
+L533:     * 【56† Characters (RF4) 】
+L534:     * 【70† Cooking (RF4) 】
+L535:     * 【167† Crafting (RF4) 】
+L536:     * 【168† Crops (RF4) 】
+L537:     * 【169† Category:Dialogue (RF4) 】
+L538:     * 【170† Equipment (RF4) 】
+L539:   【174† †auth.fandom.com】 【175† †auth.fandom.com】
+L540: 
+L541: in: 【176†Rune Factory 4】, 【177†Cooking】
+L542: #  Cooking (RF4)
+L543: 
+L544:  【175† Sign In to Save Save †auth.fandom.com】 【174† Edit †auth.fandom.com】
+L545: 
+L546:   * 【178† History 】
+L547:   * 【179† Purge 】
+L548:   * 【180† Talk (0) 】
+L549: Cooking is an activity in 【14†Rune Factory 4】. To begin cooking, the protagonist must speak to 【181†Porcoline】 to obtain a cooking table for free. After this, he or she must order an "【182†EZ Cooking License】." Upon passing, Porcoline will sell a knife, frying pan, and mixer. After ordering the "Pro Cooking License," Porcoline will sell an oven, steamer, and a pot.
+L550: ## Contents
+L551: 
+L552:   * 【183†1 Recipes】
+L553:   * 【184†2 Simple】
+L554:   * 【185†3 Frying Pan】
+L555:   * 【186†4 Pot】
+L556:   * 【187†5 Steamer】
+L557:   * 【188†6 Knife】
+L558:   * 【189†7 Mixer】
+L559:   * 【190†8 Oven】
+L560:   * 【191†9 Failed Dish】
+L561:   * 【192†10 Ingredient Effects】
+L562:     * 【193†10.1 Table】
+L563:     * 【194†10.2 Other Item Types】
+L564:       * 10.2.1 Cooked Foods
+L565:       * 10.2.2 Fish
+L566:       * 10.2.3 Recipe Breads
+L567:       * 10.2.4 Nutrients
+L568:       * 10.2.5 Seeds
+L569:       * 10.2.6 Other Items
+L570:     * 【195†10.3 Gallery】
+L571:     * 【196†10.4 References】
+L572: ## Recipes[]
+L573: 
+L574: Cooking Recipes can be found in-game from eating Cooking Bread. These can be bought from 【181†Porcoline】, or can be won from festivals. High-level recipes (over level 80*) can only be learned by eating Cooking Bread+. Cooking Bread+ are sometimes dropped by bosses in the Sharance Maze.
+L575: 【611†Image: CookingBread†therunefactory.fandom.com】 Cooking Bread  A magic bread that teaches you new recipes. You can learn one (simple) recipe appropriate to your skill.  Sold/Lend by 【181†Porcoline】, Festival reward
+L576: 【612†Image: CookingBread†therunefactory.fandom.com】 Cooking Bread+  A well-baked Cooking Bread. Teaches you a difficult recipe appropriate to your skill.  Reward found inside 【197†Sharance Labyrinth】
+L577:   * It is possible to cook an item without having the recipe unlocked in-game, but doing so will require a far larger amount of RP than usual. Attempting to cook without a recipe AND without sufficient RP will always fail.
+L578:   * Any recipe with less than the maximum of six ingredients can be improved by adding edible items to the empty slots during creation.
+L579:   * Dairy items, such as eggs and milk, can be (S), (M), or (L). While any size will work for recipes, larger sizes will result in higher level dishes.
+L580:     * The two exceptions are 【198†Stew】, which can only be made with 【199†Milk (M)】 and 【200†Donuts】, which can only be made with 【201†Egg (M)】.
+L581:   * Likewise, vegetables and flowers can be substituted for their giant versions. These will also result in a higher-level dish.
+L582:   * The selling prices shown both here and on the recipe in-game are for a level-one dish. Prices for higher level dishes increase with level.
+L583: The player must first buy cooking appliances from 【181†Porcoline】, in order to cook.
+L584: 
+L585: Note: Once all cooking appliances have been purchased, one can spend Prince/ss Points to unify all cooking appliances. When you do this, the individual tools will not physically merge, but you can click on any one tool and have the option to use all the others from it.
+L586: ## Simple[]
+L587: Recipe  Effects  Level  Price  Ingredients
+L588: 【613†Image: RF4Onigiri】 【202†Onigiri】  [Effects] HP +220 RP +30 STR +1 VIT +1 INT +1  2  57G  【203†Rice】  -  -  -  -  -
+L589: 【614†Image: RF4Picked Turnip】 【204†Pickled Turnip】  [Effects] HP +250 RP +100 STR +5 VIT +3 INT +5  4  48G  【615†Image: RF4Turnip】 【205†Turnip】  -  -  -  -  -
+L590: 【616†Image: RF4Bamboo Rice】 【206†Bamboo Rice】  [Effects] HP +300  7  162G  【203†Rice】  【207†Bamboo Sprout】  -  -  -  -
+L591: 【617†Image: RF4Pickles】 【208†Pickles】  [Effects] HP +400 RP +100 STR +4 VIT +3 INT +2  10  105G  【618†Image: RF4Cucumber】 【209†Cucumber】  -  -  -  -  -
+L592: 【619†Image: RF4Picked Turnip】 【204†Pickled Turnip】  [Effects] HP +250 RP +100 STR +5 VIT +3 INT +5  12  48G  【620†Image: RF4Pink Turnip】 【210†Pink Turnip】  -  -  -  -  -
+L593: 【621†Image: RF4Salmon Onigiri】 【211†Salmon Onigiri】  [Effects] HP +2700 RP +220 STR +10 VIT +6 INT +9  20  645G  【212†Salted Salmon】  【203†Rice】  -  -  -  -
+L594: 【622†Image: RF4Cheese】 【213†Cheese 】  [Effects] RP +30  22  400G  【214†Sour Drop】  【215†Milk (S)】 【199†(M)】 【216†(L)】  -  -  -  -
+L595: 【623†Image: RF4Sandwich】 【217†Sandwich】  [Effects] HP +4000 RP +840 STR +23 VIT +12 INT +17  34  964G  【218†Bread】  【219†Egg (S)】 【201†(M)】 【220†(L)】  【221†Cucumber】  -  -  -
+L596: 【624†Image: RF4Fruit Sandwich】 【222†Fruit Sandwich】  [Effects] HP +4080 RP +1000 STR +30 VIT +15 INT +20  35  540G  【218†Bread】  【223†Strawberry】  -  -  -  -
+L597: 【625†Image: RF4Pickle Mix】 【224†Pickle Mix】  [Effects] HP +5000 HP +11% RP +1000 STR +60 STR +3% VIT +20 VIT +3% INT +35 INT +1% Fire Res 10% Light Res 10%  48  520G  【225†Turnip】  【226†Pink Turnip】  -  -  -  -
+L598: 【626†Image: RF4Relax Tea Leaves】 【227†Relax Tea Leaves】  [Effects] RP max +50  50  100G  【228†White Grass】  【229†Orange Grass】  【230†Green Grass】  【231†Yellow Grass】  【232†Blue Grass】  【233†Purple Grass】
+L599: 【627†Image: RF4Salad】 【234†Salad】  [Effects] HP +5000 HP +86% RP +1000 STR +70 STR +7% VIT +30 VIT +8% INT +40 INT +4%  67  6900G  【235†Mayonnaise】  【221†Cucumber】  【236†Tomato】  【237†Cabbage】  -  -
+L600: 【628†Image: RF4Turnip Heaven】 【238†Turnip Heaven】  [Effects] HP +5000 HP +90% RP +1000 RP +90% STR +90 STR +10% VIT +80 VIT +15% INT +50 INT +10% Fire Res 20% Light Res 20% Dark Res 20%  96  150000G  【225†Turnip】  【226†Pink Turnip】  【239†Golden Turnip】  -  -  -
+L601: ## Frying Pan[]
+L602: Recipe  Effects  Level  Price  Ingredients
+L603: 【629†Image: BakedApple】 【240†Baked Apple】 [Effects] HP +550 HP max +10 STR +1 VIT +1 INT +1 9 175G  【241†Apple】  -  -  -  -  -
+L604: 【630†Image: FriedEggs】 【242†Fried Eggs】 [Effects] HP +2360 HP max +50 STR +5 VIT +5 INT +5 20 335G 【219†Egg (S)】 【201†(M)】 【220†(L)】 - - - - -
+L605: 【631†Image: FrenchFries】 【243†French Fries】 [Effects] HP +3160 HP max +80 STR +7 VIT +7 INT +7 24 614G 【244†Oil】 【245†Potato】 - - - -
+L606: 【632†Image: Omelet】 【246†Omelet】 [Effects] HP +3800 HP max +100 STR +10 VIT +10 INT +10 28 820G 【215†Milk (S)】 【199†(M)】 【216†(L)】 【219†Egg (S)】 【201†(M)】 【220†(L)】 - - - -
+L607: 【633†Image: FriedRice】 【247†Fried Rice】 [Effects] HP +4120 HP max +150 STR +12 VIT +12 INT +12 30 1080G 【203†Rice】 【244†Oil】 【219†Egg (S)】 【201†(M)】 【220†(L)】 - - -
+L608: 【634†Image: MisoEggplant】 【248†Miso Eggplant】 [Effects] HP +4200 HP max +180 STR +13 VIT +13 INT +13 31 375G 【635†Image: RF4Eggplant】 【249†Eggplant】 - - - - -
+L609: 【636†Image: FrenchToast】 【250†French Toast】 [Effects] HP +4280 HP max +200 STR +15 VIT +15 INT +15 31 670G 【218†Bread】 【219†Egg (S)】 【201†(M)】 【220†(L)】 - - - -
+L610: 【637†Image: Croquettes】 【251†Croquettes】 [Effects] HP +4600 HP max +250 STR +17 VIT +17 INT +17 33 1300G 【244†Oil】 【245†Potato】 【219†Egg (S)】 【201†(M)】 【220†(L)】 - - -
+L611: 【638†Image: Tempura】 【252†Tempura】 [Effects] HP +5160 HP max +270 STR +20 STR +20 INT +20 36 1820G 【244†Oil】 【253†Flour】 【254†Shrimp】 【219†Egg (S)】 【201†(M)】 【220†(L)】 - -
+L612: 【639†Image: Donut】 【255†Donut】 [Effects] HP +6640 HP max +300 STR +26 VIT +26 INT +26 46 2450G 【244†Oil】 【253†Flour】 【256†Butter】 【201†Egg (M)】 - -
+L613: 【640†Image: Risotto】 【257†Risotto】 [Effects] HP +6680 HP max +400 STR +30 VIT +30 INT +30 48 2300G 【203†Rice】 【258†Wine】 【256†Butter】 - - -
+L614: 【641†Image: Pancakes】 【259†Pancakes】 [Effects] HP +5000 RP +1840 HP max +500 STR +35 VIT +35 INT +35 49 3120G 【253†Flour】 【260†Honey】 【215†Milk (S)】 【199†(M)】 【216†(L)】 【219†Egg (S)】 【201†(M)】 【220†(L)】 - -
+L615: 【642†Image: Popcorn】 【261†Popcorn】 [Effects] HP +5000 HP +14% RP +1000 HP max +600 STR +40 VIT +40 INT +40 51 1800G 【643†Image: RF4Corn】 【262†Corn】 - - - - -
+L616: 【644†Image: CornCereal】 【263†Corn Cereal】 [Effects] HP +5000 HP +29% RP +1000 HP max +800 STR +50 VIT +50 INT +50 53 2800G 【264†Corn】 【215†Milk (S)】 【199†(M)】 【216†(L)】 - - - -
+L617: 【645†Image: CurryBread】 【265†Curry Bread】 [Effects] HP +5000 HP +56% RP +1000 HP max +800 HP max +1% STR +50 STR +1% VIT +50 VIT +1% INT +50 INT +1% Fire Res 10% 59 6000G 【244†Oil】 【253†Flour】 【266†Curry Rice】/【267†Dry Curry】 - - -
+L618: 【646†Image: OmeletRice】 【268†Omelet Rice】 [Effects] HP +5000 HP +62% RP +1000 HP max +800 HP max +3% STR +50 STR +2% VIT +50 VIT +2% INT +50 INT +2% 60 5200G 【246†Omelet】 【203†Rice】 【269†Ketchup】 - - -
+L619: 【647†Image: FriedVeggies】 【270†Fried Veggies】 [Effects] HP +5000 HP +71% RP +1000 HP max +800 HP max +3% STR +50 STR +3% VIT +50 VIT +3% INT +50 INT +3% 62 1550G 【648†Image: RF4Cabbage】 【271†Cabbage】 - - - - -
+L620: 【649†Image: CabbageCakes】 【272†Cabbage Cakes】 [Effects] HP +5000 HP +77% RP +1000 HP max +800 HP max +4% STR +50 STR +4% VIT +50 VIT +4% INT +50 INT +4% 64 6000G 【253†Flour】 【237†Cabbage】 【219†Egg (S)】 【201†(M)】 【220†(L)】 【273†Leek】 - -
+L621: 【650†Image: DryCurry】 【267†Dry Curry】 [Effects] HP +5000 HP +100% RP +1000 RP +43% HP max +800 HP max +5% STR +50 STR +5% VIT +50 VIT +5% INT +50 INT +5% Fire Res 15% 86 8600G 【203†Rice】 【274†Curry Powder】 【275†Carrot】 【276†Onion】 - -
+L622: 【651†Image: Gyoza】 【277†Gyoza】 88 9000G 【253†Flour】 【276†Onion】 【237†Cabbage】 - - -
+L623: 【652†Image: FriedUdon】 【278†Fried Udon】 95 12000G 【253†Flour】 【276†Onion】 【275†Carrot】 【237†Cabbage】 - -
+L624: 【653†Image: SaltedPondSmelt】 【279†Salted Pond Smelt】 [Effects] HP +350 RP max +3 INT +1 6 10G 【280†Pond Smelt】 【214†Sour Drop】 - - - -
+L625: 【654†Image: SaltedPike】 【281†Salted Pike】 [Effects] HP +480 RP max +5 INT +2 8 190G 【282†Pike】 【214†Sour Drop】 - - - -
+L626: 【655†Image: SaltedMasuTrout】 【283†Salted Masu Trout】 [Effects] HP +600 RP max +7 INT +3 9 15G 【284†Masu Trout】 【214†Sour Drop】 - - - -
+L627: 【656†Image: SaltedCSalmon】 【285†Salted C. Salmon】 [Effects] HP +780 RP max +8 INT +4 12 18G 【286†Cherry Salmon】 【214†Sour Drop】 - - - -
+L628: 【657†Image: GrilledNeedlefish】 【287†Grilled Needlefish】 [Effects] HP +800 RP max +10 INT +5 12 248G 【288†Needlefish】 【214†Sour Drop】 - - - -
+L629: 【658†Image: GrilledSquid】 【289†Grilled Squid】 [Effects] HP +1080 RP max +15 INT +8 13 250G 【290†Squid】 【214†Sour Drop】 - - - -
+L630: 【659†Image: GrilledCCarp】 【291†Grilled C. Carp】 [Effects] HP +1320 RP max +20 INT +10 14 35G 【292†Crucian Carp】 【214†Sour Drop】 - - - -
+L631: 【660†Image: GrilledSFlounder】 【293†Grilled S. Flounder】 [Effects] HP +1480 RP max +25 INT +12 Psn Atk +1% Par Atk +1% 15 38G 【294†Sand Flounder】 【214†Sour Drop】 - - - -
+L632: 【661†Image: GrilledGirella】 【295†Grilled Girella】 [Effects] HP +1640 RP max +30 INT +15 16 295G 【296†Girella】 【214†Sour Drop】 - - - -
+L633: 【662†Image: GrilledMackerel】 【297†Grilled Mackerel】 [Effects] HP +1720 RP max +35 INT +16 16 60G 【298†Mackerel】 【214†Sour Drop】 - - - -
+L634: 【663†Image: SaltedSalmon】 【212†Salted Salmon】 [Effects] HP +1800 RP max +40 INT +18 17 370G 【299†Salmon】 【214†Sour Drop】 - - - -
+L635: 【664†Image: GrilledShrimp】 【300†Grilled Shrimp】 [Effects] HP +1960 RP max +45 INT +20 18 398G 【254†Shrimp】 【214†Sour Drop】 - - - -
+L636: 【665†Image: SaltedChar】 【301†Salted Char】 [Effects] HP +2200 RP max +50 INT +22 19 260G 【302†Char】 【214†Sour Drop】 - - - -
+L637: 【666†Image: GrilledGibelio】 【303†Grilled Gibelio】 [Effects] HP +2280 RP max +55 INT +23 19 272G 【304†Gibelio】 【214†Sour Drop】 - - - -
+L638: 【667†Image: GrilledTurbot】 【305†Grilled Turbot】 [Effects] HP +648 RP max +60 INT +25 21 648G 【306†Turbot】 【214†Sour Drop】 - - - -
+L639: 【668†Image: SaltedChub】 【307†Salted Chub】 [Effects] HP +3000 RP max +65 INT +28 23 330G 【308†Chub】 【214†Sour Drop】 - - - -
+L640: 【669†Image: DriedSardines】 【309†Dried Sardines】 [Effects] HP +3240 RP max +70 INT +30 24 400G 【310†Sardine】 【310†Sardine】 【310†Sardine】 - - -
+L641: 【670†Image: SaltedRTrout】 【311†Salted R. Trout】 [Effects] Status Ailments: PSN, HP +3640 RP max +80 INT +32 Psn Res 100% Psn Atk 50% 27 390G 【312†Rainbow Trout】 【214†Sour Drop】 - - - -
+L642: 【671†Image: GrilledFlounder】 【313†Grilled Flounder】 [Effects] HP +4360 RP max +90 INT +33 31 420G 【314†Flounder】 【214†Sour Drop】 - - - -
+L643: 【672†Image: GrilledSkipjack】 【315†Grilled Skipjack】 [Effects] HP +5400 RP max +100 INT +35 37 510G 【316†Skipjack】 【214†Sour Drop】 - - - -
+L644: 【673†Image: GrilledLobster】 【317†Grilled Lobster】 [Effects] HP +5880 RP max +105 INT +37 41 1720G 【318†Lobster】 【214†Sour Drop】 - - - -
+L645: 【674†Image: GrilledSnapper】 【319†Grilled Snapper】 [Effects] HP +5000 HP +17% RP +1000 RP max +120 INT +40 51 2680G 【320†Snapper】 【214†Sour Drop】 - - - -
+L646: 【675†Image: LampSquid】 【321†Grilled Lamp Squid】 [Effects] Status Ailments: SEAL, HP +5000 HP +32% RP +1000 RP max +150 INT +45 Seal Res 100% Seal Atk 50% 54 3780G 【322†Lamp Squid】 【214†Sour Drop】 - - - -
+L647: 【676†Image: GrilledFFlounder】 【323†Grilled F. Flounder】 [Effects] HP +5000 HP +53% RP +1000 RP max +180 INT +50 58 4850G 【324†Fall Flounder】 【214†Sour Drop】 - - - -
+L648: 【677†Image: GrilledLSnapper】 【325†Grilled L. Snapper】 [Effects] HP +5000 HP +83% RP +1000 RP max +200 RP max +2% INT +60 INT +1% 66 7100G 【326†Throbby Snapper】 【214†Sour Drop】 - - - -
+L649: 【678†Image: GrilledYellowtail】 【327†Grilled Yellowtail】 [Effects] HP +5000 HP +92% RP +1000 RP max +200 RP max +3% INT +70 INT +2% 69 8600G 【328†Yellowtail】 【214†Sour Drop】 - - - -
+L650: 【679†Image: GrilledBlowfish】 【329†Grilled Blowfish】 [Effects] Status Ailment: PAR, HP +5000 HP +100% RP +1000 RP +1% RP max +200 RP max +5% INT +80 INT +3% Par Res 100% Par Atk 50% 72 7800G 【330†Blowfish】 【214†Sour Drop】 - - - -
+L651: 【680†Image: TunaTeriyaki】 【331†Tuna Teriyaki】 [Effects] HP +5000 HP +100% RP +1000 RP +10% RP max +200 RP max +6% INT +90 INT +5% 75 11000G 【332†Tuna】 【214†Sour Drop】 - - - -
+L652: 【681†Image: GrilledSunsquid】 【333†Grilled Sunsquid】 78 15800G 【334†Sunsquid】 【214†Sour Drop】 - - - -
+L653: 【682†Image: SaltedTaimen】 【335†Salted Taimen】 [Effects] HP +5000 HP +100% RP +1000 RP +25% RP max +200 RP max +10% INT +100 INT +8% 80 16000G 【336†Taimen】 【214†Sour Drop】 - - - -
+L654: 【683†Image: GrilledGSnapper】 【337†Grilled G. Snapper】 [Effects] HP +5000 HP +100% RP +1000 RP +64% RP max +200 RP max +12% INT +100 INT +10% Light Res 50% 93 30500G 【338†Glitter Snapper】 【214†Sour Drop】 - - - -
+L655: ## Pot[]
+L656: Recipe  Effects  Level  Price  Ingredients
+L657: 【684†Image: BoiledSpinach】 【339†Boiled Spinach】 [Effects] HP +800 RP +360 HP max +300 13 95G  【685†Image: RF4Spinach】 【340†Spinach】  -  -  -  -  -
+L658: 【686†Image: BoiledEgg】 【341†Boiled Egg】 [Effects] HP +1500 RP +540 HP max +500 18 330G  【219†Egg (S)】 【201†(M)】 【220†(L)】 - - - - -
+L659: 【687†Image: Yogurt】 【342†Yogurt】 [Effects] RP +50 19 800G  【343†Sweet Powder】 【215†Milk (S)】 【199†(M)】 【216†(L)】 - - - -
+L660: 【688†Image: GlazedYam】 【344†Glazed Yam】 [Effects] HP +3000 RP +720 HP max +1200 28 560G  【343†Sweet Powder】 【345†Yam】 - - - -
+L661: 【689†Image: GrilledMiso】 【346†Grilled Miso】 [Effects] HP +3000 RP +880 HP max +1500 29 660G  【690†Image: RF4Radish】 【347†Radish】 - - - - -
+L662: 【691†Image: Marmalade】 【348†Marmalade】 [Effects] HP +30 RP +10 5 90G  【349†Orange】 - - - - -
+L663: 【692†Image: GrapeJam】 【350†Grape Jam】 [Effects] HP +30 RP +10 9 135G  【351†Grapes】 - - - - -
+L664: 【693†Image: AppleJam】 【352†Apple Jam】 [Effects] HP +30 RP +10 10 170G  【241†Apple】 - - - - -
+L665: 【694†Image: StrawberryJam】 【353†Strawberry Jam】 [Effects] HP +30 RP +10 27 215G  【695†Image: RF4Strawberry】 【354†Strawberry】 - - - - -
+L666: 【696†Image: HotChocolate】 【355†Hot Chocolate】 [Effects] HP +150 RP +500 RP max +50 11 175G  【356†Chocolate】 - - - - -
+L667: 【697†Image: HotMilk】 【357†Hot Milk】 [Effects] HP +880 RP +1000 RP max +80 RP max +5% 17 308G  【215†Milk (S)】 【199†(M)】 【216†(L)】 - - - - -
+L668: 【698†Image: GrapeLiqueur】 【358†Grape Liqueur】 [Effects] Status Ailments: SLP, HP +3640 RP +2000 RP max +120 RP max +10% Crit +15% Crt Res -25% 39 1470G  【351†Grapes】 【258†Wine】 - - - -
+L669: 【699†Image: RelaxTea】 【359†Relax Tea】 [Effects] Heal: PSN SEAL PAR FTG, HP +5000 HP max +100% RP +4% RP max +250 RP max +25% 73 10000G  【227†Relax Tea Leaves】 【260†Honey】 【360†Pink Melon】 【273†Leek】 - -
+L670: 【700†Image: BoiledPumpkin】 【361†Boiled Pumpkin】 [Effects] HP +2500 RP +820 HP max +1000 25 180G  【701†Image: RF4Pumpkin】 【362†Pumpkin】 - - - - -
+L671: 【702†Image: RockfishStew】 【363†Rockfish Stew】 [Effects] HP +5480 RP +800 HP max +1000 RP max +50 INT +28 45 1360G  【364†Rockfish】 - - - - -
+L672: 【703†Image: Udon】 【365†Udon】 [Effects] HP +300 RP +100 HP max +150 Earth Res 5% 7 145G  【253†Flour】 - - - - -
+L673: 【704†Image: CurryUdon】 【366†Curry Udon】 [Effects] HP +5000 HP +41% RP +1000 HP max +2500 Earth Res 15% 56 5000G  【253†Flour】 【266†Curry Rice】/【267†Dry Curry】 - - - -
+L674: 【705†Image: TempuraUdon】 【367†Tempura Udon】 [Effects] HP +5000 HP +35% RP +1000 HP max +2000 Earth Res 10% 54 3500G  【252†Tempura】 【365†Udon】 - - - -
+L675: 【706†Image: RicePorridge】 【368†Rice Porridge】 [Effects] HP +100 RP +150 RP max +10 Sick Res 20% 2 57G  【203†Rice】 - - - - -
+L676: 【707†Image: MilkPorridge】 【369†Milk Porridge】 [Effects] HP +1440 RP +1000 RP max +100 Sick Res 80% 20 464G  【203†Rice】 【215†Milk (S)】 【199†(M)】 【216†(L)】 - - - -
+L677: 【708†Image: TempuraBowl】 【370†Tempura Bowl】 [Effects] HP +5000 HP +95% RP +1000 HP max +2500 HP max +5% 70 3500G  【203†Rice】 【252†Tempura】 - - - -
+L678: 【709†Image: EggBowl】 【371†Egg Bowl】 [Effects] HP +2070 RP +760 HP max +800 21 492G  【203†Rice】 【219†Egg (S)】 【201†(M)】 【220†(L)】 - - - -
+L679: 【710†Image: CheeseFondue】 【372†Cheese Fondue】 [Effects] HP +3640 RP +800 HP max +1800 32 1025G  【218†Bread】 【213†Cheese】 - - - -
+L680: 【711†Image: Stew】 【198†Stew】 [Effects] HP +5000 HP +100% RP +1000 RP +46% HP max +2500 HP max +8% 87 12000G  【253†Flour】 【199†Milk (M)】 【245†Potato】 【275†Carrot】 【276†Onion】 -
+L681: 【712†Image: CurryRice】 【266†Curry Rice】 [Effects] HP +5000 HP +38% RP +1000 HP max +2000 Fire Res 10% 55 2400G  【203†Rice】 【274†Curry Powder】 【275†Carrot】 【245†Potato】 - -
+L682: 【713†Image: UltimateCurry】 【373†Ultimate Curry】 97 250000G  【274†Curry Powder】 【258†Wine】 【374†Devil Blood】 【375†Heavy Spice】 【276†Onion】 【239†Golden Turnip】
+L683: 【714†Image: RoyalCurry】 【376†Royal Curry】 98 500000G  【274†Curry Powder】 【241†Apple】 【260†Honey】 【377†Mixed Herbs】 【276†Onion】 【378†Emery Flower】
+L684: 【715†Image: BoiledGyoza】 【379†Boiled Gyoza】 89 9000G  【253†Flour】 【276†Onion】 【237†Cabbage】 - - -
+L685: 【716†Image: UnionStew】 【380†Union Stew】 94 15000G  【381†Radish】 【273†Leek】 【382†Bok Choy】 【383†Mushroom】 【384†Hot-Hot Fruit】 -
+L686: ## Steamer[]
+L687: Recipe  Effects  Levels  Price  Ingredients
+L688: 【717†Image: Dumplings】 【385†Dumplings】 [Effects] HP +200 RP +50 Slp Res 70% 2 45G  【386†Rice Flour】  -  -  -  -  -
+

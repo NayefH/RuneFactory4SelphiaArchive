@@ -1,0 +1,229 @@
+Shipping List (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Shipping_List_%28RF4%29)
+citeturn32view0 [wordlim: 200] Crawled: last year; Content type: text/html; Source: open({"ref_id":"turn31view0","lineno":850}); Redirected to URL: https://therunefactory.fandom.com/wiki/Shipping_List_(RF4); Total lines: 1988
+L762: 【606†Image】 Orange Tree Seed  5000G  500G  Doesn't grow well in winter. Once it grows into a tree, it will produce orances every day.
+L763: 【607†Image】 Grape Tree Seeds  6000G  600G  Doesn't grow well in winter. Once it grows into a tree, it will produce grapes every day.
+L764: 【608†Image】 Twinkle Seed  3000G  300G  Doesn't grow well in winter. Produces a lot of lumber. May produce ore.
+L765: 【609†Image】
+L766: Dungeon Seed
+L767: 
+L768: 5000G  500G  Grows into a dungeon. Depending on the level of the seed, it may bloom into a particularly difficult one.
+L769: 【610†Image】 Sword Seed  1500G  150G  Grows into a sword. Neat, huh?
+L770: 【611†Image】 Shield Seed  1500G  150G  Grows into a shield. Cool, right?
+L771: ## Medicine[]
+L772: Medicine
+L773: Name  Sell  Buy  Description
+L774: 【612†Image】 【239†The Protein】  1500G  2000000G  A specially made medicine. Increases maximum strength. Get fit, brah.
+L775: 【613†Image】 【240†Intelligencer】  1500G  2000000G  A specially made medicine. Increases maximum intelligence.
+L776: 【614†Image】 【241†Vital Gummi】  1500G  2000000G  A specially made medicine. Increases maximum vitality.
+L777: 【615†Image】 【242†Heart Drink】  1300G  1500000G  A specially made medicine. Increases maximum HP.
+L778: 【616†Image】 【243†Antidote Potion】  150G  1200G  Easier to take than herbs. Used for curing poison.
+L779: 【617†Image】 【244†Para-Gone】  80G  900G  Medicine that cures paralysis.
+L780: 【618†Image】 【245†Roundoff】  60G  800G  Medicine that dissolves seals.
+L781: 【619†Image】 【246†Cold Medicine】  110G  1000G  Caught a cold? Nine out of ten doctors agree this medicine will cure it. And the tenth one is a quack.
+L782: 【620†Image】 【247†Formuade】  2500G  20000G  RP+75% HP max -50% STR +70 VIT +70 INT +70 Crit +20% Psn Res 25% Seal Res 25% Par Res 25% Slp Res 25% Ftg Res 25% Sick Res 25%Faint Res 25%
+L783: Medicine made from fertilizer. Tastes awful, but whatever doesn't kill you can only make you stronger, right?
+L784: 【621†Image】 【248†Love Potion】  500G  3000000G
+L785: 【622†Image】 【249†Invinciroid】  5000G  1120000G
+L786: 【623†Image】 【250†Leveliser】  3000G  5000000G  A medicine made from a hodge-podge of things. Heats your body and increases your level.
+L787: 【624†Image】 【251†Recovery Potion】  15G  80G  A light green-colored medicinal drink. Recovers HP.
+L788: 【625†Image】 【252†Healing Potion】  120G  500G  A deep green-colored medicinal drink. Recovers HP.
+L789: 【626†Image】 【253†Mystery Potion】  200G  1500G  A blue-colored medicinal drink. Recovers HP.
+L790: 【627†Image】 【254†Magical Potion】  2000G  5000G  One of the greatest achievements of magic medical science. Was only possible through the greatest of efforts.
+L791: 【628†Image】 【255†Object X】  2G  150G  A substance created from a failed Synthesis. How did it happen? Who knows, but it's not for eating. Seriously.
+L792: Nutrient
+L793: 【629†Image】 【256†Wettable Powder】  150G  2000G  Sprinkle on soil to make plants stronger against typhoons and snowstorms.
+L794: 【630†Image】 【257†Greenifier】  80g  3000G  An item used to raise soil quality. Improves soil's ability to grow higher-level crops.
+L795: 【631†Image】 【258†Greenifier+】  800G  12000G  An item used to raise soil quality. Improves soil's ability to grow higher-level crops.
+L796: 【632†Image】 【259†Formula A】  30G  1200G  Sprinkle on soil to grow crops faster. It's somewhat effective.
+L797: 【633†Image】 【260†Formula B】  240G  3600G  Sprinkle on soil to grow crops faster. It's pretty effective.
+L798: 【634†Image】 【261†Formula C】  500G  9800G  Sprinkle on soil to grow crops faster. It's super effective!
+L799: 【635†Image】 【262†No Rot α】  50G  2000G  Sprinkle on soil to prevent plants from wilting.
+L800: 【636†Image】 【263†No Rot ß】  480G  8000G  Sprinkle on soil to prevent plants from wilting. It's more effective than the α version.
+L801: 【637†Image】 【264†Giantizer】  300G  12000G  Sprinkle on soil to grow gargantuan produce.
+L802: 【638†Image】 【265†Minimizer】  300G  12000G  Sprinkle on soil to grow smaller plants. Also makes soil healthier.
+L803: ## Weapons[]
+L804: ### Fists[]
+L805: Gloves
+L806: Name Buy Sell Description
+L807: 【639†Image】 Leather Gloves  290G  13G  They're for protecting your fists rather than attacking. Since there are holes for fingers, it's easy to grab monsters.
+L808: 【640†Image】 Brass Knuckles  4660G  130G  A lethal weapon mainly used by Goblin gangs.
+L809: 【641†Image】 Kote  10150G  139G  A weapon that can be used as armor.
+L810: 【642†Image】 Bear Claws  35700G  580G  A weapon that looks like the claws of a bear.
+L811: 【643†Image】 Fists of Fire  86000G  1030G  Burning iron gauntlets. We all are friends after a fight!
+L812: 【644†Image】 Fists of Water  98000G  2300G  Cold iron gauntlets. They can deliver merciless blows.
+L813: 【645†Image】 Fist of Wind  999999G  2000G  Sharp iron gauntlets. It's important to draw your punches quickly for maximum effect.
+L814: 【646†Image】 Fists of the Earth  64000G  1020G  Heavy iron gauntlets. They make you feel powerful and grounded.
+L815: 【647†Image】 Fists of Light  N/A  9000G  Shiny iron gauntlets. So bright they make you want sunglasses.
+L816: 【648†Image】 Fists of Dark  429500G  1580G  Evil iron gauntlets. This is the power gained by giving your heart to the dark side.
+L817: 【649†Image】 Gloves  21500G  380G  These are for protecting your fists. Pretty basic, really.
+L818: 【650†Image】 Cat Punch  N/A  7500G  A weapon in the shape of a cat's paws. Although it looks soft, the claw parts seriously hurts.
+L819: 【651†Image】 Dragon Claws  126000G  2350G  A weapon made from dragon claws. Can even cut steel.
+L820: 【652†Image】 Animal Puppets  N/A  14000G  A useful tool to have when performing a skit alone, but as a weapon...
+L821: 【653†Image】 Ironleaf Fists  N/A  11000G  Hurts, of course. Be careful not to stab yourself instead.
+L822: 【654†Image】 Golem Punch  N/A  18000G  Learning the way of the Golem's punch. It's sad that they don't fly off.
+L823: 【655†Image】 Hand of God  N/A  40000G  A.k.a. God hand.
+L824: 【656†Image】 Caestus  N/A  12500G  It's said that ancient boxers used them.
+L825: 【657†Image】 Bazal Katar  N/A  60000G  a foreign weapon that looks like a sword. Actually, it's called a jamadhar.
+L826: 【658†Image】 Fenrir  N/A  100000G  A weapon shaped in the shape of a wolf-like monster that can swallow gods.
+L827: ### Short Sword[]
+L828: Short Sword
+L829: Name Buy Sell Description
+L830: 【659†Image】 Broadsword  90G  23G  A light, easy-to-use sword. Recommended for beginners. Some even use it for cooking.
+L831: 【660†Image】 Steel Sword  1210G  42G  A short sword forged from steel. Has a longer than average blade that gives you an extended reach.
+L832: 【661†Image】 Wind Sword  104475G  2400G  A sword imbued with the magic power of wind. Each swing spawns a miniature gale.
+L833: 【662†Image】 Aqua Sword  11800G  780G  A sword imbued with the magic power of water. Its blade is always wet.
+L834: 【663†Image】 Defender  26800G  640G  A sword designed to be used with a shield. Raises resistance toward incoming attacks and knockouts.
+L835: 【664†Image】 Aerial Blade  N/A  5600G  A sword imbued with the magic power of wind. Its magical power makes it lighter than other swords.
+L836: 【665†Image】 Burning Sword  35500G  800G  A sword with a fiery blade. One touch and you'll be burned.
+L837: 【666†Image】 Sakura  155400G  2320G  A cursed red sword. Though it has a beautiful name, its edge is coated with poison.
+L838: 【667†Image】 Luck Blade  77777G  950G  A sword that brings fortune to its wielder. You should totally buy a lottery ticket!
+L839: 【668†Image】 Platinum Sword  95730G  2100g
+L840: A sword made form fine platinum. Highly durable. Makes its bearer more popular just havin- Hey, what are you doing later tonight?
+L841: 【669†Image】 Raventine  N/A  12500G  A short sword with high heat. According to legend, it's said to have once turned a lake into a hot spring.
+L842: 【670†Image】 Icifier  N/A  8500G  The chill from this sword freezes water in the air. Perfect for making shaved ice.
+L843: 【671†Image】 Soul Eater  N/A  11000G  a magical sword that eats souls. It has the power to take away an enemy's life.
+L844: 【672†Image】 Smash Blade  N/A  7000G  A sword designed to target foe's vital points, no matter what style of form you use.
+L845: 【673†Image】 Dragon Slayer  N/A  23000G  A sword in the shape of three dragon heads. the three often fight over who's the best.
+L846: 【674†Image】 Sunspot  308900G  3600G  A sword as hot as the sun. Some say it's so hot that it turns everything it strikes to ash.
+L847: 【675†Image】 Star Sabre  N/A  9500G  A short sword with a swing as beautiful as a shooting star. Just swing it, and bam, you're a superstar!
+L848: 【676†Image】 Gaia Sword  59200G  1000G  A sword imbued wiht the magic power of earth. Because it's made from very hard material, it won't chip easily.
+L849: 【677†Image】 Grantale  N/A  5400G  A sword imbued with the magic power of earth. Very tough, and guaranteed not to break or your money back!
+L850: 【678†Image】 Chaos Blade  125105G  3500G  Companion to the Chaos Shield. Chooses its bearer with its magical power.
+L851: 【679†Image】 Rune Blade  N/A  50000G  A treasured sword with rune power. The light beaming from it casts no shadow.
+L852: 【680†Image】 Steel Sword+  3320G  70G  A strengthened version of the Steel Sword. Born anew with freshly-colored blades.
+L853: 【681†Image】 Platinum Sword+  N/A  8700G  A strengthened version of the Platinum Sword. Radiates light from its upgraded platinum.
+L854: 【682†Image】 Cutlass  6380G  138G  An old sword that belonged to pirates. Sailors carry them as charms.
+L855: 【683†Image】 Back Scratcher  800G  90G  A sword (?) used to scratch itchy backs. Maybe your foes will freak out when they see it?
+L856: 【684†Image】 Durendal  999999G  4800G  A sword with a shining blade. You can attack your foes while they're captivated by its radiant beauty.
+L857: 【685†Image】 Gladius  N/A  58000G  A short sword forged through years of disciplined smithing. Like, real sharp and stuff.
+L858: 【686†Image】 Gorgeous Sword  100000G  2400G  A gorgeous and dazzling sword which shines with an elegance like that of freshly-fallen snow.
+L859: 【687†Image】 Spoon  7800G  750G  A magic sword that somehow makes people want to eat pudding.
+L860: 【688†Image】 Rune Legend  N/A  120000G  Swordsmen call this a legendary short sword. The runes imbued on its blade shine majestically.
+L861: 【689†Image】 Snakesword  75400G  780G  A sword made by connecting small bits of metal into one whip-like blade. Long-ranged and hard to avoid.
+L862: 【690†Image】 Veggieblade  6250G  500G  A vegetable used as a sword. I wonder how much damage it can cause...
+L863: 【691†Image】 Invisiblade  18320G  800G  Can you see the true blade?
+L864: 【692†Image】 Plant Sword  N/A  1000G  A sword made from a plant. The more passionately you tend it, the bigger it grows and the stronger it becomes.
+L865: ### Long Sword[]
+L866: Long Sword
+L867: Name Buy Sell Description
+L868: 【693†Image】 Claymore  160G  23G  A long sword that's easy to swing. Has a fun ring on it that you can play with. (But don't try it at home!)
+L869: 【694†Image】 Zweihaender  1675G  41G  A large two-handed sword. Not much else to say -- it's very straight-forward and to the point, if you know what I mean.
+L870: 【695†Image】 Flame Saber  89800G  1200G  A sword imbued with the magic power of fire. A single swing will make you drip with sweat. Kind of icky to use, really.
+L871: 【696†Image】 Cyclone Blade  24000G  1000G  A sword imbued with the magic power of wind. Its thin bllade has small holes in it to allow for air to pass through.
+L872: 【697†Image】 Dancing Dicer  157200G  4400G  A weapon brought from the Far East.With its sharp edges, you can sometimes cut down foes in a single blow.
+L873: 【698†Image】 Great Sword  9700G  200G  A long sword designed to never dull or need sharpening. Balandced and easy to hold.
+L874: 【699†Image】 Heaven Asunder  N/A  58000G  A legendary sword with a sharp blade that can pierce clouds. High chance of knocking down foes in a single blow.
+L875: 【700†Image】 Grand Smasher  N/A  3480G  A long sword with spiky edges. Imbued with earth power, its spikes are designed to look like mountains.
+L876: 【701†Image】 Blue-Eyed Blade  N/A  14800G  Makes its bearer's eyes shine blue, and grants the power to see an opponent's skill. Increases critical chance.
+L877: 【702†Image】 Poison Blade  32300G  1050G  A longsword with a poison-covered blade. So dangerous that even a small scratch can kill you.
+L878: 【703†Image】 Steel Slicer  N/A  12000G  Supposedly can cut through anything -- thus the name.
+L879: 【704†Image】 Flamberge  187900G  5800G  A sword with a uniquely shaped blade. So beautiful, it's often used in ceremonies.
+L880: 【705†Image】 Shine Blade  N/A  8000G  A sword with a high-heat blade and an ice-cold tip. Even evil hearts are soothed by its shiny glow.
+L881: 【706†Image】 Earth Shade  62050G  1400G  A sword blessed by mother nature. Has an interesting design that looks kind of like a fault line.
+L882: 【707†Image】 Bio Smasher  105000G  2700G  A poisoned long sword with jagged edges. Designed to spread poison thoroughly.
+L883: 【708†Image】 Punisher  N/A  5400G  a long sword with a wide blade. Hurts worse than an atomic wedgie.
+L884: 【709†Image】 Sea Cutter  14600G  550G  A sword that can supposedly divide the sea. Listen closely and you'll hear the sound of ocean waves.
+L885: 【710†Image】 Volcanon  720000G  2400G  A sword imbued with fire. Beams out strong light. So hot, it raises the room temperature by 10 degrees.
+L886: 【711†Image】 Snow Crown  130500G  3000G  A long sword imbued with water power. When plunged into snow, not a single flake will melt.
+L887: 【712†Image】 Moon Shadow  N/A  9500G  A weapon from the Far East. Appears as naught but a shadow under cover of night. Can take down foes in a single blow.
+L888: 【713†Image】 Force Element  N/A  47200G  A lighted long sword. Contains strong elemental power, making it hard to use.
+L889: 【714†Image】 Zweihaender+  4450G  160G  Zweihaender strengthened with special power. Hurts worse than a wedgie.
+L890: 【715†Image】 Flamberge+  439500G  7300G  Flamberge strengthened with magic power. Its thin blade makes it easy to use.
+L891: 【716†Image】 Katzbalger  50080G  1100G  A smartly-designed sword with a aerodynamic shape that makes it easy to swing.
+L892: 【717†Image】 Big Knife  78600G  800G  A knife with a large blade. So large, in fact, that one cannot easily cut apples with it. Unless they're REALLY BIG.
+L893: 【718†Image】 Katana  87600G  980G  A weapon from the Far East. Beautiful, strong and sharp. In rare cases, you may knock down foes with a single blow.
+L894: 【719†Image】 Balmung  N/A  21200G  A long sword with sleek lines. Though it's big, it's designed to be aerodynamic and easy to handle.
+L895: 【720†Image】 Psycho  999999G  2469G  A uniquely-shaped long sword. Its three blades have assorted curses on them, inflicting numerous status ailments.
+L896: 【721†Image】 Dekash  26000G  7200G  Smells like fish, so it tends to attract cats.
+L897: 【722†Image】 Braveheart  N/A  36020G  A rare long sword with a glittering blade. Its bearer's courage gives it strength.
+L898: 【723†Image】 Belzebuth  N/A  4450G  Short-ranged, but has magical power strong enough to steal an enemy's life. High chance of landing critical hits.
+L899: 【724†Image】 Daicone  4800G  450G  A daikon radish so large and strong that it became a viable weapon. It dreamed big.
+L900: 【725†Image】 Caliburn  N/A  150000G  a legendary calorie-burning sword. Few believe it exists. but here it is!
+L901: 【726†Image】 Orochi  N/A  4500G  A sword separated into several parts, making it easy to wrap around foes. Capable of hitting far away enemies.
+L902: ### Spear[]
+L903: Spear
+L904: Name Buy Sell Description
+L905: 【727†Image】 Spear  200G  23G  A very simple spear, good for beginners. So simple that it's often used as a skewer for food.
+L906: 【728†Image】 Lance  1700G  34G  Has a unique triangular shape. Said to have been used in a war fought by an ancient empire.
+L907: 【729†Image】 Needle Spear  9600G  225G  A spear with a long blade. Has many uses and a high rate of owner satisfaction. A+++ would wield again!
+L908: 【730†Image】 Halberd  35000G  600G  A spear used for various purposes -- though most involve stabbing and cutting, as you might imagine.
+L909: 【731†Image】 Water Spear  24250G  585G  A Spear imbued with the magic power of water. It's always wet. Be careful not to let it slip out of your hands!
+L910: 【732†Image】 Blood Lance  186700G  3500G  A cursed spear. Its two blades remind you of a warlock.
+L911: 【733†Image】 Wood Staff  1220G  12G  A hard, wooden club. It might hurt more to hit with it than to stab with it.
+L912: 【734†Image】 Poison Spear  75200G  900G  A poisoned spear. Has a wide blade, making it easy to spread poison.
+L913: 【735†Image】 Corsesca  58800G  750G  A spear with a wide blade. Its shape was decided after many experiments trying to forge a high-accuracy blade.
+L914: 【736†Image】 Silent Grave  N/A  9800G  A spear with a removable knife-like blade at its tip. Has a sealing effect on enemies.
+L915: 【737†Image】 Flare Lance  999999G  4900G  A spear that lets out high heat. The closer to the tip, the hotter it gets. Perhaps it can cure back pain.
+L916: 【738†Image】 Heavy Lance  96800G  2400G  A lance designed with a focus on attack power only, to the detriment of everything else. Heavy and hard to wield.
+L917: 【739†Image】 Iceberg  155480G  4400G  A spear imbued with water power. Designed to work even underwater, Stab the fish, and you won't need a rod!
+L918: 【740†Image】 Metus  N/A  8888G  A spear shaped to dig holes. Those who are struck by it have little hope of survival, thanks to its hidden might.
+L919: 【741†Image】 Monk Staff  N/A  6500G  A nicely decorated stick with adjustable length.
+L920: 【742†Image】 Overbreak  N/A  10000G  A spear with a huge blade. Every swing makes the enemy flinch. Maybe swinging will be enough!
+L921: 【743†Image】 Brionac  N/A  7300G  A spear so strong that it can penetrate anything. According to legend, it made a hole in the mountains with one stab!
+L922: 【744†Image】 Feather Lance  124710G  2900G  A spear imbued with the magic power of Wind. Lift it up to the sky and it will pierce the heavens.
+L923: 【745†Image】 Belvarose  N/A  15000G  Spear with spikes at the end. Requires skill to use, but as you grow accustomed to it, you can easily land knockouts.
+L924: 【746†Image】 Bjor  N/A  24000G  A spear drenched in all available poisons. Has various effects.
+L925: 【747†Image】 Gungnir  N/A  72000G  A legendary spear that can blow away storms. Its wind speed is so fast, though, that the bearer is equally at risk.
+L926: 【748†Image】 Lance+  4580G  160G  Lance strengthened by magical power. From tip to handle, it sparkles gorgeously in gold.
+L927: 【749†Image】 Corsesca+  60400G  1050G  Corsesca strengthened by magical power. At half it's original weight, it's very easy to wield.
+L928: 【750†Image】 Trident  18800G  400G  A three-pronged spear. Some lose their memory in shock when stabbed with it.
+L929: 【751†Image】 Pitchfork  1500G  200G  Origin of kitchen forks. Bit big for cake, though. And spaghetti? Fahgeddabouddit!
+L930: 【752†Image】 Dragon's Fang  N/A  40000G  A spear as sharp as a dragon fang. The blade vibrates faster as danger approaches.
+L931: 【753†Image】 Gáe Bolg  N/A  42000G  A fierce spear with a trident-like shape. Every stab hurts.
+L932: 【754†Image】 Magical Lance  428888G  2500G  A lance with magical power so strong that its entire form changes in color rapidly.
+L933: 【755†Image】 Safety Lance  600G  80G  A lance with its tip covered in cotton and cloth. Still hurts, though. We can stab if we want to!
+L934: 【756†Image】 Legion  N/A  105000G  A lance with blades orbiting it. Foes can try to dodge, but these phantom blades ensure they won't make it very far.
+L935: 【757†Image】 Poison Queen  N/A  9980G  A lance drenched in poisons from around the world. Handle with care, or you, too, may be poisoned.
+L936: 【758†Image】 Pine Club  29800G  2000G  A lance that resembles a pineapple. Its surface stings. The creator of this lance must have been very...unique.
+L937: 【759†Image】 Fivestaff  82800G  1150G  A long-ranged lance that seems almost as if it were made of blades, from tip to handle, Can also be swung.
+L938: ### Hammer[]
+L939: Hammer
+L940: Name Buy Sell Description
+L941: 【760†Image】 Battle Hammer  340G  42G  A hammer well-suited to blowing foes away -- or at least knocking them out.
+L942: 【761†Image】 War Hammer  6120G  135G  A hammer much heavier than it looks. Be careful when swinging it -- it bites back!
+L943: 【762†Image】 Great Hammer  22400G  400G  A hammer designed to eliminate shock when used. Very nicely balanced.
+L944: 【763†Image】 Schnabel  N/A  11800G  A hammer designed to be small and light. Has good overall balance.
+L945: 【764†Image】 Gigant Hammer  134980G  2800G  A large hammer. be careful not to hit yourself!
+L946: 【765†Image】 Mjolnir  N/A  68000G  A hammer imbued with earth power. It's said to cause earthquakes if three of them hit the ground at once.
+L947: 【766†Image】 Spiked Hammer  999999G  6100G  A hammer outfitted with spikes. Can easily score critical hits, hammer or no.
+L948: 【767†Image】 Flame Hammer  100000G  1550G  A hammer with fire power on one side. The flame helps enhance its damage output.
+L949: 【768†Image】 Ice Hammer  36450G  780G  A hammer made of ice. Good for smashing things on a hot day. Refreshing!
+L950: 【769†Image】 Sky Hammer  156100G  2900G  A hammer with wings. Very light and easy to use.
+L951: 【770†Image】 Graviton Hammer  840000G  3800G  A hammer imbued with earth power. Designed not to hurt your hands during attack.
+L952: 【771†Image】 Bone Hammer  78800G  820G  A light but strong hammer made from bones.
+L953: 【772†Image】 Crystal Hammer  N/A  11000G  A hammer imbued with water power. Its hard head and spikes cause major damage.
+L954: 【773†Image】 War Hammer+  9020G  245G  War Hammer imbued with magical power. Causes less strain on the back.
+L955: 【774†Image】 Gigant Hammer+  N/A  22000G  Gigant Hammer imbued with magical power. Originally owned by high-ranking giants. Has engravings of their names.
+L956: 【775†Image】 Hammer  580G  38G  Farming hammer given a quickie reforge for battle-readiness. Tougher than it looks.
+L957: 【776†Image】 Toy Hammer  230G  24G  Anyone hit by this hammer must pretend that it really hurts. It's the law! Raises chance of knockouts.
+L958: 【777†Image】 Fatal Crush  N/A  A hammer way beyond standard size. Long-ranged, and has a high chance of landing critical hits.
+L959: 【778†Image】 Strong Stone  92080G  990G  Large chunks of metal are connected to its head. High in attack due to its heavy weight.
+L960: 【779†Image】 Kongo  N/A  25800G  Made by fusing together chunks of metal. Long -ranged, but hard to handle.
+L961: 【780†Image】 Bat  4620G  120G  A wooden bat used in baseball. Only kids in striped shorts make a weapon like this their first choice.
+L962: 【781†Image】 Iron Bat  17200G  530G  An iron bat used in baseball. Not designed as weaponry, but beggars can't be choosers... Mayber you'll hit a home run!
+L963: 【782†Image】 Splash Star  N/A  120000G  Hammer made by using magical power. As its name implies, it looks like splashing stars.
+L964: 【783†Image】 Cheap Hammer  1500G  13G  An old, rusty hammer. Too old to be charged. Used to flatten soil.
+L965: 【784†Image】 Iron Hammer  5000G  138G  A hammer reinforced with bronze. Can be charged to cover wider areas. Used to flatten soil.
+L966: 【785†Image】 Silver Hammer  30000G  400G  A hammer reinforced with silver. Can be charged to cover wider areas. Used to flatten soil.
+L967: 【786†Image】 Golden Hammer  N/A  600G  A hammer reinforced with gold. Can be charged to cover wider areas. Used to flatten soil.
+L968: 【787†Image】 Platinum Hammer  N/A  2500G  A hammer made from platinum. Shorter time needed to charge, making it highly efficient. Used to flatten soil.
+L969: ### Axe[]
+L970: Axe
+L971: Name Buy Sell Description
+L972: 【788†Image】 Battle Axe  1380G  42G  An axe with a great deal of force behind it. Must be used carefully. Has a high chance of landing critical hits.
+L973: 【789†Image】 Pole Axe  11800G  220G  An axe with a crescent moon-shaped blade. Has a pointy end as well. Choppy-choppy OR stabby-stabby. You decide!
+L974: 【790†Image】 Alldale  N/A  22000G  An axe with two golden blades. Called angel wings, they are both strong and beautiful.
+L975: 【791†Image】 Great Axe  30900G  610G  An axe with improved balance. Often thought of as a go-to axe when you're just not sure what weapon to use.
+L976: 【792†Image】 Demon Axe  96666G  1100G  An axe possessed by an evil spirit ever since it cut down a cursed tree.
+L977: 【793†Image】 Crescent Axe  449000G  3400G  An axe with a sleek edge. Its center is unbalanced, however, so it's hard to hold it straight.
+L978: 【794†Image】 Executioner  N/A  38000G  An axe with a sketchy past. Was imbued with dark power while trying to raise its attack.
+L979: 【795†Image】 Heat Axe  N/A  7500G  An axe with burning blades. Nicknamed 'Phoenix Feather,' it serves as a symbol of regeneration.
+L980: 【796†Image】 Frost Axe  198200G  4600G  An axe with an icy cold blade. Freezes while it cuts, ensuring less pain for more humane murdering.
+L981: 【797†Image】 Tomahawk  49700G  1020G  An axe with a single blade. The tassel on its edge is always blowing in the wind.
+L982: 【798†Image】 Rock Axe  80200G  1450G  Has one of the hardest blades of any axe. As a result, it's also one of the heaviest axes around.
+L983: 【799†Image】 Double Edge  N/A  7500G  A well-balanced axe with double blades. Highly regarded for its strength and ease of use.
+L984: 【800†Image】 Saint Axe  N/A  99800G  A holy axe with sacred powers. Originally forged for use in rituals, not battle, making it a bit unwieldy.
+L985: 【801†Image】 Pole Axe+  18900G  650G  A pole axe strengthened with magical power. Easier to hold and has greater balance.
+L986: 【802†Image】 Crescent Axe+  640000G  4800G  A crescent axe strengthened with magical power. A true masterpiece designed to be easy to wield.
+L987: 【803†Image】 Axe  600G  64G  Originally a farming axe, it's excited to join you in battle. Its name is Meryl. And it likes you...for now.
+

@@ -1,0 +1,353 @@
+Shipping List (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Shipping_List_%28RF4%29)
+citeturn36view0 [wordlim: 200] Crawled: last year; Content type: text/html; Source: open({"ref_id":"turn31view0","lineno":1740}); Redirected to URL: https://therunefactory.fandom.com/wiki/Shipping_List_(RF4); Total lines: 1988
+L1636: Collectible: Crystals
+L1637: Name Buy Sell Description
+L1638: 【1388†Image】 Earth Crystal  2000G  250G  Crystallized earth magic. Hard as a rock.
+L1639: 【1389†Image】 Love Crystal  2080G  255G  Crystallized love that brings happiness. Generously lets you take your foes' HP when you attack.
+L1642: 【1392†Image】 Water Crystal  2400G  300G  Crystallized water magic. Easily broken, so must be handled with care.
+L1643: 【1393†Image】 Fire Crystal  1600G  200G  Crystallized fire magic. Extremely hot. Must not be touched with bare hands.
+L1644: 【1394†Image】 Small Crystal  120000G  12000G  Runes that have crystallized over the years. Very rare.
+L1645: 【1395†Image】 Light Crystal  3000G  1200G  Crystallized light magic. Naturally luminous.
+L1646: 【1396†Image】 Dark Crystal  1440G  240G  Crystallized darkness magic. Turns everything light to dark.
+L1647: 【1397†Image】 Electro Crystal  160000G  3100G  An electrified crystal found within a Bane Dragon. Don't hold it with your bare hands!
+L1648: 【1398†Image】 Big Crystal  16000G  1600G  A big crystal made of something that's been mixed together. It is said that it's made up of people's thoughts.
+L1649: 【1399†Image】 Rune Crystal  N/A  9800G  Runes that crystallized naturally. Feels warm somehow.
+L1650: #### Collectible: Claws and Fangs[]
+L1651: Collectible: Claws and Fangs
+L1652: Name Buy Sell Description
+L1653: 【1400†Image】 Giant's Nail  690G  98G  A giant fingernail. Gross!
+L1654: 【1401†Image】 Big Giant's Nail  1150G  320G  A huge fingernail from big giants. Even grosser!
+L1655: 【1402†Image】 Insect Jaw  80G  16G  A monster jaw strong enough to chew just about anything.
+L1656: 【1403†Image】 Scorpion Pincer  1230G  153G  Pincers that can easily cut through branches. They hurt, like, sooo much.
+L1657: 【1404†Image】 Panther Claw  360G  60G  Razor-sharp claw, stronger than steel.
+L1658: 【1405†Image】 Dragon Fang  1920G  240G  A hard fang strong enough to leave tooth marks on iron.
+L1659: 【1406†Image】 Wolf Fang  460G  76G  A sharp fang that can instantly kill prey with a single bite.
+L1660: 【1407†Image】 Gold Wolf Fang  1280G  160G  A sharp fang that glitters. It takes any prey down with one bite.
+L1661: 【1408†Image】 Cheap Propeller  1320G  165G  A cheap-looking propeller used as a weapon. Being poor is not sad, but this is sad.
+L1662: 【1409†Image】 Quality Propeller  1900G  238G  A well-made propeller used as a weapon. It's obvious that the company had lots of assets when they made this.
+L1663: 【1410†Image】 Palm Claw  600G  86G  It's sharp. Also, it hurts.
+L1664: 【1411†Image】 Malm Claw  3240G  360G  It's sharp. It hurts. Also, it's blue.
+L1665: 【1412†Image】 Ivory Tusk  880G  110G  The discarded tusk of an elephant. Beautiful and easy to work. It's shed and regrown.
+L1666: 【1413†Image】 Unbroken Ivory Tusk  1220G  151G  The discarded tusk of a mammoth. It doesn't break, but it sheds and regrows. Even if 100 people step on it, it won't break.
+L1667: 【1414†Image】 Magic Claw  1800G  224G  A sharp claw with magic power. It's the best to equip it with an animal suit.
+L1668: 【1415†Image】 Queen's Jaw  3100G  345G  A jaw that chews everything up except for diamonds. Diamonds are forever!
+L1669: 【1416†Image】 Dangerous Scissors  3010G  335G  Scissors that look dangerous. But dangerous means sexy, some people say. Just don't run with them
+L1670: 【1417†Image】 Chimera's Claw  48000G  1000G  A claw of a Chimera. It looks amazing enough to be called the claw of a king.
+L1671: 【1418†Image】 Wind Dragon Tooth  N/A  10000G  According to Venti, she can grow new teeth by using her magic power, but since it's tiring, she hates to do it.
+L1672: #### Collectible: Sticks and Stems[]
+L1673: Collectible: Sticks and Stems
+L1674: Name Buy Sell Description
+L1675: 【1419†Image】 Devil Horn  2810G  312G  A horn of a demon. Filled with magical power.
+L1676: 【1420†Image】 Rigid Horn  1040G  130G  A jagged and dappled horn. Looks dangerous.
+L1677: 【1421†Image】 Bull's Horn  670G  95G  A sharp and dangerous horn. Worth a lot if its unscratched.
+L1678: 【1422†Image】 Plant Stem  390G  65G  Strong and thick plant stem used for various purposes.
+L1679: 【1423†Image】 Stick  50G  9G  A thin stick that can be used for materials. You could poke things with it too, I guess.
+L1680: 【1424†Image】 Insect Horn  100G  21G  A jagged insect horn that has a patchy pattern.
+L1681: 【1425†Image】 Thick Stick  1590G  198G  A thick stick that can be used for materials, but is not a substitute for lumber. At least you can smack people upside the head with it and laugh!
+L1682: 【1426†Image】 Moving Branch  210000G  4500G  A creepy branch that twitches. Strong in vitality, cutting it only makes it grow.
+L1683: #### Collectible: Feathers[]
+L1684: Collectible: Feathers
+L1685: Name Buy Sell Description
+L1686: 【1427†Image】 Bird's Feather  155G  31G  A soft feather that's prickly at the base and pointy on one end.
+L1687: 【1428†Image】 Yellow Feather  800G  100G  A soft-textured yellow feather. It's believed to bring happiness.
+L1688: 【1429†Image】 Black Bird Feather  1080G  135G  A soft black feather. The quill is rather sharp.
+L1689: 【1430†Image】 Thunderbird Feather  1680G  210G  A soft-textured feather that contains electricity.
+L1690: 【1431†Image】 Dragon Fin  300000G  10000G  The fin of a legendary dragon. A perfect material that's hard, supple and lightweight.
+L1691: #### Collectible: Shells and Bones[]
+L1692: Collectible: Shells and Bones
+L1693: Name Buy Sell Description
+L1694: 【1432†Image】 Fish Fossil  165G  33G  An ancient fish fossil. Some collectors would kill to find one!
+L1695: 【1433†Image】 Turtle Shell  150G  30G  A hard turtle shell. Good when you want to make something hard. (Hey, get your mind out of the gutter!)
+L1696: 【1434†Image】 Skull  960G  120G  A creepy skull. Some people love this kind of stuff, though.
+L1697: 【1435†Image】 Dragon Bones  24000G  1800G  Ancient dragon bones. Old, but still quite tough. Used for numerous purposes.
+L1698: 【1436†Image】 Blk. Tortoise Shell  1600G  200G  A shell that is extremely hard. You need to be skilled enough to work on this.
+L1699: 【1437†Image】 Ammonite  168000G  3200G  Octopirate's ancient friend. Used to endure hardships, but not resistant magic.
+L1700: #### Collectible: Scales[]
+L1701: Collectible: Scales
+L1702: Name Buy Sell Description
+L1703: 【1438†Image】 Wet Scale  1210G  151G  A scale damp with moisture.
+L1704: 【1439†Image】 Dragon Scale  3280G  364G  One of many scales that cover a dragon's body. Diamond hard, and also effective as a charm.
+L1705: 【1440†Image】 Black Scale  3280G  364G  A dragon's scale. You feel darkness emanating from it.
+L1706: 【1441†Image】 Blue Scale  3280G  364G  An ocean-blue dragon's scale. It makes you feel intelligent just holding it.
+L1707: 【1442†Image】 Glitter Scale  3280G  364G  It glitters and shines. Mesmerizing. Like tinfoil.
+L1708: 【1443†Image】 Crimson Scale  3280G  364G  A dragon scale the color of flames.
+L1709: 【1444†Image】 Love Scale  3280G  364G  A scale that is famous as a love charm. But only few people have ever seen it because of its rarity.
+L1710: 【1445†Image】 Grimoire Scale  154000G  2800G  A scale of the legendary Grimoire. Nobody has ever possessed one. Until now!
+L1711: 【1446†Image】 Legendary Scale  50000G  3000G  A scale from a legendary fish in the lake. Greatly absorbs HP when used in upgrades.
+L1712: 【1447†Image】 Earthwyrm Scale  300000G  10000G  A scale from a legendary earth dragon. Incredibly hard and unable to be scratched.
+L1713: 【1448†Image】 Firewyrm Scale  300000G  10000G  A scale from a legendary fire dragon. Strong enough to endure even volcanic eruptions.
+L1714: #### Collectible: Stones[]
+L1715: Collectible: Stones
+L1716: Name Buy Sell Description
+L1717: 【1449†Image】 Round Stone  N/A  50G  turned around after years of polishing under a waterfall.
+L1718: 【1450†Image】 Tiny Golem Stone  970G  121G  A stone with a mark to activate a Golem. The mark is so minuscule, the one who wrote it must be a craftsman.
+L1719: 【1451†Image】 Golem Stone  1670G  208G  A stone with a mark to activate a Golem. The mark might just come off if you rub it.
+L1720: 【1452†Image】 Golem Spirit Stone  2880G  320G  A stone with a mark to activate a Golem. The spirit is unchanging forever.
+L1721: 【1453†Image】 Golem Tablet  150000G  2300G  A tablet that was once a part of a Golem's body. It has '_METH' written on it, and serves as a source of power.
+L1722: 【1454†Image】 Tablet of Truth  82000G  3800G  A tablet that was once part of a Golem's body. It has 'EMETH' written on it, and serves as a source of power.
+L1723: ### Trash[]
+L1724: 
+L1725: Trash
+L1726: Name Buy Sell Description
+L1727: 【1455†Image】 Boot  8G  2G  An old boot that was found floating in the water. Worn-out and useless.
+L1728: 【1456†Image】 Can  5G  1G  An empty can that someone tossed aside. Don't follow suit -- Littering is bad!
+L1729: 【1457†Image: RF4Rare Can.png】 Rare Can  N/A  300G  A rare can that's no longer manufactured. Worth a lot among collectors.
+L1730: ### Magic[]
+L1731: Magic
+L1732: Name Buy Sell Description
+L1733: 【1458†Image】 Fireball  2200G  110G  Hurls small fireballs. Can hurl up to 3 at a time.
+L1734: 【1459†Image】 Big Fire  4400G  220G  Hurls large fireballs. Can hurl up to 2 at a time.
+L1735: 【1460†Image】 Explosion  6600G  330G  Hurls giant fireballs that cause explosions on impact, damaging their surroundings.
+L1736: 【1461†Image】 Water Laser  2400G  120G  Emits a water beam that can penetrate stone. The longer you maintain it, the bigger the impact.
+L1737: 【1462†Image】 Parallel Laser  4800G  240G  Emits 2 water beams that can penetrate stone. The longer you maintain them, the bigger the impact.
+L1738: 【1463†Image】 Delta Laser  7200G  360G  Emits 3 water beams that can penetrate stone. Particularly effective when surrounded by foes.
+L1739: 【1464†Image】 Screw Rock  2300G  115G  Summons sharp rocks that substitute for your fists. Designed for fighter mages.
+L1740: 【1465†Image】 Earth Spike  4600G  230G  Summons stone pillars that track enemies and strike them from below.
+L1741: 【1466†Image】 Avenger Rock  6900G  345G  Stabs its target with a large rock. Also known as the "drill punch."
+L1742: 【1467†Image】 Sonic Wind  2500G  125G  Emits spinning wind blades that automatically track and shred their foes to pieces.
+L1743: 【1468†Image】 Double Sonic  5000G  250G  Emits 2 spinning wind blades. Their arched trajectory makes it hard to attack enemies in front.
+L1744: 【1469†Image】 Penetrate Sonic  7500G  375G  Emits 3 spinning wind blades that move freely in multiple directions, shredding to bits all who get in their way.
+L1745: 【1470†Image】 Light Barrier  3000G  150G  Emits 2 light balls in front of you, protecting from enemies.
+L1746: 【1471†Image】 Shine  6000G  300G  Emits 4 light balls that spin around you, protecting you from enemies.
+L1747: 【1472†Image】 Prism  9000G  450G  Emits spinning light balls. Provides complete protection from all enemies for a short while.
+L1748: 【1473†Image】 Dark Ball  2800G  140G  Emits a dark light ball that travels slowly that travels slowly and destroys everything in its way.
+L1749: 【1474†Image】 Dark Snake  5600G  280G  Emits a dark light ball that snakes forward slowly and destroys everything in its path.
+L1750: 【1475†Image】 Darkness  8400G  420G  Forbidden spell that summons an entrance to the depths of darkness.
+L1751: 【1476†Image】 Cure  1200G  60G  Recovers HP, for yourself and for nearby companions. Doesn't recover much, but uses few RP.
+L1752: 【1477†Image】 Cure All  5800G  290G  Recovers a lot of HP for you and your companions, even if they're not close by. Uses lots of RP.
+L1753: 【1478†Image】 Master Cure  9800G  490G  Greatly recovers HP, but consumes a large amount of RP in the process.
+L1754: 【1479†Image】 Medipoison  1800G  90G  Cures poison.
+L1755: A purifying light will cleanse the toxins in your body.
+L1756: 【1480†Image】 Mediparalyze  3200G  160G  Cures paralysis.
+L1757: A purifying light will enable you to move once more.
+L1758: 【1481†Image】 Mediseal  4800G  240G  Cures seals.
+L1759: A purifying light will bring back your inner power.
+L1760: 【1482†Image】 Greeting Spell  1500G  75G  If you say hello, even people who don't like you will say hi back. They'll be your special friends. Your special awake friends.
+L1761: ### Rune Ability[]
+L1762: Rune Ability
+L1763: Name Buy Sell Description
+L1764: 【1483†Image】 Power Wave  1300G  130G  Weapon: Short Sword
+L1765: Charge power to release shock waves.
+L1766: 【1484†Image】 Dash Slash  2000G  100G  Weapon: Short Sword
+L1767: Close the gap between enemies in an instant. Good timing may net you an additional leg drop.
+L1768: 【1485†Image】 Rush Attack  3800G  190G  Weapon: Short Sword
+L1769: Press the button repeatedly for additional attacks and a finisher.
+L1770: 【1486†Image】 Round Break  6900G  345G  Weapon: Short Sword
+L1771: A cyclone attack that blows away foes. Great to use when surrounded.
+L1772: 【1487†Image】 Mind Thrust  2800G  140G  Weapon: Short Sword
+L1773: Find and attack your enemy's weak point. May inflict status ailments as well.
+L1774: 【1488†Image】 Gust  2600G  130G  Weapon: Dual Blades
+L1775: Jump up and soar in the air. Also useful for dodging attacks.
+L1776: 【1489†Image】 Storm  4500G  225G  Weapon: Dual Blades
+L1777: Execute continuous attacks in the air. Keep pressing the button for additional moves.
+L1778: 【1490†Image】 Blitz  8400G  420G  Weapon: Dual Blades
+L1779: Speed up attack rate by sharpening concentration.
+L1780: 【1491†Image】 Twin Attack  1700G  85G  Weapon: Dual Blades
+L1781: Stab, twist and pull -- like a psychotic mantra. Simple but effective.
+L1782: 【1492†Image】 Rail Strike  3800G  190G  Weapon: Dual Blades
+L1783: A jump-spin attack. Dynamic and hard to counter.
+L1784: 【1493†Image】 Wind Slash  3400G  170G  Weapon: Long Sword
+L1785: A vertical jump-spin attack. Keep pressing the button to increase the number of spins.
+L1786: 【1494†Image】 Flash Strike  9800G  490G  Weapon: Long Sword
+L1787: Blow away foes with one swing. Covers wide areas very effectively.
+L1788: 【1495†Image】 Naive Blade  5500G  275G  Weapon: Long Sword
+L1789: Anticipate your enemy's attacks and quickly strike back.
+L1790: 【1496†Image】 Steel Heart  3800G  190G  Weapon: Long Sword
+L1791: Become strong enough not to stagger when attacked, but take more damage.
+L1792: 【1497†Image】 Delta Strike  1500G  75G  Weapon: Long Sword
+L1793: A fluid attack of lunging and cutting.
+L1794: 【1498†Image】 Hurricane  2100G  105G  Weapon: Spear
+L1795: A fancy attack with a toss, spin and juggle.
+L1796: 【1499†Image】 Reaper Slash  2700G  135G  Weapon: Spear
+L1797: Long-ranged attack. Best when surrounded.
+L1798: 【1500†Image】 Millionstrike  8800G  440G  Weapon: Spear
+L1799: A swift stab. Creates shock waves to hit multiple times.
+L1800: 【1501†Image】 Axel Disaster  3200G  160G  Weapon: Spear
+L1801: Spinning and boring. Must face the enemy head-on to inflict continuous damage.
+L1802: 【1502†Image】 Stardust Upper  1900G  95G  Weapon: Axe/Hammer
+L1803: Knock enemies into the air. They can also be attacked while spinning.
+L1804: 【1503†Image】 Tornado Swing  2400G  120G  Weapon: Axe/Hammer
+L1805: Spinning lunge attack. Keep pressing the button to increase the number of spins. Just don't make yourself dizzy!
+L1806: 【1504†Image】 Grand Impact  5700G  285G  Weapon: Axe/Hammer
+L1807: Hit the ground and cause an earthquake. Press the button for multiple hits.
+L1808: 【1505†Image】 Giga Swing  11000G  550G  Weapon: Axe/Hammer
+L1809: With its incredible strength, enemies are blown back until they hit something.
+L1810: 【1506†Image】 Upper Cut  3000G  150G  Weapon: Fist
+L1811: Launch enemies into the air.
+L1812: 【1507†Image】 Double Kick  7800G  390G  Weapon: Fist
+L1813: Spin and kick enemies so hard.
+L1814: 【1508†Image】 Straight Punch  9000G  450G  Weapon: Fist
+L1815: Concentrate and give foes a strong blow.
+L1816: 【1509†Image】 Neko Damashi  6500G  325G  Weapon: Open Hand
+L1817: A legendary technique using palm of the hand to cause distress and surprise all in one.
+L1818: 【1510†Image】 Rush Punch  5800G  240G  Weapon: Fist
+L1819: Punch many times at high speed. enemies are already dead.
+L1820: 【1511†Image】 Cyclone  12000G  600G  Weapon: Fist
+L1821: Blow away enemies by spinning your body super fast.
+L1822: 【1512†Image】 Rapid Move  9800G  490G  Weapon: Fist
+L1823: Move toward an enemy in an instant. Also useful to dodge attacks.
+L1824: ### Special[]
+L1825: 
+L1826: Special
+L1827: Name Buy Sell Description
+L1828: 【1513†Image】 Bonus Concerto  3800G  190G  a musical score that inspires allied monsters to do their best in combat.
+L1829: 【1514†Image】 Striking March  8000G  400G  A musical score that powers up allied monsters' strength until the end of the day.
+L1830: 【1515†Image】 Iron Waltz  7800G  780G  A musical score that powers up allied monsters' defense until the end of the day.
+L1831: ## Other[]
+L1832: Other
+L1833: Name Buy Sell Description
+L1834: 【1516†Image】 Material Stone  500G  40G  Stones needed to build buildings. Always keep a lot of them in stock -- they will absolutely come in handy!
+L1835: 【1517†Image】 Lumber  500G  40G  Wood needed to build buildings. Always keep a lot of them in stock -- they will absolutely come in handy!
+L1836: 【1518†Image】 Branch  100G  20G  A tree branch that blew in. Chop it up with an axe to make Lumber.
+L1837: 【1519†Image】 Rock  10G  2G  An ordinary rock. Hit it with a hammer to make usable material out of it.
+L1838: ### Recipe Bread[]
+L1839: Recipe Bread
+L1840: Name Buy Sell Description
+L1841: 【1520†Image】 Medicine Bread  320G  120G  A magic bread that teaches you new recipes. You can learn one (simple) recipe appropriate to your skill.
+L1842: 【1521†Image】 Medicine Bread+  N/A  3000G  A nicely baked Medicine Bread. Teaches you a difficult recipe appropriate to your skill.
+L1843: 【1522†Image】 Cooking Bread  400G  100G  A nicely baked Cooking Bread. Teaches you a difficult recipe appropriate to your skill.
+L1844: 【1523†Image】 Cooking Bread+  N/A  3000G  A nicely baked Cooking Bread. Teaches you a difficult recipe appropriate to your skill.
+L1845: 【1524†Image】 Weapon Bread  700G  180G  A magic bread that teaches you new recipes. You can learn one (simple) recipe appropriate to your skill.
+L1846: 【1525†Image】 Weapon Bread+  N/A  3000G  A nicely baked Weapon Bread. Teaches you a difficult recipe appropriate to your skill.
+L1847: 【1526†Image】 Accessory Bread  600G  150G  A magic bread that teaches you new recipes. You can learn one (simple) recipe appropriate to your skill.
+L1848: 【1527†Image】 Accessory Bread+  N/A  3000G  A nicely baked Accessory Bread. Teaches you a difficult recipe appropriate to your skill.
+L1849: 【1528†Image】 Farming Bread  900G  250G  A magic bread that teaches you new recipes. You can learn one (simple) recipe appropriate to your skill.
+L1850: 【1529†Image】 Farming Bread+  N/A  3000G  A nicely baked Farming Bread. Teaches you a difficult recipe appropriate to your skill.
+L1851: ## References[]
+L1852: 
+L1853: 【311†v】 · 【312†e】【16†Rune Factory 4】
+L1854: 
+L1855:  【59†Characters】
+L1856: 
+L1857: Protagonist
+L1858: 
+L1859: 【313†Frey】 • 【314†Lest】
+L1860: 
+L1861: Bachelorettes
+L1862: 
+L1863: 【315†Amber】 (【316†D】) • 【317†Clorica】 (【318†D】) • 【319†Dolce】 (【320†D】) • 【321†Forte】 (【322†D】) • 【323†Margaret】]] (【324†D】) • 【325†Xiao Pai】 (【326†D】)
+L1864: 
+L1865: Bachelors
+L1866: 
+L1867: 【327†Arthur】 (【328†D】) • 【329†Doug】]] (【330†D】) • 【331†Dylas】 (【332†D】) • 【333†Kiel】 (【334†D】) • 【335†Leon】 (【336†D】) • 【337†Vishnal】 (【338†D】)
+L1868: 
+L1869: Villagers
+L1870: 【339†Bado】 (【340†D】) • 【341†Blossom】 (【342†D】) • 【343†Illuminata】 (【344†D】) • 【345†Jones】 (【346†D】) • 【347†Lin Fa】 (【348†D】) • 【349†Nancy】 (【350†D】) • 【351†Pico】 (D) • 【352†Porcoline】 (【353†D】) • 【354†Ventuswill】 (【355†D】) • 【356†Volkanon】 (【357†D】)
+L1871: 
+L1872: Guests
+L1873: 
+L1874: 【358†Barrett】 (【359†D】) • 【360†Raven】 (【361†D】) • 【362†Ethelberd】
+L1875: 
+L1876: Other
+L1877: 
+L1878: 【363†Eliza】 • 【364†Luna】 • 【365†Noel】
+L1879: 
+L1880:  Locations
+L1881: 
+L1882: 【366†Selphia】
+L1883: 【367†Bell Hotel】 • 【368†Porcoline's Kitchen】 • 【369†Forte's House】 • 【370†Blacksmith "Meanderer"】 • 【371†Tiny Bandage Clinic】 • 【372†Selphia Castle】 • 【373†Sincerity General Store】 • 【374†Margaret's House】 • 【375†Carnation's】
+L1884: 
+L1885: Arc 1
+L1886: 
+L1887: 【376†Selphia Plain】 • 【377†Yokmir Forest】 • 【378†Water Ruins】 • 【379†Obsidian Mansion】 • 【380†Yokmir Cave】 • 【381†Delirium Lava Ruins】
+L1888: 
+L1889: Arc 2
+L1890: 
+L1891: 【382†Idra Cave】 • 【383†Maya Road】 • 【384†Sechs Territory】 • 【385†Floating Empire】
+L1892: 
+L1893: Arc 3
+L1894: 【386†Leon Karnak】 • 【387†Rune Prana】
+L1895: 
+L1896: Other
+L1897: 
+L1898: 【388†Cluck-Cluck Nest】 • 【389†Revival Cave】 • 【390†Demon's Den】 • 【391†World of Fields】 • 【392†Sharance Maze】
+L1899: 
+L1900: Game Content
+L1901: 
+L1902: Mechanics
+L1903: 
+L1904: 【393†Skills】 • 【394†Prince Points】 • 【395†Status Ailments】 • 【396†Rune Abilities】 • 【80†Monsters】 • 【397†Fishing】 • 【398†Mining】 • 【399†Farming Mechanics】
+L1905: 
+L1906: Crafting
+L1907: 
+L1908: 【73†Cooking and Recipes】 • 【400†Pharmacy】 • 【401†Forging】 • 【171†Accessory Crafting】 • 【402†Upgrading Items】 • 【403†Rarity】
+L1909: 
+L1910: Equipment
+L1911: 【404†Tools】 • 【405†Weapons】 • 【406†Headgear】 • 【407†Armor】 • 【408†Shoes】 • 【409†Shield】 • 【410†Accessories】
+L1912: 
+L1913: Items
+L1914: 
+L1915: Shipping List • 【411†Consumable】 • 【412†Dungeon Seed】 • 【172†Crops】 • 【413†Other Items】
+L1916: 
+L1917: Social
+L1918: 
+L1919: 【414†Requests】 • 【52†Calendar】 • 【415†Festivals】 • 【87†Relationships】 • 【416†Town Events】
+L1920: 
+L1921: Other
+L1922: 
+L1923: 【417†Furniture】 • 【418†Outfits】 • 【419†Trophies】 • 【420†Opening Song: Kaze no Traveler】 • 【421†Glitches】
+L1924: 
+L1925: Categories
+L1926: 
+L1927:   * 【422†Categories】:
+L1928:   * 【177†Rune Factory 4】
+L1929: Community content is available under 【423†CC-BY-SA†www.fandom.com】 unless otherwise noted.
+L1930: 
+L1931: More Fandoms
+L1932: 
+L1933:   * 【424†Fantasy†www.fandom.com】
+L1934: 
+L1935:  Advertisement
+L1936: ##  【0† †www.fandom.com】
+L1937: 
+L1938: ### Explore properties
+L1939: 
+L1940:   * 【0† Fandom †www.fandom.com】
+L1941:   * 【425† Fanatical †www.fanatical.com】
+L1942:   * 【426† GameSpot †www.gamespot.com】
+L1943:   * 【427† Metacritic †www.metacritic.com】
+L1944:   * 【428† TV Guide †www.tvguide.com】
+L1945:   * 【429† Honest Entertainment †www.youtube.com】
+L1946: 
+L1947: ### Follow Us
+L1948: 
+L1949:   * 【430† †www.facebook.com】
+L1950:   * 【431† †twitter.com】
+L1951:   * 【432† †www.youtube.com】
+L1952:   * 【433† †www.instagram.com】
+L1953:   * 【434† †www.linkedin.com】
+L1954: ### Overview
+L1955: 
+L1956:   * 【435† What is Fandom? †www.fandom.com】
+L1957:   * 【436† About †www.fandom.com】
+L1958:   * 【437† Careers †www.fandom.com】
+L1959:   * 【438† Press †www.fandom.com】
+L1960:   * 【439† Contact †www.fandom.com】
+L1961:   * 【440† Terms of Use †www.fandom.com】
+L1962:   * 【441† Privacy Policy †www.fandom.com】
+L1963:   * 【442† Digital Services Act †www.fandom.com】
+L1964:   * 【443† Global Sitemap †community.fandom.com】
+L1965:   * 【444† Local Sitemap 】
+L1966:   *
+L1967: ### Community
+L1968: 
+L1969:   * 【445† Community Central †community.fandom.com】
+L1970:   * 【446† Support †fandom.zendesk.com】
+L1971:   * 【447† Help †community.fandom.com】
+L1972: 
+L1973: ### Advertise
+L1974: 
+L1975:   * 【448† Media Kit †about.fandom.com】
+L1976:   * 【449† Contact †about.fandom.com】
+L1977: 
+L1978: ### Fandom Apps
+L1979: 
+L1980: Take your favorite fandoms with you and never miss a beat.  【1530†Image: Fandom App logo†therunefactory.fandom.com】
+L1981: 
+L1982:   * 【450† †apps.apple.com】
+L1983:   * 【451† †play.google.com】
+L1984: 
+L1985: Rune Factory Wiki is a Fandom Games Community.
+L1986: 
+L1987: View Mobile Site
+

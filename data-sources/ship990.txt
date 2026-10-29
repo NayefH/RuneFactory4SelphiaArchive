@@ -1,0 +1,222 @@
+Shipping List (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Shipping_List_%28RF4%29)
+citeturn37view0 [wordlim: 200] Crawled: last year; Content type: text/html; Source: open({"ref_id":"turn31view0","lineno":990}); Redirected to URL: https://therunefactory.fandom.com/wiki/Shipping_List_(RF4); Total lines: 1988
+L921: 【743†Image】 Brionac  N/A  7300G  A spear so strong that it can penetrate anything. According to legend, it made a hole in the mountains with one stab!
+L922: 【744†Image】 Feather Lance  124710G  2900G  A spear imbued with the magic power of Wind. Lift it up to the sky and it will pierce the heavens.
+L923: 【745†Image】 Belvarose  N/A  15000G  Spear with spikes at the end. Requires skill to use, but as you grow accustomed to it, you can easily land knockouts.
+L924: 【746†Image】 Bjor  N/A  24000G  A spear drenched in all available poisons. Has various effects.
+L925: 【747†Image】 Gungnir  N/A  72000G  A legendary spear that can blow away storms. Its wind speed is so fast, though, that the bearer is equally at risk.
+L926: 【748†Image】 Lance+  4580G  160G  Lance strengthened by magical power. From tip to handle, it sparkles gorgeously in gold.
+L927: 【749†Image】 Corsesca+  60400G  1050G  Corsesca strengthened by magical power. At half it's original weight, it's very easy to wield.
+L928: 【750†Image】 Trident  18800G  400G  A three-pronged spear. Some lose their memory in shock when stabbed with it.
+L929: 【751†Image】 Pitchfork  1500G  200G  Origin of kitchen forks. Bit big for cake, though. And spaghetti? Fahgeddabouddit!
+L930: 【752†Image】 Dragon's Fang  N/A  40000G  A spear as sharp as a dragon fang. The blade vibrates faster as danger approaches.
+L931: 【753†Image】 Gáe Bolg  N/A  42000G  A fierce spear with a trident-like shape. Every stab hurts.
+L932: 【754†Image】 Magical Lance  428888G  2500G  A lance with magical power so strong that its entire form changes in color rapidly.
+L933: 【755†Image】 Safety Lance  600G  80G  A lance with its tip covered in cotton and cloth. Still hurts, though. We can stab if we want to!
+L934: 【756†Image】 Legion  N/A  105000G  A lance with blades orbiting it. Foes can try to dodge, but these phantom blades ensure they won't make it very far.
+L935: 【757†Image】 Poison Queen  N/A  9980G  A lance drenched in poisons from around the world. Handle with care, or you, too, may be poisoned.
+L936: 【758†Image】 Pine Club  29800G  2000G  A lance that resembles a pineapple. Its surface stings. The creator of this lance must have been very...unique.
+L937: 【759†Image】 Fivestaff  82800G  1150G  A long-ranged lance that seems almost as if it were made of blades, from tip to handle, Can also be swung.
+L938: ### Hammer[]
+L939: Hammer
+L940: Name Buy Sell Description
+L941: 【760†Image】 Battle Hammer  340G  42G  A hammer well-suited to blowing foes away -- or at least knocking them out.
+L942: 【761†Image】 War Hammer  6120G  135G  A hammer much heavier than it looks. Be careful when swinging it -- it bites back!
+L943: 【762†Image】 Great Hammer  22400G  400G  A hammer designed to eliminate shock when used. Very nicely balanced.
+L944: 【763†Image】 Schnabel  N/A  11800G  A hammer designed to be small and light. Has good overall balance.
+L945: 【764†Image】 Gigant Hammer  134980G  2800G  A large hammer. be careful not to hit yourself!
+L946: 【765†Image】 Mjolnir  N/A  68000G  A hammer imbued with earth power. It's said to cause earthquakes if three of them hit the ground at once.
+L947: 【766†Image】 Spiked Hammer  999999G  6100G  A hammer outfitted with spikes. Can easily score critical hits, hammer or no.
+L948: 【767†Image】 Flame Hammer  100000G  1550G  A hammer with fire power on one side. The flame helps enhance its damage output.
+L949: 【768†Image】 Ice Hammer  36450G  780G  A hammer made of ice. Good for smashing things on a hot day. Refreshing!
+L950: 【769†Image】 Sky Hammer  156100G  2900G  A hammer with wings. Very light and easy to use.
+L951: 【770†Image】 Graviton Hammer  840000G  3800G  A hammer imbued with earth power. Designed not to hurt your hands during attack.
+L952: 【771†Image】 Bone Hammer  78800G  820G  A light but strong hammer made from bones.
+L953: 【772†Image】 Crystal Hammer  N/A  11000G  A hammer imbued with water power. Its hard head and spikes cause major damage.
+L954: 【773†Image】 War Hammer+  9020G  245G  War Hammer imbued with magical power. Causes less strain on the back.
+L955: 【774†Image】 Gigant Hammer+  N/A  22000G  Gigant Hammer imbued with magical power. Originally owned by high-ranking giants. Has engravings of their names.
+L956: 【775†Image】 Hammer  580G  38G  Farming hammer given a quickie reforge for battle-readiness. Tougher than it looks.
+L957: 【776†Image】 Toy Hammer  230G  24G  Anyone hit by this hammer must pretend that it really hurts. It's the law! Raises chance of knockouts.
+L958: 【777†Image】 Fatal Crush  N/A  A hammer way beyond standard size. Long-ranged, and has a high chance of landing critical hits.
+L959: 【778†Image】 Strong Stone  92080G  990G  Large chunks of metal are connected to its head. High in attack due to its heavy weight.
+L960: 【779†Image】 Kongo  N/A  25800G  Made by fusing together chunks of metal. Long -ranged, but hard to handle.
+L961: 【780†Image】 Bat  4620G  120G  A wooden bat used in baseball. Only kids in striped shorts make a weapon like this their first choice.
+L962: 【781†Image】 Iron Bat  17200G  530G  An iron bat used in baseball. Not designed as weaponry, but beggars can't be choosers... Mayber you'll hit a home run!
+L963: 【782†Image】 Splash Star  N/A  120000G  Hammer made by using magical power. As its name implies, it looks like splashing stars.
+L964: 【783†Image】 Cheap Hammer  1500G  13G  An old, rusty hammer. Too old to be charged. Used to flatten soil.
+L965: 【784†Image】 Iron Hammer  5000G  138G  A hammer reinforced with bronze. Can be charged to cover wider areas. Used to flatten soil.
+L966: 【785†Image】 Silver Hammer  30000G  400G  A hammer reinforced with silver. Can be charged to cover wider areas. Used to flatten soil.
+L967: 【786†Image】 Golden Hammer  N/A  600G  A hammer reinforced with gold. Can be charged to cover wider areas. Used to flatten soil.
+L968: 【787†Image】 Platinum Hammer  N/A  2500G  A hammer made from platinum. Shorter time needed to charge, making it highly efficient. Used to flatten soil.
+L969: ### Axe[]
+L970: Axe
+L971: Name Buy Sell Description
+L972: 【788†Image】 Battle Axe  1380G  42G  An axe with a great deal of force behind it. Must be used carefully. Has a high chance of landing critical hits.
+L973: 【789†Image】 Pole Axe  11800G  220G  An axe with a crescent moon-shaped blade. Has a pointy end as well. Choppy-choppy OR stabby-stabby. You decide!
+L974: 【790†Image】 Alldale  N/A  22000G  An axe with two golden blades. Called angel wings, they are both strong and beautiful.
+L975: 【791†Image】 Great Axe  30900G  610G  An axe with improved balance. Often thought of as a go-to axe when you're just not sure what weapon to use.
+L976: 【792†Image】 Demon Axe  96666G  1100G  An axe possessed by an evil spirit ever since it cut down a cursed tree.
+L977: 【793†Image】 Crescent Axe  449000G  3400G  An axe with a sleek edge. Its center is unbalanced, however, so it's hard to hold it straight.
+L978: 【794†Image】 Executioner  N/A  38000G  An axe with a sketchy past. Was imbued with dark power while trying to raise its attack.
+L979: 【795†Image】 Heat Axe  N/A  7500G  An axe with burning blades. Nicknamed 'Phoenix Feather,' it serves as a symbol of regeneration.
+L980: 【796†Image】 Frost Axe  198200G  4600G  An axe with an icy cold blade. Freezes while it cuts, ensuring less pain for more humane murdering.
+L981: 【797†Image】 Tomahawk  49700G  1020G  An axe with a single blade. The tassel on its edge is always blowing in the wind.
+L982: 【798†Image】 Rock Axe  80200G  1450G  Has one of the hardest blades of any axe. As a result, it's also one of the heaviest axes around.
+L983: 【799†Image】 Double Edge  N/A  7500G  A well-balanced axe with double blades. Highly regarded for its strength and ease of use.
+L984: 【800†Image】 Saint Axe  N/A  99800G  A holy axe with sacred powers. Originally forged for use in rituals, not battle, making it a bit unwieldy.
+L985: 【801†Image】 Pole Axe+  18900G  650G  A pole axe strengthened with magical power. Easier to hold and has greater balance.
+L986: 【802†Image】 Crescent Axe+  640000G  4800G  A crescent axe strengthened with magical power. A true masterpiece designed to be easy to wield.
+L987: 【803†Image】 Axe  600G  64G  Originally a farming axe, it's excited to join you in battle. Its name is Meryl. And it likes you...for now.
+L988: 【804†Image】 Lollipop  5200G  550G  A sweet candy on a stick that's so hard, it just might work as a weapon. Raises chance of knockouts and cavities
+L989: 【805†Image】 Battle Scythe  6590G  140G  An axe with an extremely sharp blade. Much bigger and sharper than a farming sickle.
+L990: 【806†Image】 Basilisk Fang  71500G  770G  A weapon that can cut through anything as if it were cloth. Has a paralyzing effect.
+L991: 【807†Image】 Devil Finger  N/A  13333G  A weapon that leaves scars said to resemble scratches from the devil's nails. Has the power to absorb life.
+L992: 【808†Image】 Cheap Axe  1500G  34G  An old, rusty axe. Too old to be charged.
+L993: 【809†Image】 Chopping Axe  5000G  130G  A sturdy bronze axe. Can be charged to cover wider areas.
+L994: 【810†Image】 Lumber Axe  30000G  400G  A nice, strong silver axe. Can be charged to cover wider areas.
+L995: 【811†Image】 Mountain Axe  N/A  600G  An axe like an ox. Made from gold and can be charged to cover wider areas.
+L996: 【812†Image】 Miracle Axe  N/A  2500G  An ax so amazing, poems are written of its noble deeds. Shorter time needed to charge, making it highly efficient.
+L997: ### Staff[]
+L998: Staff
+L999: Name Buy Sell Description
+L1000: 【813†Image】 Rod  1300G  12G  A staff with magical power. Designed for sorcery, so it reduces RP spent when using magic.
+L1001: 【814†Image】 Staff  6280G  80G  A simple, magical staff. Try it out and see what you can do with it!
+L1002: 【815†Image】 Silver Staff  13000G  390G  A staff made with sacred silver gems. Improves concentration, making it ideal for students.
+L1003: 【816†Image】 Flare Staff  18000G  250G  A staff imbued with the magic power of fire. The head is very hot and tends to spark a lot. Hey, that rhymes!
+L1004: 【817†Image】 Ice Staff  70000G  380G  A staff imbued with the magic power of water. The head is very cold and seems to emanate a faint breeze.
+L1005: 【818†Image】 Lightning Wand  65500G  330G  A staff imbued with the magic pwer of wind. Said to bring thunder and lightning.
+L1006: 【819†Image】 Earth Staff  40000G  310G  A staff imbued with the magic power of earth. Strong enough to shake the ground.
+L1007: 【820†Image】 Wizard's Staff  90000G  200G  Proof that the bearer is a full-fledged wizard. You can feel you intelligence grow just by holding it.
+L1008: 【821†Image】 Mage's Staff  120000G  1850G  A staff that can be used as a walking stick. Popular among older wizards.
+L1009: 【822†Image】 Rune Staff  N/A  24000G  A staff used by great wizards. Its magical power can be boosted by writing runes in the air.
+L1010: 【823†Image】 Mage's Staff+  N/A  11500G  A mage's staff strengthened with magic power. Not only more powerful, but easier to use as well.
+L1011: 【824†Image】 Magic Broom  N/A  27000G  A staff that long ago belonged to a witch. You can use it to fly around in classic witchy style.
+L1012: 【825†Image】 Basket  500G  80G  A basket that fits more than you'd think. Be careful not to leave things inside when fighting or they might spill!
+L1013: 【826†Image】 Magic Shot  N/A  48000G  A trumpet-shaped syringe. Makes mysterious sloshy sounds. Getting pierced with it would hurt a lot.
+L1014: 【827†Image】 Hell Branch  409100G  1220G  A staff made from a netherworld branch. There's rumors that the kid who invented this was scolded by his parents.
+L1015: 【828†Image】 Crimson Staff  999999G  6500G  A blood-colored staff. And no, it wasn't painted with real blood. It's just dye made from insects.
+L1016: 【829†Image】 Bubble Staff  N/A  10500G  A staff that produces millions of bubbles. It must be popular among children. Don't be so mean. Lend it to them.
+L1017: 【830†Image】 Gaia Rod  N/A  6200G  A staff that has the power of the earth. It gets power from the Forest of Beginnings secretly.
+L1018: 【831†Image】 Shooting Star Staff  165000G  550G  A staff inspired by speeding stars in the sky. Sadly, your speed will not become twice as fast.
+L1019: 【832†Image】 Cyclone Rod  N/A  7800G  A staff that has the power of the wind. It produces high suction power which is used as a cleaning tool in another world.
+L1020: 【833†Image】 Storm Wand  N/A  12000G  A staff that is believed to be able to call storms. If it really does, it's gonna be a problem. Please don't try it.
+L1021: 【834†Image】 Ruby Rod  22500G  550G  A passionate staff that shines bright red. No one can stop the feelings gushing out from this weapon.
+L1022: 【835†Image】 Emerald Rod  9000G  470G  Bright green is a symbol of calmness. This rod makes you look intelligent and cool.
+L1023: 【836†Image】 Sapphire Rod  35000G  650G  A very cute rod. This is the best for those who care about the beauty of their hair.
+L1024: 【837†Image】 Amethyst Rod  1880G  72G  A staff decorated with purple amethysts. Many of the wizards who have this rod are attractive mature people.
+L1025: 【838†Image】 Aquamarine Rod  2500G  190G  A staff decorated with an ocean blue stone.
+L1026: 【839†Image】 Diamond Rod  84800G
+L1027: 800G
+L1028: Although it's the king of jewels, the only thing people care about is its hardness. And it IS very hard.
+L1029: 【840†Image】 Friendly Rod  4800G  300G  A staff of friendship. "We should be good friends" means she doesn't want to date you.
+L1030: 【841†Image】 Love-Love Rod  5200G  1300G  A staff of love. Among wizard couples, it's secretly popular to equip it together.
+L1031: 【842†Image】 Sorcerer's Wand  N/A  98000G  An almighty staff. But a true sorcerer knows he actually knows nothing.
+L1032: 【843†Image】 Hell Curse  N/A  50000G  A staff that is believed to be created in a hellish pot. by the way, the udon cooked in that pot tastes amazing.
+L1033: 【844†Image】 Algernon  N/A  28000G  A staff of flowers given to someone. For some reason, handling it makes you feel extra sharp.
+L1034: 【845†Image】 Golden Turnip Staff  N/A  24000G  A staff in the shape of a Golden Turnip. When you drop it in a fountain, just be honest and say you dropped a gold staff.
+L1035: 【846†Image】 Sweet Potato Staff  N/A  300G  One autumn day, someone poked a roasted sweet potato with a broom. That's how this staff was created.
+L1036: 【847†Image】 Elvish Harp  N/A  45G  A beautiful and well-made harp. Created by famous Elvish craftsmen. You can play, sing, and hit enemies with it.
+L1037: 【848†Image】 Syringe  N/A  444G  A staff that is a fusion of treatment and injury made by a mad magic doctor. Not recommended for hospitals.
+L1038: ### Dual Blade[]
+L1039: Dual Blade
+L1040: Name Buy Sell Description
+L1041: 【849†Image】 Short Dagger  1310G  45G  Hold one in each hand to overwhelm your foes.
+L1042: 【850†Image】 Steel Edge  6500G  167G  Weapon made with sharpened iron. Heavy, and requires considerable skill to wield.
+L1043: 【851†Image】 Wind Edge  43800G  1000G  Two roaring swords that create winds capable of slicing through enemies.
+L1044: 【852†Image】 Frost Edge  9990G  438G  Two swords emanating cool air. Not for people who are overly sensitive to the cold.
+L1045: 【853†Image】 Steel Katana  71040G  1300G  Solid swords reinforced with high heat. So sharp that they can cut steel.
+L1046: 【854†Image】 Sonic Dagger  145700G  4800G  Slim wind-elemental dual blades that move at sonic speed. You can hear the air itself being cut in two.
+L1047: 【855†Image】 Salamander  96700G  2000G  Dual blades set ablaze. Be careful you don't get burned, 'cause these swords are hot, hot, hot!
+L1048: 【856†Image】 Twin Blade  88000G  1650G  Dual blades that can make you as strong as an ogre. The long blades help extend your reach. Also has a poisoning effect.
+L1049: 【857†Image】 Rampage  91400G  1700G  Called "Rampage" due to their fiery power and the violence they instill in their bearer.
+L1050: 【858†Image】 Platinum Edge  104400G  4200G  Dual blades made of pure platinum. Very sharp and durable.
+L1051: 【859†Image】 Efreet  N/A  9800G  High-heat dual blades that generate heat waves. Legend says they once caused an entire sea to evaporate.
+L1052: 【860†Image】 Deep Blizzard  N/A  8000G  Dual blades so called that all water around them freezes on contact. As such, its blades tend to change shape a lot.
+L1053: 【861†Image】 Dark Invitation  N/A  11200G  Magical soul-eating swords. They can end the lives of their targets in a single instant.
+L1054: 【862†Image】 Force Divide  N/A  12200G  Dual blades imbued with both fire and water energies. the temperature difference increases the damage dealt.
+L1055: 【863†Image】 Dragoon Claw  N/A  22000G  Dual blades in the shape of three dragon heads. The three on the left blade stop the other three from fighting.
+L1056: 【864†Image】 Heart Fire  N/A  5500G  Dual blades as hot as the sun. Their fire is said to turn everything to ash.
+L1057: 【865†Image】 Desert Wind  419800G  4000G  Dual blades designs inspired by desert winds. Popular for their beauty and strength.
+L1058: 【866†Image】 Broken Wall  999999G  6400G  Dual blades imbued with earth power. So hard that they can smash rocks to pieces.
+L1059: 【867†Image】 Orcus Sword  N/A  7100G  These long blades allow for a number of attacks to be made from a distance.
+L1060: 【868†Image】 Chaos Edge  186550G  5400G  Dual blades imbued with magical power. Has a paralyzing effect.
+L1061: 【869†Image】 Rune Edge  N/A  44000G  Dual blade imbued with runic power. Those lucky enough to see them in action may have their dreams come true.
+L1062: 【870†Image】 Iron Edge  16700G  440G  Reinforced dual blades. Heavy but well-balanced, making them easy to wield.
+L1063: 【871†Image】 Emerald Edge  N/A  18000G  Dual blades reinforced countless times.the increase to their magic power gives them a green tint.
+L1064: 【872†Image】 Thief Knife  23900G  780G  Dual blades often used by pirates and thieves. Holding them somehow makes you feel more inherently aggressive.
+L1065: 【873†Image】 Double Scratch  N/A  200G  Dual blades used to soothe itchy backs With two at your disposal, your whole back is covered!
+L1066: 【874†Image】 Priest Saber  N/A  9000G  Dual blades used by priests for protection. They're quite powerful, and guaranteed to keep anyone safely preaching.
+L1067: 【875†Image】 Earnest Edge  N/A  50000G  In the hands of an expert, these long blades can win a fight without taking a hit.
+L1068: 【876†Image】 Gorgeous Lx  50000G  6200G  Gorgeous duel blades. Not only one, but two of them. They're gorgeous, and you can be too, by wielding them.
+L1069: 【877†Image】 Acutorimass  N/A  800G  Cooking ladles reinforced as weapons. For some reason there are two.
+L1070: 【878†Image】 Twin Leeks  30939G  3939G  Leeks. Yes, leeks. Wielding them makes you feel like singing polka.
+L1071: 【879†Image】 Twin Justice  N/A  115000G  Justice now comes in two. Twice the justice, twice the power. Mete it upon your foes for...Uh...great justice!
+L1072: ### Tools[]
+L1073: Name Buy Sell Description
+L1074: 【880†Image】 Cheap Hoe  150G  24G  An old, rusty hoe. You can till the fields with it. Its blade is chipped.
+L1075: 【881†Image】 Sturdy Hoe  3000G  120G  A slightly stronger how. No longer chipped by rocks. Charge to cover a wider area.
+L1076: 【882†Image】 Seasoned Hoe  25000G  400G  A stronger hoe. Covers an even wider area when charged than the Sturdy Hoe.
+L1077: 【883†Image】 Shiny Hoe  N/A  600G  A hoe that glimmers like the sweat on your brow. Covers a very wide area when charged.
+L1078: 【884†Image】 Blessed Hoe  N/A  2500G  A hoe so strong that the soil is all like, thank you, may I have another? Really wide coverage when charged.
+L1079: 【885†Image】 Cheap Waterpot  150G  37G  An old, rusted waterpot. You can water the fields with it. Press the B button repeatedly to water as you walk.
+L1080: 【886†Image】 Tin Waterpot  3000G  135G  A tin waterpot. Tough heavy, it can be charged to water the field.
+L1081: 【887†Image】 Lion Waterpot  25000G  400G  A super-cool waterpot. So cool that it can cover wider areas than most.
+L1082: 【888†Image】 Rainbow Waterpot  N/A  600G  A colorful waterpot. So colorful that it can cover wider areas than most. It wishes to be the prettiest waterpot at the dance.
+L1083: 【889†Image】 Joy Waterpot  N/A  2500G  A lovely waterpot. So lovely that its water strikes the field as if tears from an omnibenevolent deity above.
+L1084: 【890†Image】 Cheap Sickle  300G  38G  An old, rusty sickle. Use it to cut weeds and plants. You can also cut crops to collect seeds.
+L1085: 【891†Image】 Iron Sickle  3000G  140G  A fairly sharp sickle. Use it to cut weeds and plants. You can also cut crops to collect seeds.
+L1086: 【892†Image】 Quality Sickle  25000G  400G  A high-quality sickle. Use it to cut weeds and plants. You can also cut crops to collect seeds.
+L1087: 【893†Image】 Super Sickle  N/A  600G  An outstanding sickle. Use it to cut weeds and plants. You can also cut crops to collect seeds.
+L1088: 【894†Image】 Legendary Sickle  N/A  2500G  This sickle is sick...le! Use it to cut weeds and plants. You can also cut crops to collect seeds.
+L1089: 【895†Image】 Cheap Pole  1500G  44G  An old, rusty fishing pole. So old that it might break of the fish it too large.
+L1090: 【896†Image】 Beginner's Pole  5000G  170G  A pole for beginners. Can be charged to attract fish from far away.
+L1091: 【897†Image】 Skilled Pole  25000G  440G  A pole for novice fishers. Can be charged to attract fish from far away.
+L1092: 【898†Image】 Famous Pole  N/A  650G  A pole for master fishers. Can be charged to attract fish from far away.
+L1093: 【899†Image】 Sacred Pole  N/A  2500G  A pole so strong that it'll never break. Can be charged to attract fish from far away.
+L1094: 【900†Image】 Brush  2400G  640G  An item used to brush monsters. Capable of grooming just about anything!
+L1095: 【901†Image】 Clippers  1900G  520G  An item used to trim and clip Wooly fur. Designed not to hurt its target.
+L1096: 【902†Image】 Magnifying Glass  2000G  500G  An item used to check soil quality. Equip and examine fields to learn more about your crops.
+L1097: ## Armor[]
+L1098: ### Shield[]
+L1099: Shield
+L1100: Name Buy Sell Description
+L1101: 【903†Image】 Small Shield  70G  22G  A small shield, easy to use. Low defense capability.
+L1102: 【904†Image】 Iron Shield  1240G  47G  A simple shield made from iron. Wide, so it stops attacks fairly easily.
+L1103: 【905†Image】 Round Shield  5440G  118G  A rounded shield. Used to fend off attacks rather than simply deflecting them.
+L1104: 【906†Image】 Platinum Shield  127000G  3800G  A durable shield made of pure platinum. Greatly resists critical hits.
+L1105: 【907†Image】 Heavy Shield  90000G  940G  A shield made from layers of silver. Big and tough, it has a high chance of resisting critical hits.
+L1106: 【908†Image】 Knight Shield  N/A  7900G  Proof of bravery, only borne by a chosen few. Has a very high chance of resisting critical hits.
+L1107: 【909†Image】 Rune Shield  N/A  110000G  A shield made with runes. Not easily damaged, and blocks magic attacks. Halves light and darkness magic.
+L1108: 【910†Image】 Magic Shield  71500G  1200G  A shield that blocks magic attacks and seals. Best used together with a staff.
+L1109: 【911†Image】 Prism Shield  N/A  30000G  A shield that fends off magic attacks. Reduces damage by diffusing magical power. Blocks seals.
+L1110: 【912†Image】 Element Shield  N/A  14800G  A shield that raises defense against elemental attacks. Lighter than it looks and very easy to use.
+L1111: 【913†Image】 Chaos Shield  21500G  480G  A shield that goes with the chaos blade. Highly resistant to poison, paralysis and seals.
+L1112: 【914†Image】 Turtle Shield  9800G  240G  A shield made by combining turtle shells. Very heavy, and often used in training. Resists being blown away.
+L1113: 【915†Image】 Bone Shield  42000G  610G  A shield that's both light and hard. Its featherweight nature makes it easy to handle.
+L1114: 【916†Image】 Kite Shield  378000G  4600G  A shield with high defensive power. Simply shaped, easy to use and highly resistant to knockouts.
+L1115: 【917†Image】 Magical Shield  N/A  18000G  High in magic defense and resists status ailments. The crystal in its center reduces magic attacks.
+L1116: 【918†Image】 Monkey Plush  3950G  74G  A cute stuffed animal. Sold out in stores due to how terrifyingly cuddly it is.
+L1117: 【919†Image】 Umbrella  300G  52G  An expensive umbrella. Mainly meant for use as a parasol, but works against rain, too!
+L1118: 【920†Image】 Magic Plant Shield  N/A  1000G  A shield from a magic plant. The better you take care of it, the stronger it will be.
+L1119: ### Headgear[]
+L1120: Headgear
+L1121: Name Buy Sell Description
+L1122: 【921†Image】 Silver Hairpin  25000G  380G  A traditional craft item from the Far East. Worn on the head to ward off evil spirits.
+L1123: 【922†Image】 Gold Hairpin  N/A  1200G  A traditional craft item from the Far East. Made of finest gold.
+L1124: 【923†Image】 Fancy Hat  2800G  47G  A striking red hat. Breathes quite well, offering superior cranial comfort.
+L1125: 【924†Image】 Headband  65G  13G  A headband from the Far East. Tie it around your forehead when you want to feel awesome.
+L1126: 【925†Image】 Feathered Hat  N/A  330G  A hat with feathers in it. Protects your head and makes you look like an intellectual. Also increases love.
+L1127: 【926†Image】 Brand Glasses  6500G  650G  A famous designer's brand. Makes you look stylish!
+L1128: 【927†Image】 Spectacles  5000G  350G  People say you look smart with these.
+L1129: 【928†Image】 Intelligent Glasses  5500G  420G  You look rather more silly than smart in these.
+L1130: 【929†Image】 Straw Hat  1600G  68G  A hat great for summer. It feels good because it lets the heat out.
+L1131: 【930†Image】 Fireproof Hood  6800G  77G  Protects your head. Don't push. Don't run. Don't talk. Just stop, drop...and roooooll...
+L1132: 【931†Image】 Cute Knitting  1800G  27G  A warm, woolen hat.
+L1133: 【932†Image】 Black Ribbon  5000G  50G  A black-colored ribbon. Those who wear it look intimidating.
+L1134: 【933†Image】 Orange Ribbon  5000G  50G  An orange-colored ribbon. Those who wear it look fun to hang out with.
+L1135: 【934†Image】 Red Ribbon  31500G  50G  A red-colored ribbon. Those who wear it look passionate.
+L1136: 【935†Image】 Yellow Ribbon  10000G  50G  A yellow-colored ribbon. Those who wear it look intelligent.
+L1137: 【936†Image】 Blue Ribbon  500G  50G  A blue-colored ribbon. Those who wear it look loyal.
+L1138: 【937†Image】 Green Ribbon  500G  50G  A green-colored ribbon. Those who wear it look environmentally conscious. Possible hipster.
+L1139: 【938†Image】 Purple Ribbon  500G  50G  A purple-colored ribbon. Those who wear it look sort of gothic.
+

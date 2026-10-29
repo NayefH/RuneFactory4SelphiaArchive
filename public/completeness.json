@@ -1,0 +1,2510 @@
+{
+  "shippingRows": 884,
+  "recipeRows": 631,
+  "detailPages": 1311,
+  "unresolvedPages": [
+    {
+      "wikiTitle": "Pink Melon Seeds",
+      "listName": "Pink Melon Seeds",
+      "type": "item",
+      "error": "missingtitle"
+    },
+    {
+      "wikiTitle": "Gold Potato Seeds",
+      "listName": "Gold Potato Seeds",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Gold Potato Seeds"
+    },
+    {
+      "wikiTitle": "Grape Tree Seeds",
+      "listName": "Grape Tree Seeds",
+      "type": "item",
+      "error": "missingtitle"
+    },
+    {
+      "wikiTitle": "Fist of Wind",
+      "listName": "Fist of Wind",
+      "type": "item",
+      "error": "missingtitle"
+    },
+    {
+      "wikiTitle": "Star Sabre",
+      "listName": "Star Sabre",
+      "type": "item",
+      "error": "missingtitle"
+    },
+    {
+      "wikiTitle": "Giant's Glove",
+      "listName": "Giant's Glove",
+      "type": "item",
+      "error": "missingtitle"
+    },
+    {
+      "wikiTitle": "ChimeraTail",
+      "listName": "ChimeraTail",
+      "type": "item",
+      "error": "missingtitle"
+    },
+    {
+      "wikiTitle": "Sharance Maze",
+      "listName": "Sharance Maze",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Sharance Maze"
+    },
+    {
+      "wikiTitle": "Jewels",
+      "listName": "Jewels",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Jewels"
+    },
+    {
+      "wikiTitle": "Crystals",
+      "listName": "Crystals",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Crystals"
+    },
+    {
+      "wikiTitle": "Shells and Bones",
+      "listName": "Shells and Bones",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Shells and Bones"
+    },
+    {
+      "wikiTitle": "Shards",
+      "listName": "Shards",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Shards"
+    },
+    {
+      "wikiTitle": "Powders and Spores",
+      "listName": "Powders and Spores",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Powders and Spores"
+    },
+    {
+      "wikiTitle": "Soldier",
+      "listName": "Soldier",
+      "type": "monster",
+      "error": "missingtitle"
+    },
+    {
+      "wikiTitle": "Liquids",
+      "listName": "Liquids",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Liquids"
+    },
+    {
+      "wikiTitle": "Feathers",
+      "listName": "Feathers",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Feathers"
+    },
+    {
+      "wikiTitle": "Amber/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Amber/Dialogue"
+    },
+    {
+      "wikiTitle": "Clorica/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Clorica/Dialogue"
+    },
+    {
+      "wikiTitle": "Frey",
+      "listName": "Frey",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Frey"
+    },
+    {
+      "wikiTitle": "Lest",
+      "listName": "Lest",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Lest"
+    },
+    {
+      "wikiTitle": "Amber",
+      "listName": "Amber",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Amber"
+    },
+    {
+      "wikiTitle": "Dolce/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Dolce/Dialogue"
+    },
+    {
+      "wikiTitle": "Forte/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Forte/Dialogue"
+    },
+    {
+      "wikiTitle": "Margaret/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Margaret (RF4)/Dialogue"
+    },
+    {
+      "wikiTitle": "Xiao Pai/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Xiao Pai/Dialogue"
+    },
+    {
+      "wikiTitle": "Dolce",
+      "listName": "Dolce",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Dolce"
+    },
+    {
+      "wikiTitle": "Arthur/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Arthur/Dialogue"
+    },
+    {
+      "wikiTitle": "Doug/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Doug (RF4)/Dialogue"
+    },
+    {
+      "wikiTitle": "Dylas/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Dylas/Dialogue"
+    },
+    {
+      "wikiTitle": "Clorica",
+      "listName": "Clorica",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Clorica"
+    },
+    {
+      "wikiTitle": "Forte",
+      "listName": "Forte",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Forte"
+    },
+    {
+      "wikiTitle": "Kiel/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Kiel/Dialogue"
+    },
+    {
+      "wikiTitle": "Leon/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Leon/Dialogue"
+    },
+    {
+      "wikiTitle": "Xiao Pai",
+      "listName": "Xiao Pai",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Xiao Pai"
+    },
+    {
+      "wikiTitle": "Arthur",
+      "listName": "Arthur",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Arthur"
+    },
+    {
+      "wikiTitle": "Vishnal/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Vishnal/Dialogue"
+    },
+    {
+      "wikiTitle": "Bado/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Bado/Dialogue"
+    },
+    {
+      "wikiTitle": "Blossom/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Blossom/Dialogue"
+    },
+    {
+      "wikiTitle": "Illuminata/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Illuminata/Dialogue"
+    },
+    {
+      "wikiTitle": "Dylas",
+      "listName": "Dylas",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Dylas"
+    },
+    {
+      "wikiTitle": "Blossom",
+      "listName": "Blossom",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Blossom"
+    },
+    {
+      "wikiTitle": "Jones/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Jones/Dialogue"
+    },
+    {
+      "wikiTitle": "Lin Fa/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Lin Fa/Dialogue"
+    },
+    {
+      "wikiTitle": "Nancy/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Nancy/Dialogue"
+    },
+    {
+      "wikiTitle": "Kiel",
+      "listName": "Kiel",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Kiel"
+    },
+    {
+      "wikiTitle": "Ventuswill",
+      "listName": "Ventuswill",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Ventuswill"
+    },
+    {
+      "wikiTitle": "Leon",
+      "listName": "Leon",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Leon"
+    },
+    {
+      "wikiTitle": "Porcoline/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Porcoline/Dialogue"
+    },
+    {
+      "wikiTitle": "Ventuswill/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Ventuswill/Dialogue"
+    },
+    {
+      "wikiTitle": "Volkanon/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Volkanon/Dialogue"
+    },
+    {
+      "wikiTitle": "Illuminata",
+      "listName": "Illuminata",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Illuminata"
+    },
+    {
+      "wikiTitle": "Raven (RF4)/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Raven (RF4)/Dialogue"
+    },
+    {
+      "wikiTitle": "Barrett (RF4)/Dialogue",
+      "listName": "D",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Barrett (RF4)/Dialogue"
+    },
+    {
+      "wikiTitle": "Lin Fa",
+      "listName": "Lin Fa",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Lin Fa"
+    },
+    {
+      "wikiTitle": "Selphia",
+      "listName": "Selphia",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Selphia"
+    },
+    {
+      "wikiTitle": "Bell Hotel",
+      "listName": "Bell Hotel",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Bell Hotel"
+    },
+    {
+      "wikiTitle": "Vishnal",
+      "listName": "Vishnal",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Vishnal"
+    },
+    {
+      "wikiTitle": "Porcoline's Kitchen",
+      "listName": "Porcoline's Kitchen",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Porcoline's Kitchen"
+    },
+    {
+      "wikiTitle": "Blacksmith \"Meanderer\"",
+      "listName": "Blacksmith \"Meanderer\"",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Blacksmith \"Meanderer\""
+    },
+    {
+      "wikiTitle": "Forte's House",
+      "listName": "Forte's House",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Forte's House"
+    },
+    {
+      "wikiTitle": "Pico",
+      "listName": "Pico",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Pico"
+    },
+    {
+      "wikiTitle": "Volkanon",
+      "listName": "Volkanon",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Volkanon"
+    },
+    {
+      "wikiTitle": "Margaret's House",
+      "listName": "Margaret's House",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Margaret's House"
+    },
+    {
+      "wikiTitle": "Sincerity General Store",
+      "listName": "Sincerity General Store",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Sincerity General Store"
+    },
+    {
+      "wikiTitle": "Tiny Bandage Clinic",
+      "listName": "Tiny Bandage Clinic",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Tiny Bandage Clinic"
+    },
+    {
+      "wikiTitle": "Selphia Castle",
+      "listName": "Selphia Castle",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Selphia Castle"
+    },
+    {
+      "wikiTitle": "Noel",
+      "listName": "Noel",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Noel"
+    },
+    {
+      "wikiTitle": "Water Ruins",
+      "listName": "Water Ruins",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Water Ruins"
+    },
+    {
+      "wikiTitle": "Luna",
+      "listName": "Luna",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Luna"
+    },
+    {
+      "wikiTitle": "Delirium Lava Ruins",
+      "listName": "Delirium Lava Ruins",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Delirium Lava Ruins"
+    },
+    {
+      "wikiTitle": "Yokmir Forest",
+      "listName": "Yokmir Forest",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Yokmir Forest"
+    },
+    {
+      "wikiTitle": "Carnation's",
+      "listName": "Carnation's",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Carnation's"
+    },
+    {
+      "wikiTitle": "Obsidian Mansion",
+      "listName": "Obsidian Mansion",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Obsidian Mansion"
+    },
+    {
+      "wikiTitle": "Yokmir Cave",
+      "listName": "Yokmir Cave",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Yokmir Cave"
+    },
+    {
+      "wikiTitle": "Idra Cave",
+      "listName": "Idra Cave",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Idra Cave"
+    },
+    {
+      "wikiTitle": "Leon Karnak",
+      "listName": "Leon Karnak",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Leon Karnak"
+    },
+    {
+      "wikiTitle": "Floating Empire",
+      "listName": "Floating Empire",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Floating Empire"
+    },
+    {
+      "wikiTitle": "Sechs Territory",
+      "listName": "Sechs Territory",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Sechs Territory"
+    },
+    {
+      "wikiTitle": "Maya Road",
+      "listName": "Maya Road",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Maya Road"
+    },
+    {
+      "wikiTitle": "Revival Cave",
+      "listName": "Revival Cave",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Revival Cave"
+    },
+    {
+      "wikiTitle": "Demon's Den",
+      "listName": "Demon's Den",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Demon's Den"
+    },
+    {
+      "wikiTitle": "Cluck-Cluck Nest",
+      "listName": "Cluck-Cluck Nest",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Cluck-Cluck Nest"
+    },
+    {
+      "wikiTitle": "World of Fields",
+      "listName": "World of Fields",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "World of Fields"
+    },
+    {
+      "wikiTitle": "Prince Points",
+      "listName": "Prince Points",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Prince Points"
+    },
+    {
+      "wikiTitle": "Kaze no Traveler",
+      "listName": "Opening Song: Kaze no Traveler",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Kaze no Traveler"
+    },
+    {
+      "wikiTitle": "Rune Prana",
+      "listName": "Rune Prana",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Rune Prana"
+    },
+    {
+      "wikiTitle": "Selphia Plain",
+      "listName": "Selphia Plain",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Selphia Plain"
+    },
+    {
+      "wikiTitle": "Stones",
+      "listName": "Stones",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Stones"
+    },
+    {
+      "wikiTitle": "Rarity",
+      "listName": "Rarity",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Rarity"
+    },
+    {
+      "wikiTitle": "Special:FilePath/RF4BeginnersPole.png",
+      "listName": "",
+      "type": "item",
+      "error": "pagecannotexist"
+    },
+    {
+      "wikiTitle": "Special:FilePath/RF4CheapPole.png",
+      "listName": "",
+      "type": "item",
+      "error": "pagecannotexist"
+    },
+    {
+      "wikiTitle": "Special:FilePath/RF4SkilledPole.png",
+      "listName": "",
+      "type": "item",
+      "error": "pagecannotexist"
+    },
+    {
+      "wikiTitle": "Special:FilePath/RF4SacredPole.png",
+      "listName": "",
+      "type": "item",
+      "error": "pagecannotexist"
+    },
+    {
+      "wikiTitle": "Special:FilePath/RF4FamousPole.png",
+      "listName": "",
+      "type": "item",
+      "error": "pagecannotexist"
+    },
+    {
+      "wikiTitle": "Sharance Labyrinth",
+      "listName": "Sharance Labyrinth",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Sharance Labyrinth"
+    },
+    {
+      "wikiTitle": "Rice",
+      "listName": "Rice",
+      "type": "item",
+      "error": "no_rf4_section",
+      "resolved": "Rice"
+    },
+    {
+      "wikiTitle": "Barrett (RF4)",
+      "listName": "Barrett (RF4)",
+      "type": "item",
+      "category": "Characters (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Barrett (RF4)"
+    },
+    {
+      "wikiTitle": "Doug (RF4)",
+      "listName": "Doug (RF4)",
+      "type": "item",
+      "category": "Characters (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Doug (RF4)"
+    },
+    {
+      "wikiTitle": "Bado",
+      "listName": "Bado",
+      "type": "item",
+      "category": "Characters (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Bado"
+    },
+    {
+      "wikiTitle": "Jones",
+      "listName": "Jones",
+      "type": "item",
+      "category": "Characters (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Jones"
+    },
+    {
+      "wikiTitle": "Margaret (RF4)",
+      "listName": "Margaret (RF4)",
+      "type": "item",
+      "category": "Characters (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Margaret (RF4)"
+    },
+    {
+      "wikiTitle": "Eliza (RF4)",
+      "listName": "Eliza (RF4)",
+      "type": "item",
+      "category": "Characters (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Eliza (RF4)"
+    },
+    {
+      "wikiTitle": "Porcoline",
+      "listName": "Porcoline",
+      "type": "item",
+      "category": "Characters (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Porcoline"
+    },
+    {
+      "wikiTitle": "Nancy",
+      "listName": "Nancy",
+      "type": "item",
+      "category": "Characters (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Nancy"
+    },
+    {
+      "wikiTitle": "Raven (RF4)",
+      "listName": "Raven (RF4)",
+      "type": "item",
+      "category": "Characters (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Raven (RF4)"
+    },
+    {
+      "wikiTitle": "Forest of Beginnings",
+      "listName": "Forest of Beginnings",
+      "type": "item",
+      "category": "Locations (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Forest of Beginnings"
+    },
+    {
+      "wikiTitle": "Summer Area",
+      "listName": "Summer Area",
+      "type": "item",
+      "category": "Locations (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Summer Area"
+    },
+    {
+      "wikiTitle": "Spring Area",
+      "listName": "Spring Area",
+      "type": "item",
+      "category": "Locations (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Spring Area"
+    },
+    {
+      "wikiTitle": "Fall and Winter Area",
+      "listName": "Fall and Winter Area",
+      "type": "item",
+      "category": "Locations (RF4)",
+      "error": "no_rf4_section",
+      "resolved": "Fall and Winter Area"
+    }
+  ],
+  "conflicts": [
+    {
+      "name": "Roundoff",
+      "level": 28,
+      "source": "https://therunefactory.fandom.com/wiki/Moondrop_Flower#Rune_Factory_4",
+      "ingredients": [
+        "Moondrop Flower"
+      ]
+    },
+    {
+      "name": "Greenifier",
+      "level": 34,
+      "source": "https://therunefactory.fandom.com/wiki/Withered_Grass#Rune_Factory_4",
+      "ingredients": [
+        "Withered Grass",
+        "Indigo Grass",
+        "Moondrop"
+      ]
+    },
+    {
+      "name": "Recovery Potion",
+      "level": 3,
+      "source": "https://therunefactory.fandom.com/wiki/Recovery_Potion#Rune_Factory_4",
+      "ingredients": [
+        "Medicinal Herb",
+        "Medicinal Herb"
+      ]
+    },
+    {
+      "name": "Fenrir",
+      "level": 99,
+      "source": "https://therunefactory.fandom.com/wiki/Fenrir#Rune_Factory_4",
+      "ingredients": [
+        "Rune Sphere Shard",
+        "Rune Crystal",
+        "Red Lion Fur",
+        "Blue Lion Fur",
+        "Broken Wall"
+      ]
+    },
+    {
+      "name": "Great Hammer",
+      "level": 22,
+      "source": "https://therunefactory.fandom.com/wiki/Great_Hammer#Rune_Factory_4",
+      "ingredients": [
+        "Silver",
+        "[[Shards]"
+      ]
+    },
+    {
+      "name": "Bone Hammer",
+      "level": 31,
+      "source": "https://therunefactory.fandom.com/wiki/Bone_Hammer#Rune_Factory_4",
+      "ingredients": [
+        "Gold",
+        "Giant's Gloves",
+        "[[Shells and Bones]",
+        "[[Shells and Bones]"
+      ]
+    },
+    {
+      "name": "Strider Boots",
+      "level": 40,
+      "source": "https://therunefactory.fandom.com/wiki/Strider_Boots#Rune_Factory_4",
+      "ingredients": [
+        "Pretty Thread",
+        "Silver",
+        "Gold",
+        "Cloths and Skins"
+      ]
+    },
+    {
+      "name": "Rocket Wing",
+      "level": 99,
+      "source": "https://therunefactory.fandom.com/wiki/Rocket_Wing#Rune_Factory_4",
+      "ingredients": [
+        "Ancient Fish Fin",
+        "Dragon Golem Scale",
+        "Basilisk Scale",
+        "General's Orb",
+        "Feathers"
+      ]
+    },
+    {
+      "name": "Power Gloves",
+      "level": 42,
+      "source": "https://therunefactory.fandom.com/wiki/Power_Gloves#Rune_Factory_4",
+      "ingredients": [
+        "Giant's Gloves",
+        "Blue Giant's Glove"
+      ]
+    },
+    {
+      "name": "Earth Shade",
+      "level": 30,
+      "source": "https://therunefactory.fandom.com/wiki/Silver#Rune_Factory_4",
+      "ingredients": [
+        "Gold",
+        "Silver",
+        "Earth Crystal"
+      ]
+    },
+    {
+      "name": "Tin Waterpot",
+      "level": 15,
+      "source": "https://therunefactory.fandom.com/wiki/Bronze#Rune_Factory_4",
+      "ingredients": [
+        "Bronze",
+        "Shards"
+      ]
+    },
+    {
+      "name": "Braveheart",
+      "level": 89,
+      "source": "https://therunefactory.fandom.com/wiki/Sapphire#Rune_Factory_4",
+      "ingredients": [
+        "Dragonic Stone",
+        "Earthwyrm Scale",
+        "Love Scale",
+        "Love Crystal",
+        "Sapphire"
+      ]
+    },
+    {
+      "name": "Power Gloves",
+      "level": 42,
+      "source": "https://therunefactory.fandom.com/wiki/Blue_Giant%27s_Glove#Rune_Factory_4",
+      "ingredients": [
+        "Giant's Gloves",
+        "Blue Giant's Glove"
+      ]
+    },
+    {
+      "name": "Safety Lance",
+      "level": 13,
+      "source": "https://therunefactory.fandom.com/wiki/Ghost_Hood#Rune_Factory_4",
+      "ingredients": [
+        "Platinum",
+        "Sticks and Stems"
+      ]
+    },
+    {
+      "name": "Tomahawk",
+      "level": 28,
+      "source": "https://therunefactory.fandom.com/wiki/Silk_Cloth#Rune_Factory_4",
+      "ingredients": [
+        "Silver",
+        "Emerald",
+        "Silk Cloth",
+        "Cloths and Skins"
+      ]
+    },
+    {
+      "name": "Stay-Up Ring",
+      "level": 46,
+      "source": "https://therunefactory.fandom.com/wiki/Holy_Spore#Rune_Factory_4",
+      "ingredients": [
+        "Holy Spore",
+        "Minerals"
+      ]
+    },
+    {
+      "name": "Gaia Sword",
+      "level": 27,
+      "source": "https://therunefactory.fandom.com/wiki/Earth_Crystal#Rune_Factory_4",
+      "ingredients": [
+        "Gold",
+        "Rigid Horn"
+      ]
+    },
+    {
+      "name": "Wind Sword",
+      "level": 40,
+      "source": "https://therunefactory.fandom.com/wiki/Wind_Crystal#Rune_Factory_4",
+      "ingredients": [
+        "Platinum",
+        "Wind Crystal"
+      ]
+    },
+    {
+      "name": "Fists of Dark",
+      "level": 46,
+      "source": "https://therunefactory.fandom.com/wiki/Malm_Claw#Rune_Factory_4",
+      "ingredients": [
+        "Malm Claw",
+        "Wind Crystal",
+        "Cursed Doll"
+      ]
+    },
+    {
+      "name": "Power Gloves",
+      "level": 42,
+      "source": "https://therunefactory.fandom.com/wiki/Giant%27s_Gloves#Rune_Factory_4",
+      "ingredients": [
+        "Giant's Gloves",
+        "Blue Giant's Glove"
+      ]
+    },
+    {
+      "name": "Curry Bread",
+      "level": 59,
+      "source": "https://therunefactory.fandom.com/wiki/Flour#Rune_Factory_4",
+      "ingredients": [
+        "Oil",
+        "Flour",
+        "Curry"
+      ]
+    },
+    {
+      "name": "Curry Udon",
+      "level": 56,
+      "source": "https://therunefactory.fandom.com/wiki/Flour#Rune_Factory_4",
+      "ingredients": [
+        "Flour",
+        "Curry"
+      ]
+    },
+    {
+      "name": "Donut",
+      "level": 46,
+      "source": "https://therunefactory.fandom.com/wiki/Oil#Rune_Factory_4",
+      "ingredients": [
+        "Oil",
+        "Flour",
+        "Egg (M)"
+      ]
+    },
+    {
+      "name": "Curry Bread",
+      "level": 59,
+      "source": "https://therunefactory.fandom.com/wiki/Curry_Bread#Rune_Factory_4",
+      "ingredients": [
+        "Oil",
+        "Flour",
+        "Curry"
+      ]
+    },
+    {
+      "name": "Curry Udon",
+      "level": 56,
+      "source": "https://therunefactory.fandom.com/wiki/Curry_Udon#Rune_Factory_4",
+      "ingredients": [
+        "Flour",
+        "Curry"
+      ]
+    },
+    {
+      "name": "Butter Roll",
+      "level": 43,
+      "source": "https://therunefactory.fandom.com/wiki/Butter_Roll#Rune_Factory_4",
+      "ingredients": [
+        "Flour",
+        "Milk (S)",
+        "Egg (S)"
+      ]
+    },
+    {
+      "name": "Pound Cake",
+      "level": 23,
+      "source": "https://therunefactory.fandom.com/wiki/Poundcake#Rune_Factory_4",
+      "ingredients": [
+        "Flour",
+        "E / g"
+      ]
+    },
+    {
+      "name": "Fruit Juice",
+      "level": 18,
+      "source": "https://therunefactory.fandom.com/wiki/Fruit_Juice#Rune_Factory_4",
+      "ingredients": [
+        "Apple",
+        "Grape",
+        "Orange"
+      ]
+    }
+  ],
+  "ranchItems": 1076,
+  "ranchAdded": [
+    "Mushroom (1)",
+    "Mushroom (2)",
+    "Mushroom (3)",
+    "Mushroom (4)",
+    "Mushroom (5)",
+    "Mushroom (6)",
+    "Gold Melon Seeds",
+    "Grape Tree Seed",
+    "No Rot ß",
+    "Lightening Mane",
+    "Red Lion's Fur",
+    "Cheap Propellor",
+    "Quality Propellor",
+    "Glitta Augita",
+    "Escape"
+  ],
+  "dataConflicts": [
+    {
+      "item": "Kaiser Cucumber",
+      "field": "difficulty",
+      "primary": "42",
+      "alternate": "7",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Tomato",
+      "field": "cook",
+      "primary": "HP +180 Psn Res +9.99%",
+      "alternate": "HP +180, Psn Res +10%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Eggplant",
+      "field": "cook",
+      "primary": "HP +100 Crit +0.98%",
+      "alternate": "HP +100, Crit +1%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Emperor Eggplant",
+      "field": "cook",
+      "primary": "HP +270 Crit +9.99%",
+      "alternate": "HP +270, Crit +10%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Bok Choy",
+      "field": "cook",
+      "primary": "HP +130 Seal Res +9.99%",
+      "alternate": "HP +130, Seal Res +10%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Hot-Hot Fruit",
+      "field": "upgrade",
+      "primary": "MDEF +7 Fire Res +4.98%",
+      "alternate": "MAG DEF +7, FIRE RES +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Giant Hot-Hot Fruit",
+      "field": "upgrade",
+      "primary": "MDEF +11 Fire Res +14.99%",
+      "alternate": "MAG DEF +11%, FIRE RES +15%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Golden Cabbage",
+      "field": "cook",
+      "primary": "HP +500 INT +2.49%",
+      "alternate": "HP +500, INT +2.5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Golden King Cabbage",
+      "field": "cook",
+      "primary": "HP +950 INT +4.98%",
+      "alternate": "HP +950, INT +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Golden Pumpkin",
+      "field": "buy",
+      "primary": 20000,
+      "alternate": 50000,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Golden Pumpkin",
+      "field": "cook",
+      "primary": "HP +400 VIT +2.49%",
+      "alternate": "HP +400, VIT +2.5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Gldn. Doom Pumpkin",
+      "field": "cook",
+      "primary": "HP +950 VIT +4.98%",
+      "alternate": "HP +950, VIT +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Golden Potato",
+      "field": "cook",
+      "primary": "HP +350 HP max +2.49%",
+      "alternate": "HP +350, HP max +2.5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Gold Prince Potato",
+      "field": "cook",
+      "primary": "HP +950 HP max +4.98%",
+      "alternate": "HP +950, HP max +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Golden Turnip",
+      "field": "cook",
+      "primary": "HP +800 STR +2.49%",
+      "alternate": "HP +800, STR +2.5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Golden Tyrant Turnip",
+      "field": "cook",
+      "primary": "HP +1000 STR +4.98%",
+      "alternate": "HP +1000, STR +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Strawberry",
+      "field": "cook",
+      "primary": "HP +35 RP +15 Psn Res +4.98% Seal Res +4.98% Par Res +4.98%",
+      "alternate": "HP +35, RP +15, Psn Res +5%, Seal Res +5%, Par Res +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Sultan Strawberry",
+      "field": "cook",
+      "primary": "HP +100 RP +35 Psn Res +29.98% Seal Res +29.98% Par Res +29.98%",
+      "alternate": "HP +100, RP +35, Psn Res +30%, Seal Res +30%, Par Res +30%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Mealy Apple",
+      "field": "upgrade",
+      "primary": "STR -100 INT -100 VIT -150 Fire Res -10.01% Water Res -10.01% Earth Res -10.01% Wind Res -10.01% Light Res -10.01% Dark Res -10.01%",
+      "alternate": "STR -100, VIT -150, INT -100, Fire Res -10%, Water Res -10%, Earth Res -10%, Wind Res -10%, Light Res -10%, Dark Res -10%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Mealy Apple",
+      "field": "consume",
+      "primary": "STR -50% INT -50% VIT -50% Fire Res -10.01% Water Res -10.01% Earth Res -10.01% Wind Res -10.01% Light Res -10.01% Dark Res -10.01%",
+      "alternate": "(3HR DURATION) STR -50%, VIT -50%, INT -50%, Fire Res -10%, Water Res -10%, Earth Res -10%, Wind Res -10%, Light Res -10%, Dark Res -10%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Toyherb",
+      "field": "upgrade",
+      "primary": "VIT +1 Ftg Res +4.98%",
+      "alternate": "VIT +1, Ftg Res +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Ultra Toyherb",
+      "field": "upgrade",
+      "primary": "Ftg Res +29.98%",
+      "alternate": "Ftg Res +30%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Medicinal Herb",
+      "field": "upgrade",
+      "primary": "Ftg Res +0.98%",
+      "alternate": "Ftg Res +1%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Antidote Grass",
+      "field": "upgrade",
+      "primary": "Psn Res +2.98%",
+      "alternate": "Psn Res +3%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Withered Grass",
+      "field": "consume",
+      "primary": "Status Ailments: PSN RP -20.02%",
+      "alternate": "RP -20% Causes PSN",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Cherry Grass",
+      "field": "upgrade",
+      "primary": "Slp Atk +0.98%",
+      "alternate": "Slp Atk +1%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "King Cherry Grass",
+      "field": "upgrade",
+      "primary": "Slp Atk +8.98%",
+      "alternate": "Slp Atk +9%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Blue Crystal",
+      "field": "upgrade",
+      "primary": "MATK +10 MDEF +10 Water Res +4.98%",
+      "alternate": "M.ATK +10, M.DEF +10, Water Res +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Green Crystal",
+      "field": "upgrade",
+      "primary": "MDEF +20 Wind Res +4.98%",
+      "alternate": "M.DEF +20, Wind Res +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Big Green Crystal",
+      "field": "buy",
+      "primary": 240000,
+      "alternate": 400000,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Big Green Crystal",
+      "field": "difficulty",
+      "primary": "74",
+      "alternate": "76",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Autumn Grass",
+      "field": "upgrade",
+      "primary": "Slp Res +5.98%",
+      "alternate": "Slp Res +6%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Pom-Pom Grass",
+      "field": "upgrade",
+      "primary": "Psn Atk +2.98% Psn Res +4.98%",
+      "alternate": "Psn Atk +3%, Psn Res +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "King Pom-Pom Grass",
+      "field": "upgrade",
+      "primary": "Psn Atk +14.99% Psn Res +18.99%",
+      "alternate": "Psn Atk +15%, Psn Def +19%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "King Pom-Pom Grass",
+      "field": "consume",
+      "primary": "Status Ailments: PSN RP +100",
+      "alternate": "RP +65 Causes PSN",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Red Crystal",
+      "field": "upgrade",
+      "primary": "MATK +20 Fire Res +4.98%",
+      "alternate": "M.ATK +20, Fire Res +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "White Crystal",
+      "field": "upgrade",
+      "primary": "INT +20 Earth Res +4.98%",
+      "alternate": "INT +20, Earth Res +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "The Protein",
+      "field": "difficulty",
+      "primary": "72",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Intelligencer",
+      "field": "difficulty",
+      "primary": "72",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Vital Gummi",
+      "field": "difficulty",
+      "primary": "72",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Heart Drink",
+      "field": "difficulty",
+      "primary": "72",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Antidote Potion",
+      "field": "difficulty",
+      "primary": "40",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Para-Gone",
+      "field": "difficulty",
+      "primary": "16",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Roundoff",
+      "field": "difficulty",
+      "primary": "11",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Cold Medicine",
+      "field": "difficulty",
+      "primary": "29",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Formuade",
+      "field": "difficulty",
+      "primary": "35",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Love Potion",
+      "field": "difficulty",
+      "primary": "80",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Invinciroid",
+      "field": "difficulty",
+      "primary": "78",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Leveliser",
+      "field": "difficulty",
+      "primary": "81",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Healing Potion",
+      "field": "difficulty",
+      "primary": "5",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Mystery Potion",
+      "field": "difficulty",
+      "primary": "16",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Magical Potion",
+      "field": "difficulty",
+      "primary": "53",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Object X",
+      "field": "difficulty",
+      "primary": "20",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Wettable Powder",
+      "field": "difficulty",
+      "primary": "3",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Greenifier",
+      "field": "difficulty",
+      "primary": "4",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Greenifier+",
+      "field": "difficulty",
+      "primary": "12",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Formula A",
+      "field": "difficulty",
+      "primary": "1",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Formula B",
+      "field": "difficulty",
+      "primary": "5",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Formula C",
+      "field": "difficulty",
+      "primary": "11",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "No Rot α",
+      "field": "difficulty",
+      "primary": "1",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Giantizer",
+      "field": "difficulty",
+      "primary": "1",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Minimizer",
+      "field": "difficulty",
+      "primary": "1",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fried Veggies",
+      "field": "difficulty",
+      "primary": "65",
+      "alternate": "62",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fried Rice",
+      "field": "difficulty",
+      "primary": "29",
+      "alternate": "30",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Cabbage Cakes",
+      "field": "difficulty",
+      "primary": "66",
+      "alternate": "64",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "French Fries",
+      "field": "difficulty",
+      "primary": "18",
+      "alternate": "24",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Croquettes",
+      "field": "difficulty",
+      "primary": "32",
+      "alternate": "33",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Corn Cereal",
+      "field": "difficulty",
+      "primary": "55",
+      "alternate": "53",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Miso Eggplant",
+      "field": "difficulty",
+      "primary": "29",
+      "alternate": "31",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fried Eggs",
+      "field": "difficulty",
+      "primary": "16",
+      "alternate": "20",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Omelet",
+      "field": "difficulty",
+      "primary": "25",
+      "alternate": "28",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Omelet Rice",
+      "field": "difficulty",
+      "primary": "64",
+      "alternate": "60",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Baked Apple",
+      "field": "difficulty",
+      "primary": "6",
+      "alternate": "9",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Curry Bread",
+      "field": "difficulty",
+      "primary": "62",
+      "alternate": "59",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "French Toast",
+      "field": "difficulty",
+      "primary": "30",
+      "alternate": "31",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Donut",
+      "field": "difficulty",
+      "primary": "45",
+      "alternate": "46",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fried Udon",
+      "field": "difficulty",
+      "primary": "91",
+      "alternate": "95",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Tempura",
+      "field": "difficulty",
+      "primary": "34",
+      "alternate": "36",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Gyoza",
+      "field": "difficulty",
+      "primary": "83",
+      "alternate": "88",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Dry Curry",
+      "field": "difficulty",
+      "primary": "81",
+      "alternate": "86",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Salted Masu Trout",
+      "field": "difficulty",
+      "primary": "6",
+      "alternate": "9",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Salted Char",
+      "field": "difficulty",
+      "primary": "15",
+      "alternate": "19",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Salted R. Trout",
+      "field": "difficulty",
+      "primary": "23",
+      "alternate": "27",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Salted C. Salmon",
+      "field": "difficulty",
+      "primary": "9",
+      "alternate": "12",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Salted Chub",
+      "field": "difficulty",
+      "primary": "18",
+      "alternate": "23",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Salted Salmon",
+      "field": "difficulty",
+      "primary": "12",
+      "alternate": "17",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Salted Taimen",
+      "field": "difficulty",
+      "primary": "79",
+      "alternate": "80",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled C. Carp",
+      "field": "difficulty",
+      "primary": "11",
+      "alternate": "14",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Gibelio",
+      "field": "difficulty",
+      "primary": "16",
+      "alternate": "19",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Snapper",
+      "field": "difficulty",
+      "primary": "52",
+      "alternate": "51",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Girella",
+      "field": "difficulty",
+      "primary": "11",
+      "alternate": "16",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled G. Snapper",
+      "field": "difficulty",
+      "primary": "89",
+      "alternate": "93",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled L. Snapper",
+      "field": "difficulty",
+      "primary": "68",
+      "alternate": "66",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Skipjack",
+      "field": "difficulty",
+      "primary": "35",
+      "alternate": "37",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Mackerel",
+      "field": "difficulty",
+      "primary": "12",
+      "alternate": "16",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Yellowtail",
+      "field": "difficulty",
+      "primary": "71",
+      "alternate": "69",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Salted Pond Smelt",
+      "field": "difficulty",
+      "primary": "5",
+      "alternate": "6",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Tuna Teriyaki",
+      "field": "difficulty",
+      "primary": "76",
+      "alternate": "75",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Dried Sardines",
+      "field": "difficulty",
+      "primary": "18",
+      "alternate": "24",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Needlefish",
+      "field": "difficulty",
+      "primary": "9",
+      "alternate": "12",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Salted Pike",
+      "field": "difficulty",
+      "primary": "6",
+      "alternate": "8",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Flounder",
+      "field": "difficulty",
+      "primary": "30",
+      "alternate": "31",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Turbot",
+      "field": "difficulty",
+      "primary": "17",
+      "alternate": "21",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled F.Flounder",
+      "field": "difficulty",
+      "primary": "61",
+      "alternate": "58",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Squid",
+      "field": "difficulty",
+      "primary": "10",
+      "alternate": "13",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Lamp Squid",
+      "field": "difficulty",
+      "primary": "56",
+      "alternate": "54",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Blowfish",
+      "field": "difficulty",
+      "primary": "75",
+      "alternate": "72",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Lobster",
+      "field": "difficulty",
+      "primary": "40",
+      "alternate": "41",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled Shrimp",
+      "field": "difficulty",
+      "primary": "13",
+      "alternate": "18",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grilled S.Flounder",
+      "field": "difficulty",
+      "primary": "11",
+      "alternate": "15",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Corn on the Cob",
+      "field": "difficulty",
+      "primary": "53",
+      "alternate": "52",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Baked Onigiri",
+      "field": "difficulty",
+      "primary": "7",
+      "alternate": "10",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Sweet Potato",
+      "field": "difficulty",
+      "primary": "17",
+      "alternate": "20",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Toast",
+      "field": "difficulty",
+      "primary": "18",
+      "alternate": "21",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Jam Roll",
+      "field": "sell",
+      "primary": 1940,
+      "alternate": 380,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Jam Roll",
+      "field": "buy",
+      "primary": 5000,
+      "alternate": 1200,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Jam Roll",
+      "field": "difficulty",
+      "primary": "32",
+      "alternate": "27",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Butter Roll",
+      "field": "difficulty",
+      "primary": "42",
+      "alternate": "43",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Pizza",
+      "field": "difficulty",
+      "primary": "64",
+      "alternate": "60",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Seafood Pizza",
+      "field": "difficulty",
+      "primary": "59",
+      "alternate": "56",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Doria",
+      "field": "difficulty",
+      "primary": "80",
+      "alternate": "84",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Seafood Doria",
+      "field": "difficulty",
+      "primary": "38",
+      "alternate": "39",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Gratin",
+      "field": "difficulty",
+      "primary": "80",
+      "alternate": "85",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Seafood Gratin",
+      "field": "difficulty",
+      "primary": "41",
+      "alternate": "42",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Cookie",
+      "field": "difficulty",
+      "primary": "36",
+      "alternate": "38",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Choco Cookie",
+      "field": "difficulty",
+      "primary": "44",
+      "alternate": "45",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Apple Pie",
+      "field": "difficulty",
+      "primary": "34",
+      "alternate": "36",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Raisin Bread",
+      "field": "difficulty",
+      "primary": "20",
+      "alternate": "27",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Bread",
+      "field": "difficulty",
+      "primary": "6",
+      "alternate": "8",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Pineapple Juice",
+      "field": "difficulty",
+      "primary": "79",
+      "alternate": "81",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Tomato Juice",
+      "field": "difficulty",
+      "primary": "33",
+      "alternate": "35",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grape Juice",
+      "field": "difficulty",
+      "primary": "5",
+      "alternate": "7",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Apple Juice",
+      "field": "difficulty",
+      "primary": "8",
+      "alternate": "11",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Strawberry Milk",
+      "field": "difficulty",
+      "primary": "32",
+      "alternate": "33",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fruit Juice",
+      "field": "difficulty",
+      "primary": "15",
+      "alternate": "18",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fruit Smoothie",
+      "field": "difficulty",
+      "primary": "35",
+      "alternate": "37",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Vegetable Juice",
+      "field": "difficulty",
+      "primary": "63",
+      "alternate": "59",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Veggie Smoothie",
+      "field": "difficulty",
+      "primary": "67",
+      "alternate": "65",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Mixed Juice",
+      "field": "difficulty",
+      "primary": "79",
+      "alternate": "83",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Ice Cream",
+      "field": "difficulty",
+      "primary": "21",
+      "alternate": "25",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Yogurt",
+      "field": "consume",
+      "primary": "RP +50",
+      "alternate": "HP +30, RP +30",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Failed Dish",
+      "field": "consume",
+      "primary": "HP -20.02% RP Max -10.01% STR -10.01% INT -10.01% VIT -10.01%",
+      "alternate": "HP -20%, RP -10%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Scrap Metal+",
+      "field": "difficulty",
+      "primary": "",
+      "alternate": "10",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Scrap Metal+",
+      "field": "upgrade",
+      "primary": "DEF +2",
+      "alternate": "DEF +3",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Aquamarine",
+      "field": "sell",
+      "primary": 165,
+      "alternate": 150,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fire Crystal",
+      "field": "sell",
+      "primary": 220,
+      "alternate": 200,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Water Crystal",
+      "field": "sell",
+      "primary": 330,
+      "alternate": 300,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Stick",
+      "field": "upgrade",
+      "primary": "ATK +2",
+      "alternate": "ATK +1",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Thick Stick",
+      "field": "difficulty",
+      "primary": "65",
+      "alternate": "62",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Black Bird Feather",
+      "field": "sell",
+      "primary": 148,
+      "alternate": 135,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Dragon Bones",
+      "field": "sell",
+      "primary": 2700,
+      "alternate": 1800,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Blk. Tortoise Shell",
+      "field": "sell",
+      "primary": 200,
+      "alternate": 30,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Blk. Tortoise Shell",
+      "field": "buy",
+      "primary": 1600,
+      "alternate": 150,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Blk. Tortoise Shell",
+      "field": "difficulty",
+      "primary": "62",
+      "alternate": "15",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Blk. Tortoise Shell",
+      "field": "upgrade",
+      "primary": "DEF +26 M.DEF +7",
+      "alternate": "DEF +4, M. DEF +1, CRIT -3%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Golem Tablet",
+      "field": "sell",
+      "primary": 2760,
+      "alternate": 2300,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Yarn",
+      "field": "difficulty",
+      "primary": "4 DEF +1 M.ATK +1",
+      "alternate": "4",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Old Bandage",
+      "field": "sell",
+      "primary": 30,
+      "alternate": 28,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Scorpion Tail",
+      "field": "sell",
+      "primary": 102,
+      "alternate": 93,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Shiny Screw",
+      "field": "sell",
+      "primary": 2530,
+      "alternate": 2300,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Great Hammer Shard",
+      "field": "sell",
+      "primary": 238,
+      "alternate": 217,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "MTGU Plate",
+      "field": "sell",
+      "primary": 2530,
+      "alternate": 2300,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "MTGU Plate",
+      "field": "difficulty",
+      "primary": "80",
+      "alternate": "37",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Pirate's Armor",
+      "field": "sell",
+      "primary": 404,
+      "alternate": 311,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Broken Ice Wall",
+      "field": "difficulty",
+      "primary": "96",
+      "alternate": "#",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fur (S)",
+      "field": "sell",
+      "primary": 7,
+      "alternate": 6,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fur (S)",
+      "field": "buy",
+      "primary": 30,
+      "alternate": 10,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fur",
+      "field": "sell",
+      "primary": 32,
+      "alternate": 25,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Fur",
+      "field": "difficulty",
+      "primary": "8",
+      "alternate": "9",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Chest Hair",
+      "field": "upgrade",
+      "primary": "ATK +25 DEF +110 M.DEF +60 INT -5 Diz Res 25%",
+      "alternate": "ATK +25, DEF +110, M. DEF +2, STUN RES +5%",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Ghost Hood",
+      "field": "sell",
+      "primary": 90,
+      "alternate": 52,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Ghost Hood",
+      "field": "buy",
+      "primary": 630,
+      "alternate": 310,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Silk Cloth",
+      "field": "sell",
+      "primary": 138,
+      "alternate": 126,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Panther Claw",
+      "field": "sell",
+      "primary": 360,
+      "alternate": 60,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Panther Claw",
+      "field": "buy",
+      "primary": 90,
+      "alternate": 360,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Ivory Tusk",
+      "field": "upgrade",
+      "primary": "ATK +15 DEF -5 M.ATK +1",
+      "alternate": "ATK +16, DEF -5, M. ATK +1",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Big Giant's Nail",
+      "field": "sell",
+      "primary": 384,
+      "alternate": 320,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Dragon Fang",
+      "field": "sell",
+      "primary": 240,
+      "alternate": 60,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Dragon Fang",
+      "field": "buy",
+      "primary": 1920,
+      "alternate": 360,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Dragon Fang",
+      "field": "difficulty",
+      "primary": "80",
+      "alternate": "20",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Wind Dragon Tooth",
+      "field": "difficulty",
+      "primary": "98",
+      "alternate": "90",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Wet Scale",
+      "field": "sell",
+      "primary": 256,
+      "alternate": 151,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Black Scale",
+      "field": "sell",
+      "primary": 400,
+      "alternate": 364,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Glitter Scale",
+      "field": "difficulty",
+      "primary": "96",
+      "alternate": "88",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Grimoire Scale",
+      "field": "sell",
+      "primary": 3080,
+      "alternate": 2800,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Light Ore",
+      "field": "sell",
+      "primary": 10000,
+      "alternate": 680,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Double Steel",
+      "field": "sell",
+      "primary": 110,
+      "alternate": 10000,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Raccoon Leaf",
+      "field": "sell",
+      "primary": 3000,
+      "alternate": 2000,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Icy Nose",
+      "field": "sell",
+      "primary": 3600,
+      "alternate": 3000,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Big Bird's Comb",
+      "field": "sell",
+      "primary": 1440,
+      "alternate": 1200,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Warrior's Proof",
+      "field": "sell",
+      "primary": 330,
+      "alternate": 300,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Proof of Rank",
+      "field": "sell",
+      "primary": 330,
+      "alternate": 300,
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Branch",
+      "field": "difficulty",
+      "primary": "",
+      "alternate": "2",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Can",
+      "field": "difficulty",
+      "primary": "",
+      "alternate": "1",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Boot",
+      "field": "difficulty",
+      "primary": "",
+      "alternate": "1",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    },
+    {
+      "item": "Rare Can",
+      "field": "difficulty",
+      "primary": "",
+      "alternate": "50",
+      "source": "https://ranchstory.miraheze.org/wiki/Item_List_(Rune_Factory_4)"
+    }
+  ],
+  "helperImagesMatched": 506,
+  "recipesWithAcquisition": 30,
+  "recipeNamesWithAcquisition": 28,
+  "recipeAcquisitionSources": 29,
+  "unmatchedRecipeAcquisitions": [],
+  "items": 1089,
+  "monsters": 178,
+  "recipes": 665,
+  "images": 1264,
+  "itemsWithAttributes": 1070,
+  "monstersWithStats": 173,
+  "itemsWithoutIndividualPage": [
+    "Escape",
+    "Gold Melon Seeds",
+    "Gold Potato Seeds",
+    "Grape Tree Seed",
+    "Mushroom (1)",
+    "Mushroom (2)",
+    "Mushroom (3)",
+    "Mushroom (4)",
+    "Mushroom (5)",
+    "Mushroom (6)"
+  ],
+  "imagesDownloaded": 1258,
+  "missingImages": [
+    {
+      "name": "???",
+      "type": "monster",
+      "reason": "Fandom image server returned HTTP 403; original source retained"
+    },
+    {
+      "name": "Ethelwill",
+      "type": "monster",
+      "reason": "Fandom image server returned HTTP 403; original source retained"
+    },
+    {
+      "name": "Handonetta",
+      "type": "monster",
+      "reason": "Fandom image server returned HTTP 403; original source retained"
+    },
+    {
+      "name": "Ragnarok",
+      "type": "monster",
+      "reason": "Fandom image server returned HTTP 403; original source retained"
+    },
+    {
+      "name": "Ruffled Flower",
+      "type": "monster",
+      "reason": "no_rf4_image_in_sources"
+    },
+    {
+      "name": "Ruffled Horsetail",
+      "type": "monster",
+      "reason": "no_rf4_image_in_sources"
+    },
+    {
+      "name": "Ruffled Vine",
+      "type": "monster",
+      "reason": "no_rf4_image_in_sources"
+    },
+    {
+      "name": "Sano",
+      "type": "monster",
+      "reason": "Fandom image server returned HTTP 403; original source retained"
+    },
+    {
+      "name": "Uno",
+      "type": "monster",
+      "reason": "Fandom image server returned HTTP 403; original source retained"
+    }
+  ]
+}

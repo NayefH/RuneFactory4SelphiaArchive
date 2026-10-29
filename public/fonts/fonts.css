@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/cd74f945c5a31ee7.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/4957974402028840.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts/19239bffcb744396.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts/768a9f0c4c9352aa.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts/98332267038b9cdf.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts/4ef325e31f9e3ca9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts/3527e8c63798be3e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(/fonts/2b196e874f42be4b.ttf) format('truetype');
+}

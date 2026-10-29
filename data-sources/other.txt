@@ -1,0 +1,171 @@
+Other Items (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Other_Items_%28RF4%29)
+citeturn21view0 [wordlim: 200] Crawled: 1.5 years ago; Content type: text/html; Source: open({"ref_id":"https://therunefactory.fandom.com/wiki/Other_Items_(RF4)","lineno":680}); Redirected to URL: https://therunefactory.fandom.com/wiki/Other_Items_(RF4); Total lines: 958
+L615: 【679†Image】 【236†Small Crystal】  80  13  ATK +80  12000  120000  Dropped by 【226†Gates】, 【237†Ice Wizards】 in 【238†Rune Prana 5】
+L616: (Also minable in 【200†Rune Prana】 and becomes minable in iron-containing ore once your level is high enough)
+L620: 【682†Image】 【241†Electro Crystal】  93  15  ATK +60, M.ATK +150, M.DEF -5, Par Atk 35%  3100  160000  【242†Bane Dragon】 in 【200†Rune Prana】
+L621: ### Sticks and Stems[]
+L622: Sticks and Stems
+L623: Item Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L624: 【683†Image】 【243†Branch】  N/A  0  ATK +1  20  100  Found in fields and can be turned into 【244†lumber】.
+L625: 【684†Image】 【244†Lumber】  N/A  0  ATK +1  40  500  Axe
+L626: 【685†Image】 【245†Stick】  2  0  ATK +2  9  50  【246†Orcs】 in 【206†Yokmir Forest】
+L627: 【686†Image】 【247†Insect Horn】  7  1  ATK +3  21  100  【248†Beetle】 in 【206†Yokmir Forest】
+L628: 【687†Image】 【249†Plant Stem】  28  3  ATK +3, M.ATK +3  65  390  【250†Leaf Ball】 in 【210†Yokmir Cave】
+L629: 【688†Image】 【251†Bull's Horn】  36  7  ATK +7, DEF +1  95  670  【252†Buffaloo】 in 【194†Delirium Lava Ruins】
+L630: 【689†Image】 【253†Rigid Horn】  52  10  ATK +15, Crit +1%  130  1040  【254†Heracles】 on 【195†Maya Road】
+L631: 【690†Image】 【255†Thick Stick】  65  12  ATK +34  198  1590  【256†Gigantes】 in 【199†Floating Empire】
+L632: 【691†Image】 【257†Devil Horn】  86  13  ATK +55, M.ATK +50  312  2810  【258†Arch Demon】 in 【202†Leon Karnak】
+L633: 【692†Image】 【259†Moving Branch】  95  9  ATK -10, M.ATK +200  4500  210000  【260†Dead Tree 2】 in 【204†Rune Prana 7】
+L634: ### Liquids[]
+L635: Liquids
+L636: Liquid Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L637: 【693†Image】 【261†Glue】  26  5  ATK +1, DEF +2, M.DEF +2  70  420  【262†High Orc】 in 【210†Yokmir Cave】 (Pretty much any 【246†Orc】-Type)
+L638: 【694†Image】 【263†Devil Blood】  39  9  M.ATK +9, Drain Res +15%  116  920  【264†Daemon】 in 【197†Idra Cave】
+L639: 【695†Image】 【265†Paralysis Poison】  30  10  Psn Atk 20%  131  1050  【266†Hornet Queen】 on 【195†Maya Road】
+L640: 【696†Image】 【267†Poison King】  86  14  ATK +5, M.ATK +88 Psn Atk 80%  308  2770  Hornet King in 【268†Rune Prana 2】
+L641: ### Feathers[]
+L642: Feathers
+L643: Feather Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L644: 【697†Image】 【269†Bird's Feather】  10  2  INT +2  31  155  【270†Weagle】 in 【208†Water Ruins】, 【271†Mamadoodle】 in 【272†Cluck-Cluck Nest】 (Really any bird-type)
+L645: 【698†Image】 【273†Black Bird Feather】  50  10  INT +14  148  1080  【274†Blackbird】 on 【195†Maya Road】
+L646: 【699†Image】 【275†Thunderbird Feather】  58  12  INT +28  210  1680  【276†Thunderbird】 in 【199†Floating Empire】
+L647: 【700†Image】 【277†Yellow Feather】  90  5  INT +130  100  800  【278†Big Ducks】 in 【268†Rune Prana 2】
+L648: 【701†Image】 【279†Dragon Fin】  96  15  VIT -10, INT +300  10000  300000  【280†Aquaticus】 in 【281†Sharance Maze】, Chance while 【282†fishing】
+L649: ### Shells and Bones[]
+L650: Shells and Bones
+L651: Items Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L652: 【702†Image】 【283†Turtle Shell】  15  2  DEF +4, M.DEF +1, Crit -3%  30  150  【284†Tortas】 in 【208†Water Ruins】
+L653: 【703†Image】 【285†Fish Fossil】  20  3  M.ATK +4, M.DEF +1  33  165  【286†Sky Fish】 in 【208†Water Ruins】, 【287†Sealy】 in 【215†Sechs Territory】
+L654: 【704†Image】 【288†Skull】  39  9  M.ATK +8, M.DEF +5, SIck Atk 4%  120  960  【289†Ghost】 in 【191†Obsidian Mansion】 (Chance drop on any Ghost-Type)
+L655: 【705†Image】 【290†Dragon Bones】  50  8  DEF +10, M.DEF +10,   VIT +10  2700  24000  【291†Ancient Bone】 in 【292†Revival Cave】
+L656: 【706†Image】 【293†Blk. Tortoise Shell】  62  12  DEF +26, M.DEF +7  200  1600  【294†Fortoise】 in 【199†Floating Empire】
+L657: 【707†Image】 【295†Ammonite】  92  15  DEF +135, M.DEF +82, STR -5  3200  168000  【296†Octopirate】 2 in 【268†Rune Prana 2】
+L658: ### Stones[]
+L659: Stones
+L660: Stone Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L661: 【708†Image】 【297†Rock】  N/A  0  Crit +1%  2  10  Found in fields, and can be turned into material stone.
+L662: 【709†Image】 【298†Material Stone】  N/A  0  Crit +1%  40  500  Hammer
+L663: 【710†Image】 【299†Round Stone】  25  4  ATK +5 Crit +5%  50  -  【282†Fished】 in waterfall area of 【206†Yokmir Forest】.
+L664: 【711†Image】 【300†Tiny Golem Stone】  38  9  DEF +8, Crit +2%  121  970  【301†Little Golem】 in 【197†Idra Cave】
+L665: 【712†Image】 【302†Golem Stone】  53  12  DEF +15, Crit +3%  208  1670G  【303†Sechs Golem】 in 【199†Floating Empire】
+L666: 【713†Image】 【304†Golem Tablet】  80  13  DEF +30, Crit +5%  2760  150000  【303†Sechs Golem】 in 【199†Floating Empire】
+L667: 【714†Image】 【305†Golem Spirit Stone】  85  14  DEF +105, Crit +6%  320  2880  【306†Guardian】 in 【307†Rune Prana 6】
+L668: 【715†Image】 【308†Tablet of Truth】  95  15  ATK +50, DEF +160, M.ATK +20, M.DEF -15, Crit +10%  3800  82000  【309†G Golem】 in 【200†Rune Prana】
+L669: Note: 【299†Round Stone】 is used as an ingredient for 【310†Magical Lance】 and 【311†Magic Charm】.
+L670: ### Strings[]
+L671: Strings
+L672: String Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L673: 【716†Image】 【312†Yarn】  4  1  DEF +1, M.ATK +1  80  300  【313†Crafting Table】
+L674: 【717†Image】 【314†Old Bandage】  11  2  M.ATK +2, M.DEF +1  28  140  【315†Goblin】 in 【208†Water Ruins】
+L675: 【718†Image】 【316†Ambrosia's Thorns】  30  2  ATK +7, M.ATK +7, Slp Atk 10%  400  7000  【317†Ambrosia】 in 【206†Yokmir Forest】
+L676: 【719†Image】 【318†Spider's Thread】  18  4  ATK +2, M.ATK +2, Par Atk 5%  48  290  【319†Spider】 in 【191†Obsidian Mansion】
+L677: 【720†Image】 【320†Puppetry Strings】  40  6  ATK +5, M.ATK +8, Seal Atk 15%, Par Atk 5%  964  32000  【321†Marionetta】 in 【191†Obsidian Mansion】
+L678: 【721†Image】 【322†Vine】  30  6  M.ATK +7, Seal Atk 4%  84  590  【323†Flower Lily】 on 【193†Autumn Road】
+L679: 【722†Image】 【324†Scorpion Tail】  30  7  ATK +5, Psn Atk 8%  102  650  【325†Scorpion】 in 【194†Delirium Lava Ruins】
+L680: 【723†Image】 【326†Strong Vine】  44  10  M.ATK +12, Seal Atk 10%  132G  1060G  【327†Flower Blossom】 in 【213†Sercerezo Hill】
+L681: 【724†Image】 【328†Pretty Thread】  52  12  M.ATK +16, Par Atk 25%  201  1610  【329†Hell Spider】 in 【199†Floating Empire】
+L682: 【725†Image】 【330†Chimera Tail】  95  15  ATK +200, M.ATK -10, Psn Atk 50%, Par Atk 50%  4500  215000  【331†Chimera】 2 in 【204†Rune Prana 7】
+L683: ### Shards[]
+L684: Shards
+L685: Shard Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L686: 【726†Image】 【332†Arrowhead】  3  0  STR +1  12  60  【246†Orc】 in 【206†Yokmir Forest】
+L687: 【727†Image】 【333†Blade Shard】  9  2  STR +2  29  145  【315†Goblin】 in 【208†Water Ruins】
+L688: 【728†Image】 【334†Broken Hilt】  21  5  DEF +2, Psn Res 5%, Seal Res 5%, Par Res 5%, Slp Res 5%, Ftg Res 5%, Sick Res 5%  90  540  Dropped by 【335†Monster Box】 and 【336†Gobble Box】
+L689: 【729†Image】 【337†Broken Box】  44  8  DEF +4, Psn Res 10%, Seal Res 10%, Par Res, 10% Slp, Res 10%, Ftg Res 10%, Sick Res 5%  220  800  Dropped by 【336†Gobble Box】
+L690: 【730†Image】 【338†Hammer Piece】  37  9  STR +6, Diz +1  118  940  【339†Hammer Troll】 on 【195†Maya Road】
+L691: 【731†Image】 【340†Shoulder Piece】  45  11  DEF +11, Knock +8%  149  1190  【341†Orc Viking】 in 【215†Sechs Territory】
+L692: 【732†Image】 【342†Rusty Screw】  57  11  M.ATK +25, M.DEF -2  198  1590  Boxes and 【343†Sechs Tank】 in 【199†Floating Empire】
+L693: 【733†Image】 【344†Shiny Screw】  80  11  DEF +30, M.ATK +40, M.DEF +10  2530  150000  【343†Sechs Tank】 in 【199†Floating Empire】
+L694: 【734†Image】 【345†Glistening Blade】  66  12  ATK +38  212  1700  【289†Ghost】 in 【199†Floating Empire】
+L695: 【735†Image】 【346†Great Hammer Shard】  60  12  STR +30, Diz +2  238  1740  【347†Baal】 in 【238†Rune Prana 5】
+L696: 【736†Image】 【348†Pirate's Armor】  84  14  DEF +83, Knock +15%  404  2800  【349†High Orc Viking】 in 【350†Rune Prana 3】
+L697: 【737†Image】 【351†Left Rock Shard】  88  14  DEF +120, M.DEF +35, Psn Res 6%, Seal Res 6%, Par Res 6%, Slp Res 6%, Ftg Res 6%, Sick Res 6%, Faint Res 1%, Drain Res 1%  2500  110000  【352†Sano】 in 【202†Leon Karnak】
+L698: 【738†Image】 【353†Right Rock Shard】  88  14  DEF +35, M.DEF +120, Diz Res 5%, Crt res 3%, Knock Res 15%  2500  110000  【354†Uno】 in 【202†Leon Karnak】
+L699: 【739†Image】 【355†MTGU Plate】  80  14  DEF +8, Ftg Res 8%, Sick Res 8%  2530  150000  【356†Armored Tank +】 in 【199†Floating Empire】
+L700: 【740†Image】 【357†Broken Ice Wall】  96  15  ATK +105, M.ATK +95, Stun +25%, Slp Res 10%  4444  90000  【358†Death Wall】 in 【307†Rune Prana 6】
+L701: ### Furs[]
+L702: Furs
+L703: Fur Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L704: 【741†Image】 【359†Fur (S)】  1  0  VIT +1, Diz Res 1%  7  30  【360†Wooly】, both dropped and farmed
+L705: 【742†Image】 【361†Fur (M)】  35  7  DEF +5, M.DEF +3, Diz Res 10%  200  1400  【362†Shmooly】 in 【213†Sercerezo Hill】, Farmed from 【360†Wooly】 (5-7 Hearts)
+L706: 【743†Image】 【363†Fur (L)】  52  10  DEF +10, M.DEF +5, Diz Res 25%, Slp Atk 3%  700  3800  Farmed from 【360†Wooly】 (7+ Hearts)
+L707: 【744†Image】 【364†Fur】  8  1  DEF +2, M.DEF +1, Diz Res 2%  32  120  【365†Chipsqueek】 in 【366†Selphia Plain】 (Most Wolf- and Panther-Types)
+L708: 【745†Image】 【367†Yellow Down】  17  3  DEF +2, M.DEF +2, Diz Res 5%  40  240  【368†Duck】 near 【191†Obsidian Mansion】
+L709: 【746†Image】 【369†Quality Fur】  23  4  DEF +3, M.DEF +2, Diz Res 10%  51  300  【370†Silver Wolf】 in 【210†Yokmir Cave】 (Chance on any Wolf-Type)
+L710: 【747†Image】 【371†Lightning Mane】  35  5  DEF +7, M.DEF +6, VIT +4, Diz Res 20%  700  12000  【372†Thunderbolt】 in 【208†Water Ruins】
+L711: 【748†Image】 【373†Quality Puffy Fur】  36  6  DEF +5, M.DEF +3, Diz Res 8%  80  560  【374†Furpy】 in 【193†Autumn Road】
+L712: 【749†Image】 【375†Wooly Furball】  41  9  DEF +8, M.DEF +4, Diz Res 16%, Slp Atk 1%  120  960  【362†Shmooly】 in 【213†Sercerezo Hill】
+L713: 【750†Image】 【376†Penguin Down】  66  11  DEF +30, M.DEF +8, Diz Res 18%  150  1050  【377†Emperor Penguin】 in 【215†Sechs Territory】
+L714: 【751†Image】 【378†Red Lion Fur】  92  15  ATK +10, DEF +105, M.DEF +35, Diz Res 20%  2800  75000  【379†Hinoe】 in 【380†Rune Prana 4】
+L715: 【752†Image】 【381†Blue Lion Fur】  92  15  DEF +35, M.ATK +10, M.DEF +105, Diz Res 20%  2800  75000  【382†Kinoto】 in 【380†Rune Prana 4】
+L716: 【753†Image】 【383†Chest Hair 】  91  15  ATK +25, DEF +110, M.DEF +60, INT -5, Diz Res 25%  3600  196000  【384†Greater Demon】 in Field Dungeons, 【384†Greater Demon 2】 in 【204†Rune Prana 7】
+L717: ### Powders and Spores[]
+L718: Powders and Spores
+L719: Item Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L720: 【754†Image】 【385†Spore】  8  1  M.ATK +2  22  110  【386†Big Muck】 in 【366†Selphia Plain】
+L721: 【755†Image】 【387†Fairy Dust】  19  3  M.ATK +5  45  270  【388†Fairy】 in 【366†Selphia Plain】
+L722: 【756†Image】 【389†Gunpowder】  27  5  ATK +1 M.ATK +5  72  430  Any 【390†Goblin Archer】
+L723: 【757†Image】 【391†Poison Powder】  20  6  M.ATK +2, M.DEF +2, Psn Atk 5%  82  570  【392†Tricky Muck】 on 【193†Autumn Road】
+L724: 【758†Image】 【393†Holy Spore】  33  7  M.ATK +10, Psn Atk 33%, Seal Atk 33%, Drain Res 50%  880  【394†Death Fungus】 on Mushroom Road (Fridays Only!), Can also show up in field dungeons
+L725: 【759†Image】 【395†Root】  35  8  M.ATK +8  105  840  【327†Flower Blossom】 in 【213†Sercerezo Hill】,【396†Rafflesia】 in 【194†Delirium Lava Ruins】, Chance drop from any Plant-Type
+L726: 【760†Image】 【397†Magic Powder】  40  9  M.ATK +10  120  960  【228†Little Mage】 in 【197†Idra Cave】
+L727: 【761†Image】 【398†Mysterious Powder】  55  10  M.ATK +15, Ftg Atk 10%, Sick Atk 5%  139  1110  【399†???】 in 【195†Maya Road】
+L728: 【762†Image】 【400†Magic】  53  11  M.ATK +20  156  1250  【401†Little Wizard】 in 【215†Sechs Territory】
+L729: 【763†Image】 【402†Fairy Elixir】  67  12  M.ATK +40  220  1760  【403†Dark Fairy】 in 【199†Floating Empire】
+L730: 【764†Image】 【404†Earth Dragon Ash】  80  11  DEF +33, M.DEF +33, VIT +5  2000  90000  【405†Terraclone】 in 【197†Idra Cave】
+L731: 【765†Image】 【406†Fire Dragon Ash】  80  12  ATK +80, STR +10  2100  110000  【407†Fiergaenger】 on 【195†Maya Road】
+L732: 【766†Image】 【408†Water Dragon Ash】  80  13  M.ATK +80, INT +10  2220  130000  【409†Aquameleon】 in 【215†Sechs Territory】
+L733: 【767†Image】 【410†Turnip's Miracle】  85  14  M.DEF +99  500  4500  【411†Turnip Ghosts】 in 【350†Rune Prana 3】
+L734: 【768†Image】 【412†Melody Bottle】  94  15  ATK +30, DEF -10, M.ATK +170, M.DEF +30, Psn Atk 10%, Seal Atk 10%, Par Atk 10%, Slp Atk 10%, Ftg Atk 10%, Sick Atk 10%, Faint Atk 1%  3500  180000  【413†Siren】 in 【238†Rune Prana 5】 (Her drops can be 【282†fished】 up)
+L735: ### Cloths and Skins[]
+L736: Cloths and Skins
+L737: Item Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L738: 【769†Image】 【414†Cheap Cloth】  2  0  DEF +1, Crt Res 1%  11  55  【246†Orc】
+L739: 【770†Image】 【415†Insect Carapace】  7  1  DEF +1, Psn Res 15%  10  50  【248†Beetle】
+L740: 【771†Image】 【416†Ghost Hood】  24  4  DEF +3, Seal Res 30%  90  630  【289†Ghost】 in 【191†Obsidian Mansion】
+L741: 【772†Image】 【417†Pretty Carapace】  35  6  DEF +3, Seal Res 5%, Par Res 25%  90  630  【418†Killer Ant】 in 【210†Yokmir Cave】
+L742: 【773†Image】 【419†Quality Cloth】  32  7  DEF +5, Crt Res 5%  96  720  【420†Goblin Pirate】 in 【194†Delirium Lava Ruins】
+L743: 【774†Image】 【421†Quality Worn Cloth】  83  8  DEF +52, M.DEF +35, Diz Res 10%, Crt Res 10%, Seal Res 30%  215  900  【422†Onionger】 in 【423†Rune Prana 1】
+L744: 【775†Image】 【424†Silk Cloth】  38  9  DEF +9, Crt Res 4%  138  1000  【425†Hobgoblin】 in 【197†Idra Cave】
+L745: 【776†Image】 【426†Giant's Gloves】  43  10  ATK +3, DEF +8, Crt Res 6%  135  1070  【339†Hammer Troll】 on 【195†Maya Road】
+L746: 【777†Image】 【427†Blue Giant's Glove】  54  11  ATK +6, DEF +12, Crt Res 8%  210  1650  【428†Titan】 in 【204†Rune Prana 7】
+L747: 【778†Image】 【429†Ancient Orc Cloth】  90  14  DEF +96, M.DEF +48, Diz Res 15%, Crt Res 15%, Seal Res 30%  324  2920  【430†Death Orc】 in 【204†Rune Prana 7】
+L748: ### Claws and Fangs[]
+L749: Claws and Fangs
+L750: Item Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L751: 【779†Image】 【431†Insect Jaw】  4  0  ATK +2  27  80  【432†Ant】 in 【206†Yokmir Forest】 and 【210†Cave】
+L752: 【780†Image】 【433†Panther Claw】  20  4  ATK +4  66  360  【434†Shadow Panther】 in 【191†Obsidian Mansion】
+L753: 【781†Image】 【435†Wolf Fang】  30  5  ATK +6  136  460  【370†Silver Wolf】 in 【210†Yokmir Cave】
+L754: 【782†Image】 【436†Palm Claw】  32  6  ATK +8  86  600  【437†Palm Cat】 on 【193†Autumn Road】
+L755: 【783†Image】 【438†Giant's Nail】  40  7  ATK +10  98  690  【439†Troll】 in 【194†Delirium Lava Ruins】
+L756: 【784†Image】 【440†Chimera's Claw】  45  7  ATK +15, M.ATK +2, Psn Atk 5%, Par Atk 5%  1300  48000  【331†Chimera】 in 【208†Water Ruins】
+L757: 【785†Image】 【441†Ivory Tusk】  50  8  ATK +16, DEF -5, M.ATK +1  154  880  【442†Elefun】 in 【213†Sercerezo Hill】 (Chance on any Elephant-Type)
+L758: 【786†Image】 【443†Big Giant's Nail】  90  9  ATK +150  384  1150  【444†Master Troll】 in 【380†Rune Prana 4】
+L759: 【787†Image】 【445†Unbroken Ivory Tusk】  55  10  ATK +19, M.ATK +2  151  1220  【446†Mammoth】 in 【215†Sechs Territory】
+L760: 【788†Image】 【447†Gold Wolf Fang】  61  11  ATK +26  160  1280  【448†Hunter Wolf】 in 【215†Sechs Territory】
+L761: 【789†Image】 【449†Scorpion Pincer】  60  11  ATK +30, DEF -5  153  1230  【450†Death Stalker】 in 【215†Sechs Territory】
+L762: 【790†Image】 【451†Cheap Propeller】  62  11  ATK +29, DEF -2  181  1320  【452†Hover Soldier】 in 【199†Floating Empire】
+L763: 【791†Image】 【453†Quality Propeller】  69  12  ATK +40, DEF +5  238  1900  【454†Hover Warrior】 in 【199†Floating Empire】
+L764: 【792†Image】 【455†Magic Claw】  74  12  ATK +42, M.ATK +15  246  1800  【456†Blood Panther】 in 【199†Floating Empire】
+L765: 【793†Image】 【457†Dragon Fang】  80  13  ATK +60  240  1920  【458†Little Dragon】 in 【199†Floating Empire】 (Can also be aquired from any Dragon-type)
+L766: 【794†Image】 【459†Malm Claw】  88  14  ATK +121  396  3240  【460†Malm Tiger】 in 【202†Leon Karnak】
+L767: 【795†Image】 【461†Queen's Jaw】  89  14  ATK +100, DEF +10, M.ATK +40, M.DEF +10  345  3100  【462†Ant Queen】 in 【380†Rune Prana 4】
+L768: 【796†Image】 【463†Dangerous Scissors】  90  14  ATK +195, DEF -50  335  3010  【464†Heaven's Scissors】 in 【238†Rune Prana 5】
+L769: 【797†Image】 【465†Wind Dragon Tooth】  98  15  ATK +180, M.ATK 180  10000  【466†Ventuswill】 in 【281†Sharance Maze】
+L770: ### Scales[]
+L771: 
+L772: If a dragon scale is used to upgrade a 【467†shield】, 50% of its stats would be useable with 【187†weapons】 like 【468†dual swords】 and 【469†fists】.
+L773: Scales
+L774: Scale Upgrade Difficulty Rarity Upgrade Effect Sell Buy Locations
+L775: 【798†Image】 【470†Wet Scale】  58  11  VIT +22  256  1210  【287†Sealy】 in 【215†Sechs Territory】, 【282†Fished】 up in 【471†Selphia】
+L776: 【799†Image】 【472†Dragon Scale】  88  14  STR +10, VIT +140  364  3280  【473†Green Dragon】 in 【423†Rune Prana 1】 and 【204†Rune Prana 7】
+L777: 【800†Image】 【474†Crimson Scale】  88  14  STR +140, VIT +10  364  3280  【475†Red Dragon】 in 【380†Rune Prana 4】 and 【204†Rune Prana 7】
+L778: 【801†Image】 【476†Blue Scale】  88  14  VIT +10,  INT +140  364  3280  【477†Blue Dragon】 in 【307†Rune Prana 6】 and 【204†Rune Prana 7】
+L779: 【802†Image】 【478†Glitter Scale】  88  14  STR +70, VIT +10,  INT +70  364  3280  【479†Yellow Dragon】 in 【307†Rune Prana 6】 and 【204†Rune Prana 7】
+L780: 【803†Image】 【480†Love Scale】  88  14  STR +50, VIT +50,  INT +50  364  3280  【481†Pink Dragon】 in 【307†Rune Prana 6】 and 【204†Rune Prana 7】
+L781: 【804†Image】 【482†Black Scale】  88  14  STR +10, VIT +70, INT +70  400  3280  【483†Black Dragon】 in 【204†Rune Prana 7】
+L782: 【805†Image】 【484†Grimoire Scale】  95  15  STR +50, VIT +160, INT +50  3080  154000  【485†Grimoire 2】 in 【202†Leon Karnak】
+L783: 【806†Image】 【486†Firewyrm Scale】  96  15  Str +300 INT -10  10000  300000  【487†Fiersome】 in 【281†Sharance Maze】
+L784: 【807†Image】 【488†Earthwyrm Scale】  96  15  STR -10, VIT +300  10000  300000  【489†Terrable】 in 【281†Sharance Maze】
+L785: 【808†Image】 【490†Legendary Scale】  90  15  Drain Atk 10%  3000  50000  【280†Aquaticus】 in 【281†Sharance Maze】, Found while 【282†fishing】 (Reported in 【195†Maya Road】, 【491†Sercerezo Lake】, Very Rare catch)
+

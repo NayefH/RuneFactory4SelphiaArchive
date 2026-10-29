@@ -1,0 +1,26 @@
+{
+  "localPath": "/design/rf4-home.png",
+  "title": "Rune Factory 4 Special – offizielles Figuren-Promobanner",
+  "alt": "Lest, Frey und die Heiratskandidaten aus Rune Factory 4 vor blauem Himmel",
+  "game": "Rune Factory 4 Special",
+  "source": {
+    "name": "Ranch Story Wiki",
+    "page": "https://ranchstory.miraheze.org/wiki/File:RF4S_OfficialPromoArt_Banner.png",
+    "image": "https://static.wikitide.net/ranchstorywiki/2/2f/RF4S_OfficialPromoArt_Banner.png",
+    "wikiFileTitle": "File:RF4S OfficialPromoArt Banner.png",
+    "wikiPageId": 10711,
+    "uploadedAt": "2020-03-18T04:47:57Z",
+    "retrievedAt": "2026-10-29"
+  },
+  "dimensions": {
+    "width": 934,
+    "height": 187
+  },
+  "bytes": 445739,
+  "rights": {
+    "credit": "Rune Factory 4 Special © Marvelous Inc. / XSEED Games; Bild bereitgestellt vom Ranch Story Wiki.",
+    "officialCopyrightSource": "https://runefactory.com/rf4/multi.html",
+    "license": "Urheberrechtlich geschützte Spiel- und Promografik; keine offene Bildlizenz in den Ranch-Story-Dateimetadaten angegeben. Die Softwarelizenz des Projekts gilt nicht für diese Grafik."
+  },
+  "verification": "RF4S-Dateiname, Ranch-Story-Dateimetadaten und Sichtprüfung: bekannte RF4-Figuren Lest, Frey sowie RF4-Heiratskandidaten. Originaldatei unverändert übernommen."
+}

@@ -1,0 +1,230 @@
+Shipping List (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Shipping_List_%28RF4%29)
+citeturn33view0 [wordlim: 200] Crawled: last year; Content type: text/html; Source: open({"ref_id":"turn31view0","lineno":1080}); Redirected to URL: https://therunefactory.fandom.com/wiki/Shipping_List_(RF4); Total lines: 1988
+L1009: 【822†Image】 Rune Staff  N/A  24000G  A staff used by great wizards. Its magical power can be boosted by writing runes in the air.
+L1012: 【825†Image】 Basket  500G  80G  A basket that fits more than you'd think. Be careful not to leave things inside when fighting or they might spill!
+L1013: 【826†Image】 Magic Shot  N/A  48000G  A trumpet-shaped syringe. Makes mysterious sloshy sounds. Getting pierced with it would hurt a lot.
+L1014: 【827†Image】 Hell Branch  409100G  1220G  A staff made from a netherworld branch. There's rumors that the kid who invented this was scolded by his parents.
+L1015: 【828†Image】 Crimson Staff  999999G  6500G  A blood-colored staff. And no, it wasn't painted with real blood. It's just dye made from insects.
+L1016: 【829†Image】 Bubble Staff  N/A  10500G  A staff that produces millions of bubbles. It must be popular among children. Don't be so mean. Lend it to them.
+L1017: 【830†Image】 Gaia Rod  N/A  6200G  A staff that has the power of the earth. It gets power from the Forest of Beginnings secretly.
+L1018: 【831†Image】 Shooting Star Staff  165000G  550G  A staff inspired by speeding stars in the sky. Sadly, your speed will not become twice as fast.
+L1019: 【832†Image】 Cyclone Rod  N/A  7800G  A staff that has the power of the wind. It produces high suction power which is used as a cleaning tool in another world.
+L1020: 【833†Image】 Storm Wand  N/A  12000G  A staff that is believed to be able to call storms. If it really does, it's gonna be a problem. Please don't try it.
+L1021: 【834†Image】 Ruby Rod  22500G  550G  A passionate staff that shines bright red. No one can stop the feelings gushing out from this weapon.
+L1022: 【835†Image】 Emerald Rod  9000G  470G  Bright green is a symbol of calmness. This rod makes you look intelligent and cool.
+L1023: 【836†Image】 Sapphire Rod  35000G  650G  A very cute rod. This is the best for those who care about the beauty of their hair.
+L1024: 【837†Image】 Amethyst Rod  1880G  72G  A staff decorated with purple amethysts. Many of the wizards who have this rod are attractive mature people.
+L1025: 【838†Image】 Aquamarine Rod  2500G  190G  A staff decorated with an ocean blue stone.
+L1026: 【839†Image】 Diamond Rod  84800G
+L1027: 800G
+L1028: Although it's the king of jewels, the only thing people care about is its hardness. And it IS very hard.
+L1029: 【840†Image】 Friendly Rod  4800G  300G  A staff of friendship. "We should be good friends" means she doesn't want to date you.
+L1030: 【841†Image】 Love-Love Rod  5200G  1300G  A staff of love. Among wizard couples, it's secretly popular to equip it together.
+L1031: 【842†Image】 Sorcerer's Wand  N/A  98000G  An almighty staff. But a true sorcerer knows he actually knows nothing.
+L1032: 【843†Image】 Hell Curse  N/A  50000G  A staff that is believed to be created in a hellish pot. by the way, the udon cooked in that pot tastes amazing.
+L1033: 【844†Image】 Algernon  N/A  28000G  A staff of flowers given to someone. For some reason, handling it makes you feel extra sharp.
+L1034: 【845†Image】 Golden Turnip Staff  N/A  24000G  A staff in the shape of a Golden Turnip. When you drop it in a fountain, just be honest and say you dropped a gold staff.
+L1035: 【846†Image】 Sweet Potato Staff  N/A  300G  One autumn day, someone poked a roasted sweet potato with a broom. That's how this staff was created.
+L1036: 【847†Image】 Elvish Harp  N/A  45G  A beautiful and well-made harp. Created by famous Elvish craftsmen. You can play, sing, and hit enemies with it.
+L1037: 【848†Image】 Syringe  N/A  444G  A staff that is a fusion of treatment and injury made by a mad magic doctor. Not recommended for hospitals.
+L1038: ### Dual Blade[]
+L1039: Dual Blade
+L1040: Name Buy Sell Description
+L1041: 【849†Image】 Short Dagger  1310G  45G  Hold one in each hand to overwhelm your foes.
+L1042: 【850†Image】 Steel Edge  6500G  167G  Weapon made with sharpened iron. Heavy, and requires considerable skill to wield.
+L1043: 【851†Image】 Wind Edge  43800G  1000G  Two roaring swords that create winds capable of slicing through enemies.
+L1044: 【852†Image】 Frost Edge  9990G  438G  Two swords emanating cool air. Not for people who are overly sensitive to the cold.
+L1045: 【853†Image】 Steel Katana  71040G  1300G  Solid swords reinforced with high heat. So sharp that they can cut steel.
+L1046: 【854†Image】 Sonic Dagger  145700G  4800G  Slim wind-elemental dual blades that move at sonic speed. You can hear the air itself being cut in two.
+L1047: 【855†Image】 Salamander  96700G  2000G  Dual blades set ablaze. Be careful you don't get burned, 'cause these swords are hot, hot, hot!
+L1048: 【856†Image】 Twin Blade  88000G  1650G  Dual blades that can make you as strong as an ogre. The long blades help extend your reach. Also has a poisoning effect.
+L1049: 【857†Image】 Rampage  91400G  1700G  Called "Rampage" due to their fiery power and the violence they instill in their bearer.
+L1050: 【858†Image】 Platinum Edge  104400G  4200G  Dual blades made of pure platinum. Very sharp and durable.
+L1051: 【859†Image】 Efreet  N/A  9800G  High-heat dual blades that generate heat waves. Legend says they once caused an entire sea to evaporate.
+L1052: 【860†Image】 Deep Blizzard  N/A  8000G  Dual blades so called that all water around them freezes on contact. As such, its blades tend to change shape a lot.
+L1053: 【861†Image】 Dark Invitation  N/A  11200G  Magical soul-eating swords. They can end the lives of their targets in a single instant.
+L1054: 【862†Image】 Force Divide  N/A  12200G  Dual blades imbued with both fire and water energies. the temperature difference increases the damage dealt.
+L1055: 【863†Image】 Dragoon Claw  N/A  22000G  Dual blades in the shape of three dragon heads. The three on the left blade stop the other three from fighting.
+L1056: 【864†Image】 Heart Fire  N/A  5500G  Dual blades as hot as the sun. Their fire is said to turn everything to ash.
+L1057: 【865†Image】 Desert Wind  419800G  4000G  Dual blades designs inspired by desert winds. Popular for their beauty and strength.
+L1058: 【866†Image】 Broken Wall  999999G  6400G  Dual blades imbued with earth power. So hard that they can smash rocks to pieces.
+L1059: 【867†Image】 Orcus Sword  N/A  7100G  These long blades allow for a number of attacks to be made from a distance.
+L1060: 【868†Image】 Chaos Edge  186550G  5400G  Dual blades imbued with magical power. Has a paralyzing effect.
+L1061: 【869†Image】 Rune Edge  N/A  44000G  Dual blade imbued with runic power. Those lucky enough to see them in action may have their dreams come true.
+L1062: 【870†Image】 Iron Edge  16700G  440G  Reinforced dual blades. Heavy but well-balanced, making them easy to wield.
+L1063: 【871†Image】 Emerald Edge  N/A  18000G  Dual blades reinforced countless times.the increase to their magic power gives them a green tint.
+L1064: 【872†Image】 Thief Knife  23900G  780G  Dual blades often used by pirates and thieves. Holding them somehow makes you feel more inherently aggressive.
+L1065: 【873†Image】 Double Scratch  N/A  200G  Dual blades used to soothe itchy backs With two at your disposal, your whole back is covered!
+L1066: 【874†Image】 Priest Saber  N/A  9000G  Dual blades used by priests for protection. They're quite powerful, and guaranteed to keep anyone safely preaching.
+L1067: 【875†Image】 Earnest Edge  N/A  50000G  In the hands of an expert, these long blades can win a fight without taking a hit.
+L1068: 【876†Image】 Gorgeous Lx  50000G  6200G  Gorgeous duel blades. Not only one, but two of them. They're gorgeous, and you can be too, by wielding them.
+L1069: 【877†Image】 Acutorimass  N/A  800G  Cooking ladles reinforced as weapons. For some reason there are two.
+L1070: 【878†Image】 Twin Leeks  30939G  3939G  Leeks. Yes, leeks. Wielding them makes you feel like singing polka.
+L1071: 【879†Image】 Twin Justice  N/A  115000G  Justice now comes in two. Twice the justice, twice the power. Mete it upon your foes for...Uh...great justice!
+L1072: ### Tools[]
+L1073: Name Buy Sell Description
+L1074: 【880†Image】 Cheap Hoe  150G  24G  An old, rusty hoe. You can till the fields with it. Its blade is chipped.
+L1075: 【881†Image】 Sturdy Hoe  3000G  120G  A slightly stronger how. No longer chipped by rocks. Charge to cover a wider area.
+L1076: 【882†Image】 Seasoned Hoe  25000G  400G  A stronger hoe. Covers an even wider area when charged than the Sturdy Hoe.
+L1077: 【883†Image】 Shiny Hoe  N/A  600G  A hoe that glimmers like the sweat on your brow. Covers a very wide area when charged.
+L1078: 【884†Image】 Blessed Hoe  N/A  2500G  A hoe so strong that the soil is all like, thank you, may I have another? Really wide coverage when charged.
+L1079: 【885†Image】 Cheap Waterpot  150G  37G  An old, rusted waterpot. You can water the fields with it. Press the B button repeatedly to water as you walk.
+L1080: 【886†Image】 Tin Waterpot  3000G  135G  A tin waterpot. Tough heavy, it can be charged to water the field.
+L1081: 【887†Image】 Lion Waterpot  25000G  400G  A super-cool waterpot. So cool that it can cover wider areas than most.
+L1082: 【888†Image】 Rainbow Waterpot  N/A  600G  A colorful waterpot. So colorful that it can cover wider areas than most. It wishes to be the prettiest waterpot at the dance.
+L1083: 【889†Image】 Joy Waterpot  N/A  2500G  A lovely waterpot. So lovely that its water strikes the field as if tears from an omnibenevolent deity above.
+L1084: 【890†Image】 Cheap Sickle  300G  38G  An old, rusty sickle. Use it to cut weeds and plants. You can also cut crops to collect seeds.
+L1085: 【891†Image】 Iron Sickle  3000G  140G  A fairly sharp sickle. Use it to cut weeds and plants. You can also cut crops to collect seeds.
+L1086: 【892†Image】 Quality Sickle  25000G  400G  A high-quality sickle. Use it to cut weeds and plants. You can also cut crops to collect seeds.
+L1087: 【893†Image】 Super Sickle  N/A  600G  An outstanding sickle. Use it to cut weeds and plants. You can also cut crops to collect seeds.
+L1088: 【894†Image】 Legendary Sickle  N/A  2500G  This sickle is sick...le! Use it to cut weeds and plants. You can also cut crops to collect seeds.
+L1089: 【895†Image】 Cheap Pole  1500G  44G  An old, rusty fishing pole. So old that it might break of the fish it too large.
+L1090: 【896†Image】 Beginner's Pole  5000G  170G  A pole for beginners. Can be charged to attract fish from far away.
+L1091: 【897†Image】 Skilled Pole  25000G  440G  A pole for novice fishers. Can be charged to attract fish from far away.
+L1092: 【898†Image】 Famous Pole  N/A  650G  A pole for master fishers. Can be charged to attract fish from far away.
+L1093: 【899†Image】 Sacred Pole  N/A  2500G  A pole so strong that it'll never break. Can be charged to attract fish from far away.
+L1094: 【900†Image】 Brush  2400G  640G  An item used to brush monsters. Capable of grooming just about anything!
+L1095: 【901†Image】 Clippers  1900G  520G  An item used to trim and clip Wooly fur. Designed not to hurt its target.
+L1096: 【902†Image】 Magnifying Glass  2000G  500G  An item used to check soil quality. Equip and examine fields to learn more about your crops.
+L1097: ## Armor[]
+L1098: ### Shield[]
+L1099: Shield
+L1100: Name Buy Sell Description
+L1101: 【903†Image】 Small Shield  70G  22G  A small shield, easy to use. Low defense capability.
+L1102: 【904†Image】 Iron Shield  1240G  47G  A simple shield made from iron. Wide, so it stops attacks fairly easily.
+L1103: 【905†Image】 Round Shield  5440G  118G  A rounded shield. Used to fend off attacks rather than simply deflecting them.
+L1104: 【906†Image】 Platinum Shield  127000G  3800G  A durable shield made of pure platinum. Greatly resists critical hits.
+L1105: 【907†Image】 Heavy Shield  90000G  940G  A shield made from layers of silver. Big and tough, it has a high chance of resisting critical hits.
+L1106: 【908†Image】 Knight Shield  N/A  7900G  Proof of bravery, only borne by a chosen few. Has a very high chance of resisting critical hits.
+L1107: 【909†Image】 Rune Shield  N/A  110000G  A shield made with runes. Not easily damaged, and blocks magic attacks. Halves light and darkness magic.
+L1108: 【910†Image】 Magic Shield  71500G  1200G  A shield that blocks magic attacks and seals. Best used together with a staff.
+L1109: 【911†Image】 Prism Shield  N/A  30000G  A shield that fends off magic attacks. Reduces damage by diffusing magical power. Blocks seals.
+L1110: 【912†Image】 Element Shield  N/A  14800G  A shield that raises defense against elemental attacks. Lighter than it looks and very easy to use.
+L1111: 【913†Image】 Chaos Shield  21500G  480G  A shield that goes with the chaos blade. Highly resistant to poison, paralysis and seals.
+L1112: 【914†Image】 Turtle Shield  9800G  240G  A shield made by combining turtle shells. Very heavy, and often used in training. Resists being blown away.
+L1113: 【915†Image】 Bone Shield  42000G  610G  A shield that's both light and hard. Its featherweight nature makes it easy to handle.
+L1114: 【916†Image】 Kite Shield  378000G  4600G  A shield with high defensive power. Simply shaped, easy to use and highly resistant to knockouts.
+L1115: 【917†Image】 Magical Shield  N/A  18000G  High in magic defense and resists status ailments. The crystal in its center reduces magic attacks.
+L1116: 【918†Image】 Monkey Plush  3950G  74G  A cute stuffed animal. Sold out in stores due to how terrifyingly cuddly it is.
+L1117: 【919†Image】 Umbrella  300G  52G  An expensive umbrella. Mainly meant for use as a parasol, but works against rain, too!
+L1118: 【920†Image】 Magic Plant Shield  N/A  1000G  A shield from a magic plant. The better you take care of it, the stronger it will be.
+L1119: ### Headgear[]
+L1120: Headgear
+L1121: Name Buy Sell Description
+L1122: 【921†Image】 Silver Hairpin  25000G  380G  A traditional craft item from the Far East. Worn on the head to ward off evil spirits.
+L1123: 【922†Image】 Gold Hairpin  N/A  1200G  A traditional craft item from the Far East. Made of finest gold.
+L1124: 【923†Image】 Fancy Hat  2800G  47G  A striking red hat. Breathes quite well, offering superior cranial comfort.
+L1125: 【924†Image】 Headband  65G  13G  A headband from the Far East. Tie it around your forehead when you want to feel awesome.
+L1126: 【925†Image】 Feathered Hat  N/A  330G  A hat with feathers in it. Protects your head and makes you look like an intellectual. Also increases love.
+L1127: 【926†Image】 Brand Glasses  6500G  650G  A famous designer's brand. Makes you look stylish!
+L1128: 【927†Image】 Spectacles  5000G  350G  People say you look smart with these.
+L1129: 【928†Image】 Intelligent Glasses  5500G  420G  You look rather more silly than smart in these.
+L1130: 【929†Image】 Straw Hat  1600G  68G  A hat great for summer. It feels good because it lets the heat out.
+L1131: 【930†Image】 Fireproof Hood  6800G  77G  Protects your head. Don't push. Don't run. Don't talk. Just stop, drop...and roooooll...
+L1132: 【931†Image】 Cute Knitting  1800G  27G  A warm, woolen hat.
+L1133: 【932†Image】 Black Ribbon  5000G  50G  A black-colored ribbon. Those who wear it look intimidating.
+L1134: 【933†Image】 Orange Ribbon  5000G  50G  An orange-colored ribbon. Those who wear it look fun to hang out with.
+L1135: 【934†Image】 Red Ribbon  31500G  50G  A red-colored ribbon. Those who wear it look passionate.
+L1136: 【935†Image】 Yellow Ribbon  10000G  50G  A yellow-colored ribbon. Those who wear it look intelligent.
+L1137: 【936†Image】 Blue Ribbon  500G  50G  A blue-colored ribbon. Those who wear it look loyal.
+L1138: 【937†Image】 Green Ribbon  500G  50G  A green-colored ribbon. Those who wear it look environmentally conscious. Possible hipster.
+L1139: 【938†Image】 Purple Ribbon  500G  50G  A purple-colored ribbon. Those who wear it look sort of gothic.
+L1140: 【939†Image】 Indigo Ribbon  N/A  500G  An indigo-colored ribbon. Those who wear it looks regal.
+L1141: 【940†Image】 White Ribbon  80000G  50G  A white-colored ribbon. Those who wear it should probably avoid eating spaghetti.
+L1142: 【941†Image】 Turnip Headgear  2500G  40G  A hat made from a turnip. It was once used during Halloween, but it got replaced by a pumpkin.
+L1143: 【942†Image】 Pumpkin Headgear  2500G  135G  A hat made from a pumpkin. The hero of Halloween.
+L1144: 【943†Image】 Spring Headdress  N/A  500G  A headdress that makes you feel spring-y. People who love spring have pure hearts.
+L1145: 【944†Image】 Summer Headdress  N/A  500G  A headdress that makes you feel summer-y. People who love summer have strong hearts.
+L1146: 【945†Image】 Autumn Headdress  N/A  500G  A headdress that makes you feel autumn-y. People who love autumn have merciful hearts.
+L1147: 【946†Image】 Winter Headdress  N/A  500G  A headdress that makes you feel winter-y. People who love winter have open hearts.
+L1148: 【947†Image】 Lolita Headdress  9200G  68G  Gothic Lolita fashion that is popular among some people.
+L1149: 【948†Image】 Headdress  11480G  75G  An accessory that decorates your head. It must be frilly and flashy.
+L1150: 【949†Image】 Cat Ears  25000G  7G  An accessory inspired by a Palm Cat's ears.
+L1151: 【950†Image】 Crown  N/A  60000G  A classy crown that kings wear.
+L1152: 【951†Image】 Four Seasons  N/A  2500G  A headdress that makes you feel all seasons. It's for those who have pure, strong, merciful, and open hearts.
+L1153: 【952†Image】 Silk Hat  N/A  19G  When you wear this, you might hear a song. No tricks, no gimmicks!
+L1154: ### Shoes[]
+L1155: Shoes
+L1156: Name Buy Sell Description
+L1157: 【953†Image】 Feather Boots  N/A  7780G  Boots made of light material. Makes you feel like you're walking on air!
+L1158: 【954†Image】 Heavy Boots  20700G  520G  Boots made of steel. Keep you from blowing away, but you'll get tired more easily.
+L1159: 【955†Image】 Leather Boots  80G  7G  Leather boots made for travelers. Tough and durable.
+L1160: 【956†Image】 Knight Boots  N/A  12500G  Boots with very high defense. Fine quality. Often worn by knights.
+L1161: 【957†Image】 Snow Boots  95000G  1500G  Special boots originally created for wear in snowy regions. They stop you from slipping in any weather!
+L1162: 【958†Image】 Ice Skates  N/A  5400G  Boots that make you skate around like you're in a rink, anywhere you go. They don't let you jump or spin though.
+L1163: 【959†Image】 Piyo Sandals  320G  25G  Shoes that chirp with every step. They make you want to run around just to see how loud they can get.
+L1164: 【960†Image】 Step-In Boots  N/A  3200G  Boots designed to prevent you from executing dash attacks.
+L1165: 【961†Image】 Ghost Boots  N/A  6800G  Boots designed to lessen one's weight through principles learned from flying foes. Increases travel speed.
+L1166: 【962†Image】 Iron Geta  N/A  7000G  Simple iron footwear. Made for training purposes. Decreases travel speed.
+L1167: 【963†Image】 Strider Boots  188000G  2600G  Boots that help you take bigger steps. Lengthens your invincibility when dashing.
+L1168: 【964†Image】 Secret Shoes  8120G  108G  Boots with secret heels that make you look taller.
+L1169: 【965†Image】 Wet Boots  78000G  370G  Boots that are wet and slippery. Their natural power helps you land critical hits.
+L1170: 【966†Image】 Sneaking Boots  22000G  780G  Boots used to sneak up on unsuspecting foes unnoticed. Allows you to attack monsters before they attack you!
+L1171: 【967†Image】 Fast Step Boots  33600G  770G  Boots designed for dance practice. Puts a spring in their wearer's step.
+L1172: 【968†Image】 Water Shoes  N/A  280G  Footwear used by Ninja of the Far East. Helps you walk on water.
+L1173: 【969†Image】 Rocket Wing  N/A  120000G  Boots that help you walk faster than ever before. Takes your breath away, so make sure not to pass out!
+L1174: 【970†Image】 Silver Boots  14280G  400G  Simple silver boots. Wearing them increases defense.
+L1175: 【971†Image】 Gold Boots  50000G  1200G  Simple golden boots. Wearing them increases defense.
+L1176: 【972†Image】 Bone Boots  68900G  2100G  Boots made with a combination of hard bones. Through they may look primitive, they're high in defense.
+L1177: 【973†Image】 Fairy Boots  N/A  52000G  Rare boots made with fairy dust. Very light, but "fairy" tough.
+L1178: 【974†Image】 Free Farming Shoes  N/A  40G  Shoes for advanced farmers that make it possible to cultivate regardless of the grid lines.
+L1179: ### Armor[]
+L1180: Armor
+L1181: Name Buy Sell Description
+L1182: 【975†Image】 Shirt  120G  13G  A plain shirt to wear under clothes. It's made from materials which absorb sweat well.
+L1183: 【976†Image】 Vest  1300G  20G  Fancy clothing that keeps you warm. Also called a waistcoat.
+L1184: 【977†Image】 Wooly Shirt  N/A  4200G  The puffy wool protects you from attacks. but it's soooooo annoying to wash.
+L1185: 【978†Image】 Mercenary's Cloak  N/A  3000G  Makes you look super cool.
+L1186: 【979†Image】 Mail  9200G  206G  You've got mail!
+L1187: 【980†Image】 Cotton Cloth  4980G  125G  Might look like bandages, but they're not. Also not recommended as a chest wrap for women.
+L1188: 【981†Image】 Chain Mail  18000G  420G  With this, straw sandals and a ninja sword on your back, you're on your way to becomming a true warrior!
+L1189: 【982†Image】 Scale Vest  31000G  620G  A vest studded with scales.
+L1190: 【983†Image】 Protector  106200G  1000G  Equipment that prevents accidents before they happen.
+L1191: 【984†Image】 Wind Cloak  72780G  980G  A cloak imbued with the element of wind. Don't get any bright ideas and start jumping off of buildings, though.
+L1192: 【985†Image】 Sparkling Shirt  49200G  600G  This is the biggest challenge for people who love clothes. Wearing something like this...Are you out of mind?
+L1193: 【986†Image】 Platinum Mail  198000G  3800G  A luxurious mail made of platinum.
+L1194: 【987†Image】 Lamellar Vest  N/A  4500G  Armor made from plate-shaped scales. It doesn't impede your speed and also protects you well.
+L1195: 【988†Image】 Elvish Cloak  N/A  6400G  A brilliant cloak that is absolutely perfect. Only the beautiful can wear this.
+L1196: 【989†Image】 Power Protector  N/A  18000G  A reinforced protector. It will prevent any accidents.
+L1197: Disclaimer: Not to be used when cooking.
+L1198: 
+L1199: 【990†Image】 Dragon Cloak  N/A  7800G  A cloak with the symbol of a dragon. Anything with dragon on it is strong, right?
+L1200: 【991†Image】 Rune Vest  N/A  30000G  A vest imbued with the power of runes,
+L1201: 【992†Image】 Royal Garter  N/A  48000G  Makes you feel the dignity of the king.
+L1202: 【993†Image】 Four Dragons' Vest  N/A  120000G  A vest blessed by Native Dragons. Can tolerate any attack.
+L1203: ## Crafts[]
+L1204: ### Accessory[]
+L1205: Accessory
+L1206: Name Buy Sell Description
+L1207: 【994†Image】 Engagement Ring  N/A  1G  Use it to propose to your #1 love. Be sure you also prepare a double bed! Well...after they say yes, anyway.
+L1208: 【995†Image】 Dolphin Brooch  N/A  15000G  A lovely brooch made by a master craftsman, If one of your family equips it, enhances their status.
+L1209: 【996†Image】 Strange Pendant  N/A  600G  This creepy-looking pendant nullifies your defense and magic defense. So, uh, good luck with that.
+L1210: 【997†Image】 Stay-up Ring  N/A  1100G  You will no longer yawn with this ring. Hail to short sleepers!
+L1211: 【998†Image】 Throwing Ring  N/A  1200G  You can throw an item far away with this ring.
+L1212: 【999†Image】 Anette's Necklace  N/A  25000G  With wearing this necklace, you can move faster. Also, you're kicking up more clouds of dirt. Stop that.
+L1213: 【1000†Image】 Magic Earrings  425000G  1400G  Earrings made from dazzling magic stones. Makes even the ugliest of earlobes look nice.
+L1214: 【1001†Image】 Witch Earrings  160000G  1200G  Small, jaggy earrings. Coordinate nicely with a broomstick and pointy hat.
+L1215: 【1002†Image】 Earrings  1500G  50G  Dangly earrings. They're so cute when they bobble in the breeze.
+L1216: 【1003†Image】 Art of Magic  N/A  30000G  A book on secrets of spellcasting. Halves non-elemental attacks by way of magic walls.
+L1217: 【1004†Image】 Art of Defense  N/A  30000G  A book on the secrets of guarding. Halves time spent flinching, granting its reader a heart of steel.
+L1218: 【1005†Image】 Art of Attack  N/A  30000G  A book on the secrets of combat. Generates sonic waves and expands your weapon's target area.
+L1219: 【1006†Image】 Fluffy Scarf  N/A  1350G  A scarf made of soft cotton. Very warm. Cuts all RP consumption (with some exceptions).
+L1220: 【1007†Image】 Hand-Knit Scarf  18000G  390G  A warm, woolen scarf. Halves RP consumption (with some exceptions).
+L1221: 【1008†Image】 Proof of Wisdom  N/A  30000G  Proof of almighty wisdom. Slowly recovers RP.
+L1222: 【1009†Image】 Hero's Proof  N/A  30000G  Proof of almighty power. Slowly recovers HP.
+L1223: 【1010†Image】 Courage Badge  N/A  80000G  Given to those of brave heart and courageous mind. Ain't it the truth!
+L1224: 【1011†Image】 Rosary  78000G  1580G  An accessory bearing a holy cross. Used for prayers. Prevents most monsters from appearing at all.
+L1225: 【1012†Image】 Shield Ring  68000G  320G  A ring used as a shield. Through tough, it only covers a short range. Occasionally reduces damage received to 1.
+L1226: 【1013†Image】 Magic Charm  150000G  800G  A must-have charm among magic knights. Favors either attack or magic attack -- whichever is stronger.
+L1227: 【1014†Image】 Power Gloves  312000G  420G  Gloves that fit snugly on one's hands. Used to carry heavy things. they're so bad!
+L1228: 【1015†Image】 Badge  500G  14G  A vintage, collectible badge given out as a consolation prize.
+L1229: 【1016†Image】 Work Gloves  1500G  13G  Protects your hands from blisters. A must-have for farming.
+L1230: 【1017†Image】 Gloves  120000G  170G  Fine quality leather gloves. Their soft green color is attractive to girls.
+L1231: 【1018†Image】 Champ Belt  N/A  720G  An honorary belt given to champions. Greatly increases maximum HP.
+L1232: 【1019†Image】 Talisman  60000G  2100G  A type of protective charm. Reverses status effects such as poison, paralysis, fatigue and cold.
+L1233: 【1020†Image】 Lucky Strike  N/A  6200G  Brings you good luck. Grants a higher than average chance of landing critical hits.
+L1234: 【1021†Image】 Leather Belt  1600G  27G  An ordinary leather belt of the sort one can find almost anywhere. Raises defensive skills.
+L1235: 【1022†Image】 Charm  350G  45G  A charm from the Far East. Protects you from misfortune by blocking critical hits.
+L1236: 【1023†Image】 Holy Amulet  498000G  2600G  A charm that is said to protect one from danger.
+L1237: 【1024†Image】 Earth Pendant  75000G  1370G  A pendant inspired by earth. Its bounty boosts the effects of recovery items.
+

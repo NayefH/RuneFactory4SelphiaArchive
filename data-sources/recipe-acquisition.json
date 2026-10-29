@@ -1,0 +1,264 @@
+[
+  {
+    "name": "Anette's Necklace",
+    "location": "Rune Prana 2F/B3",
+    "description": "Truhe; Heavy Boots gegen den Wind anziehen.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Second_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476,
+    "evidence": "RF4-Truhentabelle; ausdrücklich als Rezept gekennzeichnet."
+  },
+  {
+    "name": "Pineapple Juice",
+    "location": "Rune Prana 4F/A2",
+    "description": "Rezepttruhe.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Fourth_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Grilled G. Snapper",
+    "location": "Rune Prana 5F/A1",
+    "description": "Hebel betätigen, Gegner besiegen; Truhe erscheint. Giftraum.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Fifth_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Stew",
+    "location": "Rune Prana 5F/A2",
+    "description": "Rezepttruhe.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Fifth_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Fluffy Scarf",
+    "location": "Rune Prana 6F/A3",
+    "description": "Rezepttruhe; Wasser- und Lichtfallen.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Sixth_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Gyoza",
+    "location": "Rune Prana 6F/D1",
+    "description": "Rezepttruhe.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Sixth_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Royal Garter",
+    "location": "Rune Prana 7F/A1",
+    "description": "Truhe; Zugang mit normaler Riesenpflanze.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Executioner",
+    "location": "Rune Prana 7F/A1",
+    "description": "Truhe; Zugang mit goldener Riesenpflanze erforderlich.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Rune Edge",
+    "location": "Rune Prana 7F/A1",
+    "description": "Truhe; Zugang mit goldener Riesenpflanze erforderlich.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Crown",
+    "location": "Rune Prana 7F/B6",
+    "description": "Truhe; Zugang mit normaler Riesenpflanze.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Magic Broom",
+    "location": "Rune Prana 7F/B6",
+    "description": "Truhe; Zugang mit goldener Riesenpflanze erforderlich.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Hand of God",
+    "location": "Rune Prana 7F/B6",
+    "description": "Truhe; Zugang mit goldener Riesenpflanze erforderlich.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Knight Boots",
+    "location": "Rune Prana 7F/E7",
+    "description": "Truhe; Zugang mit normaler Riesenpflanze.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476,
+    "evidence": "Fundortseite nennt Knight's Boots; RF4-Rezeptname im Archiv: Knight Boots."
+  },
+  {
+    "name": "Dragon Slayer",
+    "location": "Rune Prana 7F/E7",
+    "description": "Truhe; Zugang mit goldener Riesenpflanze erforderlich.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Balmung",
+    "location": "Rune Prana 7F/E7",
+    "description": "Truhe; Zugang mit goldener Riesenpflanze erforderlich.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Art of Attack",
+    "location": "Rune Prana 7F/G1",
+    "description": "Truhe; Zugang mit normaler Riesenpflanze.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Art of Defense",
+    "location": "Rune Prana 7F/G1",
+    "description": "Truhe; Zugang mit normaler Riesenpflanze.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Art of Magic",
+    "location": "Rune Prana 7F/G1",
+    "description": "Truhe; Zugang mit normaler Riesenpflanze.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Gáe Bolg",
+    "location": "Rune Prana 7F/G1",
+    "description": "Truhe; Zugang mit goldener Riesenpflanze erforderlich.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Kongo",
+    "location": "Rune Prana 7F/G1",
+    "description": "Truhe; Zugang mit goldener Riesenpflanze erforderlich.",
+    "source": "https://therunefactory.fandom.com/wiki/Rune_Prana#Seventh_Floor",
+    "sourceTitle": "Rune Prana · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115476
+  },
+  {
+    "name": "Glitter Sashimi",
+    "location": "Selphia Plain – West / Autumn Road · F0 (Silver Lake)",
+    "description": "Mit Water Shoes von F1 über das Wasser nach Osten zu den Truhen.",
+    "source": "https://therunefactory.fandom.com/wiki/Selphia_Plain#Selphia_Plain_-_West_/_Autumn_Road",
+    "sourceTitle": "Selphia Plain · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115258
+  },
+  {
+    "name": "Joy Waterpot",
+    "location": "Selphia Plain – West / Autumn Road · F0 (Silver Lake)",
+    "description": "Mit Water Shoes von F1 über das Wasser nach Osten zu den Truhen.",
+    "source": "https://therunefactory.fandom.com/wiki/Selphia_Plain#Selphia_Plain_-_West_/_Autumn_Road",
+    "sourceTitle": "Selphia Plain · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115258
+  },
+  {
+    "name": "Golden Turnip Staff",
+    "location": "Selphia Plain – West / Autumn Road · F0 (Silver Lake)",
+    "description": "Mit Water Shoes von F1 über das Wasser nach Osten zu den Truhen.",
+    "source": "https://therunefactory.fandom.com/wiki/Selphia_Plain#Selphia_Plain_-_West_/_Autumn_Road",
+    "sourceTitle": "Selphia Plain · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115258
+  },
+  {
+    "name": "Sacred Pole",
+    "location": "Selphia Plain – West / Autumn Road · G12",
+    "description": "Mit Water Shoes von F8 aus erreichbar.",
+    "source": "https://therunefactory.fandom.com/wiki/Selphia_Plain#Selphia_Plain_-_West_/_Autumn_Road",
+    "sourceTitle": "Selphia Plain · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115258
+  },
+  {
+    "name": "Boiled Gyoza",
+    "location": "Selphia Plain – West / Autumn Road · G12",
+    "description": "Mit Water Shoes von F8 aus erreichbar.",
+    "source": "https://therunefactory.fandom.com/wiki/Selphia_Plain#Selphia_Plain_-_West_/_Autumn_Road",
+    "sourceTitle": "Selphia Plain · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115258
+  },
+  {
+    "name": "Miracle Axe",
+    "location": "Sechs Territory · Field 1/B1",
+    "description": "Rezepttruhe im versteckten Bereich westlich von B2.",
+    "source": "https://therunefactory.fandom.com/wiki/Sechs_Territory#Field_1",
+    "sourceTitle": "Sechs Territory · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 115588
+  },
+  {
+    "name": "Miracle Axe",
+    "location": "Floating Empire · East/C6",
+    "description": "Schalter mit Gegenständen beschweren; oben links zwischen den beiden Blöcken hindurchgehen.",
+    "source": "https://therunefactory.fandom.com/wiki/Floating_Empire#East",
+    "sourceTitle": "Floating Empire · Rune Factory Wiki",
+    "kind": "chest",
+    "revision": 111530
+  },
+  {
+    "name": "Legendary Sickle",
+    "location": "Leon Karnak · oberer Bereich nach Grimoire 2",
+    "description": "Feste Rezepttruhe im weiteren Aufstieg. Im bebilderten RF4-Spielbericht belegt; keine Raumkoordinate angegeben.",
+    "source": "https://forums.somethingawful.com/showthread.php?pagenumber=5&perpage=40&threadid=3759496&userid=170532",
+    "sourceTitle": "RF4-Spielbericht von Truthkeeper · Something Awful, 23.03.2017",
+    "kind": "chest",
+    "evidence": "Der RF4-Spielbericht beschreibt beide Werkzeugrezepte beim Aufstieg nach dem Grimoire-Kampf."
+  },
+  {
+    "name": "Blessed Hoe",
+    "location": "Leon Karnak · oberer Bereich nach Grimoire 2",
+    "description": "Feste Rezepttruhe im weiteren Aufstieg. Im bebilderten RF4-Spielbericht belegt; keine Raumkoordinate angegeben.",
+    "source": "https://forums.somethingawful.com/showthread.php?pagenumber=5&perpage=40&threadid=3759496&userid=170532",
+    "sourceTitle": "RF4-Spielbericht von Truthkeeper · Something Awful, 23.03.2017",
+    "kind": "chest"
+  }
+]

@@ -1,0 +1,298 @@
+Monsters (RF4) | Rune Factory Wiki | Fandom (https://therunefactory.fandom.com/wiki/Monsters_%28RF4%29)
+citeturn14view0 [wordlim: 200] Crawled: last year; Content type: text/html; Source: open({"ref_id":"turn2view1","lineno":800}); Redirected to URL: https://therunefactory.fandom.com/wiki/Monsters_(RF4); Total lines: 1113
+L605: Battling specific enemies: Every defeated enemy raises one or more stats for the monsters on your side. For example, defeating magic-using enemies usually boosts intelligence and magic attack.
+L606: Riding monsters: Some monsters are too small for the player to ride, or are too awkward or dangerous to ride (like scorpions, or the monsters that are on fire) but most larger monsters can be ridden. Riding a monster offers several benefits (especially early-game), including unique attacks and increased movement speed.
+L607: Riding a monster also allows for food thrown at the character by 【186†Clorica】, 【187†Kiel】 and the player's child (if it has inherited the skill), to pass through them and be available to pick up and use/sell. (Not tested, but it should work for other thrown items by other characters as well.)
+L608: Monster's location: While this page lists all monsters and the area in which they're found, some monsters only appear in one or two sections of a field or dungeon. If you're looking for a rare monster, the World Map lists what can be found in each room.
+L609: ## List of Monsters[]
+L610:   * 【188†Airror】
+L611:   * 【189†Ambrosia】
+L612:   * 【190†Ancient Bone】
+L613:   * 【191†Ant Queen】
+L614:   * 【192†Ant】
+L615:   * 【193†Aquameleon】
+L616:   * 【194†Aquaticus】
+L617:   * 【195†Arch-Daemon】
+L618:   * 【196†Armed Ghost】
+L619:   * 【197†Armored Tank +】
+L620:   * 【198†Baal】
+L621:   * 【199†Bane Dragon】
+L622:   * 【200†Beetle】
+L623:   * 【201†Big Duck】
+L624:   * 【202†Big Muck】
+L625:   * 【203†Black Dragon】
+L626:   * 【204†Blackbird】
+L627:   * 【205†Blood Panther】
+L628:   * 【206†Blue Dragon】
+L629:   * 【207†Blue】
+L630:   * 【208†Buffaloo】
+L631:   * 【209†Buffamoo】
+L632:   * 【210†Captain Goblin】
+L633:   * 【211†Chimera】
+L634:   * 【212†Chipsqueek】
+L635:   * 【213†Cloudy】
+L636:   * 【214†Cluckadoodle】
+L637:   * 【215†Crystal Mammoth】
+L638:   * 【216†Daemon】
+L639:   * 【217†Dark Fairy】
+L640:   * 【218†Dark Slime】
+L641:   * 【219†Dead Tree】
+L642:   * 【220†Death Fungus】
+L643:   * 【221†Death Orc】
+L644:   * 【222†Death Stalker】
+L645:   * 【223†Death Wall】
+L646:   * 【224†Duck】
+L647:   * 【225†Elefun】
+L648:   * 【226†Elemental Emperor】
+L649:   * 【227†Emerald】
+L650:   * 【228†Emperor Penguin】
+L651:   * 【229†Ethelberd】
+L652:   * 【230†Ethelwill】
+L653:   * 【231†Fairy】
+L654:   * 【232†Faust】
+L655:   * 【233†Fiergaenger】
+L656:   * 【234†Fiersome】
+L657:   * 【235†Flare Mage】
+L658:   * 【236†Flower Blossom】
+L659:   * 【237†Flower Crystal】
+L660:   * 【238†Flower Lily】
+L661:   * 【239†Flower Lion】
+L662:   * 【240†Fortoise】
+L663:   * 【241†Furpy】
+L664:   * 【242†G Golem】
+L665:   * 【243†Gaias】
+L666:   * 【244†Gangster Goblin】
+L667:   * 【245†Gasham】
+L668:   * 【246†Ghost Ray】
+L669:   * 【247†Ghost】
+L670:   * 【248†Gigantes】
+L671:   * 【249†Gobble Box】
+L672:   * 【250†Goblin Archer】
+L673:   * 【251†Goblin Don】
+L674:   * 【252†Goblin Pirate】
+L675:   * 【253†Goblin Sniper】
+L676:   * 【254†Goblin】
+L677:   * 【255†Golem】
+L678:   * 【256†Greater Demon】
+L679:   * 【257†Green Dragon】
+L680:   * 【258†Green】
+L681:   * 【259†Grimoire】
+L682:   * 【260†Guardian】
+L683:   * 【261†Hammer Troll】
+L684:   * 【262†Handonetta】
+L685:   * 【263†Heaven's Scissors】
+L686:   * 【264†Hell Spider】
+L687:   * 【265†Heracles】
+L688:   * 【266†High Ogre Viking】
+L689:   * 【267†High Orc Viking】
+L690:   * 【268†High Orc】
+L691:   * 【269†Hinoe】
+L692:   * 【270†Hobgoblin】
+L693:   * 【271†Hornet Queen】
+L694:   * 【272†Hornet】
+L695:   * 【273†Hover Soldier】
+L696:   * 【274†Hover Warrior】
+L697:   * 【275†Hunter Wolf】
+L698:   * 【276†Ice Wizard】
+L699:   * 【277†Ignis】
+L700:   * 【278†Killer Ant】
+L701:   * 【279†King Bee】
+L702:   * 【280†King Wooly】
+L703:   * 【281†Kinoto】
+L704:   * 【282†Leaf Ball】
+L705:   * 【283†Leoplicant】
+L706:   * 【284†Little Dragon】
+L707:   * 【285†Little Emperor】
+L708:   * 【286†Little Golem】
+L709:   * 【287†Little Mage】
+L710:   * 【288†Little Wizard】
+L711:   * 【289†Little Wooly】
+L712:   * 【290†Magnuto】
+L713:   * 【291†Malm Tiger】
+L714:   * 【292†Mamadoodle】
+L715:   * 【293†Mammoo】
+L716:   * 【294†Marin】
+L717:   * 【295†Marionetta】
+L718:   * 【296†Master Giant】
+L719:   * 【297†Master Troll】
+L720:   * 【298†Mineral Squeek】
+L721:   * 【299†Mino】
+L722:   * 【300†Minotaur King】
+L723:   * 【301†Minotaur】
+L724:   * 【302†Monster Box】
+L725:   * 【303†Nappie】
+L726:   * 【304†Necro】
+L727:   * 【305†Octopirate】
+L728:   * 【306†Ogre Viking】
+L729:   * 【307†Olive】
+L730:   * 【308†Onion Ghost】
+L731:   * 【309†Onionger】
+L732:   * 【310†Orc Archer】
+L733:   * 【311†Orc Hunter】
+L734:   * 【312†Orc Viking】
+L735:   * 【313†Orc】
+L736:   * 【314†Palm Cat】
+L737:   * 【315†Pepper Ghost】
+L738:   * 【316†Pink Dragon】
+L739:   * 【317†Planchoa】
+L740:   * 【318†Pomme Pomme】
+L741:   * 【319†Raccoon】
+L742:   * 【320†Rafflesia】
+L743:   * 【321†Ragnarok】
+L744:   * 【322†Red Dragon】
+L745:   * 【323†Red】
+L746:   * 【324†Rider Orc】
+L747:   * 【325†Rouge】
+L748:   * 【326†Ruffled Flower】
+L749:   * 【327†Ruffled Horsetail】
+L750:   * 【328†Ruffled Vine】
+L751:   * 【329†Sano】
+L752:   * 【330†Sarcophagus】
+L753:   * 【331†Scorpion】
+L754:   * 【332†Sealy】
+L755:   * 【333†Sechs Cat】
+L756:   * 【334†Sechs Dragon】
+L757:   * 【335†Sechs Golem】
+L758:   * 【336†Sechs Sorcerer】
+L759:   * 【337†Sechs Tank】
+L760:   * 【338†Shadow Panther】
+L761:   * 【339†Shmooly】
+L762:   * 【340†Silver Wolf】
+L763:   * 【341†Siren】
+L764:   * 【342†Sky Fish】
+L765:   * 【343†Slime】
+L766:   * 【344†Snowy】
+L767:   * Soldier
+L768:   * 【345†Spider】
+L769:   * 【346†Spirit】
+L770:   * 【347†Terrable】
+L771:   * 【348†Terraclone】
+L772:   * 【349†Thunderbird】
+L773:   * 【350†Thunderbolt】
+L774:   * 【351†Titan】
+L775:   * 【352†Tomato Ghost】
+L776:   * 【353†Tortas】
+L777:   * 【354†Tricky Muck】
+L778:   * 【355†Troll】
+L779:   * 【356†Tundra】
+L780:   * 【357†Turnip Ghost】
+L781:   * 【358†Typhoon】
+L782:   * 【359†Uno】
+L783:   * 【360†Ventuswill】
+L784:   * 【361†Weagle】
+L785:   * 【362†Wooly】
+L786:   * 【363†Yellow Dragon】
+L787:   * 【364†Yellow】
+L788:   * 【365†???】
+L789: ### Table[]
+L790: Bestiary
+L791: Name  Location(s)  Drops  Favorite Item  Produce
+L792: 【188†Airror】  【366†Maya Road】  【367†Magic Crystal】, 【368†Wind Crystal】  【368†Wind Crystal】  ー
+L793: 【189†Ambrosia】 【369†Yokmir Forest】, 【370†Sharance Maze】  【371†Ambrosia's Thorns】, 【372†Toyherb】  【373†Ultra Toyherb】, 【374†Ultra Moondrop】, 【375†King Pink Cat】, 【376†Great Charm Blue】  ー
+L794: 【190†Ancient Bone】  【377†Revival Cave - Autumn Road】  【378†Dragon Bones】, 【379†Fish Fossil】, 【380†Skull】  Not Tameable  ー
+L795: 【192†Ant】  【381†Summer Area】, 【382†Fall and Winter Area】, 【369†Yokmir Forest】, 【383†Yokmir Cave】, 【377†Revival Cave】  【802†Image†therunefactory.fandom.com】 【384†Insect Carapace】, 【385†Insect Jaw】, 【386†Lumber】, 【387†Pretty Carapace】  N/A  【803†Image†therunefactory.fandom.com】 【388†Insect Carapace】
+L796: 【191†Ant Queen】  【389†Rune Prana Floor 4】  【387†Pretty Carapace】, 【388†Insect Carapace】, 【804†Image†therunefactory.fandom.com】 【390†Queen's Jaw】  【391†Honey】  【805†Image】 【392†Queen's Jaw】
+L797: 【193†Aquameleon】  【393†Sechs Territory】  【394†Water Dragon Ash】  【395†Union Stew】  ー
+L798: 【194†Aquaticus】 【370†Sharance Maze】  【396†Dragon Fin】, 【397†Legendary Scale】, 【398†Intelligencer】, Recipe Bread+ 【395†Union Stew】  ー
+L799: 【195†Arch-Daemon】  【399†Leon Karnak】  【400†Devil Blood】, 【401†Devil Horn】  【400†Devil Blood】, 【401†Devil Horn】  ー
+L800: 【196†Armed Ghost】  【389†Rune Prana 1】  N/A  N/A  ー
+L801: 【197†Armored Tank +】  【402†Floating Empire】  【403†MTGU Plate】, 【404†Gold】, 【405†Platinum】  Not Tameable  ー
+L802: 【198†Baal】  【389†Rune Prana Floor 5】  【406†Great Hammer Shard】, 【400†Devil Blood】  Not Tameable  ー
+L803: 【199†Bane Dragon】  【389†Rune Prana Floor 1】  【407†Electro Crystal】  【408†Rockfish Stew】  ー
+L804: 【200†Beetle】  【369†Yokmir Forest】, 【409†Selphia Plain】  【806†Image】 【410†Insect Horn】, 【388†Insect Carapace】, 【387†Pretty Carapace】  N/A  【807†Image】 【411†Insect Horn】
+L805: 【201†Big Duck】  【389†Rune Prana Floor 2】  【412†Yellow Down】, 【413†Yellow Feather】  Not Tameable  ー
+L806: 【202†Big Muck】  【409†Selphia Plain】  【808†Image】 【414†Spore】, 【415†Mushroom】  【809†Image】 【414†Spore】, 【416†Poison Powder】  【810†Image】 【417†Spore】
+L807: 【203†Black Dragon】  【418†Rune Prana Floor 7】  【419†Black Scale】, 【420†Dragon Fang】  【420†Dragon Fang】  ー
+L808: 【204†Blackbird】  【366†Maya Road】, 【389†Rune Prana】  【421†Branch】, 【422†Stick】, 【811†Image】 【423†Black Bird Feather】  【424†Bird's Feather】  【812†Image】 【425†Black Bird Feather】
+L809: 【205†Blood Panther】  【402†Floating Empire】  【400†Devil Blood】, 【426†Magic Claw】, 【427†Fur】  【427†Fur】  ー
+L810: 【207†Blue】  【393†Sechs Territory】  【428†Water Crystal】, 【429†Blue Core】  【430†Cake】, 【431†Chocolate Cake】  ー
+L811: 【206†Blue Dragon】  【389†Rune Prana Floor 6】  【420†Dragon Fang】, 【432†Blue Scale】  【420†Dragon Fang】  ー
+L812: 【208†Buffaloo】  【433†Delirium Lava Ruins】  【813†Image】 【434†Bull's Horn】  【814†Image】 【434†Bull's Horn】  【815†Image】 【435†Bull's Horn】
+L813: 【209†Buffamoo】  【409†Selphia Plain】  【816†Image】 【436†Milk (S)】, 【437†Milk (M)】  【817†Image】 【436†Milk (S)】, 【437†Milk (M)】, 【438†Milk (L)】  【818†Image】【819†Image】【820†Image】
+L814: 【439†Milk (S)】, 【437†Milk (M)】, 【438†Milk (L)】
+L815: 【210†Captain Goblin】  【399†Leon Karnak】  【380†Skull】, 【440†Wine】, 【441†Warrior's Proof】, 【442†Silk Cloth】  N/A  ー
+L816: 【211†Chimera】 【443†Water Ruins】, 【418†Rune Prana Floor 7】  【444†Chimera's Claw】, 【400†Devil Blood】, 【445†Chimera Tail】  【446†Royal Curry】, 【447†Ultimate Curry】  ー
+L817: 【212†Chipsqueek】  【409†Selphia Plain】  【821†Image】 【448†Fur】, 【421†Branch】, 【449†Quality Fur】  【822†Image】 【448†Fur】  【823†Image】 【427†Fur】
+L818: 【213†Cloudy】  WIP  WIP  WIP  WIP
+L819: 【214†Cluckadoodle】  【409†Selphia Plain】, 【450†Cluck-Cluck Nest】  【824†Image】 【451†Egg (S)】, 【452†Egg (M)】, 【424†Bird's Feather】  【825†Image】 【451†Egg (S)】, 【452†Egg (M)】, 【453†Egg (L)】  【826†Image】 【827†Image】 【828†Image】
+L820: 【454†Egg (S)】, 【452†Egg (M)】, 【453†Egg (L)】
+L821: 【215†Crystal Mammoth】  【389†Rune Prana Floor 3】  【455†Icy Nose】, 【456†Diamond】  【457†King Pineapple】  ー
+L822: 【216†Daemon】  【458†Idra Cave】  【400†Devil Blood】  【400†Devil Blood】  ー
+L823: 【217†Dark Fairy】  【402†Floating Empire】, Field Dungeons  【459†Prelude to Love】, 【829†Image】 【460†Fairy Elixir】, 【461†Fairy Dust】  【461†Fairy Dust】  【830†Image】 【462†Fairy Elixir】
+L824: 【218†Dark Slime】  【402†Floating Empire】  【463†Emerald】, 【464†Sapphire】, 【465†Dark Crystal】  【464†Sapphire】  ー
+L825: 【219†Dead Tree】  【369†Yokmir Forest】, 【389†Rune Prana Floor 7】  【466†Apple】, 【467†Apple Tree Seeds】, 【468†Moving Branch】, 【469†Small Crystal】  【470†Greenifier+】  ー
+L826: 【220†Death Fungus】  【409†Selphia Plain】 Mush Road (Friday Only)  【416†Poison Powder】, 【471†Holy Spore】, 【417†Spore】  Not Tameable  ー
+L827: 【221†Death Orc】  【389†Rune Prana Floor 7】  【472†Ancient Orc Cloth】  Not Tameable  ー
+L828: 【222†Death Stalker】  【393†Sechs Territory】  【831†Image】 【473†Scorpion Tail】, 【387†Pretty Carapace】, 【474†Scorpion Pincer】  【832†Image】 【473†Scorpion Tail】  【833†Image】 【475†Scorpion Tail】
+L829: 【223†Death Wall】  【389†Rune Prana Floor 6】  【476†Broken Ice Wall】  【477†Ice Cream】  ー
+L830: 【224†Duck】  【409†Selphia Plain】  【412†Yellow Down】, 【424†Bird's Feather】  【424†Bird's Feather】, 【427†Fur】  ー
+L831: 【225†Elefun】  【478†Spring Area】, 【458†Idra Cave】  【479†Ivory Tusk】, 【480†Waterpot】  【481†Cheap Waterpot】  ー
+L832: 【226†Elemental Emperor】  【389†Rune Prana Floor 6】  【482†Magic】  【482†Magic】  ー
+L833: 【227†Emerald】  【389†Rune Prana Floor 7】  【368†Wind Crystal】, 【483†Green Core】  【484†Big Green Crystal】  ー
+L834: 【228†Emperor Penguin】  【393†Sechs Territory】  【485†Penguin Down】  【424†Bird's Feather】, 【427†Fur】  ー
+L835:   * 【229†Ethelberd】
+L836: See 【230†Ethelwill】  See 【230†Ethelwill】  See 【230†Ethelwill】  See 【230†Ethelwill】
+L837: 【230†Ethelwill】  WIP  WIP  WIP  WIP
+L838: 【231†Fairy】  【409†Selphia Plain】  【834†Image】 【486†Fairy Dust】, 【487†Love Potion】, 【459†Prelude to Love】  【835†Image】 【486†Fairy Dust】  【836†Image】 【461†Fairy Dust】
+L839: 【232†Faust】  【402†Floating Empire】  【488†Glistening Blade】, 【489†Ghost Hood】  【489†Ghost Hood】  ー
+L840: 【233†Fiergaenger】  【366†Maya Road】  【490†Fire Dragon Ash】  【491†Gold Juice】  ー
+L841: 【234†Fiersome】 【370†Sharance Maze】  【492†Firewyrm Scale】, 【420†Dragon Fang】, Recipe Bread+ 【491†Gold Juice】  ー
+L842: 【235†Flare Mage】  【389†Rune Prana】  【493†Medicine Bread】, 【482†Magic】, 【367†Magic Crystal】, 【469†Small Crystal】  【482†Magic】  ー
+L843: 【236†Flower Blossom】  【494†Sercerezo Hill】  【495†Plant Stem】, 【837†Image】 【496†Root】, 【497†Strong Vine】  【495†Plant Stem】, 【838†Image】 【496†Root】  【839†Image】 【498†Root】
+L844: 【237†Flower Crystal】  【393†Sechs Territory】  【495†Plant Stem】, 【498†Root】, 【840†Image】 【499†Strong Vine】  【495†Plant Stem】  【841†Image】 【497†Strong Vine】
+L845: 【238†Flower Lily】  【500†Autumn Road】  【495†Plant Stem】, 【498†Root】, 【497†Strong Vine】  【495†Plant Stem】, 【498†Root】  【842†Image】 【501†Vine】
+L846: 【239†Flower Lion】  【433†Delirium Lava Ruins】  【843†Image】 【502†Plant Stem】, 【501†Vine】  【844†Image】 【502†Plant Stem】, 【498†Root】  【845†Image】 【495†Plant Stem】
+L847: 【240†Fortoise】  【402†Floating Empire】  【503†Silver】, 【404†Gold】, 【504†Blk. Tortoise Shell】  【504†Blk. Tortoise Shell】  ー
+L848: 【241†Furpy】  【500†Autumn Road】  【846†Image】 【505†Quality Puffy Fur】, 【421†Branch】  【427†Fur】  【847†Image】 【506†Quality Puffy Fur】
+L849: 【242†G Golem】  【389†Rune Prana Floor 7】  【507†Tablet of Truth】, 【456†Diamond】  【508†Orichalcum】  ー
+L850: 【243†Gaias】  【458†Idra Cave】  【367†Magic Crystal】, 【509†Earth Crystal】  【367†Magic Crystal】, 【509†Earth Crystal】  ー
+L851: 【244†Gangster Goblin】  【433†Delirium Lava Ruins】  【510†Old Bandage】, 【511†Oil】, 【512†Quality Cloth】  N/A  ー
+L852: 【245†Gasham】  WIP  WIP  WIP  WIP
+L853: 【247†Ghost】  【513†Obsidian Mansion】  【489†Ghost Hood】, 【422†Stick】  【489†Ghost Hood】  ー
+L854: 【246†Ghost Ray】  【513†Obsidian Mansion】  【422†Stick】, 【514†Thick Stick】, 【489†Ghost Hood】  【489†Ghost Hood】  ー
+L855: 【248†Gigantes】  【402†Floating Empire】  【515†Hammer Piece】, 【514†Thick Stick】  N/A  ー
+L856: 【249†Gobble Box】  Anywhere (Random Spawn)  【516†Broken Hilt】, 【517†Broken Box】, 【518†Failed Dish】  N/A  ー
+L857: 【254†Goblin】  【443†Water Ruins】  【510†Old Bandage】, 【519†Blade Shard】  【510†Old Bandage】  ー
+L858: 【250†Goblin Archer】  【443†Water Ruins】  【520†Arrowhead】, 【510†Old Bandage】, 【521†Recovery Potion】  【510†Old Bandage】  ー
+L859: 【251†Goblin Don】  【399†Leon Karnak】  【522†Proof of Rank】, 【380†Skull】, 【440†Wine】  N/A  ー
+L860: 【252†Goblin Pirate】  【433†Delirium Lava Ruins】  【510†Old Bandage】, 【511†Oil】, 【512†Quality Cloth】  N/A  ー
+L861: 【253†Goblin Sniper】  【458†Idra Cave】  【523†Gunpowder】, 【524†Healing Potion】  【523†Gunpowder】  ー
+L862: 【255†Golem】  【402†Floating Empire】  【525†Golem Stone】, 【503†Silver】  【404†Gold】  ー
+L863: 【256†Greater Demon】  Field Dungeon, 【418†Rune Prana Floor 7】  【526†Chest Hair】  【527†Big Fireflower】, 【528†Big Autumn Grass】
+L864: 【258†Green】  【366†Maya Road】, 【529†World of Fields】  【483†Green Core】, 【368†Wind Crystal】  【430†Cake】, 【431†Chocolate Cake】  ー
+L865: 【257†Green Dragon】  【389†Rune Prana Floor 1】  【420†Dragon Fang】, 【530†Dragon Scale】  【420†Dragon Fang】  ー
+L866: 【259†Grimoire】 Field Dungeon, 【399†Leon Karnak】  【531†Grimoire Scale】, 【420†Dragon Fang】  Giant Gold Vegetables  ー
+L867: 【260†Guardian】  WIP  WIP  WIP  WIP
+L868: 【261†Hammer Troll】  【366†Maya Road】  【532†Giant's Gloves】, 【533†Giant's Nail】, 【515†Hammer Piece】  【532†Giant's Gloves】, 【533†Giant's Nail】, 【515†Hammer Piece】  ー
+L869: 【262†Handonetta】  WIP  WIP  WIP  WIP
+L870: 【263†Heaven's Scissors】  【389†Rune Prana Level 5】  【848†Image】 【534†Dangerous Scissors】, 【387†Pretty Carapace】, 【475†Scorpion Tail】  【391†Honey】  【849†Image】 【535†Dangerous Scissors】
+L871: 【264†Hell Spider】  【402†Floating Empire】  【850†Image】 【536†Pretty Thread】, 【537†Spider's Thread】  【851†Image】 【536†Pretty Thread】, 【537†Spider's Thread】  【852†Image】 【538†Pretty Thread】
+L872: 【265†Heracles】  【366†Maya Road】  【387†Pretty Carapace】, 【853†Image】 【539†Rigid Horn】  【854†Image】 【539†Rigid Horn】, 【388†Insect Carapace】  【855†Image】 【540†Rigid Horn】
+L873: 【266†High Ogre Viking】  【389†Rune Prana Floor 3】  【541†Glue】, 【542†Pirate's Armor】, 【440†Wine】  【542†Pirate's Armor】  ー
+L874: 【268†High Orc】  【383†Yokmir Cave】  【541†Glue】, 【422†Stick】, 【543†Cheap Cloth】, 【544†Cheap Bracelet】  【541†Glue】  ー
+L875: 【267†High Orc Viking】  【389†Rune Prana Floor 3】  WIP  WIP  WIP
+L876: 【269†Hinoe】 【389†Rune Prana Floor 4】  【545†Red Lion Fur】, 【449†Quality Fur】, 【427†Fur】  【546†Salted Char】  ー
+L877: 【270†Hobgoblin】  【458†Idra Cave】  【541†Glue】, 【442†Silk Cloth】  【541†Glue】  ー
+L878: 【272†Hornet】  【383†Yokmir Cave】  【547†Insect Skin】, 【387†Pretty Carapace】, 【856†Image】 【548†Honey】, 【385†Insect Jaw】  【857†Image】 【548†Honey】  【858†Image】 【391†Honey】
+L879: 【271†Hornet Queen】  【366†Maya Road】  【387†Pretty Carapace】, 【549†Paralysis Poison】, 【391†Honey】, 【385†Insect Jaw】  【859†Image】 【548†Honey】  【860†Image】 【391†Honey】
+L880: 【273†Hover Soldier】  【402†Floating Empire】  【550†Cheap Propeller】, 【551†Iron】  WIP  ー
+L881: 【274†Hover Warrior】  【402†Floating Empire】  【550†Cheap Propeller】, 【551†Iron】, 【552†Quality Propeller】  WIP  ー
+L882: 【275†Hunter Wolf】  【393†Sechs Territory】  【861†Image】 【553†Gold Wolf Fang】, 【449†Quality Fur】  【554†Wolf Fang】  【862†Image】 【555†Gold Wolf Fang】
+L883: 【276†Ice Wizard】  【389†Rune Prana Floor 5】  【493†Medicine Bread】, 【469†Small Crystal】  N/A  ー
+L884: 【277†Ignis】  【433†Delirium Lava Ruins】  【556†Fire Crystal】, 【367†Magic Crystal】  【556†Fire Crystal】  ー
+L885: 【278†Killer Ant】  【383†Yokmir Cave】  【386†Lumber】, 【863†Image】 【557†Pretty Carapace】, 【385†Insect Jaw】, 【388†Insect Carapace】  【864†Image】 【557†Pretty Carapace】  【865†Image】 【387†Pretty Carapace】
+L886: 【279†King Bee】  【389†Rune Prana Floor 2】  【866†Image】 【548†Honey】, 【547†Insect Skin】, 【558†Poison King】  【867†Image】 【548†Honey】  【868†Image】 【391†Honey】
+L887: 【280†King Wooly】  【383†Yokmir Cave】, 【500†Autumn Road】  【559†Fur (S)】, 【560†Wooly Furball】  Not tameable  ー
+L888: 【281†Kinoto】 【389†Rune Prana Floor 4】  【561†Blue Lion Fur】, 【449†Quality Fur】, 【427†Fur】  【546†Salted Char】  ー
+L889: 【282†Leaf Ball】  【383†Yokmir Cave】  【869†Image】 【502†Plant Stem】  【870†Image】 【502†Plant Stem】  【871†Image】 【495†Plant Stem】
+L890: 【283†Leoplicant】  【389†Rune Prana Floor 4】  【427†Fur】, 【449†Quality Fur】, 【562†Palm Claw】, 【563†Malm Claw】  【427†Fur】  ー
+L891: 【284†Little Dragon】  【402†Floating Empire】  【420†Dragon Fang】  【420†Dragon Fang】  ー
+L892: 【285†Little Emperor】  【399†Leon Karnak】  【367†Magic Crystal】  N/A  ー
+L893: 【286†Little Golem】  【458†Idra Cave】  【503†Silver】, 【564†Ruby】, 【565†Tiny Golem Stone】  【404†Gold】  ー
+L894: 【287†Little Mage】  【566†Forest of Beginnings】, 【458†Idra Cave】  【567†Magic Powder】, 【401†Devil Horn】, 【367†Magic Crystal】, 【493†Medicine Bread】  N/A  ー
+L895: 【288†Little Wizard】  【393†Sechs Territory】  【482†Magic】, 【367†Magic Crystal】, 【568†Accessory Bread】, 【469†Small Crystal】  【482†Magic】, 【367†Magic Crystal】, 【568†Accessory Bread】, 【469†Small Crystal】  ー
+L896: 【289†Little Wooly】  WIP  WIP  WIP  WIP
+L897: 【290†Magnuto】  【569†Demon's Den】  【570†Raccoon Leaf】, 【571†Udon】, 【572†Curry Udon】, 【573†Tempura Udon】  Not tameable  ー
+L898: 【291†Malm Tiger】  【399†Leon Karnak】  【427†Fur】, 【449†Quality Fur】, 【563†Malm Claw】  【427†Fur】  ー
+L899: 【292†Mamadoodle】  【450†Cluck-Cluck Nest】  【872†Image】 【451†Egg (S)】, 【452†Egg (M)】, 【574†Big Bird's Comb】, 【424†Bird's Feather】  【873†Image】 【451†Egg (S)】, 【452†Egg (M)】, 【453†Egg (L)】  【874†Image】 【875†Image】 【876†Image】
+
