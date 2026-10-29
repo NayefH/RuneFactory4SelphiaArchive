@@ -7,7 +7,7 @@ import { publicUrl } from "./public-url.js";
 import { createCatalog, recipeUsesItem } from "./catalog.js";
 import { escapeHtml } from "./html.js";
 import { loadFavorites, saveFavorites } from "./favorites.js";
-import { createLayout } from "./layout.js";
+import { createLayout, navigationLabels } from "./layout.js";
 import {
   contextLabels,
   attributeLabel,
@@ -36,14 +36,8 @@ const titles = {
   monster: "Das Bestiarium",
   saved: "Deine Merkliste",
 };
-const labels = {
-  home: "Start",
-  item: "Items",
-  recipe: "Rezepte",
-  monster: "Bestiarium",
-  saved: "Merkliste",
-};
-$("#app").innerHTML = createLayout(labels);
+const labels = navigationLabels;
+if (!$("#home")) $("#app").innerHTML = createLayout(labels);
 const all = () => catalog.allRecords;
 const find = (id) => catalog.byId.get(id);
 const cat = (n) => data.materialGroups[n] || n;
@@ -277,8 +271,14 @@ function showSources() {
   detailController?.showSources();
 }
 document.addEventListener("click", (e) => {
-  const t = e.target.closest("button");
+  if (!data) return;
+  const t = e.target.closest("button, a[data-tab]");
   if (!t) return;
+  if (t.tagName === "A") {
+    if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey || e.button !== 0)
+      return;
+    e.preventDefault();
+  }
   if (t.id === "sort-attribute") {
     sort = "bonus-desc";
     $("#sort").value = sort;
@@ -458,6 +458,8 @@ async function init() {
     $("#sort").value = sort;
     render();
   } catch {
+    $("#home").hidden = true;
+    $("#directory").hidden = false;
     $("#result-count").textContent =
       "Die Wiki-Daten konnten nicht geladen werden.";
     $("#results").innerHTML =

@@ -1,15 +1,23 @@
 import { publicUrl } from "./public-url.js";
 
-export function createLayout(labels) {
+export const navigationLabels = {
+  home: "Start",
+  item: "Items",
+  recipe: "Rezepte",
+  monster: "Bestiarium",
+  saved: "Merkliste",
+};
+
+export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
   return /* HTML */ `<aside class="sidebar">
       <a
         class="brand"
-        href="${publicUrl()}"
+        href="${assetUrl()}"
         aria-label="Selphia Archiv – Startseite"
       >
         <img
           class="rf4-logo"
-          src="${publicUrl("design/rf4-logo.png")}"
+          src="${assetUrl("design/rf4-logo.png")}"
           alt="Rune Factory 4"
         />
         <span>SELPHIA<small>DAS RUNENARCHIV</small></span>
@@ -23,7 +31,7 @@ export function createLayout(labels) {
           .join("")}
       </nav>
       <div class="side-art" aria-hidden="true">
-        <img src="${publicUrl("design/frey-rf4.png")}" alt="" />
+        <img src="${assetUrl("design/frey-rf4.png")}" alt="" />
       </div>
       <button class="source-button" data-sources>ⓘ Quellen & Datenstand</button
       ><small class="sidebar-bottom"
