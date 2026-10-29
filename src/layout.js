@@ -119,7 +119,7 @@ export function createLayout(labels) {
         <footer>
           <span>✧ SELPHIA ARCHIV</span>
           <p>
-            Wiki-Tabellen, neu geordnet. Daten können Lücken enthalten.<br />Deutsche
+            Ein Fanprojekt von Nayef Hajjaj. Daten können Lücken enthalten.<br />Deutsche
             Suchhilfen sind noch nicht als offizielle Lokalisierung verifiziert.
           </p>
           <button data-sources>Quellen & Lizenz ↗</button>
