@@ -1,3 +1,6 @@
+import { t } from "./i18n.js";
+import { localizeText } from "./data-localization.js";
+
 /** Recipes may have several ways to learn them, shared by ingredient variants. */
 export function indexRecipeAcquisitions(recipes) {
   const byName = new Map();
@@ -28,10 +31,10 @@ export function acquisitionSearchTerms(entries) {
 
 export function acquisitionPanel(entries, escapeHtml) {
   if (!entries.length) return "";
-  return `<h3>Rezept finden / lernen</h3><ul class="acquisition-list">${entries
+  return `<h3>${t("Rezept finden / lernen", "Find / learn this recipe")}</h3><ul class="acquisition-list">${entries
     .map(
       (entry) =>
-        `<li><strong class="acquisition-location">${escapeHtml(entry.location)}</strong><p>${escapeHtml(entry.description)}</p><a class="acquisition-source" href="${escapeHtml(entry.source)}" target="_blank" rel="noreferrer">${escapeHtml(entry.sourceTitle || "Fundortquelle")} ↗</a></li>`,
+        `<li><strong class="acquisition-location">${escapeHtml(localizeText(entry.location))}</strong><p>${escapeHtml(localizeText(entry.description))}</p><a class="acquisition-source" href="${escapeHtml(entry.source)}" target="_blank" rel="noreferrer">${escapeHtml(entry.sourceTitle ? localizeText(entry.sourceTitle) : t("Fundortquelle", "Location source"))} ↗</a></li>`,
     )
     .join("")}</ul>`;
 }

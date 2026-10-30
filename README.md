@@ -1,10 +1,15 @@
 # Selphia Archiv – Rune Factory 4 Datenbank
 
 **Items finden, Rezepte nachschlagen, Gegner kennenlernen und Boni vergleichen.**
-Das Selphia Archiv ist ein deutschsprachiges, durchsuchbares Fanprojekt von
+Das Selphia Archiv ist ein zweisprachiges, durchsuchbares Fanprojekt von
 **Nayef Hajjaj** für **Rune Factory 4 (RF4)**. Die Website bündelt Spielwerte,
 Materialien, Herstellung und bekannte Rezeptfundorte in einer für Desktop und
 Smartphone angepassten Oberfläche.
+
+Oben rechts lässt sich die gesamte Website zwischen **Deutsch** und **English**
+umschalten. Die Auswahl wird im Browser gespeichert und über `?lang=de` bzw.
+`?lang=en` in geteilten Links mitgegeben. Suchbegriffe, Filter und Merkliste bleiben
+beim Sprachwechsel erhalten; die Suche versteht Begriffe aus beiden Sprachen.
 
 **[Website öffnen](https://nayefh.github.io/RuneFactory4SelphiaArchive/)** ·
 [Items & Materialien](https://nayefh.github.io/RuneFactory4SelphiaArchive/?tab=item) ·
@@ -15,8 +20,9 @@ Smartphone angepassten Oberfläche.
 
 ## Was bietet das Archiv?
 
-- **Item-Datenbank:** englische Namen, Bilder, Preise, Attribute und Verwendung
-  in Rezepten. Deutsche Suchhilfen sind zusätzlich gekennzeichnet.
+- **Item-Datenbank:** deutsche oder englische Namen, Bilder, Preise, Attribute und
+  Verwendung in Rezepten. Deutsche Fanübersetzungen sind mit **DE*** gekennzeichnet;
+  der englische Originalname bleibt zum Nachschlagen sichtbar.
 - **Rezepte und Herstellung:** Zutaten, Mengen, Materialgruppen, Werkbänke und
   Rezeptlevel; belegte Rezeptfundorte mit Quellen und Zugangshinweisen.
 - **Bestiarium:** Gegner und Bosse mit Fundorten, Beute, Kampfwerten und weiteren
@@ -56,14 +62,18 @@ und der [RF4-Itemliste von Ranch Story](<https://ranchstory.miraheze.org/wiki/It
 Ergänzende Bild- und Fundortquellen sind bei den jeweiligen Einträgen verlinkt.
 Es werden ausschließlich Daten für Rune Factory 4 verwendet.
 
-Die englischen Namen stehen im Vordergrund. Mit **DE\*** markierte deutsche
-Begriffe sind unbestätigte Suchhilfen und werden nicht als offizielle Übersetzung
-ausgegeben. Fehlende Werte sind unbekannt und bedeuten nicht automatisch null.
+Im deutschen Modus werden lesbare Fanübersetzungen mit dem englischen Originalnamen
+angezeigt. Mit **DE\*** markierte deutsche Begriffe sind nicht als offizielle
+Lokalisierung verifiziert. Eigennamen bleiben erhalten. Im englischen Modus werden
+die Originalnamen verwendet. Fehlende Werte sind unbekannt und bedeuten nicht
+automatisch null.
 
 **English:** Selphia Archive is a searchable **Rune Factory 4 / RF4 database** by
 **Nayef Hajjaj**, with items, crafting and cooking recipes, recipe chest locations,
-monster drops, equipment stats, upgrade bonuses and favorites. The interface is in
-German; English item and monster names are searchable.
+monster drops, equipment stats, upgrade bonuses and favorites. Use the language
+selector in the top right to switch the entire site between German and English.
+The choice is remembered, and names in both languages remain searchable. German
+game terms are unofficial fan translations, with English originals available.
 
 ## GitHub Pages einrichten
 

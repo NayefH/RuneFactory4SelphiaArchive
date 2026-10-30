@@ -206,6 +206,47 @@ button:hover {
 .topbar a {
   color: #5e705e;
 }
+.topbar-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin-left: auto;
+  max-width: 100%;
+}
+.language-control {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  min-width: 0;
+  padding: 4px 9px;
+  color: var(--green);
+  background: #f1eddf;
+  border: 1px solid #d8d0b9;
+  border-radius: 6px;
+}
+.language-control svg {
+  flex-shrink: 0;
+}
+.language-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.language-control select {
+  min-width: 93px;
+  min-height: 34px;
+  max-width: 100%;
+  padding: 4px 3px;
+  border: 0;
+  color: inherit;
+  background: transparent;
+  cursor: pointer;
+}
 .slash {
   padding: 0 12px;
   color: #c9c9b6;
@@ -983,6 +1024,14 @@ dialog a {
   }
 }
 @media (max-width: 580px) {
+  .topbar > span {
+    flex: 1 1 100%;
+  }
+  .topbar-actions {
+    flex: 1 1 100%;
+    justify-content: space-between;
+    gap: 10px;
+  }
   main,
   .topbar {
     padding-inline: 14px;

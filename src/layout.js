@@ -1,28 +1,46 @@
 import { publicUrl } from "./public-url.js";
+import { t, getLanguage } from "./i18n.js";
+import { displayName } from "./data-localization.js";
 
 export const navigationLabels = {
-  home: "Start",
-  item: "Items",
-  recipe: "Rezepte",
-  monster: "Bestiarium",
-  saved: "Merkliste",
+  get home() {
+    return t("Start", "Home");
+  },
+  get item() {
+    return t("Items", "Items");
+  },
+  get recipe() {
+    return t("Rezepte", "Recipes");
+  },
+  get monster() {
+    return t("Bestiarium", "Bestiary");
+  },
+  get saved() {
+    return t("Merkliste", "Favorites");
+  },
 };
 
 export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
+  // The build-time homepage renderer replaces this exact placeholder.
+  const homeSection = `<section id="home" hidden aria-label="${t("Startseite", "Home")}"></section>`;
   return /* HTML */ `<aside class="sidebar">
       <a
         class="brand"
         href="${assetUrl()}"
-        aria-label="Selphia Archiv – Startseite"
+        aria-label="${t("Selphia Archiv – Startseite", "Selphia Archive – Home")}"
       >
         <img
           class="rf4-logo"
           src="${assetUrl("design/rf4-logo.png")}"
           alt="Rune Factory 4"
         />
-        <span>SELPHIA<small>DAS RUNENARCHIV</small></span>
+        <span
+          >SELPHIA<small
+            >${t("DAS RUNENARCHIV", "THE RUNE ARCHIVE")}</small
+          ></span
+        >
       </a>
-      <nav aria-label="Verzeichnis">
+      <nav aria-label="${t("Verzeichnis", "Directory")}">
         ${Object.entries(labels)
           .map(
             ([id, label]) =>
@@ -33,29 +51,72 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
       <div class="side-art" aria-hidden="true">
         <img src="${assetUrl("design/frey-rf4.png")}" alt="" />
       </div>
-      <button class="source-button" data-sources>ⓘ Quellen & Datenstand</button
+      <button class="source-button" data-sources>
+        ⓘ ${t("Quellen & Datenstand", "Sources & data")}</button
       ><small class="sidebar-bottom"
-        >Ein inoffizielles Fanprojekt<br />Nur Daten aus Rune Factory 4</small
+        >${t("Ein inoffizielles Fanprojekt", "An unofficial fan project")}<br />${t("Nur Daten aus Rune Factory 4", "Rune Factory 4 data only")}</small
       >
     </aside>
     <div class="workspace">
       <header class="topbar">
         <span
-          >Das Selphia Archiv <span class="slash">/</span>
-          <b id="breadcrumb">Items</b></span
-        ><a
-          href="https://therunefactory.fandom.com/wiki/Rune_Factory_4"
-          target="_blank"
-          rel="noreferrer"
-          >Rune Factory Wiki ↗</a
+          >${t("Das Selphia Archiv", "The Selphia Archive")}
+          <span class="slash">/</span> <b id="breadcrumb">Items</b></span
         >
+        <div class="topbar-actions">
+          <a
+            href="https://therunefactory.fandom.com/wiki/Rune_Factory_4"
+            target="_blank"
+            rel="noreferrer"
+            >Rune Factory Wiki ↗</a
+          >
+          <label class="language-control" for="language-switch"
+            ><svg
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.6"
+              aria-hidden="true"
+            >
+              <circle cx="12" cy="12" r="9" />
+              <path d="M3 12h18M12 3c4 5 4 13 0 18M12 3c-4 5-4 13 0 18" /></svg
+            ><span class="language-label">${t("Sprache", "Language")}</span
+            ><select
+              id="language-switch"
+              aria-label="${t("Sprache wählen", "Choose language")}"
+            >
+              <option
+                value="de"
+                lang="de"
+                ${getLanguage() === "de" ? "selected" : ""}
+              >
+                Deutsch
+              </option>
+              <option
+                value="en"
+                lang="en"
+                ${getLanguage() === "en" ? "selected" : ""}
+              >
+                English
+              </option>
+            </select></label
+          >
+        </div>
       </header>
       <main>
-        <section id="home" hidden aria-label="Startseite"></section>
+        ${homeSection}
         <section class="directory" id="directory">
           <div class="section-heading">
-            <div><h1 id="section-title">Items & Materialien</h1></div>
-            <span id="total" class="total">Lade Daten …</span>
+            <div>
+              <h1 id="section-title">
+                ${t("Items & Materialien", "Items & materials")}
+              </h1>
+            </div>
+            <span id="total" class="total"
+              >${t("Lade Daten …", "Loading data …")}</span
+            >
           </div>
           <div class="search-box">
             <svg
@@ -71,76 +132,108 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
             ><input
               id="search"
               type="search"
-              placeholder="Name, Material, Beute oder Fundort suchen …"
-              aria-label="Verzeichnis durchsuchen"
+              placeholder="${t("Name, Material, Beute oder Fundort suchen …", "Search names, materials, drops or locations …")}"
+              aria-label="${t("Verzeichnis durchsuchen", "Search the directory")}"
               autocomplete="off"
             /><kbd>/</kbd>
           </div>
           <div class="suggestions">
-            Zum Beispiel <button data-search="Iron">Iron / Eisen</button
+            ${t("Zum Beispiel", "For example")}
+            <button data-search="Iron">${displayName("Iron")}</button
             ><button data-search="Wooly">Wooly</button
-            ><button data-search="Wind Crystal">Wind Crystal</button>
+            ><button data-search="Wind Crystal">
+              ${displayName("Wind Crystal")}
+            </button>
           </div>
           <div class="filters">
             <label
-              >Kategorie<select id="category">
-                <option value="">Alle Kategorien</option>
+              >${t("Kategorie", "Category")}<select id="category">
+                <option value="">
+                  ${t("Alle Kategorien", "All categories")}
+                </option>
               </select></label
             ><label id="station-wrap" hidden
-              >Werkbank<select id="station">
-                <option value="">Alle Werkbänke</option>
+              >${t("Werkbank", "Station")}<select id="station">
+                <option value="">${t("Alle Werkbänke", "All stations")}</option>
               </select></label
             ><label id="level-wrap" hidden
-              >Rezeptlevel bis<input
+              >${t("Rezeptlevel bis", "Recipe level up to")}<input
                 id="max"
                 type="number"
                 min="1"
                 max="99"
                 value="99" /></label
             ><label class="sort"
-              >Sortieren<select id="sort">
+              >${t("Sortieren", "Sort by")}<select id="sort">
                 <option value="name">Name A–Z</option>
                 <option value="name-desc">Name Z–A</option>
-                <option value="level">Rezeptlevel ↑</option>
-                <option value="bonus-desc">Attributbonus ↓</option>
-                <option value="bonus-asc">Attributbonus ↑</option>
+                <option value="level">
+                  ${t("Rezeptlevel", "Recipe level")} ↑
+                </option>
+                <option value="bonus-desc">
+                  ${t("Attributbonus", "Attribute bonus")} ↓
+                </option>
+                <option value="bonus-asc">
+                  ${t("Attributbonus", "Attribute bonus")} ↑
+                </option>
               </select></label
-            ><button class="reset" data-reset title="Filter zurücksetzen">
-              ↺ <span>Zurücksetzen</span>
+            ><button
+              class="reset"
+              data-reset
+              title="${t("Filter zurücksetzen", "Reset filters")}"
+            >
+              ↺ <span>${t("Zurücksetzen", "Reset")}</span>
             </button>
           </div>
           <div class="attribute-controls" id="attribute-controls">
             <div class="attribute-intro">
-              <b>✦ Boni vergleichen</b
-              ><span>Einzelne Attribute wie in der Itemliste sortieren.</span>
+              <b>✦ ${t("Boni vergleichen", "Compare bonuses")}</b
+              ><span
+                >${t("Einzelne Attribute wie in der Itemliste sortieren.", "Sort individual attributes as in the item list.")}</span
+              >
             </div>
             <label
-              >Bonusart<select id="attribute-context">
-                <option value="upgrade">Upgrade-Bonus</option>
-                <option value="base">Ausrüstung · Grundwerte</option>
-                <option value="consume">Beim Verzehr</option>
-                <option value="cook">Als Kochzutat</option>
+              >${t("Bonusart", "Bonus type")}<select id="attribute-context">
+                <option value="upgrade">
+                  ${t("Upgrade-Bonus", "Upgrade bonus")}
+                </option>
+                <option value="base">
+                  ${t("Ausrüstung · Grundwerte", "Equipment · base stats")}
+                </option>
+                <option value="consume">
+                  ${t("Beim Verzehr", "When consumed")}
+                </option>
+                <option value="cook">
+                  ${t("Als Kochzutat", "As a cooking ingredient")}
+                </option>
               </select></label
-            ><label>Attribut<select id="attribute"></select></label
+            ><label
+              >${t("Attribut", "Attribute")}<select
+                id="attribute"
+              ></select></label
             ><button id="sort-attribute" class="bonus-sort">
-              Höchster Bonus ↓
+              ${t("Höchster Bonus", "Highest bonus")} ↓
             </button>
           </div>
           <div class="results-heading">
             <span id="result-count" role="status" aria-live="polite"
-              >Daten werden geladen …</span
-            ><span>Eintrag auswählen für Details ↗</span>
+              >${t("Daten werden geladen …", "Loading data …")}</span
+            ><span
+              >${t("Eintrag auswählen für Details", "Select an entry for details")}
+              ↗</span
+            >
           </div>
           <div id="results"></div>
           <div class="pagination" id="pagination"></div>
         </section>
         <footer>
-          <span>✧ SELPHIA ARCHIV</span>
+          <span>✧ ${t("SELPHIA ARCHIV", "SELPHIA ARCHIVE")}</span>
           <p>
-            Ein Fanprojekt von Nayef Hajjaj. Daten können Lücken enthalten.<br />Deutsche
-            Suchhilfen sind noch nicht als offizielle Lokalisierung verifiziert.
+            ${t("Ein Fanprojekt von Nayef Hajjaj. Daten können Lücken enthalten.", "A fan project by Nayef Hajjaj. Some data may be incomplete.")}<br />${t("Deutsche Spielbegriffe sind Fanübersetzungen und keine verifizierte offizielle Lokalisierung.", "German game terms are fan translations, not a verified official localization.")}
           </p>
-          <button data-sources>Quellen & Lizenz ↗</button>
+          <button data-sources>
+            ${t("Quellen & Lizenz", "Sources & license")} ↗
+          </button>
         </footer>
       </main>
     </div>

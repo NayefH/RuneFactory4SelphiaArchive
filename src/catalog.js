@@ -1,4 +1,6 @@
 import { bonus } from "./attributes.js";
+import { displayName, localizeText } from "./data-localization.js";
+import { locale } from "./i18n.js";
 import {
   acquisitionSearchTerms,
   indexRecipeAcquisitions,
@@ -55,7 +57,15 @@ export function createCatalog(dataset) {
         record.produce,
         ...linkedNames.flatMap((name) => [name, getItem(name)?.de]),
       ];
-      return [record.id, normalizeSearch(terms.filter(Boolean).join(" "))];
+      const bilingualTerms = terms
+        .filter(Boolean)
+        .flatMap((term) => [
+          term,
+          localizeText(term, "de"),
+          localizeText(term, "en"),
+        ]);
+      bilingualTerms.push(displayName(record, "de"), displayName(record, "en"));
+      return [record.id, normalizeSearch(bilingualTerms.join(" "))];
     }),
   );
 
@@ -85,7 +95,8 @@ export function createCatalog(dataset) {
     });
 
     return selected.sort((first, second) => {
-      const compareNames = () => first.name.localeCompare(second.name);
+      const compareNames = () =>
+        displayName(first).localeCompare(displayName(second), locale());
       if (compareBonus) {
         const difference =
           bonus(second, filters.attributeContext, filters.attribute) -
