@@ -48,9 +48,6 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
           )
           .join("")}
       </nav>
-      <div class="side-art" aria-hidden="true">
-        <img src="${assetUrl("design/frey-rf4.png")}" alt="" />
-      </div>
       <button class="source-button" data-sources>
         ⓘ ${t("Quellen & Datenstand", "Sources & data")}</button
       ><small class="sidebar-bottom"

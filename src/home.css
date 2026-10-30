@@ -1,250 +1,162 @@
 #home {
-  padding-block: 36px;
+  padding-block: 24px 32px;
 }
 .home-welcome {
-  overflow: hidden;
-  border: 1px solid #c8c6a9;
-  border-radius: 12px;
   background: #fffdf5;
-  box-shadow: 0 6px 22px #344a3210;
+}
+.home-intro {
+  padding-bottom: 20px;
+}
+.home-kicker {
+  font-size: 12px;
+  letter-spacing: 0.6px;
+  color: #65765d;
+}
+.home-intro h1 {
+  margin: 6px 0 14px;
+  padding-bottom: 8px;
+  color: var(--green);
+  font:
+    normal clamp(28px, 3vw, 36px)/1.25 Georgia,
+    serif;
+  border-bottom: 1px solid #b9c5aa;
+}
+.home-intro p {
+  max-width: 900px;
+  margin: 0;
+  color: #526448;
+  font-size: 16px;
+  line-height: 1.65;
 }
 .home-banner {
   display: block;
   width: 100%;
-  height: auto;
-}
-.home-intro {
-  padding: 32px 38px 34px;
-  max-width: 850px;
-}
-.home-kicker {
-  font-size: 13px;
-  letter-spacing: 2px;
-  font-weight: 700;
-  color: #8b7443;
-}
-.home-intro h1 {
-  font:
-    600 clamp(36px, 4vw, 58px)/1.1 "Alegreya",
-    Georgia,
-    serif;
-  color: var(--green);
-  margin: 16px 0;
-}
-.home-intro p {
-  font-size: 20px;
-  line-height: 1.7;
-  margin: 0;
-  color: #63745e;
+  height: 132px;
+  object-fit: cover;
+  object-position: center 36%;
+  border: 1px solid #d2d8c3;
 }
 .home-search {
-  margin-block: 32px;
-  padding: 26px;
-  border: 1px solid #d4d5bd;
-  border-radius: 8px;
-  background: #eeeedf;
+  margin-block: 22px 30px;
+  padding: 15px 18px 18px;
+  background: #f2f4e9;
+  border: 1px solid #d2d8c3;
 }
 .home-search > label {
   display: block;
-  font-size: 20px;
-  font-weight: 700;
-  margin-bottom: 14px;
+  margin-bottom: 9px;
+  font-size: 15px;
+  font-weight: 600;
   color: var(--green);
 }
 .home-search-fields {
   display: flex;
-  gap: 10px;
+  gap: 8px;
 }
 .home-search-fields input,
 .home-search-fields select {
-  min-height: 58px;
-  font-size: 18px;
-  padding: 12px 16px;
-  border: 1px solid #c2cbb2;
-  border-radius: 5px;
-  background: #fffdf6;
-  color: #354f39;
   min-width: 0;
+  min-height: 40px;
+  padding: 8px 10px;
+  color: var(--green);
+  background: #fffdf5;
+  font-size: 15px;
+  border: 1px solid #b9c5aa;
+  border-radius: 2px;
 }
 .home-search-fields input {
   flex: 1;
 }
 .home-search-fields button {
-  font-size: 18px;
-  padding-inline: 24px;
+  padding-inline: 18px;
+  font-size: 15px;
 }
 .home-scope-label {
   position: absolute;
   width: 1px;
   height: 1px;
-  padding: 0;
   overflow: hidden;
   clip-path: inset(50%);
   white-space: nowrap;
 }
+.home-directory h2 {
+  margin: 0;
+  padding-bottom: 8px;
+  color: var(--green);
+  font:
+    normal 25px/1.3 Georgia,
+    serif;
+  border-bottom: 1px solid #b9c5aa;
+}
 .home-categories {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 18px;
-  margin-block: 30px;
+  margin-top: 10px;
 }
 .home-card {
-  position: relative;
-  text-align: left;
-  background: #fffdf5;
-  border: 1px solid #d8d7bf;
-  border-radius: 8px;
-  padding: 24px;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 46px minmax(0, 1fr) auto 18px;
+  align-items: center;
   gap: 16px;
-  transition:
-    border-color 0.2s,
-    transform 0.2s;
+  min-height: 86px;
+  padding: 15px 10px;
+  color: var(--green);
+  border-bottom: 1px solid #e0e4d5;
 }
 .home-card:hover {
-  border-color: var(--gold);
-  transform: translateY(-3px);
+  background: #f2f4e9;
+  text-decoration: none;
+}
+.home-card:hover strong {
+  text-decoration: underline;
 }
 .home-card-image {
   display: grid;
   place-items: center;
-  width: 100px;
-  height: 100px;
-  background: #edf0e2;
-  border: 1px solid #d4dac4;
-  border-radius: 50%;
+  width: 46px;
+  height: 46px;
 }
 .home-card-image img {
-  width: 88px;
-  height: 88px;
+  width: 44px;
+  height: 44px;
   object-fit: contain;
   image-rendering: pixelated;
 }
-.home-card small {
-  color: #7a836b;
-  font-size: 14px;
+.home-card-copy {
+  min-width: 0;
 }
 .home-card strong {
-  display: block;
-  font:
-    600 28px/1.2 "Alegreya",
-    Georgia,
-    serif;
-  margin-top: 8px;
-  color: var(--green);
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
 }
 .home-card p {
-  font-size: 17px;
-  line-height: 1.6;
-  color: #748069;
-  margin: 12px 0 0;
+  margin: 4px 0 0;
+  color: #65765d;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.home-card-count {
+  color: #65765d;
+  font-size: 13px;
+  white-space: nowrap;
 }
 .home-arrow {
-  position: absolute;
-  right: 24px;
-  top: 28px;
-  font-size: 28px;
-  color: #a48d52;
-}
-.home-guide {
-  display: grid;
-  grid-template-columns: 230px minmax(0, 1fr);
-  gap: 32px;
-  align-items: center;
-  padding: 34px;
-  margin-block: 34px 0;
-  background: var(--deep);
-  border: 3px double #a19762;
-  border-radius: 10px;
-  color: #e9e7d2;
-  overflow: hidden;
-}
-.home-frey {
-  display: block;
-  max-width: 100%;
-  width: 230px;
-  height: 330px;
-  object-fit: contain;
-  object-position: top;
-  mask-image: linear-gradient(black 80%, transparent);
-}
-.home-guide .home-kicker {
-  color: #c8b47a;
-}
-.home-guide h2 {
-  font:
-    500 36px/1.2 "Alegreya",
-    Georgia,
-    serif;
-  margin: 14px 0;
-}
-.home-guide p {
+  color: #8a7747;
   font-size: 18px;
-  line-height: 1.8;
-  color: #c7d1bb;
-}
-.home-actions {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin-top: 22px;
-}
-.home-actions button {
-  min-height: 54px;
-  font-size: 17px;
-}
-.home-actions .primary {
-  background: #eee9d5;
-  color: #294a35;
-}
-.home-saved {
-  background: transparent;
-  border: 1px solid #788c6c;
-  color: #e9e7d2;
-  border-radius: 4px;
-  padding: 12px 18px;
-}
-@media (max-width: 1200px) {
-  .home-categories {
-    grid-template-columns: 1fr;
-  }
-  .home-card {
-    flex-direction: row;
-    align-items: center;
-    padding-right: 50px;
-  }
-  .home-card-image {
-    flex: 0 0 100px;
-  }
-  .home-card strong {
-    font-size: 28px;
-  }
-  .home-arrow {
-    top: 50%;
-    transform: translateY(-50%);
-  }
-  .home-guide {
-    grid-template-columns: 160px minmax(0, 1fr);
-    padding: 26px;
-    gap: 24px;
-  }
-  .home-frey {
-    height: 280px;
-  }
 }
 @media (max-width: 650px) {
   #home {
-    padding-top: 20px;
-  }
-  .home-intro {
-    padding: 24px 20px;
+    padding-block: 20px 28px;
   }
   .home-intro p {
-    font-size: 18px;
+    font-size: 15px;
+  }
+  .home-banner {
+    height: auto;
   }
   .home-search {
-    padding: 20px;
+    margin-block: 18px 24px;
+    padding: 12px;
   }
   .home-search-fields {
     flex-wrap: wrap;
@@ -255,54 +167,31 @@
   }
   .home-search-fields select {
     flex: 1;
-  }
-  .home-search-fields button {
-    min-width: 110px;
+    max-width: 100%;
   }
   .home-card {
-    padding: 20px;
-    gap: 16px;
+    grid-template-columns: 40px minmax(0, 1fr) 16px;
+    gap: 5px 12px;
+    padding: 14px 4px;
   }
   .home-card-image {
-    width: 88px;
-    height: 88px;
-    flex-basis: 88px;
+    grid-row: 1 / 3;
+    width: 40px;
+    height: 40px;
   }
   .home-card-image img {
-    width: 76px;
-    height: 76px;
+    width: 38px;
+    height: 38px;
   }
-  .home-card strong {
-    font-size: 25px;
+  .home-card-copy {
+    grid-column: 2;
+  }
+  .home-card-count {
+    grid-column: 2;
+    grid-row: 2;
   }
   .home-arrow {
-    display: none;
-  }
-  .home-guide {
-    grid-template-columns: minmax(0, 1fr);
-    padding: 24px;
-    text-align: center;
-  }
-  .home-frey {
-    width: 180px;
-    height: 240px;
-    margin-inline: auto;
-  }
-  .home-guide h2 {
-    font-size: 32px;
-  }
-  .home-actions {
-    justify-content: center;
-  }
-}
-@media (max-width: 360px) {
-  .home-card {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  .home-search-fields select,
-  .home-search-fields button {
-    width: 100%;
-    flex-basis: 100%;
+    grid-column: 3;
+    grid-row: 1 / 3;
   }
 }

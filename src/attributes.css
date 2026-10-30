@@ -2,147 +2,147 @@
   display: flex;
   align-items: flex-end;
   flex-wrap: wrap;
-  gap: 16px;
-  margin: -4px 0 28px;
-  padding: 20px;
-  background: #eeeede;
-  border: 1px solid #d9d9bf;
-  border-radius: 5px;
+  gap: 12px;
+  margin: 0 0 18px;
+  padding: 12px;
+  background: #f5f3e8;
+  border: 1px solid #d8d7c5;
 }
 .attribute-intro {
-  flex: 1 1 200px;
+  flex: 1 1 180px;
   align-self: center;
   margin-right: auto;
 }
 .attribute-intro b {
   display: block;
-  margin-bottom: 6px;
-  font-size: 18px;
-  color: #687b52;
+  margin-bottom: 3px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #35443b;
 }
 .attribute-intro span {
   display: block;
-  font-size: 14px;
-  line-height: 1.6;
-  color: #7f896b;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #7b856f;
 }
 .attribute-controls label {
   display: flex;
-  flex: 1 1 180px;
+  flex: 1 1 150px;
   flex-direction: column;
-  gap: 7px;
+  gap: 4px;
   min-width: 0;
-  font-size: 14px;
-  color: #748362;
+  font-size: 12px;
+  color: #64745c;
 }
 .attribute-controls select {
   width: 100%;
   max-width: 100%;
-  min-height: 54px;
-  padding: 11px;
-  font-size: 18px;
-  color: #536947;
-  background: #faf8ee;
-  border: 1px solid #cecfb5;
-  border-radius: 4px;
+  min-height: 38px;
+  padding: 7px 8px;
+  font-size: 14px;
+  color: #35443b;
+  background: #fffef9;
+  border: 1px solid #bcbf9f;
+  border-radius: 2px;
 }
 .bonus-sort {
-  min-height: 54px;
-  padding: 12px 15px;
-  font-size: 18px;
+  min-height: 38px;
+  padding: 7px 12px;
+  font-size: 14px;
   white-space: normal;
-  color: #f7f1db;
-  background: #506a45;
-  border: 1px solid #a39861;
-  border-radius: 4px;
+  color: #254d3f;
+  background: #fffef9;
+  border: 1px solid #bcbf9f;
+  border-radius: 2px;
 }
 .bonus-value {
   display: block;
-  font-family: "Alegreya", Georgia, serif;
-  font-size: 36px;
-  font-weight: 700;
-  color: #71804c;
+  font-size: 20px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  color: #35443b;
 }
 .info-cell small {
   display: block;
-  font-size: 14px;
+  font-size: 12px;
 }
 .attribute-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 12px;
+  gap: 1px;
+  border: 1px solid #d8d7c5;
+  background: #d8d7c5;
 }
 .attribute-grid > div {
   min-width: 0;
-  padding: 16px;
-  background: #efeddd;
-  border: 1px solid #dfdcc6;
-  border-radius: 3px;
+  padding: 10px 12px;
+  background: #f5f3e8;
 }
 .attribute-grid span {
   display: block;
-  font-size: 16px;
+  font-size: 12px;
   overflow-wrap: anywhere;
-  color: #818d69;
+  color: #64745c;
 }
 .attribute-grid strong {
   display: block;
-  margin: 6px 0;
-  font-family: "Alegreya", Georgia, serif;
-  font-size: 34px;
+  margin: 3px 0;
+  font-size: 20px;
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
   overflow-wrap: anywhere;
-  color: #586b42;
+  color: #35443b;
 }
 .attribute-grid small {
-  font-size: 14px;
-  color: #8d9679;
+  font-size: 11px;
+  color: #7b856f;
 }
 .item-icon img {
-  width: 88px;
-  height: 88px;
+  width: 44px;
+  height: 44px;
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
   image-rendering: pixelated;
 }
 .detail-icon img {
-  width: 360px;
-  height: 360px;
+  width: 168px;
+  height: 168px;
   max-width: 100%;
   object-fit: contain;
   image-rendering: pixelated;
-  filter: drop-shadow(0 4px 5px #32463020);
 }
 .info-cell:has(.bonus-value) {
   display: block;
   overflow: visible;
   -webkit-line-clamp: unset;
 }
-@media (max-width: 1100px) {
+@media (max-width: 1050px) {
   .attribute-intro {
     flex-basis: 100%;
   }
 }
 @media (max-width: 580px) {
   .attribute-controls {
-    gap: 14px;
-    padding: 16px;
+    gap: 10px;
+    padding: 10px;
   }
   .attribute-controls label {
     flex-basis: 100%;
+  }
+  .attribute-controls select,
+  .bonus-sort {
+    min-height: 42px;
   }
   .bonus-sort {
     width: 100%;
   }
   .attribute-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 10px;
   }
   .attribute-grid > div {
-    padding: 12px;
-  }
-  .attribute-grid strong {
-    font-size: 32px;
+    padding: 9px;
   }
   .detail-icon img {
     height: auto;

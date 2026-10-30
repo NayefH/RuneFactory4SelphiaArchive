@@ -370,12 +370,6 @@ document.addEventListener("click", (e) => {
     render();
   }
   if (target.dataset.tab) switchTab(target.dataset.tab);
-  if (target.hasAttribute("data-home-bonuses")) {
-    switchTab("item");
-    sort = "bonus-desc";
-    $("#sort").value = sort;
-    render();
-  }
   if (target.dataset.open) openDetail(target.dataset.open);
   if (target.hasAttribute("data-sources")) showSources();
   if (target.hasAttribute("data-reset")) reset();

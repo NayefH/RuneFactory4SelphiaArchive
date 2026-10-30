@@ -50,7 +50,18 @@ const evaluate = async (expression) => {
 };
 const wait = async (expression) => {
   for (let attempt = 0; attempt < 100; attempt++) {
-    if (await evaluate(expression)) return;
+    try {
+      if (await evaluate(expression)) return;
+    } catch (error) {
+      // A navigation briefly destroys the previous JavaScript context.
+      const message = error.message || JSON.stringify(error);
+      if (
+        !/context.*destroyed|Cannot find context|target navigated/i.test(
+          message,
+        )
+      )
+        throw error;
+    }
     await new Promise((resolve) => setTimeout(resolve, 100));
   }
   throw Error("Timed out: " + expression);
@@ -69,13 +80,28 @@ const search = (query) =>
   evaluate(
     `document.querySelector('#search').value=${JSON.stringify(query)};document.querySelector('#search').dispatchEvent(new Event('input',{bubbles:true}))`,
   );
-const ready = () =>
-  wait("document.querySelector('#count-item')?.textContent.match(/1[.,]089/)");
-const navigate = async (query = "") => {
+const dataReady =
+  "document.querySelector('#count-item')?.textContent.match(/1[.,]089/) && document.querySelector('#home h1')";
+let navigation = 0;
+const navigate = async (query = "", readyExpression = dataReady) => {
+  const token = `navigation-${++navigation}`;
+  await evaluate(`window.__rf4QaNavigationToken=${JSON.stringify(token)}`);
   await send("Page.navigate", { url: base + query });
-  await ready();
+  await wait(
+    `window.__rf4QaNavigationToken!==${JSON.stringify(token)} && document.readyState==='complete' && (${readyExpression})`,
+  );
 };
+const viewport = (width) =>
+  send("Emulation.setDeviceMetricsOverride", {
+    width,
+    height: 1000,
+    deviceScaleFactor: 1,
+    mobile: width < 800,
+  });
 const screenshot = async (name) => {
+  await evaluate(
+    "document.fonts.ready.then(()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve))))",
+  );
   mkdirSync("qa", { recursive: true });
   const result = await send("Page.captureScreenshot", { format: "png" });
   writeFileSync(`qa/${name}.png`, Buffer.from(result.data, "base64"));
@@ -85,12 +111,10 @@ try {
   await send("Runtime.enable");
   await send("Page.enable");
   await send("Network.enable");
-  await send("Emulation.setDeviceMetricsOverride", {
-    width: 1440,
-    height: 1000,
-    deviceScaleFactor: 1,
-    mobile: false,
+  await send("Emulation.setEmulatedMedia", {
+    features: [{ name: "prefers-reduced-motion", value: "reduce" }],
   });
+  await viewport(1440);
   await navigate("?lang=de");
   await evaluate(
     "localStorage.removeItem('rf4-saved');localStorage.removeItem('rf4-language')",
@@ -198,24 +222,63 @@ try {
     await language(selected);
     await click('[data-tab="home"]');
     await evaluate("window.scrollTo(0,0)");
-    for (const width of [320, 390, 768, 1024]) {
-      await send("Emulation.setDeviceMetricsOverride", {
-        width,
-        height: 1000,
-        deviceScaleFactor: 1,
-        mobile: width < 800,
-      });
+    await check(
+      `${selected} preparation box removed`,
+      "!document.querySelector('.home-guide') && !document.querySelector('#home').textContent.includes('GUT VORBEREITET') && !document.querySelector('#home').textContent.includes('GET READY FOR SELPHIA')",
+    );
+    for (const tab of ["item", "recipe", "monster"]) {
+      await click(`#home [data-tab="${tab}"]`);
+      await check(
+        `${selected} ${tab} category opens its directory`,
+        `!document.querySelector('#directory').hidden && document.querySelector('#home').hidden && document.querySelector('.nav[data-tab="${tab}"]').getAttribute('aria-pressed')==='true' && new URLSearchParams(location.search).get('tab')===${JSON.stringify(tab)}`,
+      );
+      await click('.nav[data-tab="home"]');
+    }
+    for (const width of [320, 390, 580, 768, 1024, 1440]) {
+      await viewport(width);
       await check(
         `${selected} mobile layout ${width}px`,
-        "document.documentElement.scrollWidth<=innerWidth && document.querySelector('#language-switch').getBoundingClientRect().right<=innerWidth && document.querySelector('#language-switch').getBoundingClientRect().left>=0",
+        "document.documentElement.scrollWidth<=innerWidth && document.querySelector('#language-switch').getBoundingClientRect().width>0 && document.querySelector('#language-switch').getBoundingClientRect().right<=innerWidth && document.querySelector('#language-switch').getBoundingClientRect().left>=0 && [...document.querySelectorAll('#home [data-tab],.home-search input,.home-search select')].every(element=>{const rect=element.getBoundingClientRect();return rect.width===0 || (rect.left>=0 && rect.right<=innerWidth)})",
       );
       if (selected === "en" && width === 390)
         await screenshot("language-en-mobile");
+      if (selected === "de" && width === 390)
+        await screenshot("wiki-home-mobile");
+      if (selected === "de" && width === 1440)
+        await screenshot("wiki-home-desktop");
     }
+    await click('.nav[data-tab="item"]');
+    await click("[data-reset]");
+    await evaluate("window.scrollTo(0,0)");
+    for (const width of [320, 390, 580, 768, 1024, 1440]) {
+      await viewport(width);
+      await check(
+        `${selected} item directory layout ${width}px`,
+        "document.documentElement.scrollWidth<=innerWidth && [...document.querySelectorAll('.entry,.filters select,.attribute-controls select,.category-cell,.info-cell,#language-switch')].every(element=>{const rect=element.getBoundingClientRect();return rect.width===0 || (rect.left>=0 && rect.right<=innerWidth)})",
+      );
+      if (selected === "de" && width === 390)
+        await screenshot("wiki-items-mobile");
+      if (selected === "de" && width === 1440)
+        await screenshot("wiki-items-desktop");
+    }
+    await viewport(390);
+    await search("Unbroken Ivory Tusk");
+    await click(".entry");
+    await check(
+      `${selected} long item details fit mobile`,
+      "document.querySelector('#detail').open && document.querySelector('#detail').getBoundingClientRect().left>=0 && document.querySelector('#detail').getBoundingClientRect().right<=innerWidth && document.querySelector('#detail').scrollWidth<=document.querySelector('#detail').clientWidth && document.querySelector('#detail-body').scrollWidth<=document.querySelector('#detail-body').clientWidth",
+    );
+    await click(".close");
+    await click("footer [data-sources]");
+    await check(
+      `${selected} source details fit mobile`,
+      "document.querySelector('#detail').open && document.querySelector('#detail').getBoundingClientRect().left>=0 && document.querySelector('#detail').getBoundingClientRect().right<=innerWidth && document.querySelector('#detail').scrollWidth<=document.querySelector('#detail').clientWidth",
+    );
+    await click(".close");
   }
   await send("Network.setBlockedURLs", { urls: ["*data.json*"] });
-  await send("Page.navigate", { url: base + "?lang=en" });
-  await wait(
+  await navigate(
+    "?lang=en",
     "document.querySelector('#results')?.textContent.includes('The archive is currently unavailable.')",
   );
   await language("de");
