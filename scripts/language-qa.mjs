@@ -124,6 +124,11 @@ try {
     "default German homepage",
     "document.documentElement.lang==='de' && document.querySelector('#home h1').textContent==='Dein Rune Factory 4 Archiv.'",
   );
+  await evaluate("document.querySelector('.rf4-logo').decode()");
+  await check(
+    "transparent logo is loaded on the page",
+    "(()=>{const logo=document.querySelector('.rf4-logo');const canvas=document.createElement('canvas');canvas.width=canvas.height=1;const context=canvas.getContext('2d');context.drawImage(logo,0,0);return logo.currentSrc.includes('rf4-logo-transparent.png') && logo.naturalWidth>0 && context.getImageData(0,0,1,1).data[3]===0})()",
+  );
   await language("en");
   await check(
     "English chrome, title, metadata and URL",
@@ -240,6 +245,11 @@ try {
         `${selected} mobile layout ${width}px`,
         "document.documentElement.scrollWidth<=innerWidth && document.querySelector('#language-switch').getBoundingClientRect().width>0 && document.querySelector('#language-switch').getBoundingClientRect().right<=innerWidth && document.querySelector('#language-switch').getBoundingClientRect().left>=0 && [...document.querySelectorAll('#home [data-tab],.home-search input,.home-search select')].every(element=>{const rect=element.getBoundingClientRect();return rect.width===0 || (rect.left>=0 && rect.right<=innerWidth)})",
       );
+      if (width === 390 || width === 1440)
+        await check(
+          `${selected} enlarged home text and images at ${width}px`,
+          "parseFloat(getComputedStyle(document.querySelector('.home-intro p')).fontSize)>=18 && document.querySelector('.home-card-image img').getBoundingClientRect().width>=56 && parseFloat(getComputedStyle(document.querySelector('.home-search-fields input')).fontSize)>=16",
+        );
       if (selected === "en" && width === 390)
         await screenshot("language-en-mobile");
       if (selected === "de" && width === 390)
@@ -256,6 +266,11 @@ try {
         `${selected} item directory layout ${width}px`,
         "document.documentElement.scrollWidth<=innerWidth && [...document.querySelectorAll('.entry,.filters select,.attribute-controls select,.category-cell,.info-cell,#language-switch')].every(element=>{const rect=element.getBoundingClientRect();return rect.width===0 || (rect.left>=0 && rect.right<=innerWidth)})",
       );
+      if (width === 390 || width === 1440)
+        await check(
+          `${selected} enlarged entry text and images at ${width}px`,
+          "parseFloat(getComputedStyle(document.querySelector('.entry-name strong')).fontSize)>=18 && document.querySelector('.item-icon img').getBoundingClientRect().width>=56 && parseFloat(getComputedStyle(document.querySelector('.filters select')).fontSize)>=16",
+        );
       if (selected === "de" && width === 390)
         await screenshot("wiki-items-mobile");
       if (selected === "de" && width === 1440)
@@ -267,6 +282,10 @@ try {
     await check(
       `${selected} long item details fit mobile`,
       "document.querySelector('#detail').open && document.querySelector('#detail').getBoundingClientRect().left>=0 && document.querySelector('#detail').getBoundingClientRect().right<=innerWidth && document.querySelector('#detail').scrollWidth<=document.querySelector('#detail').clientWidth && document.querySelector('#detail-body').scrollWidth<=document.querySelector('#detail-body').clientWidth",
+    );
+    await check(
+      `${selected} enlarged detail image leaves the long title readable`,
+      "(()=>{const image=document.querySelector('.detail-icon img').getBoundingClientRect();const title=document.createRange();title.selectNodeContents(document.querySelector('#detail h2'));return image.width>=112 && [...title.getClientRects()].every(rect=>rect.right<=image.left+1 || rect.left>=image.right-1 || rect.bottom<=image.top+1 || rect.top>=image.bottom-1)})()",
     );
     await click(".close");
     await click("footer [data-sources]");

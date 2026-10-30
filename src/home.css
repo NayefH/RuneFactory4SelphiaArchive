@@ -1,5 +1,5 @@
 #home {
-  padding-block: 24px 32px;
+  padding-block: 28px 36px;
 }
 .home-welcome {
   background: #fffdf5;
@@ -8,7 +8,7 @@
   padding-bottom: 20px;
 }
 .home-kicker {
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 0.6px;
   color: #65765d;
 }
@@ -17,35 +17,35 @@
   padding-bottom: 8px;
   color: var(--green);
   font:
-    normal clamp(28px, 3vw, 36px)/1.25 Georgia,
+    normal clamp(32px, 3.2vw, 42px)/1.25 Georgia,
     serif;
   border-bottom: 1px solid #b9c5aa;
 }
 .home-intro p {
-  max-width: 900px;
+  max-width: 1000px;
   margin: 0;
   color: #526448;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.65;
 }
 .home-banner {
   display: block;
   width: 100%;
-  height: 132px;
+  height: 184px;
   object-fit: cover;
   object-position: center 36%;
   border: 1px solid #d2d8c3;
 }
 .home-search {
   margin-block: 22px 30px;
-  padding: 15px 18px 18px;
+  padding: 18px 20px 20px;
   background: #f2f4e9;
   border: 1px solid #d2d8c3;
 }
 .home-search > label {
   display: block;
   margin-bottom: 9px;
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 600;
   color: var(--green);
 }
@@ -56,11 +56,11 @@
 .home-search-fields input,
 .home-search-fields select {
   min-width: 0;
-  min-height: 40px;
-  padding: 8px 10px;
+  min-height: 50px;
+  padding: 10px 12px;
   color: var(--green);
   background: #fffdf5;
-  font-size: 15px;
+  font-size: 18px;
   border: 1px solid #b9c5aa;
   border-radius: 2px;
 }
@@ -69,7 +69,7 @@
 }
 .home-search-fields button {
   padding-inline: 18px;
-  font-size: 15px;
+  font-size: 18px;
 }
 .home-scope-label {
   position: absolute;
@@ -84,7 +84,7 @@
   padding-bottom: 8px;
   color: var(--green);
   font:
-    normal 25px/1.3 Georgia,
+    normal 30px/1.3 Georgia,
     serif;
   border-bottom: 1px solid #b9c5aa;
 }
@@ -93,11 +93,11 @@
 }
 .home-card {
   display: grid;
-  grid-template-columns: 46px minmax(0, 1fr) auto 18px;
+  grid-template-columns: 72px minmax(0, 1fr) auto 22px;
   align-items: center;
-  gap: 16px;
-  min-height: 86px;
-  padding: 15px 10px;
+  gap: 20px;
+  min-height: 112px;
+  padding: 18px 10px;
   color: var(--green);
   border-bottom: 1px solid #e0e4d5;
 }
@@ -111,12 +111,12 @@
 .home-card-image {
   display: grid;
   place-items: center;
-  width: 46px;
-  height: 46px;
+  width: 72px;
+  height: 72px;
 }
 .home-card-image img {
-  width: 44px;
-  height: 44px;
+  width: 70px;
+  height: 70px;
   object-fit: contain;
   image-rendering: pixelated;
 }
@@ -124,7 +124,7 @@
   min-width: 0;
 }
 .home-card strong {
-  font-size: 17px;
+  font-size: 22px;
   font-weight: 600;
   line-height: 1.4;
   overflow-wrap: anywhere;
@@ -132,27 +132,24 @@
 .home-card p {
   margin: 4px 0 0;
   color: #65765d;
-  font-size: 14px;
+  font-size: 17px;
   line-height: 1.5;
 }
 .home-card-count {
   color: #65765d;
-  font-size: 13px;
+  font-size: 16px;
   white-space: nowrap;
 }
 .home-arrow {
   color: #8a7747;
-  font-size: 18px;
+  font-size: 22px;
 }
 @media (max-width: 650px) {
   #home {
     padding-block: 20px 28px;
   }
-  .home-intro p {
-    font-size: 15px;
-  }
   .home-banner {
-    height: auto;
+    height: 120px;
   }
   .home-search {
     margin-block: 18px 24px;
@@ -169,19 +166,27 @@
     flex: 1;
     max-width: 100%;
   }
+  .home-search-fields input,
+  .home-search-fields select,
+  .home-search-fields button {
+    font-size: 17px;
+  }
   .home-card {
-    grid-template-columns: 40px minmax(0, 1fr) 16px;
+    grid-template-columns: 60px minmax(0, 1fr) 18px;
     gap: 5px 12px;
     padding: 14px 4px;
   }
   .home-card-image {
     grid-row: 1 / 3;
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
   }
   .home-card-image img {
-    width: 38px;
-    height: 38px;
+    width: 58px;
+    height: 58px;
+  }
+  .home-card strong {
+    font-size: 20px;
   }
   .home-card-copy {
     grid-column: 2;

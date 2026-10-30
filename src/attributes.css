@@ -16,13 +16,13 @@
 .attribute-intro b {
   display: block;
   margin-bottom: 3px;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 600;
   color: #35443b;
 }
 .attribute-intro span {
   display: block;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.5;
   color: #7b856f;
 }
@@ -32,24 +32,24 @@
   flex-direction: column;
   gap: 4px;
   min-width: 0;
-  font-size: 12px;
+  font-size: 16px;
   color: #64745c;
 }
 .attribute-controls select {
   width: 100%;
   max-width: 100%;
-  min-height: 38px;
+  min-height: 48px;
   padding: 7px 8px;
-  font-size: 14px;
+  font-size: 18px;
   color: #35443b;
   background: #fffef9;
   border: 1px solid #bcbf9f;
   border-radius: 2px;
 }
 .bonus-sort {
-  min-height: 38px;
+  min-height: 48px;
   padding: 7px 12px;
-  font-size: 14px;
+  font-size: 18px;
   white-space: normal;
   color: #254d3f;
   background: #fffef9;
@@ -58,14 +58,14 @@
 }
 .bonus-value {
   display: block;
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 600;
   font-variant-numeric: tabular-nums;
   color: #35443b;
 }
 .info-cell small {
   display: block;
-  font-size: 12px;
+  font-size: 14px;
 }
 .attribute-grid {
   display: grid;
@@ -81,34 +81,34 @@
 }
 .attribute-grid span {
   display: block;
-  font-size: 12px;
+  font-size: 14px;
   overflow-wrap: anywhere;
   color: #64745c;
 }
 .attribute-grid strong {
   display: block;
   margin: 3px 0;
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 500;
   font-variant-numeric: tabular-nums;
   overflow-wrap: anywhere;
   color: #35443b;
 }
 .attribute-grid small {
-  font-size: 11px;
+  font-size: 14px;
   color: #7b856f;
 }
 .item-icon img {
-  width: 44px;
-  height: 44px;
+  width: 72px;
+  height: 72px;
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
   image-rendering: pixelated;
 }
 .detail-icon img {
-  width: 168px;
-  height: 168px;
+  width: 260px;
+  height: 260px;
   max-width: 100%;
   object-fit: contain;
   image-rendering: pixelated;
@@ -118,9 +118,15 @@
   overflow: visible;
   -webkit-line-clamp: unset;
 }
-@media (max-width: 1050px) {
+@media (max-width: 1150px) {
   .attribute-intro {
     flex-basis: 100%;
+  }
+}
+@media (max-width: 800px) {
+  .item-icon img {
+    width: 60px;
+    height: 60px;
   }
 }
 @media (max-width: 580px) {
@@ -133,7 +139,7 @@
   }
   .attribute-controls select,
   .bonus-sort {
-    min-height: 42px;
+    min-height: 48px;
   }
   .bonus-sort {
     width: 100%;
@@ -145,7 +151,7 @@
     padding: 9px;
   }
   .detail-icon img {
-    height: auto;
-    aspect-ratio: 1;
+    width: 120px;
+    height: 120px;
   }
 }

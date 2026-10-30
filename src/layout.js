@@ -31,7 +31,7 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
       >
         <img
           class="rf4-logo"
-          src="${assetUrl("design/rf4-logo.png")}"
+          src="${assetUrl("design/rf4-logo-transparent.png")}"
           alt="Rune Factory 4"
         />
         <span
