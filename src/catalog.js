@@ -1,6 +1,7 @@
 import { bonus } from "./attributes.js";
 import { displayName, localizeText } from "./data-localization.js";
 import { locale } from "./i18n.js";
+import { canonicalCategory, categoryGroup } from "./categories.js";
 import {
   acquisitionSearchTerms,
   indexRecipeAcquisitions,
@@ -82,7 +83,13 @@ export function createCatalog(dataset) {
       .filter(Boolean);
     const compareBonus = filters.sort.startsWith("bonus");
     const selected = list(filters.tab, favoriteIds).filter((record) => {
-      if (filters.category && record.category !== filters.category)
+      if (filters.group && categoryGroup(record.category) !== filters.group)
+        return false;
+      if (
+        filters.category &&
+        canonicalCategory(record.category) !==
+          canonicalCategory(filters.category)
+      )
         return false;
       if (filters.station && record.station !== filters.station) return false;
       if (record.station && record.level > filters.maxRecipeLevel) return false;

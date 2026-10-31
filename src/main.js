@@ -2,9 +2,17 @@ import "./style.css";
 import { createDetailController } from "./details.js";
 import "./attributes.css";
 import "./home.css";
+import "./categories.css";
 import { createHome } from "./home.js";
 import { publicUrl } from "./public-url.js";
 import { createCatalog, recipeUsesItem } from "./catalog.js";
+import {
+  canonicalCategory,
+  categoryGroup,
+  categoryGroups,
+  categoriesFor,
+  categoryOptions,
+} from "./categories.js";
 import { escapeHtml } from "./html.js";
 import { loadFavorites, saveFavorites } from "./favorites.js";
 import { createLayout, navigationLabels } from "./layout.js";
@@ -32,6 +40,7 @@ let data,
   tab = "home",
   query = "",
   category = "",
+  group = "",
   station = "",
   max = 99,
   sort = "name",
@@ -119,14 +128,14 @@ function updateAttributeOptions() {
 }
 function options() {
   updateAttributeOptions();
+  $(".category-browser").hidden = tab === "monster";
   const list = recordList();
   $("#category").innerHTML =
     `<option value="">${t("Alle Kategorien", "All categories")}</option>` +
-    [...new Set(list.map((r) => r.category))]
-      .sort((a, b) => cat(a).localeCompare(cat(b), locale()))
+    categoriesFor(list, group)
       .map(
         (c) =>
-          `<option value="${escapeHtml(c)}">${escapeHtml(cat(c))}</option>`,
+          `<option value="${escapeHtml(c.value)}">${escapeHtml(c.label)} (${c.count})</option>`,
       )
       .join("");
   $("#station").innerHTML =
@@ -140,6 +149,52 @@ function options() {
       .join("");
   $("#station-wrap").hidden = tab !== "recipe";
   $("#level-wrap").hidden = tab !== "recipe";
+  $("#category").value = category;
+}
+function renderCategories() {
+  const list = recordList();
+  const chip = (label, value, count, active, kind) =>
+    `<button type="button" class="category-chip" data-filter-${kind}="${escapeHtml(value)}" aria-pressed="${active}">${escapeHtml(label)}<span>${count.toLocaleString(locale())}</span></button>`;
+  $("#category-groups").innerHTML =
+    chip(t("Alle", "All"), "", list.length, !group, "group") +
+    categoryGroups(list)
+      .map((entry) =>
+        chip(entry.label, entry.id, entry.count, group === entry.id, "group"),
+      )
+      .join("");
+  $("#category-types").hidden = !group;
+  $("#category-types").innerHTML = group
+    ? chip(
+        t("Alle Typen", "All types"),
+        "",
+        list.filter((record) => categoryGroup(record.category) === group)
+          .length,
+        !category,
+        "category",
+      ) +
+      categoriesFor(list, group)
+        .map((entry) =>
+          chip(
+            entry.label,
+            entry.value,
+            entry.count,
+            category === entry.value,
+            "category",
+          ),
+        )
+        .join("")
+    : "";
+}
+function updateHomeCategories(value = "") {
+  const scope = $("#home-scope").value;
+  $(".home-category-field").hidden = scope === "monster";
+  $("#home-category").innerHTML = categoryOptions(
+    scope === "recipe"
+      ? data.recipes
+      : data.records.filter((record) => record.type === scope),
+  );
+  if ([...$("#home-category").options].some((option) => option.value === value))
+    $("#home-category").value = value;
 }
 function sync() {
   const p = new URLSearchParams();
@@ -147,6 +202,7 @@ function sync() {
   if (tab !== "home") p.set("tab", tab);
   if (query) p.set("q", query);
   if (category) p.set("category", category);
+  if (group) p.set("group", group);
   if (station) p.set("station", station);
   if (max !== 99) p.set("max", max);
   if (sort !== "name") p.set("sort", sort);
@@ -176,6 +232,7 @@ function render() {
       tab,
       query,
       category,
+      group,
       station,
       maxRecipeLevel: max,
       sort,
@@ -184,6 +241,7 @@ function render() {
     },
     saved,
   );
+  renderCategories();
   const pages = Math.max(1, Math.ceil(list.length / 30));
   page = Math.min(page, pages);
   $("#section-title").textContent = titles[tab];
@@ -270,6 +328,7 @@ function switchTab(t) {
     $("#sort").value = "name";
   }
   category = "";
+  group = "";
   station = "";
   max = 99;
   page = 1;
@@ -281,6 +340,7 @@ function reset() {
   if (tab === "saved" && !saved.size) switchTab("item");
   query = "";
   category = "";
+  group = "";
   station = "";
   max = 99;
   sort = "name";
@@ -290,6 +350,7 @@ function reset() {
   $("#station").value = "";
   $("#max").value = 99;
   $("#sort").value = "name";
+  options();
   render();
 }
 function openDetail(id) {
@@ -303,6 +364,7 @@ function switchLanguage(selected) {
   const modalWasOpen = $("#detail").open;
   const homeQuery = $("#home-query")?.value || "";
   const homeScope = $("#home-scope")?.value || "item";
+  const homeCategory = $("#home-category")?.value || "";
   if (!setLanguage(selected)) return;
   if (modalWasOpen) $("#detail").close();
   updateDocumentLanguage();
@@ -311,6 +373,7 @@ function switchLanguage(selected) {
     $("#home").innerHTML = createHome(data);
     $("#home-query").value = homeQuery;
     $("#home-scope").value = homeScope;
+    updateHomeCategories(homeCategory);
     updateCounts();
     options();
     restoreControls();
@@ -335,6 +398,10 @@ document.addEventListener("change", (event) => {
     return;
   }
   if (!data) return;
+  if (id === "home-scope") {
+    updateHomeCategories();
+    return;
+  }
   if (id === "attribute-context") {
     attributeContext = value;
     updateAttributeOptions();
@@ -369,7 +436,39 @@ document.addEventListener("click", (e) => {
     page = 1;
     render();
   }
-  if (target.dataset.tab) switchTab(target.dataset.tab);
+  if (target.dataset.tab) {
+    switchTab(target.dataset.tab);
+    if (
+      target.hasAttribute("data-group") ||
+      target.hasAttribute("data-category")
+    ) {
+      group = target.dataset.group || "";
+      category = target.dataset.category || "";
+      options();
+      render();
+      $("#section-title").scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+      });
+    }
+  }
+  if (
+    target.hasAttribute("data-filter-group") ||
+    target.hasAttribute("data-filter-category")
+  ) {
+    const isGroup = target.hasAttribute("data-filter-group");
+    if (isGroup) {
+      group = target.dataset.filterGroup;
+      category = "";
+    } else category = target.dataset.filterCategory;
+    page = 1;
+    options();
+    render();
+    const selector = isGroup ? "[data-filter-group]" : "[data-filter-category]";
+    [...document.querySelectorAll(selector)]
+      .find((button) => button.getAttribute("aria-pressed") === "true")
+      ?.focus({ preventScroll: true });
+  }
   if (target.dataset.open) openDetail(target.dataset.open);
   if (target.hasAttribute("data-sources")) showSources();
   if (target.hasAttribute("data-reset")) reset();
@@ -399,11 +498,13 @@ document.addEventListener("click", (e) => {
     if (tab === "saved" || tab === "home") switchTab("item");
     query = target.dataset.search;
     category = "";
+    group = "";
     station = "";
     page = 1;
     $("#search").value = query;
     $("#category").value = "";
     $("#station").value = "";
+    options();
     render();
     $(".directory").scrollIntoView({ behavior: "smooth" });
   }
@@ -412,7 +513,14 @@ document.addEventListener("submit", (event) => {
   if (event.target.id !== "home-search-form") return;
   event.preventDefault();
   const search = $("#home-query").value.trim();
+  const selection = $("#home-category").value;
   switchTab($("#home-scope").value);
+  if (selection.startsWith("group:")) group = selection.slice(6);
+  if (selection.startsWith("category:")) {
+    category = selection.slice(9);
+    group = categoryGroup(category);
+  }
+  options();
   query = search;
   $("#search").value = query;
   render();
@@ -513,11 +621,16 @@ async function init() {
       ? p.get("context")
       : "upgrade";
     attribute = p.get("attribute") || "ATK";
+    group = categoryGroups(recordList()).some(
+      (entry) => entry.id === p.get("group"),
+    )
+      ? p.get("group")
+      : "";
     options();
     category = [...$("#category").options].some(
-      (o) => o.value === p.get("category"),
+      (o) => o.value === canonicalCategory(p.get("category")),
     )
-      ? p.get("category")
+      ? canonicalCategory(p.get("category"))
       : "";
     station =
       tab === "recipe" &&
