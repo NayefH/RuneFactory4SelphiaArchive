@@ -2,6 +2,7 @@ import { escapeHtml } from "./html.js";
 import { publicUrl } from "./public-url.js";
 import { t, getLanguage, locale } from "./i18n.js";
 import { displayName } from "./data-localization.js";
+import { categoriesFor, categoryOptions } from "./categories.js";
 
 export function createHome(data, assetUrl = publicUrl) {
   const count = (type) =>
@@ -9,6 +10,69 @@ export function createHome(data, assetUrl = publicUrl) {
       .filter((record) => record.type === type)
       .length.toLocaleString(locale());
   const languageQuery = getLanguage() === "en" ? "&lang=en" : "";
+  const items = data.records.filter((record) => record.type === "item");
+  const categoryLink = (tab, label, group = "", category = "", count) => {
+    const params = new URLSearchParams({ tab, lang: getLanguage() });
+    if (group) params.set("group", group);
+    if (category) params.set("category", category);
+    return `<a class="category-chip" data-tab="${tab}" data-group="${group}" data-category="${escapeHtml(category)}" href="${assetUrl()}?${escapeHtml(params.toString())}">${escapeHtml(label)}${count === undefined ? "" : `<span>${count}</span>`}</a>`;
+  };
+  const shortcuts = [
+    [
+      t("Waffen", "Weapons"),
+      t("Direkt nach Waffentyp auswählen.", "Choose a weapon type."),
+      "item",
+      "weapons",
+    ],
+    [
+      t("Rezepte", "Recipes"),
+      t("Nach Herstellung vorfiltern.", "Filter by crafting discipline."),
+      "recipe",
+      "",
+    ],
+    [
+      t("Ausrüstung & Accessoires", "Equipment & accessories"),
+      t(
+        "Passende Ausrüstung schneller finden.",
+        "Find the equipment you need.",
+      ),
+      "item",
+      "equipment",
+    ],
+  ]
+    .map(([title, description, tab, group]) => {
+      const links =
+        tab === "recipe"
+          ? [
+              [t("Waffen schmieden", "Forge weapons"), "weapons", ""],
+              [
+                t("Accessoires herstellen", "Craft accessories"),
+                "equipment",
+                "Accessoires",
+              ],
+              [t("Kochen", "Cooking"), "cooking", ""],
+              [t("Alchemie", "Chemistry"), "chemistry", ""],
+              [t("Alle Rezepte", "All recipes"), "", ""],
+            ]
+              .map(([label, section, category]) =>
+                categoryLink(tab, label, section, category),
+              )
+              .join("")
+          : categoryLink(tab, t("Alle", "All") + " · " + title, group) +
+            categoriesFor(items, group)
+              .map((category) =>
+                categoryLink(
+                  tab,
+                  category.label,
+                  group,
+                  category.value,
+                  category.count,
+                ),
+              )
+              .join("");
+      return `<article class="home-shortcut"><h3>${title}</h3><p>${description}</p><div class="category-chips">${links}</div></article>`;
+    })
+    .join("");
   const image = (name, type = "item") => {
     const record = data.records.find(
       (entry) => entry.name === name && entry.type === type,
@@ -24,7 +88,9 @@ export function createHome(data, assetUrl = publicUrl) {
   <form class="home-search" id="home-search-form" role="search">
     <label for="home-query">${t("Das Archiv durchsuchen", "Search the archive")}</label>
     <div class="home-search-fields"><input id="home-query" name="q" type="search" placeholder="${t("Zum Beispiel Eisen, Wooly oder Trockenes Curry", "For example Iron, Wooly or Dry Curry")}" maxlength="180"><label class="home-scope-label" for="home-scope">${t("Bereich", "Section")}</label><select id="home-scope" name="scope" aria-label="${t("Suchbereich", "Search section")}"><option value="item">Items</option><option value="recipe">${t("Rezepte", "Recipes")}</option><option value="monster">${t("Gegner", "Monsters")}</option></select><button type="submit" class="primary">${t("Suchen", "Search")} <span aria-hidden="true">↗</span></button></div>
+    <div class="home-category-field"><label for="home-category">${t("Kategorie vorab wählen", "Choose a category first")}</label><select id="home-category" name="category">${categoryOptions(items)}</select></div>
   </form>
+  <section class="home-shortcuts" aria-labelledby="home-shortcuts-title"><h2 id="home-shortcuts-title">${t("Direkt zur passenden Kategorie", "Go straight to your category")}</h2><p>${t("Waffen, Rezepte und Accessoires mit einem Klick vorfiltern – auch ohne Suchbegriff.", "Filter weapons, recipes and accessories in one click, with or without a search term.")}</p><div class="home-shortcut-grid">${shortcuts}</div></section>
   <section class="home-directory" aria-labelledby="archive-sections-title">
     <h2 id="archive-sections-title">${t("Inhaltsverzeichnis", "Contents")}</h2>
     <div class="home-categories">

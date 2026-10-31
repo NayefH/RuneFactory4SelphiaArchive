@@ -43,6 +43,13 @@ gekennzeichnet.
 Wähle auf der Startseite den Bereich **Items**, **Rezepte** oder **Gegner** und gib
 einen Namen oder Fundort ein. Mit `/` springst du direkt in das Suchfeld.
 
+Für Items und Rezepte lässt sich die **Kategorie schon vor der Suche** auswählen.
+Die Direkteinstiege für **Waffen**, **Rezepte** und **Ausrüstung & Accessoires**
+öffnen auch ohne Suchbegriff eine vorgefilterte Liste. Dort grenzen sichtbare
+Schaltflächen mit Eintragszahlen die Auswahl nach Bereich und Typ weiter ein,
+zum Beispiel **Waffen → Kurzschwerter** oder **Ausrüstung → Accessoires**.
+Die Auswahl bleibt beim Sprachwechsel und in geteilten Links erhalten.
+
 | Gesucht                  | Beispiel                                                           |
 | ------------------------ | ------------------------------------------------------------------ |
 | Ein Item                 | `Iron` oder die gekennzeichnete Suchhilfe `Eisen`                  |

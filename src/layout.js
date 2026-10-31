@@ -115,6 +115,30 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
               >${t("Lade Daten …", "Loading data …")}</span
             >
           </div>
+          <section
+            class="category-browser"
+            aria-labelledby="category-browser-title"
+          >
+            <h2 id="category-browser-title">
+              ${t("Nach Kategorie entdecken", "Browse by category")}
+            </h2>
+            <p>
+              ${t("Wähle zuerst einen Bereich und grenze die Auswahl danach weiter ein.", "Choose a section first, then narrow down your selection.")}
+            </p>
+            <div
+              class="category-chips"
+              id="category-groups"
+              role="group"
+              aria-label="${t("Bereich wählen", "Choose a section")}"
+            ></div>
+            <div
+              class="category-chips category-subtypes"
+              id="category-types"
+              role="group"
+              aria-label="${t("Kategorie wählen", "Choose a category")}"
+              hidden
+            ></div>
+          </section>
           <div class="search-box">
             <svg
               width="22"
