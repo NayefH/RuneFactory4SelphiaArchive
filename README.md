@@ -47,6 +47,9 @@ beim Sprachwechsel erhalten; die Suche versteht Begriffe aus beiden Sprachen.
   Items. Konkrete Geschenkbeispiele sind mit Datenbank und RF4-Quellen verknüpft;
   die Listen sind keine vollständige Aufzählung aller Items. Direktlink:
   `?tab=characters`.
+  30 lokal gespeicherte Originalporträts aus RF4 ergänzen die Karten, mit
+  vergrößerbarer Ansicht und Bildnachweisen. Für die Nebenfigur Yang Fan gibt es
+  kein eigenes Spielporträt; dies ist direkt auf seiner Karte gekennzeichnet.
 
 Der aktuelle Datenstand umfasst **1.089 Items und Materialien, 665 Rezeptvarianten
 und 178 Gegner**. Für **28 Rezepte** sind besondere Fundorte dokumentiert. Diese

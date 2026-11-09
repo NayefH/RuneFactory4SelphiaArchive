@@ -2,6 +2,8 @@ import { characters, characterCoverage } from "./character-data.js";
 import { escapeHtml as esc } from "./html.js";
 import { getLanguage, t } from "./i18n.js";
 import { displayName } from "./data-localization.js";
+import { publicUrl } from "./public-url.js";
+import { characterPortraits } from "./character-portraits.js";
 
 export const characterRoles = {
   get bachelor() {
@@ -70,6 +72,12 @@ export function selectCharacters(filter = "all", query = "") {
 
 export function characterCards(data, filter = "all", query = "") {
   const selected = selectCharacters(filter, query);
+  const portrait = (character) => {
+    const art = characterPortraits[character.name];
+    return art?.image
+      ? `<a class="character-portrait" href="${esc(publicUrl(art.image))}" target="_blank" rel="noreferrer" aria-label="${esc(t(`Porträt von ${character.name} vergrößern`, `Enlarge ${character.name}’s portrait`))}"><img src="${esc(publicUrl(art.image))}" alt="${esc(t(`Porträt von ${character.name}`, `Portrait of ${character.name}`))}" width="104" height="132" loading="lazy" decoding="async"></a>`
+      : `<span class="character-portrait character-portrait-placeholder" role="img" aria-label="${esc(t(`Für ${character.name} ist kein eigenes Spielporträt vorhanden`, `No individual game portrait is available for ${character.name}`))}"><span aria-hidden="true">${esc(character.name[0])}</span><small>${t("Kein Spielporträt", "No game portrait")}</small></span>`;
+  };
   const itemLink = (value) => {
     const item = data.records.find(
       (r) => r.type === "item" && r.name === value,
@@ -86,7 +94,7 @@ export function characterCards(data, filter = "all", query = "") {
   const cards = selected
     .map(
       (c) =>
-        `<article class="character-card"><header><span class="character-initial" aria-hidden="true">${esc(c.name[0])}</span><div><h2>${esc(c.name)}</h2><span class="character-role ${["bachelor", "bachelorette"].includes(c.role) ? "marriage-candidate" : ""}">${["bachelor", "bachelorette"].includes(c.role) ? "♡ " : ""}${esc(characterRoles[c.role] || characterRoles.story)}</span></div></header>${c.birthday ? `<p class="subtle">${t("Geburtstag", "Birthday")}: ${esc(translatedNote(c.birthday))}</p>` : ""}${
+        `<article class="character-card"><header>${portrait(c)}<div><h2>${esc(c.name)}</h2><span class="character-role ${["bachelor", "bachelorette"].includes(c.role) ? "marriage-candidate" : ""}">${["bachelor", "bachelorette"].includes(c.role) ? "♡ " : ""}${esc(characterRoles[c.role] || characterRoles.story)}</span></div></header>${c.birthday ? `<p class="subtle">${t("Geburtstag", "Birthday")}: ${esc(translatedNote(c.birthday))}</p>` : ""}${
           c.giftable === false
             ? `<p>${esc(translatedNote(c.notes) || t("Für diese Figur ist keine eigene Geschenkannahme dokumentiert.", "No individual gift-giving interaction is documented for this character."))}</p>`
             : `<div class="gift-grid">${Object.entries(headings)
@@ -97,7 +105,7 @@ export function characterCards(data, filter = "all", query = "") {
                 .join(
                   "",
                 )}</div>${c.notes ? `<p class="character-note">${esc(translatedNote(c.notes))}</p>` : ""}`
-        }${c.source ? `<a class="guide-sources" href="${esc(c.source)}" target="_blank" rel="noreferrer">${t("RF4-Geschenkliste & Quelle", "RF4 gift list & source")} ↗</a>` : ""}</article>`,
+        }<div class="character-sources">${c.source ? `<a class="guide-sources" href="${esc(c.source)}" target="_blank" rel="noreferrer">${t("RF4-Geschenkliste & Quelle", "RF4 gift list & source")} ↗</a>` : ""}${characterPortraits[c.name] ? `<a class="guide-sources" href="${esc(characterPortraits[c.name].source)}" target="_blank" rel="noreferrer">${characterPortraits[c.name].image ? t("Porträtquelle", "Portrait source") : t("Bildhinweis", "Portrait note")} ↗</a>` : ""}</div></article>`,
     )
     .join("");
   return {

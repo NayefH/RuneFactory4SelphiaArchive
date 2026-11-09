@@ -218,6 +218,53 @@
     serif;
   flex-shrink: 0;
 }
+.character-portrait {
+  display: block;
+  flex: 0 0 104px;
+  width: 104px;
+  height: 132px;
+  overflow: hidden;
+  border: 1px solid #d6d8bc;
+  border-radius: 10px;
+  background: linear-gradient(150deg, #f6f4e4, #e4ebd9);
+}
+.character-portrait img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center bottom;
+}
+.character-portrait-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px;
+  text-align: center;
+  color: #65765d;
+  font:
+    28px Georgia,
+    serif;
+}
+.character-portrait-placeholder small {
+  font:
+    11px/1.35 Arial,
+    sans-serif;
+}
+.character-card header > div {
+  min-width: 0;
+}
+.character-card h2 {
+  overflow-wrap: anywhere;
+}
+.character-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 14px;
+  margin-top: 14px;
+}
 .character-role {
   display: inline-block;
   font-size: 13px;
@@ -321,5 +368,10 @@
   }
   .character-role {
     font-size: 12px;
+  }
+  .character-portrait {
+    flex-basis: 80px;
+    width: 80px;
+    height: 104px;
   }
 }
