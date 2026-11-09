@@ -3,6 +3,7 @@ import { recipeUsesItem } from "./catalog.js";
 import { attributePanel } from "./attributes.js";
 import { publicUrl } from "./public-url.js";
 import { acquisitionPanel } from "./recipe-acquisition.js";
+import { bossPanel } from "./boss-recruitment.js";
 import { t, getLanguage, locale } from "./i18n.js";
 import { displayName, localizeText } from "./data-localization.js";
 
@@ -104,6 +105,7 @@ export function createDetailController({
       body = `<div class="facts">${fact(t("Werkbank", "Station"), record.station)}${fact(t("Rezeptlevel", "Recipe level"), record.level)}${fact(t("Verkauf (St. 1)", "Sell price (Lv. 1)"), price(record.sell))}</div><h3>${t("Benötigte Materialien", "Required materials")}</h3><div class="ingredients">${chips(record.ingredients)}</div><p class="subtle">${t("Wiederholte Materialien werden mit ihrer Anzahl gezeigt. Materialgruppen erlauben ein beliebiges passendes Item.", "Repeated materials show the quantity required. Material groups allow any matching item.")}</p>${effects}`;
     } else if (record.type === "monster") {
       body = `<div class="facts">${fact(t("Fundort", "Location"), record.location)}${fact(t("Lieblingsitem / Zähmen", "Favorite item / taming"), record.favorite)}${fact(t("Produktion in der Scheune", "Barn production"), record.produce)}</div><h3>${t("Beute", "Drops")}</h3><div class="ingredients">${chips(record.drops)}</div>${monsterStats(record)}${record.dropDetails ? `<h3>${t("Beute & Dropraten", "Drops & drop rates")}</h3><p>${escapeHtml(localizeText(record.dropDetails))}</p>` : ""}`;
+      body += bossPanel(record, data);
     } else {
       body = `<div class="facts">${fact(t("Kaufpreis", "Buy price"), price(record.buy))}${fact(t("Verkaufspreis", "Sell price"), price(record.sell))}${fact(t("Seltenheit", "Rarity"), record.rarity)}${fact(t("Upgrade-Schwierigkeit", "Upgrade difficulty"), record.difficulty)}</div>${effects}${record.location ? `<h3>${t("Fundort / Erhalt", "Location / obtaining")}</h3><p>${escapeHtml(localizeText(record.location))}</p>` : ""}${made.length ? `<h3>${t("Herstellen", "Crafting")} <span>${made.length}</span></h3>${made.map(related).join("")}` : ""}${drops.length ? `<h3>${t("Beute von", "Dropped by")} <span>${drops.length}</span></h3>${drops.map(related).join("")}` : ""}${used.length ? `<h3>${t("Verwendet für", "Used for")} <span>${used.length}</span></h3>${used.map(related).join("")}` : `<p class="subtle">${t("Keine weitere Verwendung in den importierten Rezepten erfasst.", "No further uses recorded in the imported recipes.")}</p>`}`;
     }
@@ -168,6 +170,8 @@ export function createDetailController({
         )
         .join("")}</div>
       <h3>${t("Grafiken & Schrift", "Artwork & fonts")}</h3>
+      <p>${t("Boss-Rekrutierung: RF4-Monsterliste und RF4-Abschnitte der jeweiligen Bossartikel im Rune Factory Wiki. Zähmungsitems sind mit den vorhandenen Rezepten und Fundorten verknüpft.", "Boss recruitment: the RF4 monster list and each boss article’s RF4 section in the Rune Factory Wiki. Taming gifts link to the archive’s recipes and locations.")}</p>
+      <p>${t("Charaktere: individuelle RF4-Geschenktabellen von Ranch Story; die Karten nennen konkrete Beispiele, Ausnahmen und Quellen. Spielkarten: Neoseeker (unter anderem Zoelius) und 果果 (Guoguo) über das Bilibili Rune Factory Wiki. Originalbeschriftungen bleiben erhalten; Ortsmarkierungen wurden ergänzt.", "Characters: individual RF4 gift tables from Ranch Story; cards list specific examples, exceptions and sources. Game maps: Neoseeker (including Zoelius) and 果果 (Guoguo) via Bilibili Rune Factory Wiki. Original labels are retained; location markers were added.")}</p>
       <p><a href="https://ranchstory.miraheze.org/wiki/File:RF4S_OfficialPromoArt_Banner.png" target="_blank" rel="noreferrer">${t("RF4-Special-Promobanner", "RF4 Special promotional banner")}</a>${t(
         ", Logo und Frey-Grafik: Ranch Story. Weitere RF4-Item- und Gegnersymbole: ",
         ", logo and Frey artwork: Ranch Story. Additional RF4 item and monster icons: ",

@@ -1,0 +1,325 @@
+.guide {
+  padding-block: 28px 36px;
+}
+.guide-heading {
+  margin-bottom: 24px;
+}
+.guide-heading h1 {
+  margin: 6px 0 14px;
+  padding-bottom: 10px;
+  color: var(--green);
+  border-bottom: 1px solid #b9c5aa;
+  font:
+    normal clamp(30px, 3vw, 42px)/1.25 Georgia,
+    serif;
+}
+.guide-heading p {
+  max-width: 950px;
+  color: #526448;
+}
+.guide h2 {
+  color: var(--green);
+  font:
+    normal 26px/1.35 Georgia,
+    serif;
+}
+.guide h3 {
+  color: var(--green);
+}
+.guide-box,
+.boss-card,
+.character-card {
+  min-width: 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fffdf6;
+  padding: 20px;
+}
+.guide-box {
+  margin-block: 16px;
+}
+.guide-box h2,
+.guide-box h3 {
+  margin-top: 0;
+}
+.guide-box p:last-child {
+  margin-bottom: 0;
+}
+.guide-link {
+  background: transparent;
+  color: var(--green);
+  padding: 1px 0;
+  text-align: left;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.guide-notice {
+  padding: 14px 18px;
+  border-left: 3px solid var(--gold);
+  background: #f0eddf;
+}
+.guide-steps {
+  padding-left: 25px;
+}
+.guide-steps li {
+  margin-block: 10px;
+  padding-left: 5px;
+}
+.boss-grid,
+.character-grid,
+.place-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  margin-block: 24px;
+}
+.boss-card header,
+.character-card header {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+.boss-card header img {
+  width: 68px;
+  height: 68px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+.boss-card h2,
+.character-card h2 {
+  margin: 0 0 7px;
+}
+.boss-card header p {
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 4px 0;
+}
+.boss-card .subtle {
+  font-size: 15px;
+}
+.taming-items {
+  list-style: none;
+  padding: 0;
+  margin: 12px 0;
+}
+.taming-item {
+  border-top: 1px solid var(--line);
+  padding-block: 10px;
+}
+.taming-item small,
+.gift-group small {
+  display: block;
+  font-size: 13px;
+  color: #65765d;
+}
+.taming-item p {
+  margin: 4px 0;
+  font-size: 16px;
+}
+.taming-item > a,
+.guide-sources {
+  font-size: 13px;
+}
+#giant-crops {
+  scroll-margin-top: 20px;
+}
+.map-regions {
+  margin-bottom: 18px;
+}
+.map-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(220px, 1fr);
+  gap: 20px;
+  align-items: start;
+}
+.map-figure {
+  margin: 0;
+  min-width: 0;
+}
+.map-canvas {
+  position: relative;
+  border: 1px solid #c6c69f;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #f5f5b0;
+}
+.game-map {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.map-pin {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  border: 2px solid #fff9e7;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  line-height: 26px;
+  font-size: 15px;
+  font-weight: bold;
+  background: var(--deep);
+  color: white;
+  box-shadow: 0 2px 5px #0006;
+}
+.map-pin:hover,
+.map-pin[aria-pressed="true"] {
+  background: #a26e2a;
+  z-index: 1;
+}
+.map-detail {
+  margin: 0;
+}
+.map-detail h2 {
+  font-size: 23px;
+}
+.map-figure figcaption {
+  font-size: 13px;
+  margin-top: 7px;
+  color: #65765d;
+}
+.map-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-block: 18px;
+}
+.map-legend button {
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  background: #fffdf6;
+  padding: 6px 10px;
+  font-size: 15px;
+  text-align: left;
+}
+.map-legend span {
+  color: var(--green);
+  font-weight: bold;
+  margin-right: 7px;
+}
+.map-legend button[aria-pressed="true"] {
+  border-color: var(--green);
+  background: #e3eadb;
+}
+.place-grid .guide-box {
+  margin: 0;
+}
+.character-initial {
+  display: grid;
+  place-items: center;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  background: #e5eadc;
+  color: var(--green);
+  font:
+    28px Georgia,
+    serif;
+  flex-shrink: 0;
+}
+.character-role {
+  display: inline-block;
+  font-size: 13px;
+  color: #65765d;
+}
+.marriage-candidate {
+  background: #f4e4e5;
+  color: #804653;
+  border: 1px solid #dec0c6;
+  border-radius: 4px;
+  padding: 2px 7px;
+}
+.gift-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px 18px;
+  margin-top: 18px;
+}
+.gift-group {
+  border-top: 3px solid #a6b49a;
+  padding-top: 7px;
+  min-width: 0;
+}
+.gift-group.loved {
+  border-color: #ba8390;
+}
+.gift-group.disliked {
+  border-color: #b7a47d;
+}
+.gift-group.hated {
+  border-color: #95837f;
+}
+.gift-group h3 {
+  font:
+    bold 15px Arial,
+    sans-serif;
+  margin: 0 0 8px;
+}
+.gift-group ul {
+  margin: 0;
+  padding-left: 18px;
+  font-size: 15px;
+}
+.gift-group li {
+  margin-block: 3px;
+  overflow-wrap: anywhere;
+}
+.character-note {
+  font-size: 14px;
+  color: #65765d;
+}
+.character-search {
+  display: block;
+  margin-block: 18px;
+  color: var(--green);
+}
+.character-search input {
+  display: block;
+  width: 100%;
+  margin-top: 7px;
+  padding: 11px 14px;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  background: #fffdf6;
+}
+.home-guide-links {
+  margin-top: 28px;
+}
+.home-guide-links .home-card {
+  min-height: 115px;
+}
+@media (max-width: 1100px) {
+  .boss-grid,
+  .character-grid {
+    grid-template-columns: 1fr;
+  }
+  .map-layout {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 650px) {
+  .guide {
+    padding-block: 20px;
+  }
+  .guide-box,
+  .boss-card,
+  .character-card {
+    padding: 15px;
+  }
+  .place-grid {
+    grid-template-columns: 1fr;
+  }
+  .map-pin {
+    width: 26px;
+    height: 26px;
+    line-height: 22px;
+    font-size: 13px;
+  }
+  .gift-grid {
+    gap: 12px;
+  }
+  .character-role {
+    font-size: 12px;
+  }
+}

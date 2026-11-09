@@ -18,6 +18,15 @@ export const navigationLabels = {
   get saved() {
     return t("Merkliste", "Favorites");
   },
+  get bosses() {
+    return t("Bosse rekrutieren", "Recruit bosses");
+  },
+  get map() {
+    return t("Karte & Orte", "Map & places");
+  },
+  get characters() {
+    return t("Charaktere", "Characters");
+  },
 };
 
 export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
@@ -44,7 +53,7 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
         ${Object.entries(labels)
           .map(
             ([id, label]) =>
-              `<button class="nav ${id === "home" ? "active" : ""}" data-tab="${id}" aria-label="${label}"><span aria-hidden="true">${{ home: "⌂", item: "◇", recipe: "⚒", monster: "♞", saved: "☆" }[id]}</span><b>${label}</b>${id === "home" ? "" : `<i id="count-${id}">—</i>`}</button>`,
+              `<button class="nav ${id === "home" ? "active" : ""}" data-tab="${id}" aria-label="${label}"><span aria-hidden="true">${{ home: "⌂", item: "◇", recipe: "⚒", monster: "♞", saved: "☆", bosses: "♜", map: "⌖", characters: "♡" }[id]}</span><b>${label}</b>${["item", "recipe", "monster", "saved"].includes(id) ? `<i id="count-${id}">—</i>` : ""}</button>`,
           )
           .join("")}
       </nav>
@@ -104,6 +113,7 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
       </header>
       <main>
         ${homeSection}
+        <section class="guide" id="guide" hidden></section>
         <section class="directory" id="directory">
           <div class="section-heading">
             <div>
