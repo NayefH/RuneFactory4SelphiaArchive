@@ -10,6 +10,7 @@ import { createMapGuide, placeDetail } from "./world-map.js";
 import { createCharacterGuide, characterCards } from "./characters.js";
 import { publicUrl } from "./public-url.js";
 import { createCatalog, recipeUsesItem } from "./catalog.js";
+import { normalizeSort, sortOptions, sortValueLabel } from "./sorting.js";
 import {
   canonicalCategory,
   categoryGroup,
@@ -146,6 +147,7 @@ function updateAttributeOptions() {
 }
 function options() {
   updateAttributeOptions();
+  updateSortOptions();
   $(".category-browser").hidden = tab === "monster";
   const list = recordList();
   $("#category").innerHTML =
@@ -168,6 +170,16 @@ function options() {
   $("#station-wrap").hidden = tab !== "recipe";
   $("#level-wrap").hidden = tab !== "recipe";
   $("#category").value = category;
+}
+function updateSortOptions() {
+  sort = normalizeSort(sort, tab);
+  $("#sort").innerHTML = sortOptions(tab)
+    .map(
+      (option) =>
+        `<option value="${option.value}">${escapeHtml(option.label)}</option>`,
+    )
+    .join("");
+  $("#sort").value = sort;
 }
 function renderCategories() {
   const list = recordList();
@@ -306,6 +318,7 @@ function render() {
                       ));
           const name = displayName(r);
           const score = bonus(r, attributeContext, attribute);
+          const sortLabel = sortValueLabel(r, sort);
           const recipeLocations = r.station
             ? [
                 ...new Set(
@@ -329,7 +342,7 @@ function render() {
               >${r.station ? `<small>${escapeHtml(localizeText(r.station))} <b>${t("St.", "Lv.")} ${r.level}</b></small>` : ""}
             </div>
             <button class="info-cell" data-open="${r.id}">
-              ${sort.startsWith("bonus") ? `<span class="bonus-value">${escapeHtml(formatBonus(score, attribute))}</span><small>${escapeHtml(attributeLabel(attribute))} · ${escapeHtml(contextLabels[attributeContext])}</small>` : escapeHtml(info)}${recipeLocations.length ? `<span class="recipe-location">${t("Rezept", "Recipe")}: ${escapeHtml(recipeLocations.map((n) => localizeText(n)).join(" · "))}</span>` : ""}</button
+              ${sort.startsWith("bonus") ? `<span class="bonus-value">${escapeHtml(formatBonus(score, attribute))}</span><small>${escapeHtml(attributeLabel(attribute))} · ${escapeHtml(contextLabels[attributeContext])}</small>` : `${sortLabel ? `<strong class="sort-value">${escapeHtml(sortLabel)}</strong>` : ""}${escapeHtml(info)}`}${recipeLocations.length ? `<span class="recipe-location">${t("Rezept", "Recipe")}: ${escapeHtml(recipeLocations.map((n) => localizeText(n)).join(" · "))}</span>` : ""}</button
             ><button
               class="favorite ${saved.has(r.id) ? "is-saved" : ""}"
               data-save="${r.id}"
@@ -353,10 +366,6 @@ function switchTab(t) {
     $("#search").value = "";
   }
   tab = t;
-  if (!["item", "saved"].includes(t) && sort.startsWith("bonus")) {
-    sort = "name";
-    $("#sort").value = "name";
-  }
   category = "";
   group = "";
   station = "";
@@ -694,11 +703,7 @@ async function init() {
         ? "item"
         : "home";
     query = p.get("q") || "";
-    sort = ["name", "name-desc", "level", "bonus-desc", "bonus-asc"].includes(
-      p.get("sort"),
-    )
-      ? p.get("sort")
-      : "name";
+    sort = normalizeSort(p.get("sort"), tab);
     max = Math.max(1, Math.min(99, Number(p.get("max")) || 99));
     attributeContext = Object.hasOwn(contextLabels, p.get("context"))
       ? p.get("context")

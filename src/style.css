@@ -376,6 +376,11 @@ main {
 .sort {
   margin-left: auto;
 }
+.sort-value {
+  display: block;
+  margin-bottom: 4px;
+  color: #35443b;
+}
 .reset {
   min-width: 48px;
   min-height: 48px;

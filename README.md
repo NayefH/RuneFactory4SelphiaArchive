@@ -31,6 +31,10 @@ beim Sprachwechsel erhalten; die Suche versteht Begriffe aus beiden Sprachen.
   sortieren; Ausrüstungswerte, Upgrade-Boni, Essens- und Koch-Effekte unterscheiden.
 - **Suche und Filter:** Namen, Zutaten, Beute und Fundorte durchsuchen sowie nach
   Kategorie, Werkbank und maximalem Rezeptlevel filtern.
+- **Sinnvoll sortieren:** Items nach Kategorie, Kauf- und Verkaufspreis oder
+  Upgrade-Schwierigkeit ordnen; Rezepte nach auf- oder absteigendem Rezeptlevel.
+  Fehlende Zahlenwerte stehen immer am Ende. Der verwendete Wert wird direkt
+  beim Eintrag angezeigt, die Namenssortierung berücksichtigt Zahlen und Sprache.
 - **Merkliste:** Items, Rezepte und Gegner per Stern im verwendeten Browser speichern.
 - **Bosse rekrutieren:** 26 Bosse mit den im Rune Factory Wiki genannten
   Zähmungsitems, direkten Item- und Rezeptlinks, Anbauanleitung für Riesenpflanzen

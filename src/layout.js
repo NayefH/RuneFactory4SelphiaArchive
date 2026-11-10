@@ -1,6 +1,7 @@
 import { publicUrl } from "./public-url.js";
 import { t, getLanguage } from "./i18n.js";
 import { displayName } from "./data-localization.js";
+import { sortOptions } from "./sorting.js";
 
 export const navigationLabels = {
   get home() {
@@ -196,17 +197,12 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
                 value="99" /></label
             ><label class="sort"
               >${t("Sortieren", "Sort by")}<select id="sort">
-                <option value="name">Name A–Z</option>
-                <option value="name-desc">Name Z–A</option>
-                <option value="level">
-                  ${t("Rezeptlevel", "Recipe level")} ↑
-                </option>
-                <option value="bonus-desc">
-                  ${t("Attributbonus", "Attribute bonus")} ↓
-                </option>
-                <option value="bonus-asc">
-                  ${t("Attributbonus", "Attribute bonus")} ↑
-                </option>
+                ${sortOptions("item")
+                  .map(
+                    (option) =>
+                      `<option value="${option.value}">${option.label}</option>`,
+                  )
+                  .join("")}
               </select></label
             ><button
               class="reset"
