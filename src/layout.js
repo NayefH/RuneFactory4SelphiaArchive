@@ -19,6 +19,9 @@ export const navigationLabels = {
   get saved() {
     return t("Merkliste", "Favorites");
   },
+  get crafting() {
+    return t("Crafting & Simulator", "Crafting & simulator");
+  },
   get bosses() {
     return t("Bosse rekrutieren", "Recruit bosses");
   },
@@ -54,7 +57,7 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
         ${Object.entries(labels)
           .map(
             ([id, label]) =>
-              `<button class="nav ${id === "home" ? "active" : ""}" data-tab="${id}" aria-label="${label}"><span aria-hidden="true">${{ home: "⌂", item: "◇", recipe: "⚒", monster: "♞", saved: "☆", bosses: "♜", map: "⌖", characters: "♡" }[id]}</span><b>${label}</b>${["item", "recipe", "monster", "saved"].includes(id) ? `<i id="count-${id}">—</i>` : ""}</button>`,
+              `<button class="nav ${id === "home" ? "active" : ""}" data-tab="${id}" aria-label="${label}"><span aria-hidden="true">${{ home: "⌂", item: "◇", recipe: "⚒", monster: "♞", saved: "☆", crafting: "⚒", bosses: "♜", map: "⌖", characters: "♡" }[id]}</span><b>${label}</b>${["item", "recipe", "monster", "saved"].includes(id) ? `<i id="count-${id}">—</i>` : ""}</button>`,
           )
           .join("")}
       </nav>
@@ -250,6 +253,10 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
               ↗</span
             >
           </div>
+          <p class="sharance-legend" id="sharance-legend" hidden>
+            <span aria-hidden="true">◆</span>
+            ${t("Gold: Rezeptbrot+ aus Sharance Maze. Bekannte andere Rezeptfundorte sind ausgenommen.", "Gold: Recipe Bread+ from Sharance Maze. Recipes with other known locations are excluded.")}
+          </p>
           <div id="results"></div>
           <div class="pagination" id="pagination"></div>
         </section>

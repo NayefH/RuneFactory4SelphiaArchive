@@ -25,6 +25,10 @@ beim Sprachwechsel erhalten; die Suche versteht Begriffe aus beiden Sprachen.
   der englische Originalname bleibt zum Nachschlagen sichtbar.
 - **Rezepte und Herstellung:** Zutaten, Mengen, Materialgruppen, Werkbänke und
   Rezeptlevel; belegte Rezeptfundorte mit Quellen und Zugangshinweisen.
+  Rezepte über Level 80 ohne anderen erfassten Rezeptfundort sind in Liste,
+  Merkliste und Verknüpfungen golden als **Sharance Maze · Rezeptbrot+** markiert.
+  Die Details erklären die aus Level und Fundorten abgeleitete Kennzeichnung
+  mit Quellenlink; Herstellung ohne gelerntes Rezept bleibt möglich.
 - **Bestiarium:** Gegner und Bosse mit Fundorten, Beute, Kampfwerten und weiteren
   verfügbaren Angaben zum Zähmen und zur Produktion.
 - **Boni vergleichen:** nach einzelnen Attributen wie ATK, DEF, STR oder INT
@@ -36,6 +40,12 @@ beim Sprachwechsel erhalten; die Suche versteht Begriffe aus beiden Sprachen.
   Fehlende Zahlenwerte stehen immer am Ende. Der verwendete Wert wird direkt
   beim Eintrag angezeigt, die Namenssortierung berücksichtigt Zahlen und Sprache.
 - **Merkliste:** Items, Rezepte und Gegner per Stern im verwendeten Browser speichern.
+- **Crafting & Simulator:** zweisprachige Erklärung von Rezepten, Vererbung,
+  Aufwertungen und Materialboni. Zutaten und Mengen für alle Werkbänke planen;
+  für Waffen und Ausrüstung sieben Kampfwerte mit neun Aufwertungen, Materiallevel,
+  Double Steel, 10-Fold Steel und Object X berechnen. Fehlende Werte und nicht
+  simulierte Spezialeffekte werden angezeigt. Pläne bleiben lokal im Browser
+  gespeichert und lassen sich als JSON herunterladen. Direktlink: `?tab=crafting`.
 - **Bosse rekrutieren:** 26 Bosse mit den im Rune Factory Wiki genannten
   Zähmungsitems, direkten Item- und Rezeptlinks, Anbauanleitung für Riesenpflanzen
   und Hinweisen zu nicht rekrutierbaren Bossen. Direktlink: `?tab=bosses`.

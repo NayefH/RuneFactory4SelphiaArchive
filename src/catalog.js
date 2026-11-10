@@ -10,6 +10,7 @@ import { isNumericSort, normalizeSort, numericSortValue } from "./sorting.js";
 import {
   acquisitionSearchTerms,
   indexRecipeAcquisitions,
+  isSharanceExclusiveRecipe,
 } from "./recipe-acquisition.js";
 
 export function normalizeSearch(value) {
@@ -32,6 +33,8 @@ export function createCatalog(dataset) {
   const recipeAcquisitions = indexRecipeAcquisitions(dataset.recipes);
   const getAcquisitions = (record) =>
     record.type === "monster" ? [] : recipeAcquisitions.get(record.name) || [];
+  const isSharanceExclusive = (record) =>
+    isSharanceExclusiveRecipe(record, getAcquisitions(record));
   const allRecords = [...dataset.records, ...dataset.recipes];
   const byId = new Map(allRecords.map((record) => [record.id, record]));
   const itemsByName = new Map(
@@ -56,6 +59,9 @@ export function createCatalog(dataset) {
         dataset.materialGroups[record.category],
         record.location,
         ...acquisitionSearchTerms(getAcquisitions(record)),
+        isSharanceExclusive(record)
+          ? "Sharance Maze Sharance-Labyrinth Recipe Bread+ Rezeptbrot+"
+          : "",
         record.station,
         record.effects,
         JSON.stringify(record.attributeText || {}),
@@ -145,5 +151,13 @@ export function createCatalog(dataset) {
     });
   }
 
-  return { allRecords, byId, getItem, getAcquisitions, list, select };
+  return {
+    allRecords,
+    byId,
+    getItem,
+    getAcquisitions,
+    isSharanceExclusive,
+    list,
+    select,
+  };
 }

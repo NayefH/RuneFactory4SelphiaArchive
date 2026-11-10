@@ -2,7 +2,11 @@ import { escapeHtml } from "./html.js";
 import { recipeUsesItem } from "./catalog.js";
 import { attributePanel } from "./attributes.js";
 import { publicUrl } from "./public-url.js";
-import { acquisitionPanel } from "./recipe-acquisition.js";
+import {
+  acquisitionPanel,
+  sharanceRecipeBadge,
+  sharanceRecipePanel,
+} from "./recipe-acquisition.js";
 import { bossPanel } from "./boss-recruitment.js";
 import { t, getLanguage, locale } from "./i18n.js";
 import { displayName, localizeText } from "./data-localization.js";
@@ -25,7 +29,7 @@ export function createDetailController({
       ? `<small>${escapeHtml(record.name)}</small>`
       : "";
   const related = (record) =>
-    `<button class="related" data-open="${record.id}"><span>${icon(record)} ${escapeHtml(displayName(record))}${originalName(record)}</span><span>${record.level ? t("St. ", "Lv. ") + record.level : "↗"}</span></button>`;
+    `<button class="related${catalog.isSharanceExclusive(record) ? " sharance-exclusive" : ""}" data-open="${record.id}"><span>${icon(record)} ${escapeHtml(displayName(record))}${originalName(record)}${catalog.isSharanceExclusive(record) ? sharanceRecipeBadge() : ""}</span><span>${record.level ? t("St. ", "Lv. ") + record.level : "↗"}</span></button>`;
 
   function chips(values = []) {
     const counts = new Map();
@@ -102,7 +106,7 @@ export function createDetailController({
       : "";
     let body = "";
     if (record.station) {
-      body = `<div class="facts">${fact(t("Werkbank", "Station"), record.station)}${fact(t("Rezeptlevel", "Recipe level"), record.level)}${fact(t("Verkauf (St. 1)", "Sell price (Lv. 1)"), price(record.sell))}</div><h3>${t("Benötigte Materialien", "Required materials")}</h3><div class="ingredients">${chips(record.ingredients)}</div><p class="subtle">${t("Wiederholte Materialien werden mit ihrer Anzahl gezeigt. Materialgruppen erlauben ein beliebiges passendes Item.", "Repeated materials show the quantity required. Material groups allow any matching item.")}</p>${effects}`;
+      body = `<div class="facts">${fact(t("Werkbank", "Station"), record.station)}${fact(t("Rezeptlevel", "Recipe level"), record.level)}${fact(t("Verkauf (St. 1)", "Sell price (Lv. 1)"), price(record.sell))}</div><button type="button" class="primary" data-craft-recipe="${record.id}">${t("Im Crafting-Simulator öffnen", "Open in crafting simulator")} ↗</button><h3>${t("Benötigte Materialien", "Required materials")}</h3><div class="ingredients">${chips(record.ingredients)}</div><p class="subtle">${t("Wiederholte Materialien werden mit ihrer Anzahl gezeigt. Materialgruppen erlauben ein beliebiges passendes Item.", "Repeated materials show the quantity required. Material groups allow any matching item.")}</p>${effects}`;
     } else if (record.type === "monster") {
       body = `<div class="facts">${fact(t("Fundort", "Location"), record.location)}${fact(t("Lieblingsitem / Zähmen", "Favorite item / taming"), record.favorite)}${fact(t("Produktion in der Scheune", "Barn production"), record.produce)}</div><h3>${t("Beute", "Drops")}</h3><div class="ingredients">${chips(record.drops)}</div>${monsterStats(record)}${record.dropDetails ? `<h3>${t("Beute & Dropraten", "Drops & drop rates")}</h3><p>${escapeHtml(localizeText(record.dropDetails))}</p>` : ""}`;
       body += bossPanel(record, data);
@@ -112,9 +116,10 @@ export function createDetailController({
     modal(`<div class="eyebrow">RUNE FACTORY 4 · ${escapeHtml(cat(record.category))}</div>
       <span class="detail-icon">${thumbnail(record)}</span>
       ${record.imageCaption ? `<p class="image-caption">${escapeHtml(localizeText(record.imageCaption))}</p>` : ""}
-      <h2 id="detail-title">${escapeHtml(translated)}</h2>
+      <h2 id="detail-title"${catalog.isSharanceExclusive(record) ? ' class="sharance-title"' : ""}>${escapeHtml(translated)}</h2>
       ${translatedName ? `<p class="detail-de">${escapeHtml(record.name)} <span class="unverified">EN</span></p><p class="translation-note">Fanübersetzung · nicht offiziell verifiziert</p>` : ""}
       <button class="save-detail" data-save="${record.id}">${saved.has(record.id) ? t("★ Gemerkt", "★ Saved") : t("☆ Zur Merkliste hinzufügen", "☆ Add to favorites")}</button>
+      ${catalog.isSharanceExclusive(record) ? sharanceRecipePanel() : ""}
       ${body}${attributePanel(record.station ? itemByName(record.name) || record : record, escapeHtml)}
       ${record.sourceConflicts?.length ? `<h3>${t("Quellenabweichung", "Source discrepancy")}</h3><p class="subtle">${t("Die Einzelartikel nennen teilweise andere Materialien:", "Some individual articles list different materials:")}</p>${record.sourceConflicts.map((conflict) => `<p>${escapeHtml(conflict.ingredients.map((name) => displayName(name)).join(" · "))} · <a href="${escapeHtml(conflict.source)}" target="_blank" rel="noreferrer">${t("Quelle", "Source")} ↗</a></p>`).join("")}` : ""}
       ${acquisitionPanel(catalog.getAcquisitions(record), escapeHtml)}

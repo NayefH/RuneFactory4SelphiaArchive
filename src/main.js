@@ -4,6 +4,19 @@ import "./attributes.css";
 import "./home.css";
 import "./categories.css";
 import "./guides.css";
+import "./crafting.css";
+import {
+  createCraftingPage,
+  craftingRecipeOptions,
+  findCraftMaterial,
+} from "./crafting.js";
+import {
+  createCraftingContext,
+  newCraftingPlan,
+  sanitizeCraftingPlan,
+  loadCraftingPlan,
+  saveCraftingPlan,
+} from "./crafting-engine.js";
 import { createHome } from "./home.js";
 import { createBossGuide } from "./boss-recruitment.js";
 import { createMapGuide, placeDetail } from "./world-map.js";
@@ -11,6 +24,7 @@ import { createCharacterGuide, characterCards } from "./characters.js";
 import { publicUrl } from "./public-url.js";
 import { createCatalog, recipeUsesItem } from "./catalog.js";
 import { normalizeSort, sortOptions, sortValueLabel } from "./sorting.js";
+import { sharanceRecipeBadge } from "./recipe-acquisition.js";
 import {
   canonicalCategory,
   categoryGroup,
@@ -38,12 +52,13 @@ import {
 const $ = (selector) => document.querySelector(selector);
 let catalog;
 let detailController;
+let craftingContext, craftingPlan;
 let loadFailed = false;
 let mapRegion = "town",
   mapPlace,
   characterFilter = "all",
   characterQuery = "";
-const guideTabs = ["bosses", "map", "characters"];
+const guideTabs = ["bosses", "map", "characters", "crafting"];
 let attributeContext = "upgrade",
   attribute = "ATK";
 let data,
@@ -81,6 +96,9 @@ const titles = {
   },
   get characters() {
     return t("Charaktere & Geschenke", "Characters & gifts");
+  },
+  get crafting() {
+    return t("Crafting & Simulator", "Crafting & simulator");
   },
 };
 const labels = navigationLabels;
@@ -261,7 +279,9 @@ function render() {
         ? createBossGuide(data)
         : tab === "map"
           ? createMapGuide(data, mapRegion, mapPlace)
-          : createCharacterGuide(data, characterFilter, characterQuery);
+          : tab === "crafting"
+            ? createCraftingPage(craftingContext, craftingPlan, catalog)
+            : createCharacterGuide(data, characterFilter, characterQuery);
     sync();
     return;
   }
@@ -284,6 +304,7 @@ function render() {
     saved,
   );
   renderCategories();
+  $("#sharance-legend").hidden = !list.some(catalog.isSharanceExclusive);
   const pages = Math.max(1, Math.ceil(list.length / 30));
   page = Math.min(page, pages);
   $("#section-title").textContent = titles[tab];
@@ -319,6 +340,7 @@ function render() {
           const name = displayName(r);
           const score = bonus(r, attributeContext, attribute);
           const sortLabel = sortValueLabel(r, sort);
+          const sharanceExclusive = catalog.isSharanceExclusive(r);
           const recipeLocations = r.station
             ? [
                 ...new Set(
@@ -326,14 +348,16 @@ function render() {
                 ),
               ]
             : [];
-          return /* HTML */ `<div class="result-row">
+          return /* HTML */ `<div
+            class="result-row${sharanceExclusive ? " sharance-exclusive" : ""}"
+          >
             <button class="entry" data-open="${r.id}">
               <span
                 class="item-icon ${r.type === "monster" ? "monster-icon" : r.station ? "recipe-icon" : ""}"
                 >${thumbnail(r)}</span
               ><span class="entry-name"
                 ><strong>${escapeHtml(name)}</strong
-                >${getLanguage() === "de" && name !== r.name ? `<small>${escapeHtml(r.name)} <span class="unverified" title="Fanübersetzung · nicht offiziell verifiziert">DE*</span></small>` : ""}</span
+                >${getLanguage() === "de" && name !== r.name ? `<small>${escapeHtml(r.name)} <span class="unverified" title="Fanübersetzung · nicht offiziell verifiziert">DE*</span></small>` : ""}${sharanceExclusive ? sharanceRecipeBadge() : ""}</span
               >
             </button>
             <div class="category-cell">
@@ -399,6 +423,118 @@ function openDetail(id) {
 function showSources() {
   detailController?.showSources();
 }
+function craftingStorage() {
+  try {
+    return window.localStorage;
+  } catch {
+    return undefined;
+  }
+}
+function refreshCraftingPlan(focusId) {
+  craftingPlan = sanitizeCraftingPlan(craftingContext, craftingPlan);
+  const stored = saveCraftingPlan(craftingPlan, craftingStorage());
+  render();
+  $("#craft-save-status").textContent = stored
+    ? t("Plan in diesem Browser gespeichert.", "Plan saved in this browser.")
+    : t(
+        "Speicherung nicht verfügbar. Dein Plan bleibt für diese Sitzung erhalten.",
+        "Storage unavailable. Your plan is kept for this session.",
+      );
+  if (focusId) document.getElementById(focusId)?.focus({ preventScroll: true });
+}
+function filterCraftingRecipes() {
+  const markup = craftingRecipeOptions(
+    craftingContext,
+    craftingPlan.recipeId,
+    $("#craft-recipe-search").value,
+    $("#craft-station").value,
+  );
+  $("#craft-recipe").innerHTML =
+    `<option value="">${markup ? t("Rezept auswählen …", "Choose a recipe …") : t("Keine passenden Rezepte", "No matching recipes")}</option>` +
+    markup;
+  if (
+    ![...$("#craft-recipe").options].some(
+      (option) => option.value === craftingPlan.recipeId,
+    )
+  )
+    $("#craft-recipe").value = "";
+}
+function changeCraftingControl(target) {
+  if (target.id === "craft-station") {
+    filterCraftingRecipes();
+    return;
+  }
+  if (target.id === "craft-recipe") {
+    if (!craftingContext.recipesById.has(target.value)) return;
+    const skill = craftingPlan.skill;
+    craftingPlan = newCraftingPlan(craftingContext, target.value);
+    craftingPlan.skill = skill;
+  } else if (target.id === "craft-skill") craftingPlan.skill = target.value;
+  else if (target.id === "craft-batch") craftingPlan.batch = target.value;
+  else if (target.dataset.craftKind) {
+    const slots =
+      target.dataset.craftKind === "material"
+        ? craftingPlan.materials
+        : craftingPlan.upgrades;
+    const index = Number(target.dataset.craftIndex);
+    const slot = slots[index];
+    if (!slot) return;
+    const field = target.dataset.craftField;
+    if (field === "level") slot.level = target.value;
+    else if (field === "inherit") {
+      if (
+        target.checked &&
+        craftingPlan.materials.filter((entry) => entry.inherit).length >= 3
+      ) {
+        target.checked = false;
+        $("#craft-save-status").textContent = t(
+          "Höchstens drei vererbte Materialien auswählen.",
+          "Select at most three inherited materials.",
+        );
+        return;
+      }
+      slot.inherit = target.checked;
+      const required = craftingContext.slotsFor(
+        craftingContext.recipesById.get(craftingPlan.recipeId),
+      ).length;
+      if (target.checked && index < required) {
+        const others = craftingPlan.materials
+          .slice(0, required)
+          .filter((entry, i) => i !== index && entry.inherit);
+        while (others.length >= required - 3) others.shift().inherit = false;
+      }
+    } else {
+      const item =
+        target.tagName === "SELECT"
+          ? craftingContext.byId.get(target.value)
+          : findCraftMaterial(craftingContext, target.value);
+      if (target.value.trim() && !item) {
+        target.setCustomValidity(
+          t(
+            "Wähle ein bekanntes Material aus den Vorschlägen.",
+            "Choose a known material from the suggestions.",
+          ),
+        );
+        target.reportValidity();
+        return;
+      }
+      target.setCustomValidity("");
+      slot.itemId = item?.id || "";
+      if (!item) slot.inherit = false;
+      const required = craftingContext.slotsFor(
+        craftingContext.recipesById.get(craftingPlan.recipeId),
+      ).length;
+      if (
+        item &&
+        target.dataset.craftKind === "material" &&
+        index >= required &&
+        craftingPlan.materials.filter((entry) => entry.inherit).length < 3
+      )
+        slot.inherit = true;
+    }
+  } else return;
+  refreshCraftingPlan(target.id);
+}
 function switchLanguage(selected) {
   if (selected === getLanguage()) return;
   const modalWasOpen = $("#detail").open;
@@ -438,6 +574,10 @@ document.addEventListener("change", (event) => {
     return;
   }
   if (!data) return;
+  if (event.target.closest("#craft-simulator")) {
+    changeCraftingControl(event.target);
+    return;
+  }
   if (id === "home-scope") {
     updateHomeCategories();
     return;
@@ -469,6 +609,41 @@ document.addEventListener("click", (e) => {
     if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey || e.button !== 0)
       return;
     e.preventDefault();
+  }
+  if (
+    target.hasAttribute("data-craft-reset") ||
+    target.hasAttribute("data-craft-example")
+  ) {
+    craftingPlan = newCraftingPlan(
+      craftingContext,
+      target.hasAttribute("data-craft-reset")
+        ? craftingPlan.recipeId
+        : undefined,
+    );
+    if (target.hasAttribute("data-craft-example")) {
+      const bronze = craftingContext.byName.get("Bronze");
+      craftingPlan.materials[0].itemId = craftingContext.byName.get("Iron").id;
+      craftingPlan.materials.forEach((slot, index) => {
+        slot.level = 10;
+        if (index > 0) {
+          slot.itemId = bronze.id;
+          slot.inherit = index < 4;
+        }
+      });
+      craftingPlan.upgrades.forEach((slot) => {
+        slot.itemId = bronze.id;
+        slot.level = 10;
+      });
+    }
+    refreshCraftingPlan();
+    return;
+  }
+  if (target.dataset.craftRecipe) {
+    craftingPlan = newCraftingPlan(craftingContext, target.dataset.craftRecipe);
+    if ($("#detail").open) $("#detail").close();
+    switchTab("crafting");
+    refreshCraftingPlan();
+    return;
   }
   if (target.id === "sort-attribute") {
     sort = "bonus-desc";
@@ -614,6 +789,12 @@ document.addEventListener(
   true,
 );
 document.addEventListener("input", (e) => {
+  if (e.target.id === "craft-recipe-search" && data) {
+    filterCraftingRecipes();
+    return;
+  }
+  if (e.target.closest("#craft-simulator") && e.target.setCustomValidity)
+    e.target.setCustomValidity("");
   if (e.target.id === "character-query" && data) {
     characterQuery = e.target.value;
     const result = characterCards(data, characterFilter, characterQuery);
@@ -637,9 +818,11 @@ document.addEventListener("keydown", (e) => {
     $(
       tab === "home"
         ? "#home-query"
-        : tab === "characters"
-          ? "#character-query"
-          : "#search",
+        : tab === "crafting"
+          ? "#craft-recipe-search"
+          : tab === "characters"
+            ? "#character-query"
+            : "#search",
     )?.focus();
   }
 });
@@ -686,6 +869,8 @@ async function init() {
     if (!response.ok) throw Error();
     data = await response.json();
     catalog = createCatalog(data);
+    craftingContext = createCraftingContext(data);
+    craftingPlan = loadCraftingPlan(craftingContext, craftingStorage());
     $("#home").innerHTML = createHome(data);
     saved = new Set([...saved].filter((id) => catalog.byId.has(id)));
     detailController = createDetailController({
