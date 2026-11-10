@@ -5,11 +5,12 @@ import "./home.css";
 import "./categories.css";
 import "./guides.css";
 import "./crafting.css";
+import "./material-picker.css";
+import { createCraftingPage, craftingRecipeOptions } from "./crafting.js";
 import {
-  createCraftingPage,
-  craftingRecipeOptions,
-  findCraftMaterial,
-} from "./crafting.js";
+  createMaterialPicker,
+  chooseCraftMaterial,
+} from "./material-picker.js";
 import {
   createCraftingContext,
   newCraftingPlan,
@@ -52,7 +53,7 @@ import {
 const $ = (selector) => document.querySelector(selector);
 let catalog;
 let detailController;
-let craftingContext, craftingPlan;
+let craftingContext, craftingPlan, materialPicker;
 let loadFailed = false;
 let mapRegion = "town",
   mapPlace,
@@ -503,35 +504,7 @@ function changeCraftingControl(target) {
           .filter((entry, i) => i !== index && entry.inherit);
         while (others.length >= required - 3) others.shift().inherit = false;
       }
-    } else {
-      const item =
-        target.tagName === "SELECT"
-          ? craftingContext.byId.get(target.value)
-          : findCraftMaterial(craftingContext, target.value);
-      if (target.value.trim() && !item) {
-        target.setCustomValidity(
-          t(
-            "Wähle ein bekanntes Material aus den Vorschlägen.",
-            "Choose a known material from the suggestions.",
-          ),
-        );
-        target.reportValidity();
-        return;
-      }
-      target.setCustomValidity("");
-      slot.itemId = item?.id || "";
-      if (!item) slot.inherit = false;
-      const required = craftingContext.slotsFor(
-        craftingContext.recipesById.get(craftingPlan.recipeId),
-      ).length;
-      if (
-        item &&
-        target.dataset.craftKind === "material" &&
-        index >= required &&
-        craftingPlan.materials.filter((entry) => entry.inherit).length < 3
-      )
-        slot.inherit = true;
-    }
+    } else return;
   } else return;
   refreshCraftingPlan(target.id);
 }
@@ -609,6 +582,31 @@ document.addEventListener("click", (e) => {
     if (e.ctrlKey || e.metaKey || e.shiftKey || e.altKey || e.button !== 0)
       return;
     e.preventDefault();
+  }
+  if (target.dataset.craftPicker) {
+    materialPicker.open({
+      kind: target.dataset.craftPicker,
+      index: Number(target.dataset.craftIndex),
+    });
+    return;
+  }
+  if (target.dataset.craftClear) {
+    const selected = chooseCraftMaterial(
+      craftingContext,
+      craftingPlan,
+      {
+        kind: target.dataset.craftClear,
+        index: Number(target.dataset.craftIndex),
+      },
+      "",
+    );
+    if (selected) {
+      craftingPlan = selected;
+      refreshCraftingPlan(
+        `craft-${target.dataset.craftClear}-${target.dataset.craftIndex}`,
+      );
+    }
+    return;
   }
   if (
     target.hasAttribute("data-craft-reset") ||
@@ -816,13 +814,15 @@ document.addEventListener("keydown", (e) => {
   ) {
     e.preventDefault();
     $(
-      tab === "home"
-        ? "#home-query"
-        : tab === "crafting"
-          ? "#craft-recipe-search"
-          : tab === "characters"
-            ? "#character-query"
-            : "#search",
+      $("#craft-material-picker").open
+        ? "#material-picker-search"
+        : tab === "home"
+          ? "#home-query"
+          : tab === "crafting"
+            ? "#craft-recipe-search"
+            : tab === "characters"
+              ? "#character-query"
+              : "#search",
     )?.focus();
   }
 });
@@ -871,6 +871,21 @@ async function init() {
     catalog = createCatalog(data);
     craftingContext = createCraftingContext(data);
     craftingPlan = loadCraftingPlan(craftingContext, craftingStorage());
+    materialPicker = createMaterialPicker({
+      context: craftingContext,
+      getPlan: () => craftingPlan,
+      onSelect: (target, itemId) => {
+        const selected = chooseCraftMaterial(
+          craftingContext,
+          craftingPlan,
+          target,
+          itemId,
+        );
+        if (!selected) return;
+        craftingPlan = selected;
+        refreshCraftingPlan(`craft-${target.kind}-${target.index}`);
+      },
+    });
     $("#home").innerHTML = createHome(data);
     saved = new Set([...saved].filter((id) => catalog.byId.has(id)));
     detailController = createDetailController({

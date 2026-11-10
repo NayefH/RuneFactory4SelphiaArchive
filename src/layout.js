@@ -272,5 +272,10 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
       </main>
     </div>
     <dialog id="detail"><div id="detail-body"></div></dialog>
+    <dialog
+      id="craft-material-picker"
+      aria-labelledby="material-picker-title"
+      aria-describedby="material-picker-description"
+    ></dialog>
     <div class="toast" role="status" id="toast"></div>`;
 }

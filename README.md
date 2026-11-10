@@ -46,6 +46,9 @@ beim Sprachwechsel erhalten; die Suche versteht Begriffe aus beiden Sprachen.
   Double Steel, 10-Fold Steel und Object X berechnen. Fehlende Werte und nicht
   simulierte Spezialeffekte werden angezeigt. Pläne bleiben lokal im Browser
   gespeichert und lassen sich als JSON herunterladen. Direktlink: `?tab=crafting`.
+  Ein grafischer Materialkatalog zeigt Bilder, Boni, Seltenheit und Schwierigkeit;
+  Suche, Kategorie- und Bonusfilter helfen bei der Auswahl. Pflichtplätze bieten
+  nur passende Zutaten an. Bildkacheln lassen sich auch per Tastatur auswählen.
 - **Bosse rekrutieren:** 26 Bosse mit den im Rune Factory Wiki genannten
   Zähmungsitems, direkten Item- und Rezeptlinks, Anbauanleitung für Riesenpflanzen
   und Hinweisen zu nicht rekrutierbaren Bossen. Direktlink: `?tab=bosses`.

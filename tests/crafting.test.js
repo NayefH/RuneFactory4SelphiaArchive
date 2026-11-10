@@ -9,9 +9,14 @@ import {
   loadCraftingPlan,
   saveCraftingPlan,
 } from "../src/crafting-engine.js";
-import { createCraftingPage, findCraftMaterial } from "../src/crafting.js";
+import { createCraftingPage } from "../src/crafting.js";
 import { createCatalog } from "../src/catalog.js";
 import { setLanguage } from "../src/i18n.js";
+import {
+  chooseCraftMaterial,
+  materialCandidates,
+  selectMaterials,
+} from "../src/material-picker.js";
 
 const data = JSON.parse(
   readFileSync(new URL("../public/data.json", import.meta.url)),
@@ -238,10 +243,87 @@ test("page and material selection work in both languages with all workstations a
       assert.ok(page.includes('id="craft-basics"'));
       assert.ok(page.includes('data-craft-index="8"'));
       assert.ok(page.includes("https://gamefaqs.gamespot.com/"));
-      assert.equal(findCraftMaterial(context, "Gold").name, "Gold");
-      assert.equal(findCraftMaterial(context, "Eisen").name, "Iron");
     }
   } finally {
     setLanguage("de");
+  }
+});
+
+test("visual selection enforces recipe ingredients without mutating an existing plan", () => {
+  const plan = planFor("Broadsword");
+  const target = { kind: "material", index: 0 };
+  const original = JSON.stringify(plan);
+  assert.equal(
+    chooseCraftMaterial(context, plan, target, id("Milk (S)")),
+    undefined,
+  );
+  assert.equal(chooseCraftMaterial(context, plan, target, ""), undefined);
+  const selected = chooseCraftMaterial(context, plan, target, id("Gold"));
+  assert.equal(selected.materials[0].itemId, id("Gold"));
+  assert.equal(JSON.stringify(plan), original);
+  const cooking = planFor("Stew");
+  assert.equal(
+    materialCandidates(context, cooking, { kind: "upgrade", index: 0 }).length,
+    0,
+  );
+  assert.equal(
+    chooseCraftMaterial(
+      context,
+      cooking,
+      { kind: "material", index: 5 },
+      id("Gold"),
+    ),
+    undefined,
+  );
+});
+
+test("visual selection adds and removes material bonuses while preserving item levels", () => {
+  const plan = planFor("Broadsword");
+  plan.materials[1].level = 7;
+  const target = { kind: "material", index: 1 };
+  const chosen = chooseCraftMaterial(context, plan, target, id("Gold"));
+  assert.equal(chosen.materials[1].inherit, true);
+  assert.equal(chosen.materials[1].level, 7);
+  assert.equal(simulateCrafting(context, chosen).creation.DEF, 10);
+  const cleared = chooseCraftMaterial(context, chosen, target, "");
+  assert.equal(cleared.materials[1].inherit, false);
+  assert.equal(simulateCrafting(context, cleared).creation.DEF, 0);
+});
+
+test("material search is bilingual, respects recipe constraints and sorts unknown bonuses last", () => {
+  const plan = planFor("Broadsword");
+  const upgradeTarget = { kind: "upgrade", index: 0 };
+  for (const query of ["eisen", "Iron"])
+    assert.ok(
+      selectMaterials(context, plan, upgradeTarget, { query }).some(
+        (item) => item.name === "Iron",
+      ),
+    );
+  assert.deepEqual(
+    selectMaterials(
+      context,
+      plan,
+      { kind: "material", index: 0 },
+      { query: "Milk" },
+    ),
+    [],
+  );
+  assert.ok(
+    selectMaterials(context, plan, upgradeTarget, { mode: "special" }).some(
+      (item) => item.name === "Double Steel",
+    ),
+  );
+  const sorted = selectMaterials(context, plan, upgradeTarget, { sort: "DEF" });
+  let previous = Infinity,
+    unknown = false;
+  for (const item of sorted) {
+    const value = item.attributes?.upgrade?.DEF;
+    if (!Number.isFinite(value)) {
+      unknown = true;
+      continue;
+    }
+    assert.equal(unknown, false);
+    assert.ok(value <= previous);
+    previous = value;
   }
 });
