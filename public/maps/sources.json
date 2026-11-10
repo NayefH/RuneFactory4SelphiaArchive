@@ -1,0 +1,12 @@
+{
+  "credit": "Annotated RF4 region maps by 果果 (Guoguo), via the Bilibili Rune Factory Wiki. Original Chinese labels preserved. Game graphics © Marvelous / XSEED.",
+  "source": "https://wiki.biligame.com/runefactory/RF4%E5%9C%B0%E5%9B%BE%E6%94%BB%E7%95%A5",
+  "maps": [
+    { "file": "selphia-east.png", "region": "Selphia Plain East", "width": 800, "height": 800, "imageSource": "https://patchwiki.biligame.com/images/runefactory/b/be/td2p3bijxm483tsnevxbyhgw9v94qg5.png" },
+    { "file": "sercerezo-hill.png", "region": "Sercerezo Hill", "width": 1000, "height": 1000, "imageSource": "https://patchwiki.biligame.com/images/runefactory/9/9b/tfo65d6abih3beab6trocyz5c7cj580.png" },
+    { "file": "maya-road-east.png", "region": "Maya Road East", "width": 1600, "height": 1600, "imageSource": "https://patchwiki.biligame.com/images/runefactory/7/78/tk5fe3t4czwv3z1pri02bbiif6d65od.png" },
+    { "file": "maya-road-west.png", "region": "Maya Road West", "width": 1600, "height": 1600, "imageSource": "https://patchwiki.biligame.com/images/runefactory/4/4d/4nt107f6g79ua549eus6eg7lnbr62oq.png" },
+    { "file": "sechs-territory-1.png", "region": "Sechs Territory Exterior 1", "width": 1200, "height": 1200, "imageSource": "https://patchwiki.biligame.com/images/runefactory/4/42/mxv6e2os9y3uctdyj513jmyksgfvewa.png" },
+    { "file": "sechs-territory-2.png", "region": "Sechs Territory Exterior 2", "width": 800, "height": 800, "imageSource": "https://patchwiki.biligame.com/images/runefactory/8/89/ec1712lsod9v0zxuweortt6sfzd6aps.png" }
+  ]
+}

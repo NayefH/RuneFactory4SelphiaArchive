@@ -32,6 +32,24 @@ beim Sprachwechsel erhalten; die Suche versteht Begriffe aus beiden Sprachen.
 - **Suche und Filter:** Namen, Zutaten, Beute und Fundorte durchsuchen sowie nach
   Kategorie, Werkbank und maximalem Rezeptlevel filtern.
 - **Merkliste:** Items, Rezepte und Gegner per Stern im verwendeten Browser speichern.
+- **Bosse rekrutieren:** 26 Bosse mit den im Rune Factory Wiki genannten
+  Zähmungsitems, direkten Item- und Rezeptlinks, Anbauanleitung für Riesenpflanzen
+  und Hinweisen zu nicht rekrutierbaren Bossen. Direktlink: `?tab=bosses`.
+- **Karte & Orte:** acht lokal eingebundene Spielkarten für Selphia, die östliche
+  und westliche Ebene, Sercerezo, Maya und Sechs. Interaktive Ortsmarkierungen,
+  eine Gebietsübersicht und Verweise ins Bestiarium. Originalbeschriftungen sind
+  Englisch bzw. Chinesisch; Legenden und Ortsbeschreibungen sind zweisprachig.
+  Quellen: Neoseeker / Zoelius sowie 果果 (Guoguo), Bilibili Rune Factory Wiki.
+  Direktlink: `?tab=map`.
+- **Charaktere & Geschenke:** 31 Figuren, davon 25 mit regulären Geschenkvorlieben.
+  Je sechs Bachelors und Bachelorettes sind gesondert markiert. Die filterbaren,
+  durchsuchbaren Karten unterscheiden geliebte, gemochte, ungeliebte und verhasste
+  Items. Konkrete Geschenkbeispiele sind mit Datenbank und RF4-Quellen verknüpft;
+  die Listen sind keine vollständige Aufzählung aller Items. Direktlink:
+  `?tab=characters`.
+  30 lokal gespeicherte Originalporträts aus RF4 ergänzen die Karten, mit
+  vergrößerbarer Ansicht und Bildnachweisen. Für die Nebenfigur Yang Fan gibt es
+  kein eigenes Spielporträt; dies ist direkt auf seiner Karte gekennzeichnet.
 
 Der aktuelle Datenstand umfasst **1.089 Items und Materialien, 665 Rezeptvarianten
 und 178 Gegner**. Für **28 Rezepte** sind besondere Fundorte dokumentiert. Diese

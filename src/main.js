@@ -3,7 +3,11 @@ import { createDetailController } from "./details.js";
 import "./attributes.css";
 import "./home.css";
 import "./categories.css";
+import "./guides.css";
 import { createHome } from "./home.js";
+import { createBossGuide } from "./boss-recruitment.js";
+import { createMapGuide, placeDetail } from "./world-map.js";
+import { createCharacterGuide, characterCards } from "./characters.js";
 import { publicUrl } from "./public-url.js";
 import { createCatalog, recipeUsesItem } from "./catalog.js";
 import {
@@ -34,6 +38,11 @@ const $ = (selector) => document.querySelector(selector);
 let catalog;
 let detailController;
 let loadFailed = false;
+let mapRegion = "town",
+  mapPlace,
+  characterFilter = "all",
+  characterQuery = "";
+const guideTabs = ["bosses", "map", "characters"];
 let attributeContext = "upgrade",
   attribute = "ATK";
 let data,
@@ -62,6 +71,15 @@ const titles = {
   },
   get saved() {
     return t("Deine Merkliste", "Your Favorites");
+  },
+  get bosses() {
+    return t("Bosse rekrutieren", "Recruit bosses");
+  },
+  get map() {
+    return t("Karte & wichtige Orte", "Map & important places");
+  },
+  get characters() {
+    return t("Charaktere & Geschenke", "Characters & gifts");
   },
 };
 const labels = navigationLabels;
@@ -214,8 +232,10 @@ function sync() {
 }
 function render() {
   if (!data) return;
+  const isGuide = guideTabs.includes(tab);
   $("#home").hidden = tab !== "home";
-  $("#directory").hidden = tab === "home";
+  $("#directory").hidden = tab === "home" || isGuide;
+  $("#guide").hidden = !isGuide;
   $("#breadcrumb").textContent = labels[tab];
   document.querySelectorAll(".nav[data-tab]").forEach((button) => {
     const active = button.dataset.tab === tab;
@@ -223,6 +243,16 @@ function render() {
     button.setAttribute("aria-pressed", String(active));
   });
   $("#count-saved").textContent = saved.size.toLocaleString(locale());
+  if (isGuide) {
+    $("#guide").innerHTML =
+      tab === "bosses"
+        ? createBossGuide(data)
+        : tab === "map"
+          ? createMapGuide(data, mapRegion, mapPlace)
+          : createCharacterGuide(data, characterFilter, characterQuery);
+    sync();
+    return;
+  }
   if (tab === "home") {
     sync();
     return;
@@ -335,6 +365,7 @@ function switchTab(t) {
   $("#max").value = 99;
   options();
   render();
+  if (guideTabs.includes(t)) $("#guide").scrollIntoView({ block: "start" });
 }
 function reset() {
   if (tab === "saved" && !saved.size) switchTab("item");
@@ -437,7 +468,12 @@ document.addEventListener("click", (e) => {
     render();
   }
   if (target.dataset.tab) {
+    if ($("#detail").open) $("#detail").close();
     switchTab(target.dataset.tab);
+    if (target.dataset.anchor)
+      document
+        .getElementById(target.dataset.anchor)
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
     if (
       target.hasAttribute("data-group") ||
       target.hasAttribute("data-category")
@@ -451,6 +487,38 @@ document.addEventListener("click", (e) => {
         block: "start",
       });
     }
+  }
+  if (target.dataset.mapRegion) {
+    mapRegion = target.dataset.mapRegion;
+    mapPlace = undefined;
+    render();
+    $(`[data-map-region="${mapRegion}"]`)?.focus({ preventScroll: true });
+  }
+  if (target.dataset.mapPlace) {
+    mapPlace = target.dataset.mapPlace;
+    $("#map-detail").innerHTML = placeDetail(mapPlace);
+    document
+      .querySelectorAll("[data-map-place]")
+      .forEach((button) =>
+        button.setAttribute(
+          "aria-pressed",
+          String(button.dataset.mapPlace === mapPlace),
+        ),
+      );
+  }
+  if (target.dataset.characterFilter) {
+    characterFilter = target.dataset.characterFilter;
+    render();
+    $(`[data-character-filter="${characterFilter}"]`)?.focus({
+      preventScroll: true,
+    });
+  }
+  if (target.dataset.locationSearch) {
+    switchTab("monster");
+    query = target.dataset.locationSearch;
+    $("#search").value = query;
+    render();
+    $("#directory").scrollIntoView({ behavior: "smooth" });
   }
   if (
     target.hasAttribute("data-filter-group") ||
@@ -495,7 +563,8 @@ document.addEventListener("click", (e) => {
   }
   if (target.dataset.search) {
     if ($("#detail").open) $("#detail").close();
-    if (tab === "saved" || tab === "home") switchTab("item");
+    if (tab === "saved" || tab === "home" || guideTabs.includes(tab))
+      switchTab("item");
     query = target.dataset.search;
     category = "";
     group = "";
@@ -536,6 +605,14 @@ document.addEventListener(
   true,
 );
 document.addEventListener("input", (e) => {
+  if (e.target.id === "character-query" && data) {
+    characterQuery = e.target.value;
+    const result = characterCards(data, characterFilter, characterQuery);
+    $("#character-results").innerHTML = result.html;
+    $("#character-count").textContent =
+      result.count + t(" Charaktere", " characters");
+    return;
+  }
   if (e.target.id !== "search") return;
   query = e.target.value;
   page = 1;
@@ -548,7 +625,13 @@ document.addEventListener("keydown", (e) => {
     !$("#detail").open
   ) {
     e.preventDefault();
-    $(tab === "home" ? "#home-query" : "#search").focus();
+    $(
+      tab === "home"
+        ? "#home-query"
+        : tab === "characters"
+          ? "#character-query"
+          : "#search",
+    )?.focus();
   }
 });
 document.addEventListener("click", (e) => {
