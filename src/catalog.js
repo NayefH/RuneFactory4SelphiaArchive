@@ -1,10 +1,16 @@
 import { bonus } from "./attributes.js";
 import { displayName, localizeText } from "./data-localization.js";
 import { locale } from "./i18n.js";
-import { canonicalCategory, categoryGroup } from "./categories.js";
+import {
+  canonicalCategory,
+  categoryGroup,
+  categoryGroups,
+} from "./categories.js";
+import { isNumericSort, normalizeSort, numericSortValue } from "./sorting.js";
 import {
   acquisitionSearchTerms,
   indexRecipeAcquisitions,
+  isSharanceExclusiveRecipe,
 } from "./recipe-acquisition.js";
 
 export function normalizeSearch(value) {
@@ -27,6 +33,8 @@ export function createCatalog(dataset) {
   const recipeAcquisitions = indexRecipeAcquisitions(dataset.recipes);
   const getAcquisitions = (record) =>
     record.type === "monster" ? [] : recipeAcquisitions.get(record.name) || [];
+  const isSharanceExclusive = (record) =>
+    isSharanceExclusiveRecipe(record, getAcquisitions(record));
   const allRecords = [...dataset.records, ...dataset.recipes];
   const byId = new Map(allRecords.map((record) => [record.id, record]));
   const itemsByName = new Map(
@@ -51,6 +59,9 @@ export function createCatalog(dataset) {
         dataset.materialGroups[record.category],
         record.location,
         ...acquisitionSearchTerms(getAcquisitions(record)),
+        isSharanceExclusive(record)
+          ? "Sharance Maze Sharance-Labyrinth Recipe Bread+ Rezeptbrot+"
+          : "",
         record.station,
         record.effects,
         JSON.stringify(record.attributeText || {}),
@@ -78,10 +89,11 @@ export function createCatalog(dataset) {
   }
 
   function select(filters, favoriteIds) {
+    const sort = normalizeSort(filters.sort, filters.tab);
     const terms = normalizeSearch(filters.query.trim())
       .split(/\s+/)
       .filter(Boolean);
-    const compareBonus = filters.sort.startsWith("bonus");
+    const compareBonus = sort.startsWith("bonus");
     const selected = list(filters.tab, favoriteIds).filter((record) => {
       if (filters.group && categoryGroup(record.category) !== filters.group)
         return false;
@@ -101,25 +113,51 @@ export function createCatalog(dataset) {
       );
     });
 
+    const collator = new Intl.Collator(locale(), {
+      numeric: true,
+      sensitivity: "base",
+    });
+    const groupOrder = categoryGroups(selected).map((group) => group.id);
     return selected.sort((first, second) => {
       const compareNames = () =>
-        displayName(first).localeCompare(displayName(second), locale());
+        collator.compare(displayName(first), displayName(second)) ||
+        collator.compare(first.name, second.name) ||
+        collator.compare(first.id, second.id);
       if (compareBonus) {
         const difference =
           bonus(second, filters.attributeContext, filters.attribute) -
           bonus(first, filters.attributeContext, filters.attribute);
-        return (
-          difference * (filters.sort === "bonus-asc" ? -1 : 1) || compareNames()
-        );
+        return difference * (sort === "bonus-asc" ? -1 : 1) || compareNames();
       }
-      if (filters.sort === "level")
+      if (sort === "category")
         return (
-          (first.level ?? Infinity) - (second.level ?? Infinity) ||
+          groupOrder.indexOf(categoryGroup(first.category)) -
+            groupOrder.indexOf(categoryGroup(second.category)) ||
+          collator.compare(
+            localizeText(canonicalCategory(first.category)),
+            localizeText(canonicalCategory(second.category)),
+          ) ||
           compareNames()
         );
-      return compareNames() * (filters.sort === "name-desc" ? -1 : 1);
+      if (isNumericSort(sort)) {
+        const a = numericSortValue(first, sort);
+        const b = numericSortValue(second, sort);
+        // Unknown values stay last in both directions; zero is a known value.
+        if (a === undefined || b === undefined)
+          return (a === undefined) - (b === undefined) || compareNames();
+        return (a - b) * (sort.endsWith("-desc") ? -1 : 1) || compareNames();
+      }
+      return compareNames() * (sort === "name-desc" ? -1 : 1);
     });
   }
 
-  return { allRecords, byId, getItem, getAcquisitions, list, select };
+  return {
+    allRecords,
+    byId,
+    getItem,
+    getAcquisitions,
+    isSharanceExclusive,
+    list,
+    select,
+  };
 }

@@ -1,6 +1,7 @@
 import { publicUrl } from "./public-url.js";
 import { t, getLanguage } from "./i18n.js";
 import { displayName } from "./data-localization.js";
+import { sortOptions } from "./sorting.js";
 
 export const navigationLabels = {
   get home() {
@@ -17,6 +18,9 @@ export const navigationLabels = {
   },
   get saved() {
     return t("Merkliste", "Favorites");
+  },
+  get crafting() {
+    return t("Crafting & Simulator", "Crafting & simulator");
   },
   get bosses() {
     return t("Bosse rekrutieren", "Recruit bosses");
@@ -53,7 +57,7 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
         ${Object.entries(labels)
           .map(
             ([id, label]) =>
-              `<button class="nav ${id === "home" ? "active" : ""}" data-tab="${id}" aria-label="${label}"><span aria-hidden="true">${{ home: "⌂", item: "◇", recipe: "⚒", monster: "♞", saved: "☆", bosses: "♜", map: "⌖", characters: "♡" }[id]}</span><b>${label}</b>${["item", "recipe", "monster", "saved"].includes(id) ? `<i id="count-${id}">—</i>` : ""}</button>`,
+              `<button class="nav ${id === "home" ? "active" : ""}" data-tab="${id}" aria-label="${label}"><span aria-hidden="true">${{ home: "⌂", item: "◇", recipe: "⚒", monster: "♞", saved: "☆", crafting: "⚒", bosses: "♜", map: "⌖", characters: "♡" }[id]}</span><b>${label}</b>${["item", "recipe", "monster", "saved"].includes(id) ? `<i id="count-${id}">—</i>` : ""}</button>`,
           )
           .join("")}
       </nav>
@@ -196,17 +200,12 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
                 value="99" /></label
             ><label class="sort"
               >${t("Sortieren", "Sort by")}<select id="sort">
-                <option value="name">Name A–Z</option>
-                <option value="name-desc">Name Z–A</option>
-                <option value="level">
-                  ${t("Rezeptlevel", "Recipe level")} ↑
-                </option>
-                <option value="bonus-desc">
-                  ${t("Attributbonus", "Attribute bonus")} ↓
-                </option>
-                <option value="bonus-asc">
-                  ${t("Attributbonus", "Attribute bonus")} ↑
-                </option>
+                ${sortOptions("item")
+                  .map(
+                    (option) =>
+                      `<option value="${option.value}">${option.label}</option>`,
+                  )
+                  .join("")}
               </select></label
             ><button
               class="reset"
@@ -254,6 +253,10 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
               ↗</span
             >
           </div>
+          <p class="sharance-legend" id="sharance-legend" hidden>
+            <span aria-hidden="true">◆</span>
+            ${t("Gold: Rezeptbrot+ aus Sharance Maze. Bekannte andere Rezeptfundorte sind ausgenommen.", "Gold: Recipe Bread+ from Sharance Maze. Recipes with other known locations are excluded.")}
+          </p>
           <div id="results"></div>
           <div class="pagination" id="pagination"></div>
         </section>
@@ -269,5 +272,10 @@ export function createLayout(labels = navigationLabels, assetUrl = publicUrl) {
       </main>
     </div>
     <dialog id="detail"><div id="detail-body"></div></dialog>
+    <dialog
+      id="craft-material-picker"
+      aria-labelledby="material-picker-title"
+      aria-describedby="material-picker-description"
+    ></dialog>
     <div class="toast" role="status" id="toast"></div>`;
 }

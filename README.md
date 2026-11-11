@@ -25,13 +25,30 @@ beim Sprachwechsel erhalten; die Suche versteht Begriffe aus beiden Sprachen.
   der englische Originalname bleibt zum Nachschlagen sichtbar.
 - **Rezepte und Herstellung:** Zutaten, Mengen, Materialgruppen, Werkbänke und
   Rezeptlevel; belegte Rezeptfundorte mit Quellen und Zugangshinweisen.
+  Rezepte über Level 80 ohne anderen erfassten Rezeptfundort sind in Liste,
+  Merkliste und Verknüpfungen golden als **Sharance Maze · Rezeptbrot+** markiert.
+  Die Details erklären die aus Level und Fundorten abgeleitete Kennzeichnung
+  mit Quellenlink; Herstellung ohne gelerntes Rezept bleibt möglich.
 - **Bestiarium:** Gegner und Bosse mit Fundorten, Beute, Kampfwerten und weiteren
   verfügbaren Angaben zum Zähmen und zur Produktion.
 - **Boni vergleichen:** nach einzelnen Attributen wie ATK, DEF, STR oder INT
   sortieren; Ausrüstungswerte, Upgrade-Boni, Essens- und Koch-Effekte unterscheiden.
 - **Suche und Filter:** Namen, Zutaten, Beute und Fundorte durchsuchen sowie nach
   Kategorie, Werkbank und maximalem Rezeptlevel filtern.
+- **Sinnvoll sortieren:** Items nach Kategorie, Kauf- und Verkaufspreis oder
+  Upgrade-Schwierigkeit ordnen; Rezepte nach auf- oder absteigendem Rezeptlevel.
+  Fehlende Zahlenwerte stehen immer am Ende. Der verwendete Wert wird direkt
+  beim Eintrag angezeigt, die Namenssortierung berücksichtigt Zahlen und Sprache.
 - **Merkliste:** Items, Rezepte und Gegner per Stern im verwendeten Browser speichern.
+- **Crafting & Simulator:** zweisprachige Erklärung von Rezepten, Vererbung,
+  Aufwertungen und Materialboni. Zutaten und Mengen für alle Werkbänke planen;
+  für Waffen und Ausrüstung sieben Kampfwerte mit neun Aufwertungen, Materiallevel,
+  Double Steel, 10-Fold Steel und Object X berechnen. Fehlende Werte und nicht
+  simulierte Spezialeffekte werden angezeigt. Pläne bleiben lokal im Browser
+  gespeichert und lassen sich als JSON herunterladen. Direktlink: `?tab=crafting`.
+  Ein grafischer Materialkatalog zeigt Bilder, Boni, Seltenheit und Schwierigkeit;
+  Suche, Kategorie- und Bonusfilter helfen bei der Auswahl. Pflichtplätze bieten
+  nur passende Zutaten an. Bildkacheln lassen sich auch per Tastatur auswählen.
 - **Bosse rekrutieren:** 26 Bosse mit den im Rune Factory Wiki genannten
   Zähmungsitems, direkten Item- und Rezeptlinks, Anbauanleitung für Riesenpflanzen
   und Hinweisen zu nicht rekrutierbaren Bossen. Direktlink: `?tab=bosses`.
